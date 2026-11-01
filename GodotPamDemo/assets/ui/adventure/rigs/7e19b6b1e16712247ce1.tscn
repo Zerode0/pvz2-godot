@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/0dfe99a2-9227-4264-852a-41c83dfad806.png" id="atlas"]
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(0.7922, 0, 0, 0.7922, -311.5965, -101.4292)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1, 1, 765, 472)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(0.922883, -0.069554, 0.069554, 0.922883, -292.116271, -83.254315)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(989, 1102, 621, 174)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(1.4003, 0, 0, 1.4003, -240.5894, -178.2934)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1709, 570, 196, 156)
+

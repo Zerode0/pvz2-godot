@@ -1,0 +1,81 @@
+{
+  "output": "frontyard_island.png",
+  "canvas": [
+    900,
+    630
+  ],
+  "layers": [
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057380_images_1536_full_worldmap_modern_island2.png",
+      "sha256": "c4f99d9fd434100ef4d8803b3a6d60db61bfa2321db0de53073cc2a68dad83f7",
+      "position": [
+        120,
+        260
+      ],
+      "size": [
+        660,
+        336
+      ]
+    },
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057379_images_1536_full_worldmap_modern_island1.png",
+      "sha256": "13fb01d87cb9ffdd635e7368bdb730df80ed07e0f72e03a60ca6eebb2cc45f4f",
+      "position": [
+        80,
+        140
+      ],
+      "size": [
+        740,
+        389
+      ]
+    },
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057384_images_1536_full_worldmap_modern_island6.png",
+      "sha256": "09632bce646ebe0c3447c15c868cbf6f0faf7f5d0dd08b593e0cfdef2366c497",
+      "position": [
+        420,
+        214
+      ],
+      "size": [
+        270,
+        134
+      ]
+    },
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057388_images_1536_full_worldmap_modern_island10.png",
+      "sha256": "77b8da2bbc75c03f11280be5f1c227bec26bd5c25c33b5f80e59db1013ac1672",
+      "position": [
+        150,
+        30
+      ],
+      "size": [
+        260,
+        314
+      ]
+    },
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057386_images_1536_full_worldmap_modern_island8.png",
+      "sha256": "733d9fc751537c3182ac83678228fd5bbd7fbe51c76747d7c545441e48016d90",
+      "position": [
+        432,
+        367
+      ],
+      "size": [
+        175,
+        62
+      ]
+    },
+    {
+      "source": "SourceAssets/pvz2/images/sprite_057389_images_1536_full_worldmap_modern_island11.png",
+      "sha256": "4f5d985c35a83a814eea831874e3c19b586e44c1b2f42965f5ccaeec526dbe79",
+      "position": [
+        653,
+        304
+      ],
+      "size": [
+        94,
+        103
+      ]
+    }
+  ]
+}

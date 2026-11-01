@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "actor_catalog": "res://data/actors.json",
+  "plants": [
+    {
+      "id": "sunflower",
+      "subtitle": "让每一缕阳光，都成为草坪的后援。",
+      "description": "定时产出阳光，为持续种植提供资源。可以优先布置在后方，并用其他植物保护。",
+      "preview_scale": 1.65
+    },
+    {
+      "id": "peashooter",
+      "subtitle": "一颗豌豆，守住一条战线。",
+      "description": "向同一行的僵尸发射豌豆。配合坚果阻挡敌人，可以争取更多连续攻击的时间。",
+      "preview_scale": 1.65
+    },
+    {
+      "id": "wallnut",
+      "subtitle": "可靠的防线，也有一颗柔软的心。",
+      "description": "以较高生命值阻挡僵尸，为后排争取时间。预览中可查看普通和受损外观。",
+      "preview_scale": 1.65
+    }
+  ]
+}

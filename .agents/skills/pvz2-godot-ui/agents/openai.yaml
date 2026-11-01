@@ -1,0 +1,6 @@
+interface:
+  display_name: "Godot 关卡界面"
+  short_description: "复用关卡 HUD 接口，处理图标尺寸与卡槽排版的实测问题"
+  default_prompt: "使用 $pvz2-godot-ui 修改当前关卡界面。"
+policy:
+  allow_implicit_invocation: true

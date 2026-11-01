@@ -1,0 +1,73 @@
+{
+  "plants": {
+    "sunflower": {
+      "title": "向日葵",
+      "cost": 50,
+      "recharge": 4.0,
+      "health": 160,
+      "behavior": "sun",
+      "interval": 9.0,
+      "initial_delay": 5.0,
+      "animation": "res://data/animations/sunflower.tres",
+      "display_scale": 0.76,
+      "height": 92,
+      "idle_clip": "idle",
+      "action_clip": "special",
+      "action_command": "use_action",
+      "icon": "res://assets/level/Sunflower.png"
+    },
+    "peashooter": {
+      "title": "豌豆射手",
+      "cost": 100,
+      "recharge": 4.0,
+      "health": 160,
+      "behavior": "shoot",
+      "interval": 1.4,
+      "initial_delay": 0.3,
+      "animation": "res://data/animations/peashooter.tres",
+      "display_scale": 0.76,
+      "height": 96,
+      "idle_clip": "idle",
+      "action_clip": "attack",
+      "action_command": "use_action",
+      "projectile_damage": 25,
+      "icon": "res://assets/level/Peashooter.png",
+      "projectile": {
+        "texture": "res://assets/level/Pea.png",
+        "speed": 330.0,
+        "scale": 0.34,
+        "hit_radius": 22.0,
+        "despawn_x": 1430.0
+      }
+    },
+    "wallnut": {
+      "title": "坚果",
+      "cost": 50,
+      "recharge": 12.0,
+      "health": 1000,
+      "behavior": "block",
+      "animation": "res://data/animations/wallnut.tres",
+      "display_scale": 0.66,
+      "height": 100,
+      "idle_clip": "idle",
+      "damage_clip": "damage",
+      "heavy_damage_clip": "damage3",
+      "icon": "res://assets/level/Wallnut.png"
+    }
+  },
+  "zombies": {
+    "snowpea_test": {
+      "health": 150,
+      "speed": 20.0,
+      "bite_damage": 30,
+      "bite_interval": 0.8,
+      "animation": "res://data/animations/zombie_snowpea.tres",
+      "display_scale": 0.76,
+      "height": 132,
+      "walk_clip": "walk",
+      "bite_clip": "eat",
+      "title": "雪豌豆僵尸"
+    }
+  },
+  "schema_version": 1
+}

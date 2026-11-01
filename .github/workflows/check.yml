@@ -1,0 +1,22 @@
+name: Godot checks
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: windows-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare Godot and import project
+        shell: powershell
+        run: ./Tools/setup.ps1
+      - name: Verify battle and development sandbox
+        shell: powershell
+        run: |
+          ./Tools/project.ps1 Verify -Suite level -Headless
+          ./Tools/project.ps1 Verify -Suite sandbox -Headless

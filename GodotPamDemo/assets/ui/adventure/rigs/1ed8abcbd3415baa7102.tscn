@@ -1,0 +1,60 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/f9a69143-d312-4931-855e-06042ec2be76.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 2
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_2:modulate")
+tracks/0/interp = 1
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.99842), Color(1, 1, 1, 0.993527), Color(1, 1, 1, 0.98508), Color(1, 1, 1, 0.972787), Color(1, 1, 1, 0.9562), Color(1, 1, 1, 0.93496), Color(1, 1, 1, 0.90866), Color(1, 1, 1, 0.876873), Color(1, 1, 1, 0.8393), Color(1, 1, 1, 0.7957), Color(1, 1, 1, 0.746053), Color(1, 1, 1, 0.69072), Color(1, 1, 1, 0.630353), Color(1, 1, 1, 0.566233), Color(1, 1, 1, 0.5001), Color(1, 1, 1, 0.433767), Color(1, 1, 1, 0.369647), Color(1, 1, 1, 0.30928), Color(1, 1, 1, 0.253947), Color(1, 1, 1, 0.2043), Color(1, 1, 1, 0.1607), Color(1, 1, 1, 0.123127), Color(1, 1, 1, 0.09134), Color(1, 1, 1, 0.06504), Color(1, 1, 1, 0.0438), Color(1, 1, 1, 0.027213), Color(1, 1, 1, 0.01492), Color(1, 1, 1, 0.006473), Color(1, 1, 1, 0.00158), Color(1, 1, 1, 0), Color(1, 1, 1, 0.00158), Color(1, 1, 1, 0.006473), Color(1, 1, 1, 0.01492), Color(1, 1, 1, 0.027213), Color(1, 1, 1, 0.0438), Color(1, 1, 1, 0.06504), Color(1, 1, 1, 0.09134), Color(1, 1, 1, 0.123127), Color(1, 1, 1, 0.1607), Color(1, 1, 1, 0.2043), Color(1, 1, 1, 0.253947), Color(1, 1, 1, 0.30928), Color(1, 1, 1, 0.369647), Color(1, 1, 1, 0.433767), Color(1, 1, 1, 0.4999), Color(1, 1, 1, 0.566233), Color(1, 1, 1, 0.630353), Color(1, 1, 1, 0.69072), Color(1, 1, 1, 0.746053), Color(1, 1, 1, 0.7957), Color(1, 1, 1, 0.8393), Color(1, 1, 1, 0.876873), Color(1, 1, 1, 0.90866), Color(1, 1, 1, 0.93496), Color(1, 1, 1, 0.9562), Color(1, 1, 1, 0.972787), Color(1, 1, 1, 0.98508), Color(1, 1, 1, 0.993527), Color(1, 1, 1, 0.99842), Color(1, 1, 1, 1)]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -202.5, -138)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(543, 1754, 405, 276)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(-1, 0, 0, 1, 232.17, -150.52)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(2448, 1623, 131, 77)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 0.635, 76.14, 35.575)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1033, 1754, 40, 56)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -237.51, 42.09)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(2448, 1544, 134, 77)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

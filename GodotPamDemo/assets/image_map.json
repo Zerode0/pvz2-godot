@@ -1,0 +1,395 @@
+[
+  {
+    "pam_image": "sunflower_26x15|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_26X15",
+    "file": "sunflower/sunflower_26x15.png",
+    "sha256": "7c19346a49ceff513ee9d09c507fb5868cfef0a34b96a9ba5d108b81a5cb3e76",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_26x15.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_19x47|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_19X47",
+    "file": "sunflower/sunflower_19x47.png",
+    "sha256": "f6511986e74d741ac71de7383550a9a988d3356e73e7a84171091fab3e86fe2e",
+    "source": {
+      "filename": "sprite_037137_images_1536_initial_plant_sunflower_sunflower_19x47.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_19x47",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_19X47",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "25",
+      "height": "60",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_17x15|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_17X15",
+    "file": "sunflower/sunflower_17x15.png",
+    "sha256": "db57a64409384329d2229281afd2390372e99fa018904dadcd10c4acce1a86b7",
+    "source": {
+      "filename": "sprite_037136_images_1536_initial_plant_sunflower_sunflower_17x15.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_17x15",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_17X15",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "22",
+      "height": "19",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_34x19|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_34X19",
+    "file": "sunflower/sunflower_34x19.png",
+    "sha256": "86a36382c022d3cb64e83398a5db04a2653e3c8d03c151ddaec109496084e2d4",
+    "source": {
+      "filename": "sprite_037143_images_1536_initial_plant_sunflower_sunflower_34x19.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_34x19",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_34X19",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "44",
+      "height": "25",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_31x18|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_31X18",
+    "file": "sunflower/sunflower_31x18.png",
+    "sha256": "7e16c8b2b01efd017a045c3f38f82debe35a0d939eef5f785fa028eca7d88da6",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_31x18.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_107x90|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_107X90",
+    "file": "sunflower/sunflower_107x90.png",
+    "sha256": "d3725e2dcdcdb3a6952ce51f81903ff4634cdd2c5415b9ada9402efd4040072a",
+    "source": {
+      "filename": "sprite_037129_images_1536_initial_plant_sunflower_sunflower_107x90.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_107x90",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_107X90",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "137",
+      "height": "115",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_74x61|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_74X61",
+    "file": "sunflower/sunflower_74x61.png",
+    "sha256": "d17dce19763b2cdcd20ee3fc3d2df5ede42ea9b27ab8497c01ac681ad23e68f8",
+    "source": {
+      "filename": "sprite_037152_images_1536_initial_plant_sunflower_sunflower_74x61.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_74x61",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_74X61",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "95",
+      "height": "78",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_54x13|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_54X13",
+    "file": "sunflower/sunflower_54x13.png",
+    "sha256": "d7a4f595b12adf12f7340ee51b56e018b75c55940a86f1885ba128bdb8476378",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_54x13.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_6x8|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_6X8",
+    "file": "sunflower/sunflower_6x8.png",
+    "sha256": "4891cab20f8d10e15c30fde00f61609f8372aacac649afb1b315d812881d30d8",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_6x8.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_8x11|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_8X11",
+    "file": "sunflower/sunflower_8x11.png",
+    "sha256": "eea94eb04b6ea1ee28acb52ca7f9fabc2f1f26c6fef3bc858860bfbe95c172f6",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_8x11.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_20x20|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X20",
+    "file": "sunflower/sunflower_20x20.png",
+    "sha256": "c7186782242c1f7d787d58311886c4a606311b03f5bfcfd4b714874a9c7093e2",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x20.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_17x17|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_17X17",
+    "file": "sunflower/sunflower_17x17.png",
+    "sha256": "e51b1d10c89758bd5a7c254409b9107364605a24111f3380455582f2d24efc38",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_17x17.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_11x11|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_11X11",
+    "file": "sunflower/sunflower_11x11.png",
+    "sha256": "e1423f221c5e588ae07bd722787fbf8847d33450e55a4f2bc1de985b5d585fdf",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_11x11.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_55x41|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_55X41",
+    "file": "sunflower/sunflower_55x41.png",
+    "sha256": "5f1f3522f86ef4d44a159ab2d9c5a4d84e9f8299ef0c82238c1ceab3d32b011d",
+    "source": {
+      "filename": "sprite_037149_images_1536_initial_plant_sunflower_sunflower_55x41.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_55x41",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_55X41",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "71",
+      "height": "53",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_11x10|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_11X10",
+    "file": "sunflower/sunflower_11x10.png",
+    "sha256": "786f846dbe113ec1fa746cd2cc13531a98a56d8e46ed7936ef344b74912895a5",
+    "source": {
+      "filename": "sprite_037131_images_1536_initial_plant_sunflower_sunflower_11x10.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_11x10",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_11X10",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "14",
+      "height": "13",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_10x9|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_10X9",
+    "file": "sunflower/sunflower_10x9.png",
+    "sha256": "9209fb3bb64c68de330d41eda713782163f7e11a0e9277ada6d049baf68074cd",
+    "source": {
+      "filename": "sprite_037130_images_1536_initial_plant_sunflower_sunflower_10x9.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_10x9",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_10X9",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "13",
+      "height": "12",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_12x16|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_12X16",
+    "file": "sunflower/sunflower_12x16.png",
+    "sha256": "3426acf5a2d8eae323186445ae200d249872d1fd5cd67d01b54542251ba71943",
+    "source": {
+      "filename": "sprite_037132_images_1536_initial_plant_sunflower_sunflower_12x16.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_12x16",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_12X16",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "16",
+      "height": "21",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_39x35|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_39X35",
+    "file": "sunflower/sunflower_39x35.png",
+    "sha256": "e51b3c57f382a99ee3c4ce2a1002d52ea01ec9af85561984874e85f6744ec13a",
+    "source": {
+      "filename": "sprite_037145_images_1536_initial_plant_sunflower_sunflower_39x35.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_39x35",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_39X35",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "50",
+      "height": "45",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_26x12|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_26X12",
+    "file": "sunflower/sunflower_26x12.png",
+    "sha256": "53c1f5f8ec0861387def5a72b650907c295f1cd3d7af6517a3e9c5c5ac7132eb",
+    "source": {
+      "filename": "sprite_037141_images_1536_initial_plant_sunflower_sunflower_26x12.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_26x12",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_26X12",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "34",
+      "height": "16",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_14x10|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_14X10",
+    "file": "sunflower/sunflower_14x10.png",
+    "sha256": "81563ef008e7f0e31ebf47e318ecfbcf4d398a2ec30ced1d9bfb923ecf1bfb14",
+    "source": {
+      "filename": "sprite_037135_images_1536_initial_plant_sunflower_sunflower_14x10.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_14x10",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_14X10",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "18",
+      "height": "13",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_40x35|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_40X35",
+    "file": "sunflower/sunflower_40x35.png",
+    "sha256": "9abe000ca46b60c576c7235b44cafa6ed538456c235dd20b634879c9da03d2d2",
+    "source": {
+      "filename": "sprite_037146_images_1536_initial_plant_sunflower_sunflower_40x35.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_40x35",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_40X35",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "51",
+      "height": "45",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_28x15|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_28X15",
+    "file": "sunflower/sunflower_28x15.png",
+    "sha256": "896c7f2b6d7cdf3ccda20cd3ba7b19c50de436b5decf0aed74b303cdc533d6ec",
+    "source": {
+      "filename": "sprite_037142_images_1536_initial_plant_sunflower_sunflower_28x15.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_28x15",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_28X15",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "36",
+      "height": "19",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_85x36|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_85X36",
+    "file": "sunflower/sunflower_85x36.png",
+    "sha256": "1087fb3371db64e0b75b99f47b392812c0bfc2a8bf05e5f5655bd92c89819edc",
+    "source": {
+      "filename": "sprite_037155_images_1536_initial_plant_sunflower_sunflower_85x36.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_85x36",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_85X36",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "109",
+      "height": "46",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_132x115|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_132X115",
+    "file": "sunflower/sunflower_132x115.png",
+    "sha256": "0f03d045d5f0489331f062d9957dfd734c5b0a8bc690f03ad898192f6623906a",
+    "source": {
+      "filename": "sprite_037133_images_1536_initial_plant_sunflower_sunflower_132x115.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_132x115",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_132X115",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "169",
+      "height": "147",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_46x15|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_46X15",
+    "file": "sunflower/sunflower_46x15.png",
+    "sha256": "3c17b27239283dd9dea54238d0e1bd34b2daae5fe882af03c03ce7bf22716fbc",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_46x15.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_74x61_2|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_74X61_2",
+    "file": "sunflower/sunflower_74x61_2.png",
+    "sha256": "1d3035a485f71f232be8e51fdf0c14c18c22f48836e0c7daca7e08dd7c182246",
+    "source": {
+      "filename": "sprite_037153_images_1536_initial_plant_sunflower_sunflower_74x61_2.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_74x61_2",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_74X61_2",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "95",
+      "height": "78",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_15x8|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_15X8",
+    "file": "sunflower/sunflower_15x8.png",
+    "sha256": "c531aa0c6b48d38ab7080a92583beae82a9a86197b294009e88b586b0955c90b",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_15x8.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_15x15|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_15X15",
+    "file": "sunflower/sunflower_15x15.png",
+    "sha256": "c4ab0bbe59628289c3fb5f57f4e16d8ff4231e1c9d5b2200e84b4184bdd1ae7c",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_15x15.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_20x7|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X7",
+    "file": "sunflower/sunflower_20x7.png",
+    "sha256": "a4cc3738ba7a3d89757fe91a25a535baefd7c52264f5bab27b31b865259fd41e",
+    "source": {
+      "kind": "matching upstream fixture",
+      "url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x7.png"
+    }
+  },
+  {
+    "pam_image": "sunflower_20x17|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X17",
+    "file": "sunflower/sunflower_20x17.png",
+    "sha256": "431a9467aa6dc93ab4f8dcb86152b6f76f0514df73442a7fc89c586a8968740d",
+    "source": {
+      "filename": "sprite_037140_images_1536_initial_plant_sunflower_sunflower_20x17.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_20x17",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X17",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "26",
+      "height": "22",
+      "kind": "local image_index.csv"
+    }
+  },
+  {
+    "pam_image": "sunflower_20x16|IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X16",
+    "file": "sunflower/sunflower_20x16.png",
+    "sha256": "e90e6709c5a29863e8072ac1995639b0aaf21c2372e12299c1a0766e7d0954d7",
+    "source": {
+      "filename": "sprite_037139_images_1536_initial_plant_sunflower_sunflower_20x16.png",
+      "type": "sprite",
+      "source": "images\\1536\\initial\\plant\\sunflower\\sunflower_20x16",
+      "resource_id": "IMAGE_PLANT_SUNFLOWER_SUNFLOWER_20X16",
+      "atlas": "ATLASES/PLANTSUNFLOWER_1536_00.PTX",
+      "width": "26",
+      "height": "21",
+      "kind": "local image_index.csv"
+    }
+  }
+]

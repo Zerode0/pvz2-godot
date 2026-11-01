@@ -1,0 +1,4486 @@
+{
+  "schema_version": 1,
+  "world_id": "kongfu",
+  "width": 11235.503,
+  "nodes": [
+    {
+      "id": "kongfu1",
+      "kind": "level",
+      "position": [
+        512.0,
+        197.812
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "功夫世界 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_firegourd_1",
+      "kind": "plant",
+      "position": [
+        578.963,
+        235.091
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu2",
+      "kind": "level",
+      "position": [
+        650.996,
+        199.794
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "功夫世界 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu3",
+      "kind": "level",
+      "position": [
+        748.042,
+        148.191
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "功夫世界 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu4",
+      "kind": "level",
+      "position": [
+        892.276,
+        215.537
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "功夫世界 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox0_5",
+      "kind": "gift",
+      "position": [
+        1078.472,
+        102.54
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu5",
+      "kind": "level",
+      "position": [
+        1182.498,
+        161.514
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "功夫世界 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu6",
+      "kind": "level",
+      "position": [
+        1252.357,
+        127.447
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "功夫世界 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_snowpea_8",
+      "kind": "plant",
+      "position": [
+        1366.617,
+        179.783
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu7",
+      "kind": "level",
+      "position": [
+        1431.097,
+        215.267
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "功夫世界 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox1_10",
+      "kind": "gift",
+      "position": [
+        1532.93,
+        162.774
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu8",
+      "kind": "level",
+      "position": [
+        1828.245,
+        301.159
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "功夫世界 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu9",
+      "kind": "level",
+      "position": [
+        2121.731,
+        162.774
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "功夫世界 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox2_13",
+      "kind": "gift",
+      "position": [
+        2309.371,
+        272.793
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu10",
+      "kind": "level",
+      "position": [
+        2378.741,
+        231.943
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "功夫世界 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_bambooshoot_15",
+      "kind": "plant",
+      "position": [
+        2561.455,
+        130.132
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu11",
+      "kind": "level",
+      "position": [
+        2672.597,
+        183.074
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "功夫世界 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu12",
+      "kind": "level",
+      "position": [
+        2735.881,
+        222.124
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "功夫世界 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu13",
+      "kind": "level",
+      "position": [
+        2805.682,
+        186.151
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "功夫世界 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu14",
+      "kind": "plant",
+      "position": [
+        2947.343,
+        119.732
+      ],
+      "number": "✿",
+      "label": "14",
+      "title": "功夫世界 · 14",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu14"
+      ],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu14_node_20",
+      "kind": "level",
+      "position": [
+        3059.388,
+        169.369
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "功夫世界 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu15",
+      "kind": "level",
+      "position": [
+        3122.536,
+        208.428
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "功夫世界 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox3_22",
+      "kind": "gift",
+      "position": [
+        3222.09,
+        149.217
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu16",
+      "kind": "level",
+      "position": [
+        3619.631,
+        320.0
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "功夫世界 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu17",
+      "kind": "level",
+      "position": [
+        4031.573,
+        149.217
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "功夫世界 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox4_25",
+      "kind": "gift",
+      "position": [
+        4151.13,
+        203.211
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu18",
+      "kind": "level",
+      "position": [
+        4212.735,
+        172.976
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "功夫世界 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu19",
+      "kind": "level",
+      "position": [
+        4318.66,
+        116.549
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "功夫世界 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_heavenlypeach_28",
+      "kind": "plant",
+      "position": [
+        4440.675,
+        181.595
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu20",
+      "kind": "level",
+      "position": [
+        4623.34,
+        76.183
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "功夫世界 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox5_30",
+      "kind": "gift",
+      "position": [
+        4691.638,
+        113.059
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu21",
+      "kind": "level",
+      "position": [
+        4873.947,
+        213.11
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "功夫世界 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu22",
+      "kind": "level",
+      "position": [
+        4936.233,
+        183.177
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "功夫世界 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu23",
+      "kind": "level",
+      "position": [
+        5029.18,
+        130.996
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "功夫世界 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox6_34",
+      "kind": "gift",
+      "position": [
+        5091.086,
+        160.489
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu24",
+      "kind": "level",
+      "position": [
+        5377.723,
+        301.159
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "功夫世界 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu25",
+      "kind": "level",
+      "position": [
+        5613.552,
+        198.488
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "功夫世界 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox7_37",
+      "kind": "gift",
+      "position": [
+        5733.109,
+        252.481
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu26",
+      "kind": "level",
+      "position": [
+        5794.713,
+        222.247
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "功夫世界 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu27",
+      "kind": "level",
+      "position": [
+        5900.638,
+        165.819
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "功夫世界 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu28",
+      "kind": "level",
+      "position": [
+        6022.654,
+        230.865
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "功夫世界 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox8_41",
+      "kind": "gift",
+      "position": [
+        6205.319,
+        125.454
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu29",
+      "kind": "level",
+      "position": [
+        6273.617,
+        162.33
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "功夫世界 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_lychee_43",
+      "kind": "plant",
+      "position": [
+        6455.926,
+        262.381
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu30",
+      "kind": "level",
+      "position": [
+        6518.212,
+        232.448
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "功夫世界 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu31",
+      "kind": "level",
+      "position": [
+        6611.158,
+        180.267
+      ],
+      "number": "31",
+      "label": "第31关",
+      "title": "功夫世界 · 第31关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu31"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox9_46",
+      "kind": "gift",
+      "position": [
+        6673.065,
+        209.759
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu32",
+      "kind": "level",
+      "position": [
+        7141.892,
+        320.0
+      ],
+      "number": "32",
+      "label": "第32关",
+      "title": "功夫世界 · 第32关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu32"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu33",
+      "kind": "level",
+      "position": [
+        7548.296,
+        149.217
+      ],
+      "number": "33",
+      "label": "第33关",
+      "title": "功夫世界 · 第33关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu33"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu34",
+      "kind": "level",
+      "position": [
+        7667.853,
+        203.211
+      ],
+      "number": "34",
+      "label": "第34关",
+      "title": "功夫世界 · 第34关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu34"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_solarsage_50",
+      "kind": "plant",
+      "position": [
+        7729.457,
+        172.976
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu35",
+      "kind": "level",
+      "position": [
+        7835.382,
+        116.549
+      ],
+      "number": "35",
+      "label": "第35关",
+      "title": "功夫世界 · 第35关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu35"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox10_52",
+      "kind": "gift",
+      "position": [
+        7957.398,
+        181.595
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu36",
+      "kind": "level",
+      "position": [
+        8140.063,
+        76.183
+      ],
+      "number": "36",
+      "label": "第36关",
+      "title": "功夫世界 · 第36关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu36"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu37",
+      "kind": "level",
+      "position": [
+        8208.361,
+        113.059
+      ],
+      "number": "37",
+      "label": "第37关",
+      "title": "功夫世界 · 第37关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu37"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox11_55",
+      "kind": "gift",
+      "position": [
+        8390.669,
+        213.11
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu38",
+      "kind": "level",
+      "position": [
+        8452.956,
+        183.177
+      ],
+      "number": "38",
+      "label": "第38关",
+      "title": "功夫世界 · 第38关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu38"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu39",
+      "kind": "level",
+      "position": [
+        8545.902,
+        130.996
+      ],
+      "number": "39",
+      "label": "第39关",
+      "title": "功夫世界 · 第39关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu39"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox12_58",
+      "kind": "gift",
+      "position": [
+        8607.808,
+        160.489
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu40",
+      "kind": "level",
+      "position": [
+        8894.445,
+        301.159
+      ],
+      "number": "40",
+      "label": "第40关",
+      "title": "功夫世界 · 第40关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu40"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu41",
+      "kind": "level",
+      "position": [
+        9179.331,
+        213.966
+      ],
+      "number": "41",
+      "label": "第41关",
+      "title": "功夫世界 · 第41关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu41"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox13_61",
+      "kind": "gift",
+      "position": [
+        9298.889,
+        267.96
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu42",
+      "kind": "level",
+      "position": [
+        9360.493,
+        237.725
+      ],
+      "number": "42",
+      "label": "第42关",
+      "title": "功夫世界 · 第42关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu42"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu43",
+      "kind": "level",
+      "position": [
+        9466.418,
+        181.298
+      ],
+      "number": "43",
+      "label": "第43关",
+      "title": "功夫世界 · 第43关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu43"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu44",
+      "kind": "level",
+      "position": [
+        9588.434,
+        246.344
+      ],
+      "number": "44",
+      "label": "第44关",
+      "title": "功夫世界 · 第44关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu44"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox14_65",
+      "kind": "gift",
+      "position": [
+        9771.099,
+        140.932
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "kongfu45",
+      "kind": "level",
+      "position": [
+        9839.397,
+        177.809
+      ],
+      "number": "45",
+      "label": "第45关",
+      "title": "功夫世界 · 第45关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu45"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu46",
+      "kind": "level",
+      "position": [
+        10021.705,
+        277.859
+      ],
+      "number": "46",
+      "label": "第46关",
+      "title": "功夫世界 · 第46关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu46"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_cantaloupe_68",
+      "kind": "plant",
+      "position": [
+        10083.992,
+        247.926
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "功夫世界 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "kongfu47",
+      "kind": "level",
+      "position": [
+        10176.938,
+        195.745
+      ],
+      "number": "47",
+      "label": "第47关",
+      "title": "功夫世界 · 第47关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu47"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_giftbox15_70",
+      "kind": "gift",
+      "position": [
+        10238.844,
+        225.238
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "功夫世界 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "atombomb0",
+      "kind": "level",
+      "position": [
+        2788.921,
+        244.255
+      ],
+      "number": "12-1",
+      "label": "第12-1关",
+      "title": "功夫世界 · 第12-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "atombomb0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "kongfu_level12-2_72",
+      "kind": "portal",
+      "position": [
+        2910.434,
+        294.913
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "功夫世界 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "kongfu48",
+      "kind": "level",
+      "position": [
+        10723.503,
+        320.0
+      ],
+      "number": "48",
+      "label": "第48关",
+      "title": "功夫世界 · 第48关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "source_level_ids": [
+        "kongfu48"
+      ],
+      "source_display": 0
+    }
+  ],
+  "paths": [
+    [
+      "kongfu1",
+      "kongfu_firegourd_1"
+    ],
+    [
+      "kongfu_firegourd_1",
+      "kongfu2"
+    ],
+    [
+      "kongfu2",
+      "kongfu3"
+    ],
+    [
+      "kongfu3",
+      "kongfu4"
+    ],
+    [
+      "kongfu4",
+      "kongfu_giftbox0_5"
+    ],
+    [
+      "kongfu_giftbox0_5",
+      "kongfu5"
+    ],
+    [
+      "kongfu5",
+      "kongfu6"
+    ],
+    [
+      "kongfu6",
+      "kongfu_snowpea_8"
+    ],
+    [
+      "kongfu_snowpea_8",
+      "kongfu7"
+    ],
+    [
+      "kongfu7",
+      "kongfu_giftbox1_10"
+    ],
+    [
+      "kongfu_giftbox1_10",
+      "kongfu8"
+    ],
+    [
+      "kongfu8",
+      "kongfu9"
+    ],
+    [
+      "kongfu9",
+      "kongfu_giftbox2_13"
+    ],
+    [
+      "kongfu_giftbox2_13",
+      "kongfu10"
+    ],
+    [
+      "kongfu10",
+      "kongfu_bambooshoot_15"
+    ],
+    [
+      "kongfu_bambooshoot_15",
+      "kongfu11"
+    ],
+    [
+      "kongfu11",
+      "kongfu12"
+    ],
+    [
+      "kongfu12",
+      "atombomb0"
+    ],
+    [
+      "kongfu12",
+      "kongfu13"
+    ],
+    [
+      "kongfu13",
+      "kongfu14"
+    ],
+    [
+      "kongfu14",
+      "kongfu14_node_20"
+    ],
+    [
+      "kongfu14_node_20",
+      "kongfu15"
+    ],
+    [
+      "kongfu15",
+      "kongfu_giftbox3_22"
+    ],
+    [
+      "kongfu_giftbox3_22",
+      "kongfu16"
+    ],
+    [
+      "kongfu16",
+      "kongfu17"
+    ],
+    [
+      "kongfu17",
+      "kongfu_giftbox4_25"
+    ],
+    [
+      "kongfu_giftbox4_25",
+      "kongfu18"
+    ],
+    [
+      "kongfu18",
+      "kongfu19"
+    ],
+    [
+      "kongfu19",
+      "kongfu_heavenlypeach_28"
+    ],
+    [
+      "kongfu_heavenlypeach_28",
+      "kongfu20"
+    ],
+    [
+      "kongfu20",
+      "kongfu_giftbox5_30"
+    ],
+    [
+      "kongfu_giftbox5_30",
+      "kongfu21"
+    ],
+    [
+      "kongfu21",
+      "kongfu22"
+    ],
+    [
+      "kongfu22",
+      "kongfu23"
+    ],
+    [
+      "kongfu23",
+      "kongfu_giftbox6_34"
+    ],
+    [
+      "kongfu_giftbox6_34",
+      "kongfu24"
+    ],
+    [
+      "kongfu24",
+      "kongfu25"
+    ],
+    [
+      "kongfu25",
+      "kongfu_giftbox7_37"
+    ],
+    [
+      "kongfu_giftbox7_37",
+      "kongfu26"
+    ],
+    [
+      "kongfu26",
+      "kongfu27"
+    ],
+    [
+      "kongfu27",
+      "kongfu28"
+    ],
+    [
+      "kongfu28",
+      "kongfu_giftbox8_41"
+    ],
+    [
+      "kongfu_giftbox8_41",
+      "kongfu29"
+    ],
+    [
+      "kongfu29",
+      "kongfu_lychee_43"
+    ],
+    [
+      "kongfu_lychee_43",
+      "kongfu30"
+    ],
+    [
+      "kongfu30",
+      "kongfu31"
+    ],
+    [
+      "kongfu31",
+      "kongfu_giftbox9_46"
+    ],
+    [
+      "kongfu_giftbox9_46",
+      "kongfu32"
+    ],
+    [
+      "kongfu32",
+      "kongfu33"
+    ],
+    [
+      "kongfu33",
+      "kongfu34"
+    ],
+    [
+      "kongfu34",
+      "kongfu_solarsage_50"
+    ],
+    [
+      "kongfu_solarsage_50",
+      "kongfu35"
+    ],
+    [
+      "kongfu35",
+      "kongfu_giftbox10_52"
+    ],
+    [
+      "kongfu_giftbox10_52",
+      "kongfu36"
+    ],
+    [
+      "kongfu36",
+      "kongfu37"
+    ],
+    [
+      "kongfu37",
+      "kongfu_giftbox11_55"
+    ],
+    [
+      "kongfu_giftbox11_55",
+      "kongfu38"
+    ],
+    [
+      "kongfu38",
+      "kongfu39"
+    ],
+    [
+      "kongfu39",
+      "kongfu_giftbox12_58"
+    ],
+    [
+      "kongfu_giftbox12_58",
+      "kongfu40"
+    ],
+    [
+      "kongfu40",
+      "kongfu41"
+    ],
+    [
+      "kongfu41",
+      "kongfu_giftbox13_61"
+    ],
+    [
+      "kongfu_giftbox13_61",
+      "kongfu42"
+    ],
+    [
+      "kongfu42",
+      "kongfu43"
+    ],
+    [
+      "kongfu43",
+      "kongfu44"
+    ],
+    [
+      "kongfu44",
+      "kongfu_giftbox14_65"
+    ],
+    [
+      "kongfu_giftbox14_65",
+      "kongfu45"
+    ],
+    [
+      "kongfu45",
+      "kongfu46"
+    ],
+    [
+      "kongfu46",
+      "kongfu_cantaloupe_68"
+    ],
+    [
+      "kongfu_cantaloupe_68",
+      "kongfu47"
+    ],
+    [
+      "kongfu47",
+      "kongfu_giftbox15_70"
+    ],
+    [
+      "kongfu_giftbox15_70",
+      "kongfu48"
+    ],
+    [
+      "atombomb0",
+      "kongfu_level12-2_72"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/b777fc1b67dc8bbffb83.tscn",
+      "bounds": [
+        -172.71,
+        -408.5,
+        354,
+        718
+      ],
+      "transform": [
+        0.585,
+        0.0,
+        0.0,
+        0.585,
+        512.0,
+        198.7958
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "TotalFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2386.62275,
+        194.85355
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2386.62275,
+        194.85355
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/608a55f5266f3976cf3f.tscn",
+      "bounds": [
+        -68.11,
+        -52.28,
+        139.5,
+        114
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        686.62855,
+        236.4217
+      ],
+      "parallax": 0.15,
+      "source_node": "far2",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/608a55f5266f3976cf3f.tscn",
+      "bounds": [
+        -68.11,
+        -52.28,
+        139.5,
+        114
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2308.62197,
+        59.80565
+      ],
+      "parallax": 0.2,
+      "source_node": "far19",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a6f4f54daa0c11aa2cad.tscn",
+      "bounds": [
+        -129.69,
+        -95.14,
+        255.5,
+        205.5
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        708.1037,
+        242.9542
+      ],
+      "parallax": 0.25,
+      "source_node": "far1",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/608a55f5266f3976cf3f.tscn",
+      "bounds": [
+        -68.11,
+        -52.28,
+        139.5,
+        114
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1742.73256,
+        265.5937
+      ],
+      "parallax": 0.3,
+      "source_node": "far8",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1653.42763,
+        292.47965
+      ],
+      "parallax": 0.3,
+      "source_node": "far13",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e518688243aa826e746e.tscn",
+      "bounds": [
+        -132.36,
+        -127.45,
+        255.5,
+        226.5
+      ],
+      "transform": [
+        -0.39,
+        0.0,
+        0.0,
+        0.39,
+        1454.44956,
+        276.8491
+      ],
+      "parallax": 0.4,
+      "source_node": "far4",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1018.56092,
+        85.35455
+      ],
+      "parallax": 0.5,
+      "source_node": "far0",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5495ba299b2359994d8b.tscn",
+      "bounds": [
+        -76.37,
+        -150,
+        154,
+        297.5
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        2463.66075,
+        81.11005
+      ],
+      "parallax": 0.5,
+      "source_node": "far6",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5495ba299b2359994d8b.tscn",
+      "bounds": [
+        -76.37,
+        -150,
+        154,
+        297.5
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3174.6262,
+        137.73025
+      ],
+      "parallax": 0.5,
+      "source_node": "far10",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5495ba299b2359994d8b.tscn",
+      "bounds": [
+        -76.37,
+        -150,
+        154,
+        297.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        4641.37687,
+        96.79195
+      ],
+      "parallax": 0.5,
+      "source_node": "far14",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5495ba299b2359994d8b.tscn",
+      "bounds": [
+        -76.37,
+        -150,
+        154,
+        297.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        4299.62442,
+        241.05685
+      ],
+      "parallax": 0.5,
+      "source_node": "far16",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        -0.39,
+        0.0,
+        0.0,
+        0.39,
+        1818.27107,
+        106.8637
+      ],
+      "parallax": 0.6,
+      "source_node": "far3",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        3117.59585,
+        116.72875
+      ],
+      "parallax": 0.6,
+      "source_node": "far9",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5720.16569,
+        107.60275
+      ],
+      "parallax": 0.6,
+      "source_node": "far17",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3953.80655,
+        266.1033
+      ],
+      "parallax": 0.6,
+      "source_node": "far12",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        741.95017,
+        149.0071
+      ],
+      "parallax": 0.7,
+      "source_node": "far5",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f88b852f5c189a191af5.tscn",
+      "bounds": [
+        -92.5,
+        -133.5,
+        185,
+        267
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        3789.85504,
+        305.88265
+      ],
+      "parallax": 0.7,
+      "source_node": "far7",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f88b852f5c189a191af5.tscn",
+      "bounds": [
+        -92.5,
+        -133.5,
+        185,
+        267
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        4914.71195,
+        103.16065
+      ],
+      "parallax": 0.7,
+      "source_node": "far11",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/353810ee37057a24a330.tscn",
+      "bounds": [
+        -163.51,
+        -155.94,
+        319.5,
+        275.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5802.55209,
+        109.25375
+      ],
+      "parallax": 0.7,
+      "source_node": "far15",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a6f4f54daa0c11aa2cad.tscn",
+      "bounds": [
+        -129.69,
+        -95.14,
+        255.5,
+        205.5
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        7342.2234,
+        105.29915
+      ],
+      "parallax": 0.7,
+      "source_node": "far18",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8f44a16541c63ed21243.tscn",
+      "bounds": [
+        -631.8,
+        -791.04,
+        1267,
+        1542
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2336.5578,
+        189.8167
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8f44a16541c63ed21243.tscn",
+      "bounds": [
+        -631.8,
+        -791.04,
+        1267,
+        1542
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        6033.2508,
+        163.311
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8f44a16541c63ed21243.tscn",
+      "bounds": [
+        -631.8,
+        -791.04,
+        1267,
+        1542
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        10048.78635,
+        170.07295
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/eccde381c97397bc13c6.tscn",
+      "bounds": [
+        -435.31,
+        -394.43,
+        522,
+        788
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        512.0,
+        197.81235
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PlayerHouse"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        748.0423,
+        148.19135
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        725.12785,
+        162.0591
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        777.8422,
+        161.5105
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/21f8102d1495f88183da.tscn",
+      "bounds": [
+        -65,
+        -63.69,
+        130,
+        104
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        640.14425,
+        174.257
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        615.44425,
+        220.498
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1078.4724,
+        102.5399
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        1048.9715,
+        147.2833
+      ],
+      "parallax": 1.0,
+      "source_node": "rope0",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1e23102f055b52e11525.tscn",
+      "bounds": [
+        -7.07,
+        -3.4399999999999977,
+        15,
+        181
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        973.33945,
+        193.02835
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5e4637a417af8fa7745.tscn",
+      "bounds": [
+        -308.92,
+        -31.230000000000004,
+        366,
+        244
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1055.55795,
+        116.40765
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b2db6f17f6ea7c4a1c86.tscn",
+      "bounds": [
+        -128.73,
+        -21.75,
+        184,
+        118
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1109.70425,
+        120.02165
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        892.276,
+        215.5372
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c752ec857f0ddb97180d.tscn",
+      "bounds": [
+        -32.5,
+        -27.5,
+        65,
+        55
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        904.36925,
+        188.2411
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a7547c2f65470de9f06c.tscn",
+      "bounds": [
+        -107.75999999999999,
+        -143.16,
+        151,
+        162
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        1224.3376,
+        126.39035
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1218.979,
+        146.9219
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1532.9303,
+        162.7741
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1e23102f055b52e11525.tscn",
+      "bounds": [
+        -7.07,
+        -3.4399999999999977,
+        15,
+        181
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        1509.41395,
+        201.4764
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1506.318,
+        176.64185
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1563.49785,
+        178.59445
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        1278.47155,
+        149.38475
+      ],
+      "parallax": 1.0,
+      "source_node": "rope0",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1286.1539,
+        141.497
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bee37b16f6338e499dcc.tscn",
+      "bounds": [
+        -76.32,
+        -155.13,
+        160,
+        218
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        1395.48,
+        184.7571
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1394.35225,
+        201.04675
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0e14c22cb81c3c552591.tscn",
+      "bounds": [
+        -253.76,
+        -728.2065,
+        588,
+        922.7465
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1828.24545,
+        301.1591
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2121.7315,
+        162.7741
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/46a69793e09c772e6cf2.tscn",
+      "bounds": [
+        -104.81,
+        -2.4000000000000057,
+        110,
+        146
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        2162.51445,
+        206.4996
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b2db6f17f6ea7c4a1c86.tscn",
+      "bounds": [
+        -128.73,
+        -21.75,
+        184,
+        118
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2095.1192,
+        176.64185
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5e4637a417af8fa7745.tscn",
+      "bounds": [
+        -308.92,
+        -31.230000000000004,
+        366,
+        244
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        2152.29905,
+        178.59445
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2561.45455,
+        130.13175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        2531.95365,
+        174.87515
+      ],
+      "parallax": 1.0,
+      "source_node": "rope0",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1e23102f055b52e11525.tscn",
+      "bounds": [
+        -7.07,
+        -3.4399999999999977,
+        15,
+        181
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2456.3216,
+        220.6202
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/46a69793e09c772e6cf2.tscn",
+      "bounds": [
+        -104.81,
+        -2.4000000000000057,
+        110,
+        146
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        2588.70385,
+        161.64375
+      ],
+      "parallax": 1.0,
+      "source_node": "rope2",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5e4637a417af8fa7745.tscn",
+      "bounds": [
+        -308.92,
+        -31.230000000000004,
+        366,
+        244
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2538.5401,
+        143.9995
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b2db6f17f6ea7c4a1c86.tscn",
+      "bounds": [
+        -128.73,
+        -21.75,
+        184,
+        118
+      ],
+      "transform": [
+        -0.51847,
+        0.03989,
+        0.03989,
+        0.51847,
+        2594.86975,
+        144.33815
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2345.85215,
+        258.2006
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bee37b16f6338e499dcc.tscn",
+      "bounds": [
+        -76.32,
+        -155.13,
+        160,
+        218
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        2701.45935,
+        188.04805
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2700.3316,
+        204.3377
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2947.34265,
+        120.51435
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        2983.066,
+        133.5995
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        2918.15245,
+        131.22115
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2772.362,
+        207.5318
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3222.08985,
+        149.21705
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6fb21fd71e01f38f7461.tscn",
+      "bounds": [
+        -75.02,
+        -5.049999999999997,
+        92,
+        95
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3198.5735,
+        187.91935
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b2db6f17f6ea7c4a1c86.tscn",
+      "bounds": [
+        -128.73,
+        -21.75,
+        184,
+        118
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3195.47755,
+        163.0848
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a7547c2f65470de9f06c.tscn",
+      "bounds": [
+        -107.75999999999999,
+        -143.16,
+        151,
+        162
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        3073.78845,
+        164.98475
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3087.12255,
+        190.63245
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2788.9214,
+        245.03745
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6fb21fd71e01f38f7461.tscn",
+      "bounds": [
+        -75.02,
+        -5.049999999999997,
+        92,
+        95
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        2821.19715,
+        278.2713
+      ],
+      "parallax": 1.0,
+      "source_node": "rope1",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        2824.64475,
+        258.1226
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2910.43435,
+        294.91325
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/342928fa4bacf8c1aa5c.tscn",
+      "bounds": [
+        -823.09,
+        -703.4566378532928,
+        1642,
+        975.9566735038321
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3619.6305,
+        320.0
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/342928fa4bacf8c1aa5c.tscn",
+      "bounds": [
+        -823.09,
+        -703.4566378532928,
+        1642,
+        975.9566735038321
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7141.8921,
+        320.0
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/342928fa4bacf8c1aa5c.tscn",
+      "bounds": [
+        -823.09,
+        -703.4566378532928,
+        1642,
+        975.9566735038321
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        10723.5026,
+        320.0
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4031.5732,
+        149.21705
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        -0.455,
+        0.0,
+        0.0,
+        0.455,
+        4064.679,
+        159.76655
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4326.5796,
+        116.5487
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        4295.33865,
+        127.0982
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4180.4414,
+        190.86905
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4655.0974,
+        95.5134
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/12fd658aa8e19f816f0a.tscn",
+      "bounds": [
+        -68.55000000000001,
+        -33.06,
+        454,
+        255
+      ],
+      "transform": [
+        0.45389,
+        0.03174,
+        -0.03174,
+        0.45389,
+        4710.0081,
+        119.21175
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        -0.45372,
+        0.03412,
+        0.03412,
+        0.45372,
+        4341.9612,
+        164.2678
+      ],
+      "parallax": 1.0,
+      "source_node": "rope",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a9fd394a7d39fc0a3b2e.tscn",
+      "bounds": [
+        -356.46000000000004,
+        -65.17,
+        417,
+        272
+      ],
+      "transform": [
+        0.45372,
+        -0.03412,
+        0.03412,
+        0.45372,
+        4603.8683,
+        92.5806
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        4343.5043,
+        131.5936
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4448.595,
+        181.59485
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5059.07695,
+        147.9359
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5099.0058,
+        160.4887
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        5003.0879,
+        140.977
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4903.2583,
+        200.76855
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/51e517fab8de741db97b.tscn",
+      "bounds": [
+        -253.76,
+        -728.2065,
+        588,
+        922.7465
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5377.7232,
+        301.1591
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5613.55165,
+        198.4877
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        -0.455,
+        0.0,
+        0.0,
+        0.455,
+        5646.65745,
+        209.0372
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5908.55805,
+        165.81935
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        5877.3171,
+        176.36885
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5762.41985,
+        240.1397
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6237.07585,
+        144.78405
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/12fd658aa8e19f816f0a.tscn",
+      "bounds": [
+        -68.55000000000001,
+        -33.06,
+        454,
+        255
+      ],
+      "transform": [
+        0.45389,
+        0.03174,
+        -0.03174,
+        0.45389,
+        6291.98655,
+        168.4824
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        -0.45372,
+        0.03412,
+        0.03412,
+        0.45372,
+        5923.93965,
+        213.53845
+      ],
+      "parallax": 1.0,
+      "source_node": "rope",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a9fd394a7d39fc0a3b2e.tscn",
+      "bounds": [
+        -356.46000000000004,
+        -65.17,
+        417,
+        272
+      ],
+      "transform": [
+        0.45372,
+        -0.03412,
+        0.03412,
+        0.45372,
+        6185.84675,
+        141.85125
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        5925.48275,
+        180.86425
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6030.57345,
+        230.8655
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6641.0554,
+        197.20655
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6680.98425,
+        209.75935
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        6585.06635,
+        190.24765
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6485.23675,
+        250.0392
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7548.2955,
+        149.21705
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        -0.455,
+        0.0,
+        0.0,
+        0.455,
+        7581.4013,
+        159.76655
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7843.3019,
+        116.5487
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        7812.06095,
+        127.0982
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7697.1637,
+        190.86905
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8171.8197,
+        95.5134
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/12fd658aa8e19f816f0a.tscn",
+      "bounds": [
+        -68.55000000000001,
+        -33.06,
+        454,
+        255
+      ],
+      "transform": [
+        0.45389,
+        0.03174,
+        -0.03174,
+        0.45389,
+        8226.7304,
+        119.21175
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        -0.45372,
+        0.03412,
+        0.03412,
+        0.45372,
+        7858.6835,
+        164.2678
+      ],
+      "parallax": 1.0,
+      "source_node": "rope",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a9fd394a7d39fc0a3b2e.tscn",
+      "bounds": [
+        -356.46000000000004,
+        -65.17,
+        417,
+        272
+      ],
+      "transform": [
+        0.45372,
+        -0.03412,
+        0.03412,
+        0.45372,
+        8120.5906,
+        92.5806
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        7860.2266,
+        131.5936
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7965.3173,
+        181.59485
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8575.79925,
+        147.9359
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8615.7281,
+        160.4887
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        8519.8102,
+        140.977
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8419.9806,
+        200.76855
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7da7ddc7ded64a017207.tscn",
+      "bounds": [
+        -253.76,
+        -728.2065,
+        588,
+        922.7465
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8894.4455,
+        301.1591
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/36759a506dc4f5a5b20e.tscn",
+      "bounds": [
+        -104.38,
+        -49.889999999999986,
+        220,
+        466
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9179.3314,
+        213.96615
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        -0.455,
+        0.0,
+        0.0,
+        0.455,
+        9212.4372,
+        224.51565
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9474.3378,
+        181.2978
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/866a9cd6701544b71c0d.tscn",
+      "bounds": [
+        -184.46,
+        -31.68,
+        243,
+        162
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        9443.09685,
+        191.8473
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9328.1996,
+        255.61815
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9802.8556,
+        160.2625
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/12fd658aa8e19f816f0a.tscn",
+      "bounds": [
+        -68.55000000000001,
+        -33.06,
+        454,
+        255
+      ],
+      "transform": [
+        0.45389,
+        0.03174,
+        -0.03174,
+        0.45389,
+        9857.7663,
+        183.96085
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b259f452702808ea025.tscn",
+      "bounds": [
+        -97.61,
+        -5.07,
+        108,
+        100
+      ],
+      "transform": [
+        -0.45372,
+        0.03412,
+        0.03412,
+        0.45372,
+        9489.7194,
+        229.0169
+      ],
+      "parallax": 1.0,
+      "source_node": "rope",
+      "source_armature": "Rope"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a9fd394a7d39fc0a3b2e.tscn",
+      "bounds": [
+        -356.46000000000004,
+        -65.17,
+        417,
+        272
+      ],
+      "transform": [
+        0.45372,
+        -0.03412,
+        0.03412,
+        0.45372,
+        9751.6265,
+        157.3297
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5ee76dd1a3a17b0221e.tscn",
+      "bounds": [
+        -42.349999999999994,
+        -23.549999999999997,
+        261,
+        194
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        9491.2625,
+        196.3427
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/75c565eedfe6d319c9b9.tscn",
+      "bounds": [
+        -119.65,
+        -44.08,
+        218,
+        232
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9596.3532,
+        246.34395
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/49df9f0cb9c53c24337b.tscn",
+      "bounds": [
+        -151.98,
+        -80.06,
+        309,
+        306
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        10206.83515,
+        212.685
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7a2652f77ca857f1c68b.tscn",
+      "bounds": [
+        -122.76,
+        -51,
+        218,
+        444
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        10246.764,
+        225.2378
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/cb5360f51dc2d7f7c6c3.tscn",
+      "bounds": [
+        -144.47,
+        -20.53,
+        205,
+        125
+      ],
+      "transform": [
+        0.45438,
+        -0.02381,
+        0.02381,
+        0.45438,
+        10150.8461,
+        205.7261
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e6599923d48c5aff677b.tscn",
+      "bounds": [
+        -161.14,
+        -80.45,
+        315,
+        311
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        10051.0165,
+        265.51765
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Island"
+    }
+  ],
+  "source": {
+    "prefab": "KongfuWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

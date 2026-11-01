@@ -1,0 +1,412 @@
+[gd_scene load_steps=17 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/plant_preview_screen.gd" id="script"]
+[ext_resource type="Script" path="res://scripts/ui/plant_animation_preview.gd" id="preview_script"]
+[ext_resource type="Texture2D" path="res://assets/ui/plant_preview/display_background.png" id="display_bg"]
+[ext_resource type="Texture2D" path="res://assets/ui/plant_preview/display_glass.png" id="glass"]
+[ext_resource type="Texture2D" path="res://assets/ui/login/mainScreenBg.png" id="background"]
+[ext_resource type="Texture2D" path="res://assets/Shadow.png" id="shadow"]
+
+[sub_resource type="SystemFont" id="font"]
+font_names = PackedStringArray("Microsoft YaHei UI", "Microsoft YaHei", "Trebuchet MS")
+
+[sub_resource type="StyleBoxFlat" id="button"]
+content_margin_left = 12.0
+content_margin_top = 6.0
+content_margin_right = 12.0
+content_margin_bottom = 6.0
+bg_color = Color(0.24, 0.38, 0.21, 1)
+border_width_bottom = 3
+border_color = Color(0.13, 0.25, 0.13, 1)
+corner_radius_top_left = 7
+corner_radius_top_right = 7
+corner_radius_bottom_left = 7
+corner_radius_bottom_right = 7
+
+[sub_resource type="StyleBoxFlat" id="hover"]
+content_margin_left = 12.0
+content_margin_top = 6.0
+content_margin_right = 12.0
+content_margin_bottom = 6.0
+bg_color = Color(0.35, 0.5, 0.23, 1)
+border_width_bottom = 3
+border_color = Color(0.18, 0.3, 0.14, 1)
+corner_radius_top_left = 7
+corner_radius_top_right = 7
+corner_radius_bottom_left = 7
+corner_radius_bottom_right = 7
+
+[sub_resource type="StyleBoxFlat" id="input"]
+content_margin_left = 12.0
+content_margin_top = 5.0
+content_margin_right = 12.0
+content_margin_bottom = 5.0
+bg_color = Color(0.99, 0.96, 0.83, 1)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 2
+border_color = Color(0.49, 0.53, 0.32, 1)
+corner_radius_top_left = 6
+corner_radius_top_right = 6
+corner_radius_bottom_left = 6
+corner_radius_bottom_right = 6
+
+[sub_resource type="StyleBoxFlat" id="focus"]
+bg_color = Color(0, 0, 0, 0)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.95, 0.7, 0.19, 1)
+corner_radius_top_left = 7
+corner_radius_top_right = 7
+corner_radius_bottom_left = 7
+corner_radius_bottom_right = 7
+
+[sub_resource type="StyleBoxFlat" id="paper"]
+bg_color = Color(0.97, 0.94, 0.8, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 5
+border_color = Color(0.36, 0.43, 0.24, 1)
+corner_radius_top_left = 18
+corner_radius_top_right = 18
+corner_radius_bottom_left = 18
+corner_radius_bottom_right = 18
+shadow_color = Color(0.05, 0.12, 0.07, 0.2)
+shadow_size = 7
+shadow_offset = Vector2(0, 5)
+
+[sub_resource type="StyleBoxFlat" id="stat_panel"]
+bg_color = Color(0.87, 0.88, 0.69, 0.55)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_left = 10
+corner_radius_bottom_right = 10
+
+[sub_resource type="Theme" id="theme"]
+default_font = SubResource("font")
+default_font_size = 16
+Label/colors/font_color = Color(0.18, 0.25, 0.13, 1)
+Button/colors/font_color = Color(1, 0.97, 0.83, 1)
+Button/colors/font_hover_color = Color(1, 1, 0.9, 1)
+Button/colors/font_pressed_color = Color(1, 1, 0.9, 1)
+Button/styles/normal = SubResource("button")
+Button/styles/hover = SubResource("hover")
+Button/styles/pressed = SubResource("hover")
+Button/styles/focus = SubResource("focus")
+OptionButton/colors/font_color = Color(1, 0.97, 0.83, 1)
+OptionButton/styles/normal = SubResource("button")
+OptionButton/styles/hover = SubResource("hover")
+OptionButton/styles/pressed = SubResource("hover")
+OptionButton/styles/focus = SubResource("focus")
+LineEdit/colors/font_color = Color(0.18, 0.25, 0.13, 1)
+LineEdit/colors/font_placeholder_color = Color(0.43, 0.47, 0.34, 1)
+LineEdit/colors/caret_color = Color(0.18, 0.25, 0.13, 1)
+LineEdit/styles/normal = SubResource("input")
+LineEdit/styles/focus = SubResource("focus")
+
+[sub_resource type="Gradient" id="gradient"]
+colors = PackedColorArray(0.13, 0.3, 0.24, 1, 0.4, 0.53, 0.31, 1)
+
+[sub_resource type="GradientTexture2D" id="gradient_texture"]
+gradient = SubResource("gradient")
+fill_to = Vector2(0.6, 1)
+
+[node name="PlantPreview" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = SubResource("theme")
+script = ExtResource("script")
+
+[node name="Background" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+texture = SubResource("gradient_texture")
+expand_mode = 1
+
+[node name="Garden" type="TextureRect" parent="."]
+modulate = Color(1, 1, 1, 0.035)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+texture = ExtResource("background")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="ReferenceCanvas" type="Control" parent="."]
+offset_right = 1024.0
+offset_bottom = 640.0
+mouse_filter = 2
+
+[node name="Title" type="Label" parent="ReferenceCanvas"]
+offset_left = 30.0
+offset_top = 20.0
+offset_right = 430.0
+offset_bottom = 65.0
+theme_override_colors/font_color = Color(1, 0.96, 0.77, 1)
+theme_override_font_sizes/font_size = 32
+text = "植物卡片预览"
+
+[node name="Tagline" type="Label" parent="ReferenceCanvas"]
+offset_left = 32.0
+offset_top = 65.0
+offset_right = 700.0
+offset_bottom = 90.0
+theme_override_colors/font_color = Color(0.82, 0.88, 0.72, 1)
+theme_override_font_sizes/font_size = 14
+text = "认识你的草坪伙伴  /  PLANT COLLECTION"
+
+[node name="BackButton" type="Button" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 850.0
+offset_top = 34.0
+offset_right = 994.0
+offset_bottom = 78.0
+text = "返回地图"
+
+[node name="BrowserPanel" type="Panel" parent="ReferenceCanvas"]
+offset_left = 22.0
+offset_top = 110.0
+offset_right = 408.0
+offset_bottom = 596.0
+mouse_filter = 2
+theme_override_styles/panel = SubResource("paper")
+
+[node name="BrowserTitle" type="Label" parent="ReferenceCanvas"]
+offset_left = 42.0
+offset_top = 129.0
+offset_right = 360.0
+offset_bottom = 158.0
+theme_override_font_sizes/font_size = 19
+text = "挑选一株植物"
+
+[node name="Search" type="LineEdit" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 42.0
+offset_top = 169.0
+offset_right = 388.0
+offset_bottom = 207.0
+placeholder_text = "搜索植物名称 / 英文 ID"
+clear_button_enabled = true
+
+[node name="RoleFilter" type="OptionButton" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 42.0
+offset_top = 218.0
+offset_right = 388.0
+offset_bottom = 255.0
+item_count = 4
+selected = 0
+popup/item_0/text = "全部植物"
+popup/item_0/id = 0
+popup/item_1/text = "阳光生产"
+popup/item_1/id = 1
+popup/item_2/text = "远程攻击"
+popup/item_2/id = 2
+popup/item_3/text = "防御阻挡"
+popup/item_3/id = 3
+
+[node name="CardScroll" type="ScrollContainer" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 42.0
+offset_top = 274.0
+offset_right = 390.0
+offset_bottom = 548.0
+horizontal_scroll_mode = 0
+
+[node name="CardGrid" type="GridContainer" parent="ReferenceCanvas/CardScroll"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 10
+theme_override_constants/v_separation = 12
+columns = 3
+
+[node name="EmptyLabel" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+visible = false
+offset_left = 50.0
+offset_top = 326.0
+offset_right = 380.0
+offset_bottom = 410.0
+text = "没有找到植物"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CountLabel" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 42.0
+offset_top = 557.0
+offset_right = 388.0
+offset_bottom = 582.0
+theme_override_font_sizes/font_size = 13
+text = "已显示 3 / 3 株植物"
+
+[node name="DetailsPanel" type="Panel" parent="ReferenceCanvas"]
+offset_left = 420.0
+offset_top = 110.0
+offset_right = 1002.0
+offset_bottom = 596.0
+mouse_filter = 2
+theme_override_styles/panel = SubResource("paper")
+
+[node name="Details" type="Control" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 444.0
+offset_top = 126.0
+offset_right = 978.0
+offset_bottom = 578.0
+mouse_filter = 2
+
+[node name="PlantTitle" type="Label" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_right = 350.0
+offset_bottom = 44.0
+theme_override_font_sizes/font_size = 30
+text = "向日葵"
+
+[node name="Subtitle" type="Label" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_top = 47.0
+offset_right = 534.0
+offset_bottom = 72.0
+theme_override_colors/font_color = Color(0.4, 0.44, 0.27, 1)
+theme_override_font_sizes/font_size = 14
+text = "让每一缕阳光，都成为草坪的后援。"
+
+[node name="StageBackground" type="TextureRect" parent="ReferenceCanvas/Details"]
+offset_top = 87.0
+offset_right = 240.0
+offset_bottom = 307.0
+mouse_filter = 2
+texture = ExtResource("display_bg")
+expand_mode = 1
+stretch_mode = 0
+
+[node name="Shadow" type="TextureRect" parent="ReferenceCanvas/Details"]
+offset_left = 65.0
+offset_top = 252.0
+offset_right = 175.0
+offset_bottom = 284.0
+mouse_filter = 2
+texture = ExtResource("shadow")
+expand_mode = 1
+stretch_mode = 0
+
+[node name="AnimationPreview" type="Control" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+clip_contents = true
+offset_top = 87.0
+offset_right = 240.0
+offset_bottom = 307.0
+mouse_filter = 2
+script = ExtResource("preview_script")
+
+[node name="Glass" type="TextureRect" parent="ReferenceCanvas/Details"]
+offset_top = 87.0
+offset_right = 240.0
+offset_bottom = 307.0
+mouse_filter = 2
+texture = ExtResource("glass")
+expand_mode = 1
+stretch_mode = 0
+
+[node name="StatPanel" type="Panel" parent="ReferenceCanvas/Details"]
+offset_left = 256.0
+offset_top = 87.0
+offset_right = 534.0
+offset_bottom = 307.0
+mouse_filter = 2
+theme_override_styles/panel = SubResource("stat_panel")
+
+[node name="RoleLabel" type="Label" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_left = 274.0
+offset_top = 98.0
+offset_right = 520.0
+offset_bottom = 130.0
+theme_override_font_sizes/font_size = 20
+text = "阳光生产"
+
+[node name="Stats" type="Label" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_left = 274.0
+offset_top = 142.0
+offset_right = 520.0
+offset_bottom = 297.0
+theme_override_constants/line_spacing = 8
+text = "阳光消耗       50\n种植冷却       4 秒\n生命值          160\n产出间隔       9 秒"
+
+[node name="Description" type="Label" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_top = 326.0
+offset_right = 534.0
+offset_bottom = 391.0
+theme_override_font_sizes/font_size = 16
+theme_override_constants/line_spacing = 5
+text = "定时产出阳光，为持续种植提供资源。"
+autowrap_mode = 3
+
+[node name="PauseButton" type="Button" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_top = 410.0
+offset_right = 134.0
+offset_bottom = 450.0
+text = "暂停动画"
+
+[node name="ClipSelect" type="OptionButton" parent="ReferenceCanvas/Details"]
+unique_name_in_owner = true
+offset_left = 146.0
+offset_top = 410.0
+offset_right = 354.0
+offset_bottom = 450.0
+item_count = 1
+selected = 0
+popup/item_0/text = "待机"
+popup/item_0/id = 0
+
+[node name="PreviewHint" type="Label" parent="ReferenceCanvas/Details"]
+offset_left = 370.0
+offset_top = 412.0
+offset_right = 534.0
+offset_bottom = 448.0
+theme_override_colors/font_color = Color(0.43, 0.47, 0.31, 1)
+theme_override_font_sizes/font_size = 12
+text = "动作仅作外观预览"
+vertical_alignment = 1
+horizontal_alignment = 2
+
+[node name="StatusLabel" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+visible = false
+offset_left = 460.0
+offset_top = 370.0
+offset_right = 962.0
+offset_bottom = 485.0
+theme_override_colors/font_color = Color(0.55, 0.19, 0.1, 1)
+text = "目录暂时无法打开"
+autowrap_mode = 3
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Footer" type="Label" parent="ReferenceCanvas"]
+offset_left = 32.0
+offset_top = 607.0
+offset_right = 994.0
+offset_bottom = 635.0
+theme_override_colors/font_color = Color(0.88, 0.92, 0.77, 1)
+theme_override_font_sizes/font_size = 12
+text = "点击卡片查看  ·  Tab 切换焦点 / Enter 选择  ·  Esc 返回     /     属性来自当前测试关卡配置"
+
+[connection signal="resized" from="." to="." method="_fit_reference_canvas"]

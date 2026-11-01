@@ -1,0 +1,18 @@
+{
+  "tool": "LambdaEd1th/pam-viewer",
+  "version": "v0.1.1",
+  "source": "ZOMBIE_SNOWPEA.PAM",
+  "source_sha256": "2bdfb1a5052121c65e0f01837d02dd026e465bc99ed9a5e7e3f8d0494ce5f521",
+  "images": 50,
+  "sprites": 56,
+  "main_frames": 468,
+  "frame_rate": 30,
+  "loaded_images": 50,
+  "missing_images": [],
+  "content_bounds": {
+    "x": -90.36851501464844,
+    "y": 61.32719802856445,
+    "width": 808.6555786132812,
+    "height": 370.09124755859375
+  }
+}

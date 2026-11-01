@@ -1,0 +1,4977 @@
+{
+  "schema_version": 1,
+  "world_id": "cowboy",
+  "width": 6708.854,
+  "nodes": [
+    {
+      "id": "cowboy1",
+      "kind": "level",
+      "position": [
+        512.0,
+        237.061
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "狂野西部 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_splitpea_1",
+      "kind": "plant",
+      "position": [
+        594.795,
+        258.537
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy2",
+      "kind": "level",
+      "position": [
+        669.45,
+        291.885
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "狂野西部 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox0_3",
+      "kind": "gift",
+      "position": [
+        767.989,
+        309.452
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy3",
+      "kind": "level",
+      "position": [
+        859.07,
+        286.241
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "狂野西部 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy4",
+      "kind": "level",
+      "position": [
+        948.186,
+        245.252
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "狂野西部 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_chilibean_6",
+      "kind": "plant",
+      "position": [
+        1024.906,
+        212.719
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy5",
+      "kind": "level",
+      "position": [
+        1130.513,
+        180.924
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "狂野西部 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy6",
+      "kind": "level",
+      "position": [
+        1221.969,
+        176.625
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "狂野西部 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_peapod_9",
+      "kind": "plant",
+      "position": [
+        1322.383,
+        207.337
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy7",
+      "kind": "level",
+      "position": [
+        1409.216,
+        241.961
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "狂野西部 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy8",
+      "kind": "level",
+      "position": [
+        1545.229,
+        319.751
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "狂野西部 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy9",
+      "kind": "level",
+      "position": [
+        1681.897,
+        251.429
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "狂野西部 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_lightningreed_13",
+      "kind": "plant",
+      "position": [
+        1759.527,
+        215.927
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy10",
+      "kind": "level",
+      "position": [
+        1839.264,
+        186.559
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "狂野西部 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy11",
+      "kind": "level",
+      "position": [
+        1944.551,
+        203.079
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "狂野西部 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_shovelboost_16",
+      "kind": "upgrade",
+      "position": [
+        2033.409,
+        232.263
+      ],
+      "number": "↑",
+      "label": "升级",
+      "title": "狂野西部 · 升级",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 3
+    },
+    {
+      "id": "cowboy12",
+      "kind": "level",
+      "position": [
+        2142.863,
+        270.19
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "狂野西部 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy12_1",
+      "kind": "level",
+      "position": [
+        2189.128,
+        214.379
+      ],
+      "number": "12-1",
+      "label": "第12-1关",
+      "title": "狂野西部 · 第12-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy12_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_melonpult_19",
+      "kind": "plant",
+      "position": [
+        2257.89,
+        255.989
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy13",
+      "kind": "level",
+      "position": [
+        2360.948,
+        220.815
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "狂野西部 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy14",
+      "kind": "level",
+      "position": [
+        2445.455,
+        192.426
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "狂野西部 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox1_22",
+      "kind": "gift",
+      "position": [
+        2552.908,
+        187.218
+      ],
+      "number": "★",
+      "label": "15",
+      "title": "狂野西部 · 15",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy15",
+      "kind": "level",
+      "position": [
+        2661.307,
+        192.426
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "狂野西部 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_wallnutaid_24",
+      "kind": "upgrade",
+      "position": [
+        2764.983,
+        225.945
+      ],
+      "number": "↑",
+      "label": "升级",
+      "title": "狂野西部 · 升级",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 3
+    },
+    {
+      "id": "cowboy16",
+      "kind": "level",
+      "position": [
+        2873.381,
+        243.907
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "狂野西部 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy17",
+      "kind": "level",
+      "position": [
+        2972.313,
+        230.18
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "狂野西部 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox2_27",
+      "kind": "gift",
+      "position": [
+        3047.105,
+        190.444
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy18",
+      "kind": "level",
+      "position": [
+        3133.492,
+        156.367
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "狂野西部 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_tallnut_29",
+      "kind": "plant",
+      "position": [
+        3237.176,
+        143.875
+      ],
+      "number": "✿",
+      "label": "19",
+      "title": "狂野西部 · 19",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy18_1",
+      "kind": "level",
+      "position": [
+        3209.859,
+        220.056
+      ],
+      "number": "18-1",
+      "label": "第18-1关",
+      "title": "狂野西部 · 第18-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy18_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy19",
+      "kind": "level",
+      "position": [
+        3344.255,
+        153.739
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "狂野西部 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy20",
+      "kind": "level",
+      "position": [
+        3432.535,
+        188.984
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "狂野西部 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_instantrecharge_33",
+      "kind": "upgrade",
+      "position": [
+        3528.32,
+        245.791
+      ],
+      "number": "↑",
+      "label": "升级",
+      "title": "狂野西部 · 升级",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 3
+    },
+    {
+      "id": "cowboy21",
+      "kind": "level",
+      "position": [
+        3642.796,
+        264.24
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "狂野西部 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy22",
+      "kind": "level",
+      "position": [
+        3760.456,
+        232.09
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "狂野西部 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy22_1",
+      "kind": "level",
+      "position": [
+        3847.582,
+        280.46
+      ],
+      "number": "22-1",
+      "label": "第22-1关",
+      "title": "狂野西部 · 第22-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy22_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox3_37",
+      "kind": "gift",
+      "position": [
+        3828.843,
+        209.876
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy23",
+      "kind": "level",
+      "position": [
+        3934.816,
+        189.656
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "狂野西部 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy23_1",
+      "kind": "level",
+      "position": [
+        4042.804,
+        271.384
+      ],
+      "number": "23-1",
+      "label": "第23-1关",
+      "title": "狂野西部 · 第23-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy23_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy24",
+      "kind": "level",
+      "position": [
+        4058.014,
+        184.565
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "狂野西部 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy24_1",
+      "kind": "level",
+      "position": [
+        4125.92,
+        103.347
+      ],
+      "number": "24-1",
+      "label": "第24-1关",
+      "title": "狂野西部 · 第24-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy24_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_wintermelon_42",
+      "kind": "plant",
+      "position": [
+        4180.533,
+        201.874
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "狂野西部 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "cowboy25",
+      "kind": "level",
+      "position": [
+        4499.422,
+        282.45
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "狂野西部 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy26",
+      "kind": "level",
+      "position": [
+        4825.087,
+        229.848
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "狂野西部 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox4_45",
+      "kind": "gift",
+      "position": [
+        4905.407,
+        197.332
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy27",
+      "kind": "level",
+      "position": [
+        4973.538,
+        146.636
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "狂野西部 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy28",
+      "kind": "level",
+      "position": [
+        5074.139,
+        194.625
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "狂野西部 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy29",
+      "kind": "level",
+      "position": [
+        5140.43,
+        224.956
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "狂野西部 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy30",
+      "kind": "level",
+      "position": [
+        5241.792,
+        254.585
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "狂野西部 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox5_50",
+      "kind": "gift",
+      "position": [
+        5342.418,
+        266.325
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy31",
+      "kind": "level",
+      "position": [
+        5444.798,
+        233.461
+      ],
+      "number": "31",
+      "label": "第31关",
+      "title": "狂野西部 · 第31关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy31"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy32",
+      "kind": "level",
+      "position": [
+        5530.172,
+        211.016
+      ],
+      "number": "32",
+      "label": "第32关",
+      "title": "狂野西部 · 第32关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy32"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy33",
+      "kind": "level",
+      "position": [
+        5625.566,
+        198.59
+      ],
+      "number": "33",
+      "label": "第33关",
+      "title": "狂野西部 · 第33关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy33"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy34",
+      "kind": "level",
+      "position": [
+        5730.579,
+        188.169
+      ],
+      "number": "34",
+      "label": "第34关",
+      "title": "狂野西部 · 第34关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy34"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_giftbox6_55",
+      "kind": "gift",
+      "position": [
+        5818.358,
+        187.793
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "狂野西部 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "cowboy35",
+      "kind": "level",
+      "position": [
+        6196.854,
+        282.45
+      ],
+      "number": "35",
+      "label": "第35关",
+      "title": "狂野西部 · 第35关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "cowboy35"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "sapfling0",
+      "kind": "level",
+      "position": [
+        5067.122,
+        262.077
+      ],
+      "number": "29-1",
+      "label": "第29-1关",
+      "title": "狂野西部 · 第29-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "sapfling0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_level29-2_58",
+      "kind": "portal",
+      "position": [
+        5010.612,
+        288.559
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "狂野西部 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "electriccurrant0",
+      "kind": "level",
+      "position": [
+        5779.849,
+        238.118
+      ],
+      "number": "34-1",
+      "label": "第34-1关",
+      "title": "狂野西部 · 第34-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [
+        "electriccurrant0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "cowboy_level34-2_60",
+      "kind": "portal",
+      "position": [
+        5861.952,
+        278.45
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "狂野西部 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "source_level_ids": [],
+      "source_display": 4
+    }
+  ],
+  "paths": [
+    [
+      "cowboy1",
+      "cowboy_splitpea_1"
+    ],
+    [
+      "cowboy_splitpea_1",
+      "cowboy2"
+    ],
+    [
+      "cowboy2",
+      "cowboy_giftbox0_3"
+    ],
+    [
+      "cowboy_giftbox0_3",
+      "cowboy3"
+    ],
+    [
+      "cowboy3",
+      "cowboy4"
+    ],
+    [
+      "cowboy4",
+      "cowboy_chilibean_6"
+    ],
+    [
+      "cowboy_chilibean_6",
+      "cowboy5"
+    ],
+    [
+      "cowboy5",
+      "cowboy6"
+    ],
+    [
+      "cowboy6",
+      "cowboy_peapod_9"
+    ],
+    [
+      "cowboy_peapod_9",
+      "cowboy7"
+    ],
+    [
+      "cowboy7",
+      "cowboy8"
+    ],
+    [
+      "cowboy8",
+      "cowboy9"
+    ],
+    [
+      "cowboy9",
+      "cowboy_lightningreed_13"
+    ],
+    [
+      "cowboy_lightningreed_13",
+      "cowboy10"
+    ],
+    [
+      "cowboy10",
+      "cowboy11"
+    ],
+    [
+      "cowboy11",
+      "cowboy_shovelboost_16"
+    ],
+    [
+      "cowboy_shovelboost_16",
+      "cowboy12"
+    ],
+    [
+      "cowboy12",
+      "cowboy12_1"
+    ],
+    [
+      "cowboy12",
+      "cowboy_melonpult_19"
+    ],
+    [
+      "cowboy_melonpult_19",
+      "cowboy13"
+    ],
+    [
+      "cowboy13",
+      "cowboy14"
+    ],
+    [
+      "cowboy14",
+      "cowboy_giftbox1_22"
+    ],
+    [
+      "cowboy_giftbox1_22",
+      "cowboy15"
+    ],
+    [
+      "cowboy15",
+      "cowboy_wallnutaid_24"
+    ],
+    [
+      "cowboy_wallnutaid_24",
+      "cowboy16"
+    ],
+    [
+      "cowboy16",
+      "cowboy17"
+    ],
+    [
+      "cowboy17",
+      "cowboy_giftbox2_27"
+    ],
+    [
+      "cowboy_giftbox2_27",
+      "cowboy18"
+    ],
+    [
+      "cowboy18",
+      "cowboy18_1"
+    ],
+    [
+      "cowboy18",
+      "cowboy_tallnut_29"
+    ],
+    [
+      "cowboy_tallnut_29",
+      "cowboy19"
+    ],
+    [
+      "cowboy19",
+      "cowboy20"
+    ],
+    [
+      "cowboy20",
+      "cowboy_instantrecharge_33"
+    ],
+    [
+      "cowboy_instantrecharge_33",
+      "cowboy21"
+    ],
+    [
+      "cowboy21",
+      "cowboy22"
+    ],
+    [
+      "cowboy22",
+      "cowboy22_1"
+    ],
+    [
+      "cowboy22",
+      "cowboy_giftbox3_37"
+    ],
+    [
+      "cowboy_giftbox3_37",
+      "cowboy23"
+    ],
+    [
+      "cowboy23",
+      "cowboy23_1"
+    ],
+    [
+      "cowboy23",
+      "cowboy24"
+    ],
+    [
+      "cowboy24",
+      "cowboy24_1"
+    ],
+    [
+      "cowboy24",
+      "cowboy_wintermelon_42"
+    ],
+    [
+      "cowboy_wintermelon_42",
+      "cowboy25"
+    ],
+    [
+      "cowboy25",
+      "cowboy26"
+    ],
+    [
+      "cowboy26",
+      "cowboy_giftbox4_45"
+    ],
+    [
+      "cowboy_giftbox4_45",
+      "cowboy27"
+    ],
+    [
+      "cowboy27",
+      "cowboy28"
+    ],
+    [
+      "cowboy28",
+      "cowboy29"
+    ],
+    [
+      "cowboy29",
+      "sapfling0"
+    ],
+    [
+      "cowboy29",
+      "cowboy30"
+    ],
+    [
+      "cowboy30",
+      "cowboy_giftbox5_50"
+    ],
+    [
+      "cowboy_giftbox5_50",
+      "cowboy31"
+    ],
+    [
+      "cowboy31",
+      "cowboy32"
+    ],
+    [
+      "cowboy32",
+      "cowboy33"
+    ],
+    [
+      "cowboy33",
+      "cowboy34"
+    ],
+    [
+      "cowboy34",
+      "electriccurrant0"
+    ],
+    [
+      "cowboy34",
+      "cowboy_giftbox6_55"
+    ],
+    [
+      "cowboy_giftbox6_55",
+      "cowboy35"
+    ],
+    [
+      "sapfling0",
+      "cowboy_level29-2_58"
+    ],
+    [
+      "electriccurrant0",
+      "cowboy_level34-2_60"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/d4d8afdad597e29ae7d7.tscn",
+      "bounds": [
+        -344.79,
+        -861.53,
+        769,
+        1661
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        510.99055,
+        200.0
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "FarTotal"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2385.6133,
+        219.9693
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2385.6133,
+        219.9693
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.065,
+        0.0,
+        0.0,
+        0.065,
+        887.26079,
+        71.3832
+      ],
+      "parallax": 0.3,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/25185542d53653c0ec5a.tscn",
+      "bounds": [
+        -231.28,
+        -539.46,
+        381,
+        611
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        889.18219,
+        70.36595
+      ],
+      "parallax": 0.3,
+      "source_node": "well",
+      "source_armature": "FarWell"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.065,
+        0.0,
+        0.0,
+        0.065,
+        610.61839,
+        176.3231
+      ],
+      "parallax": 0.4,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        597.82639,
+        175.00295
+      ],
+      "parallax": 0.4,
+      "source_node": "plants1",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        608.05999,
+        177.72645
+      ],
+      "parallax": 0.4,
+      "source_node": "plants0",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9e50b839393004ac558b.tscn",
+      "bounds": [
+        -96.37,
+        -40.01,
+        175,
+        59
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        616.31304,
+        179.29425
+      ],
+      "parallax": 0.4,
+      "source_node": "fence0",
+      "source_armature": "FarFence1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.0975,
+        0.0,
+        0.0,
+        0.0975,
+        1192.55016,
+        92.09285
+      ],
+      "parallax": 0.25,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.117,
+        0.0,
+        0.0,
+        0.117,
+        1177.83488,
+        90.60636
+      ],
+      "parallax": 0.25,
+      "source_node": "cactus0",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9e50b839393004ac558b.tscn",
+      "bounds": [
+        -96.37,
+        -40.01,
+        175,
+        59
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1213.40151,
+        94.40496
+      ],
+      "parallax": 0.25,
+      "source_node": "fence1",
+      "source_armature": "FarFence1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a8ec2746fee3c53209dc.tscn",
+      "bounds": [
+        -85.55,
+        -45.29,
+        171,
+        64
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1183.70496,
+        95.2109
+      ],
+      "parallax": 0.25,
+      "source_node": "fence0",
+      "source_armature": "FarFence0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.0975,
+        0.0,
+        0.0,
+        0.0975,
+        1263.53104,
+        155.0798
+      ],
+      "parallax": 0.6,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1244.34304,
+        153.09958
+      ],
+      "parallax": 0.6,
+      "source_node": "plants1",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/670ef3aa6932514c5624.tscn",
+      "bounds": [
+        -93.58,
+        -49.6,
+        199,
+        103
+      ],
+      "transform": [
+        -0.195,
+        0.0,
+        0.0,
+        0.195,
+        1253.12331,
+        152.31802
+      ],
+      "parallax": 0.6,
+      "source_node": "plants0",
+      "source_armature": "FarBullHead"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/72bfe4c8b2e29a361b58.tscn",
+      "bounds": [
+        -279.83498817239325,
+        -139.91749404533797,
+        559.6699761813513,
+        279.83498817239297
+      ],
+      "transform": [
+        -0.195,
+        0.0,
+        0.0,
+        0.195,
+        1264.64254,
+        101.25785
+      ],
+      "parallax": 0.6,
+      "source_node": "bird",
+      "source_armature": "BirdFlying"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.1625,
+        0.0,
+        0.0,
+        0.1625,
+        1610.72308,
+        140.9384
+      ],
+      "parallax": 0.6,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/904dd166a9f63392ce15.tscn",
+      "bounds": [
+        -150.84,
+        -126.5,
+        312,
+        216
+      ],
+      "transform": [
+        -0.16167,
+        -0.01642,
+        -0.01642,
+        0.16167,
+        1569.42728,
+        127.9137
+      ],
+      "parallax": 0.6,
+      "source_node": "fence",
+      "source_armature": "FenceR0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        1579.16558,
+        132.53455
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus3",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        -0.13,
+        0.0,
+        0.0,
+        0.13,
+        1568.10713,
+        137.4869
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus4",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ee965f8acfe54bc31663.tscn",
+      "bounds": [
+        -45.62,
+        -103.3,
+        88,
+        117
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        1583.82348,
+        133.2528
+      ],
+      "parallax": 0.6,
+      "source_node": "barrel",
+      "source_armature": "FarBarrel"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f7e8c31556be640641fd.tscn",
+      "bounds": [
+        -242.24,
+        -443.15,
+        486,
+        543
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        1618.41128,
+        135.30485
+      ],
+      "parallax": 0.6,
+      "source_node": "house",
+      "source_armature": "House"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        -0.13,
+        0.0,
+        0.0,
+        0.13,
+        1651.87133,
+        139.63255
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus0",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        1637.09943,
+        150.0306
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus1",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        -0.11375,
+        0.0,
+        0.0,
+        0.11375,
+        1646.25988,
+        156.55075
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus2",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.1625,
+        0.0,
+        0.0,
+        0.1625,
+        2146.73362,
+        172.56415
+      ],
+      "parallax": 0.6,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e987b10ede50d23fde59.tscn",
+      "bounds": [
+        -290.16,
+        -404.38,
+        518,
+        518
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        2159.87077,
+        170.5277
+      ],
+      "parallax": 0.6,
+      "source_node": "rock",
+      "source_armature": "FarRock"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.1625,
+        0.0,
+        0.0,
+        0.1625,
+        2096.21627,
+        171.3168
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus1",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        -0.195,
+        0.0,
+        0.0,
+        0.195,
+        2115.86382,
+        175.45405
+      ],
+      "parallax": 0.6,
+      "source_node": "cactus0",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/670ef3aa6932514c5624.tscn",
+      "bounds": [
+        -93.58,
+        -49.6,
+        199,
+        103
+      ],
+      "transform": [
+        0.1625,
+        0.0,
+        0.0,
+        0.1625,
+        2144.52297,
+        181.65765
+      ],
+      "parallax": 0.6,
+      "source_node": "bullhead",
+      "source_armature": "FarBullHead"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5b010d0c5a9aff0ae7b0.tscn",
+      "bounds": [
+        -474.13,
+        -149.77,
+        982,
+        640
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1497.87541,
+        141.30695
+      ],
+      "parallax": 0.2,
+      "source_node": "island0",
+      "source_armature": "FarIsland1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e987b10ede50d23fde59.tscn",
+      "bounds": [
+        -290.16,
+        -404.38,
+        518,
+        518
+      ],
+      "transform": [
+        -0.312,
+        0.0,
+        0.0,
+        0.312,
+        1513.63999,
+        138.86321
+      ],
+      "parallax": 0.2,
+      "source_node": "rock",
+      "source_armature": "FarRock"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1437.25459,
+        139.81013
+      ],
+      "parallax": 0.2,
+      "source_node": "cactus1",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62de7651081fad9f4d63.tscn",
+      "bounds": [
+        -72.21,
+        -96.47,
+        129,
+        119
+      ],
+      "transform": [
+        -0.234,
+        0.0,
+        0.0,
+        0.234,
+        1460.83165,
+        144.77483
+      ],
+      "parallax": 0.2,
+      "source_node": "cactus0",
+      "source_armature": "FarCactus"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/670ef3aa6932514c5624.tscn",
+      "bounds": [
+        -93.58,
+        -49.6,
+        199,
+        103
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1495.22263,
+        152.21915
+      ],
+      "parallax": 0.2,
+      "source_node": "bullhead",
+      "source_armature": "FarBullHead"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        6.5,
+        0.0,
+        0.0,
+        3.25,
+        4125.76795,
+        256.23605
+      ],
+      "parallax": 0.65,
+      "source_node": "extension_cloud",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f9c59ff84ad57070d977.tscn",
+      "bounds": [
+        -148.25,
+        -553.3531329310952,
+        305.4068,
+        758.8674329310952
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        765.1919,
+        219.48895
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.208,
+        0.0,
+        0.0,
+        0.208,
+        720.02678,
+        234.97975
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8b175885baf889046b3f.tscn",
+      "bounds": [
+        -573.54,
+        -1083.62,
+        1035,
+        1484
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        512.0,
+        237.06105
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "PlayerHouse"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        571.55885,
+        274.02785
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        594.79505,
+        258.53705
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        652.03145,
+        271.41212
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        669.45015,
+        291.8853
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        767.98885,
+        309.45155
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        859.0701,
+        286.2407
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        883.3034,
+        305.08992
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/18e2904af107040d2dec.tscn",
+      "bounds": [
+        -50.24,
+        -22.35,
+        94,
+        129
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        946.8487,
+        277.13355
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        948.1864,
+        245.25235
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1047.2542,
+        183.63872
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1024.9059,
+        212.7192
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1093.828,
+        167.11325
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1130.5127,
+        180.92445
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1159.3493,
+        219.41537
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1221.969,
+        176.6247
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1232.98858,
+        195.86132
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        1298.24845,
+        188.7329
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1322.38295,
+        207.3372
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/80546d8059c8058b5d83.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        100.5600004196167
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        1311.23545,
+        227.9175
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fd6d221bcd8a66139e79.tscn",
+      "bounds": [
+        -478.05,
+        -958.1931999999999,
+        944,
+        1280.05
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        1545.22895,
+        319.7508
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1409.21645,
+        241.9614
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1681.89665,
+        251.42865
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1759.52745,
+        215.92695
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1839.2636,
+        186.55865
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1845.29248,
+        209.94955
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        1944.55125,
+        203.07905
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2033.4095,
+        232.26275
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2189.12805,
+        214.3793
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2112.30338,
+        259.1695
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2142.863,
+        270.1896
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2167.94208,
+        297.01562
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2222.12348,
+        236.92195
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2257.8896,
+        255.98905
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        2249.8296,
+        293.33857
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2360.94775,
+        220.81495
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2418.70038,
+        175.75695
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab8bdd054358397ac464.tscn",
+      "bounds": [
+        -50.83,
+        -312.82,
+        99,
+        333
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2418.70038,
+        175.75695
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus",
+      "source_armature": "Cactus1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2445.4549,
+        192.42555
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2552.9077,
+        187.2184
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2637.5026,
+        172.80647
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2661.3069,
+        192.42555
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2764.98255,
+        225.9454
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2873.3811,
+        243.9075
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        2865.06682,
+        265.9659
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2972.31305,
+        230.18015
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2985.30005,
+        249.39883
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3047.10465,
+        190.4437
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3100.9656,
+        140.23562
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/93f0c2a21570b48c3468.tscn",
+      "bounds": [
+        -45.1,
+        -281.5,
+        113,
+        306
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3106.7831,
+        134.1537
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus0",
+      "source_armature": "Cactus0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/54323cc1574ebef475c2.tscn",
+      "bounds": [
+        -52.18,
+        -59.53,
+        93,
+        84
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3098.72518,
+        142.24802
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus1",
+      "source_armature": "CactusBrown"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3133.4916,
+        156.3668
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3166.8405,
+        185.63422
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        3088.03788,
+        157.07452
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3209.85945,
+        220.05575
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3215.88833,
+        243.44665
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/18e2904af107040d2dec.tscn",
+      "bounds": [
+        -50.24,
+        -22.35,
+        94,
+        129
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3256.41128,
+        155.3788
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3237.1757,
+        143.8751
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3269.5886,
+        156.2628
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3312.9839,
+        122.79677
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/426028b5f9a9c3ed88f0.tscn",
+      "bounds": [
+        -100.73,
+        -97.86,
+        188,
+        162
+      ],
+      "transform": [
+        -0.2073,
+        0.01704,
+        0.01704,
+        0.2073,
+        3359.8034,
+        140.77837
+      ],
+      "parallax": 1.0,
+      "source_node": "fence",
+      "source_armature": "FenceL1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3344.2554,
+        153.73885
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/aa08986db492b4f78dd6.tscn",
+      "bounds": [
+        -83.71000000000001,
+        -27.870000000000005,
+        143,
+        386
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3433.26042,
+        196.12145
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Island4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3432.5345,
+        188.98445
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3528.32045,
+        245.7912
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3642.79585,
+        264.2395
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        3760.45625,
+        232.0905
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        3749.76505,
+        251.75768
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3810.89755,
+        266.64905
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3847.58225,
+        280.46025
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3876.41885,
+        318.95117
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3828.84275,
+        209.8761
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3842.97973,
+        228.67202
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f9c59ff84ad57070d977.tscn",
+      "bounds": [
+        -148.25,
+        -553.3531329310952,
+        305.4068,
+        758.8674329310952
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5277.4802,
+        158.5846
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.208,
+        0.0,
+        0.0,
+        0.208,
+        5232.31508,
+        174.0754
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3934.81615,
+        189.6559
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3950.98945,
+        208.11252
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/aa08986db492b4f78dd6.tscn",
+      "bounds": [
+        -83.71000000000001,
+        -27.870000000000005,
+        143,
+        386
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4126.64597,
+        110.48395
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Island4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4125.92005,
+        103.34695
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4026.33368,
+        180.6222
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4058.0139,
+        184.5651
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4010.2779,
+        255.25312
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/93f0c2a21570b48c3468.tscn",
+      "bounds": [
+        -45.1,
+        -281.5,
+        113,
+        306
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4016.0954,
+        249.1712
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus0",
+      "source_armature": "Cactus0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/54323cc1574ebef475c2.tscn",
+      "bounds": [
+        -52.18,
+        -59.53,
+        93,
+        84
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4008.03748,
+        257.26552
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus1",
+      "source_armature": "CactusBrown"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4042.8039,
+        271.3843
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4076.1528,
+        300.65172
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        3997.35018,
+        272.09202
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fabe53bc029ff736b8a3.tscn",
+      "bounds": [
+        -561.2156,
+        -633.94755,
+        1101,
+        873
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        4499.42175,
+        282.4499
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4214.35463,
+        178.24645
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4180.53305,
+        201.87395
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4194.33073,
+        224.40347
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4825.08735,
+        229.848
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4872.88055,
+        181.20122
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/93f0c2a21570b48c3468.tscn",
+      "bounds": [
+        -45.1,
+        -281.5,
+        113,
+        306
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4878.69805,
+        175.1193
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus0",
+      "source_armature": "Cactus0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/54323cc1574ebef475c2.tscn",
+      "bounds": [
+        -52.18,
+        -59.53,
+        93,
+        84
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4870.64013,
+        183.21362
+      ],
+      "parallax": 1.0,
+      "source_node": "cactus1",
+      "source_armature": "CactusBrown"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4905.40655,
+        197.3324
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4938.75545,
+        226.59982
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        4859.95283,
+        198.04012
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/41955633d168e39a90b6.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        293
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5025.8535,
+        141.99257
+      ],
+      "parallax": 1.0,
+      "source_node": "float2",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4973.5376,
+        146.63565
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/18e2904af107040d2dec.tscn",
+      "bounds": [
+        -50.24,
+        -22.35,
+        94,
+        129
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4970.9649,
+        165.27037
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4991.0811,
+        168.71875
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/426028b5f9a9c3ed88f0.tscn",
+      "bounds": [
+        -100.73,
+        -97.86,
+        188,
+        162
+      ],
+      "transform": [
+        -0.2073,
+        0.01704,
+        0.01704,
+        0.2073,
+        5089.68675,
+        181.66402
+      ],
+      "parallax": 1.0,
+      "source_node": "fence",
+      "source_armature": "FenceL1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5074.13875,
+        194.6245
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/aa08986db492b4f78dd6.tscn",
+      "bounds": [
+        -83.71000000000001,
+        -27.870000000000005,
+        143,
+        386
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5141.15557,
+        253.6172
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Island4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5140.42965,
+        224.9561
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5241.79195,
+        254.58505
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5342.4178,
+        266.3247
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5444.798,
+        233.46135
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5431.8968,
+        253.70495
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5530.1716,
+        211.01555
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/80546d8059c8058b5d83.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        100.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5518.87408,
+        234.46547
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5625.5656,
+        198.59015
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5649.9406,
+        216.02757
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5694.83155,
+        171.53793
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5730.57895,
+        188.16935
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fabe53bc029ff736b8a3.tscn",
+      "bounds": [
+        -561.2156,
+        -633.94755,
+        1101,
+        873
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        6196.85385,
+        282.4499
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b5ffff7897f6d6786b39.tscn",
+      "bounds": [
+        -81.35,
+        -142.26,
+        159,
+        307.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5851.95163,
+        161.14118
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5818.35755,
+        187.793
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5831.10925,
+        207.2345
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5913.10753,
+        210.1244
+      ],
+      "parallax": 1.0,
+      "source_node": "float2",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5099.648,
+        245.94577
+      ],
+      "parallax": 1.0,
+      "source_node": "island1",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5067.122,
+        262.07695
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5033.7731,
+        291.34437
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1462746fe16f2aff0fac.tscn",
+      "bounds": [
+        -43.89,
+        -36.86,
+        88,
+        86
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5112.57572,
+        262.78467
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e70de41c50d7952a80fe.tscn",
+      "bounds": [
+        -138.8,
+        -99.67,
+        278,
+        204
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5010.6123,
+        288.5586
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1701b22eb417ca05e4c0.tscn",
+      "bounds": [
+        -142.88,
+        -85.53999999999999,
+        290,
+        237
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5779.84895,
+        238.11795
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        -0.26,
+        0.0,
+        0.0,
+        0.26,
+        5769.15775,
+        257.78513
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/511ad7f39bf159ce7d1b.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        126
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5825.2677,
+        264.63925
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb206dba620a2aaedb3.tscn",
+      "bounds": [
+        -154.79,
+        -81.98,
+        304,
+        312
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5861.9524,
+        278.45045
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3a7d0895a0658c47ad02.tscn",
+      "bounds": [
+        -55.89,
+        -24.409999999999997,
+        112,
+        140.5600004196167
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5890.789,
+        316.94137
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.455,
+        6382.89561,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        6200.09092,
+        418.0854
+      ],
+      "parallax": 1.3,
+      "source_node": "c1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.65,
+        6557.41541,
+        416.6411
+      ],
+      "parallax": 1.3,
+      "source_node": "c2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        7147.71097,
+        430.3457
+      ],
+      "parallax": 1.3,
+      "source_node": "c5",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.845,
+        6969.27686,
+        411.7557
+      ],
+      "parallax": 1.3,
+      "source_node": "c4",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        6780.82951,
+        428.2215
+      ],
+      "parallax": 1.3,
+      "source_node": "c3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.65,
+        8030.08207,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c9",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.715,
+        0.0,
+        0.0,
+        0.65,
+        7341.09637,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c6",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.845,
+        0.0,
+        0.0,
+        0.39,
+        7793.28447,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c8",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.39,
+        7563.62321,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c7",
+      "source_armature": "Clouds"
+    }
+  ],
+  "source": {
+    "prefab": "CowboyWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

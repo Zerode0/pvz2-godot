@@ -1,0 +1,80 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/67191340-0bb7-4872-927c-add3357180b8.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 1
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_1:modulate")
+tracks/0/interp = 1
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.46), Color(1, 1, 1, 0.595), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.865), Color(1, 1, 1, 1), Color(1, 1, 1, 0.46), Color(1, 1, 1, 0.595), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.865), Color(1, 1, 1, 1)]}
+
+tracks/1/type = "value"
+tracks/1/path = NodePath("Part_2:modulate")
+tracks/1/interp = 1
+tracks/1/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1), Color(1, 1, 1, 0.938611), Color(1, 1, 1, 0.791389), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.864973), Color(1, 1, 1, 1)]}
+
+tracks/2/type = "value"
+tracks/2/path = NodePath("Part_3:modulate")
+tracks/2/interp = 1
+tracks/2/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.46), Color(1, 1, 1, 0.595), Color(1, 1, 1, 0.73), Color(1, 1, 1, 0.865), Color(1, 1, 1, 1)]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(0.997778, 0.066622, -0.066622, 0.997778, -7.971555, -24.440592)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1514, 1639, 174, 68)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, 87.36, 30.3)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1733, 1376, 16, 16)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, 46.64, 34.15)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1733, 1376, 16, 16)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, 124.9, 15.22)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1733, 1376, 16, 16)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, 8.93, 19.07)
+visible = true
+modulate = Color(1, 1, 1, 0.73)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1733, 1376, 16, 16)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

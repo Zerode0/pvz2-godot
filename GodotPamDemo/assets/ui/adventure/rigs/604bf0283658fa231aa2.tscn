@@ -1,0 +1,65 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/67191340-0bb7-4872-927c-add3357180b8.png" id="atlas"]
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -103, -57.18)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1839, 1, 204, 280)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(0.765, 0, 0, 0.765, -33.15612, -16.545361)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1853, 901, 37, 25)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(0.491881, -1.076111, 1.076111, 0.491881, 18.343648, 23.376895)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1853, 901, 37, 25)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(1.222946, 0.085477, 0.085326, 1.055938, -73.791028, 11.600984)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1733, 1403, 13, 7)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(0.878025, 0.519107, -0.519107, 0.878025, 57.917124, 16.470195)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(644, 1592, 7, 16)
+
+[node name="Part_5" type="Sprite2D" parent="."]
+transform = Transform2D(-1.006699, 0.123324, -0.16246, -0.845531, 84.957621, -2.779035)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(140, 1536, 9, 23)
+

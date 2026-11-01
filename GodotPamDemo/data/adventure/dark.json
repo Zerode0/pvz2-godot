@@ -1,0 +1,5618 @@
+{
+  "schema_version": 1,
+  "world_id": "dark",
+  "width": 5425.619,
+  "nodes": [
+    {
+      "id": "dark1",
+      "kind": "level",
+      "position": [
+        512.0,
+        218.414
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "黑暗时代 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_sunshroom_1",
+      "kind": "plant",
+      "position": [
+        607.522,
+        254.221
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark2",
+      "kind": "level",
+      "position": [
+        702.421,
+        277.272
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "黑暗时代 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_puffshroom_3",
+      "kind": "plant",
+      "position": [
+        820.762,
+        262.244
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark3",
+      "kind": "level",
+      "position": [
+        917.302,
+        214.271
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "黑暗时代 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark4",
+      "kind": "level",
+      "position": [
+        1008.918,
+        163.988
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "黑暗时代 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_fumeshroom_6",
+      "kind": "plant",
+      "position": [
+        1119.472,
+        118.005
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark5",
+      "kind": "level",
+      "position": [
+        1216.025,
+        75.489
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "黑暗时代 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark6",
+      "kind": "level",
+      "position": [
+        1328.78,
+        79.519
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "黑暗时代 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_sunbean_9",
+      "kind": "plant",
+      "position": [
+        1428.334,
+        108.988
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark7",
+      "kind": "level",
+      "position": [
+        1539.725,
+        150.916
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "黑暗时代 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark8",
+      "kind": "level",
+      "position": [
+        1647.956,
+        190.525
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "黑暗时代 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox0_12",
+      "kind": "gift",
+      "position": [
+        1759.325,
+        222.118
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark9",
+      "kind": "level",
+      "position": [
+        1878.018,
+        236.29
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "黑暗时代 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark10",
+      "kind": "level",
+      "position": [
+        2072.254,
+        270.204
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "黑暗时代 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "plantern0",
+      "kind": "level",
+      "position": [
+        1797.768,
+        302.942
+      ],
+      "number": "9-1",
+      "label": "第9-1关",
+      "title": "黑暗时代 · 第9-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "plantern0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_level9-2_16",
+      "kind": "portal",
+      "position": [
+        1902.002,
+        320.0
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "黑暗时代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "dark11",
+      "kind": "level",
+      "position": [
+        2303.016,
+        223.676
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "黑暗时代 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox1_18",
+      "kind": "gift",
+      "position": [
+        2378.499,
+        181.286
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark12",
+      "kind": "level",
+      "position": [
+        2451.424,
+        138.724
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "黑暗时代 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark13",
+      "kind": "level",
+      "position": [
+        2530.624,
+        94.893
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "黑暗时代 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox2_21",
+      "kind": "gift",
+      "position": [
+        2606.589,
+        138.724
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark14",
+      "kind": "level",
+      "position": [
+        2678.558,
+        181.286
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "黑暗时代 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark15",
+      "kind": "level",
+      "position": [
+        2752.88,
+        223.676
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "黑暗时代 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_magnetshroom_24",
+      "kind": "plant",
+      "position": [
+        2827.416,
+        181.286
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark16",
+      "kind": "level",
+      "position": [
+        2902.084,
+        138.724
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "黑暗时代 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark17",
+      "kind": "level",
+      "position": [
+        2978.568,
+        94.893
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "黑暗时代 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark18",
+      "kind": "level",
+      "position": [
+        3052.827,
+        138.724
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "黑暗时代 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark18_1",
+      "kind": "level",
+      "position": [
+        3126.191,
+        94.893
+      ],
+      "number": "18-1",
+      "label": "第18-1关",
+      "title": "黑暗时代 · 第18-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark18_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox3_29",
+      "kind": "gift",
+      "position": [
+        3126.191,
+        181.286
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark19",
+      "kind": "level",
+      "position": [
+        3203.057,
+        223.676
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "黑暗时代 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark20",
+      "kind": "level",
+      "position": [
+        3477.197,
+        242.652
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "黑暗时代 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark21",
+      "kind": "level",
+      "position": [
+        3743.339,
+        223.676
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "黑暗时代 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_scaredyshroom_33",
+      "kind": "plant",
+      "position": [
+        3818.822,
+        181.286
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "黑暗时代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dark22",
+      "kind": "level",
+      "position": [
+        3891.747,
+        138.724
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "黑暗时代 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark23",
+      "kind": "level",
+      "position": [
+        3970.946,
+        94.893
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "黑暗时代 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox5_36",
+      "kind": "gift",
+      "position": [
+        4046.912,
+        138.724
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark24",
+      "kind": "level",
+      "position": [
+        4118.881,
+        181.286
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "黑暗时代 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark25",
+      "kind": "level",
+      "position": [
+        4193.202,
+        223.676
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "黑暗时代 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox6_39",
+      "kind": "gift",
+      "position": [
+        4267.738,
+        181.286
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark26",
+      "kind": "level",
+      "position": [
+        4342.406,
+        138.724
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "黑暗时代 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark27",
+      "kind": "level",
+      "position": [
+        4418.891,
+        94.893
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "黑暗时代 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark28",
+      "kind": "level",
+      "position": [
+        4493.149,
+        138.724
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "黑暗时代 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_giftbox7_43",
+      "kind": "gift",
+      "position": [
+        4566.514,
+        181.286
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "黑暗时代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dark29",
+      "kind": "level",
+      "position": [
+        4643.379,
+        223.676
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "黑暗时代 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark30",
+      "kind": "level",
+      "position": [
+        4913.619,
+        235.451
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "黑暗时代 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "dark30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "iceshroom0",
+      "kind": "level",
+      "position": [
+        3970.215,
+        191.318
+      ],
+      "number": "22-1",
+      "label": "第22-1关",
+      "title": "黑暗时代 · 第22-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "iceshroom0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_level22-2_47",
+      "kind": "portal",
+      "position": [
+        4046.831,
+        237.157
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "黑暗时代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "doomshroom0",
+      "kind": "level",
+      "position": [
+        4414.27,
+        191.318
+      ],
+      "number": "28-1",
+      "label": "第28-1关",
+      "title": "黑暗时代 · 第28-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "doomshroom0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_level28-2_49",
+      "kind": "portal",
+      "position": [
+        4336.797,
+        237.157
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "黑暗时代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "vamporcini0",
+      "kind": "level",
+      "position": [
+        1097.045,
+        207.492
+      ],
+      "number": "4-1",
+      "label": "第4-1关",
+      "title": "黑暗时代 · 第4-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "vamporcini0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_level4-2_51",
+      "kind": "portal",
+      "position": [
+        1205.275,
+        247.101
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "黑暗时代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "poisonpeashooter0",
+      "kind": "level",
+      "position": [
+        2978.985,
+        187.002
+      ],
+      "number": "16-1",
+      "label": "第16-1关",
+      "title": "黑暗时代 · 第16-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [
+        "poisonpeashooter0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dark_level16-2_53",
+      "kind": "portal",
+      "position": [
+        3052.349,
+        229.564
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "黑暗时代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "source_level_ids": [],
+      "source_display": 4
+    }
+  ],
+  "paths": [
+    [
+      "dark1",
+      "dark_sunshroom_1"
+    ],
+    [
+      "dark_sunshroom_1",
+      "dark2"
+    ],
+    [
+      "dark2",
+      "dark_puffshroom_3"
+    ],
+    [
+      "dark_puffshroom_3",
+      "dark3"
+    ],
+    [
+      "dark3",
+      "dark4"
+    ],
+    [
+      "dark4",
+      "vamporcini0"
+    ],
+    [
+      "dark4",
+      "dark_fumeshroom_6"
+    ],
+    [
+      "dark_fumeshroom_6",
+      "dark5"
+    ],
+    [
+      "dark5",
+      "dark6"
+    ],
+    [
+      "dark6",
+      "dark_sunbean_9"
+    ],
+    [
+      "dark_sunbean_9",
+      "dark7"
+    ],
+    [
+      "dark7",
+      "dark8"
+    ],
+    [
+      "dark8",
+      "dark_giftbox0_12"
+    ],
+    [
+      "dark_giftbox0_12",
+      "dark9"
+    ],
+    [
+      "dark9",
+      "dark10"
+    ],
+    [
+      "dark9",
+      "plantern0"
+    ],
+    [
+      "dark10",
+      "dark11"
+    ],
+    [
+      "plantern0",
+      "dark_level9-2_16"
+    ],
+    [
+      "dark11",
+      "dark_giftbox1_18"
+    ],
+    [
+      "dark_giftbox1_18",
+      "dark12"
+    ],
+    [
+      "dark12",
+      "dark13"
+    ],
+    [
+      "dark13",
+      "dark_giftbox2_21"
+    ],
+    [
+      "dark_giftbox2_21",
+      "dark14"
+    ],
+    [
+      "dark14",
+      "dark15"
+    ],
+    [
+      "dark15",
+      "dark_magnetshroom_24"
+    ],
+    [
+      "dark_magnetshroom_24",
+      "dark16"
+    ],
+    [
+      "dark16",
+      "poisonpeashooter0"
+    ],
+    [
+      "dark16",
+      "dark17"
+    ],
+    [
+      "dark17",
+      "dark18"
+    ],
+    [
+      "dark18",
+      "dark18_1"
+    ],
+    [
+      "dark18",
+      "dark_giftbox3_29"
+    ],
+    [
+      "dark_giftbox3_29",
+      "dark19"
+    ],
+    [
+      "dark19",
+      "dark20"
+    ],
+    [
+      "dark20",
+      "dark21"
+    ],
+    [
+      "dark21",
+      "dark_scaredyshroom_33"
+    ],
+    [
+      "dark_scaredyshroom_33",
+      "dark22"
+    ],
+    [
+      "dark22",
+      "dark23"
+    ],
+    [
+      "dark22",
+      "iceshroom0"
+    ],
+    [
+      "dark23",
+      "dark_giftbox5_36"
+    ],
+    [
+      "dark_giftbox5_36",
+      "dark24"
+    ],
+    [
+      "dark24",
+      "dark25"
+    ],
+    [
+      "dark25",
+      "dark_giftbox6_39"
+    ],
+    [
+      "dark_giftbox6_39",
+      "dark26"
+    ],
+    [
+      "dark26",
+      "dark27"
+    ],
+    [
+      "dark27",
+      "dark28"
+    ],
+    [
+      "dark28",
+      "doomshroom0"
+    ],
+    [
+      "dark28",
+      "dark_giftbox7_43"
+    ],
+    [
+      "dark_giftbox7_43",
+      "dark29"
+    ],
+    [
+      "dark29",
+      "dark30"
+    ],
+    [
+      "iceshroom0",
+      "dark_level22-2_47"
+    ],
+    [
+      "doomshroom0",
+      "dark_level28-2_49"
+    ],
+    [
+      "vamporcini0",
+      "dark_level4-2_51"
+    ],
+    [
+      "poisonpeashooter0",
+      "dark_level16-2_53"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/8b9d5762278b4d17ae51.tscn",
+      "bounds": [
+        -170.08,
+        -389.01,
+        338,
+        745
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        524.32335,
+        171.0577
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "FarTotal"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2398.9461,
+        191.027
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2398.9461,
+        191.027
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bca9d1a57670192f44e0.tscn",
+      "bounds": [
+        -90.5,
+        -34,
+        181,
+        68
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        755.2729,
+        209.1243
+      ],
+      "parallax": 0.35,
+      "source_node": "cloud9",
+      "source_armature": "Cloud0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62f9f4609313616d53ee.tscn",
+      "bounds": [
+        -161.18,
+        -130,
+        320.68,
+        261.49
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1175.19825,
+        117.1441
+      ],
+      "parallax": 0.25,
+      "source_node": "cloud14",
+      "source_armature": "Cloud_lightning1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62f9f4609313616d53ee.tscn",
+      "bounds": [
+        -161.18,
+        -130,
+        320.68,
+        261.49
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        1572.46021,
+        115.289
+      ],
+      "parallax": 0.35,
+      "source_node": "cloud31",
+      "source_armature": "Cloud_lightning1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b3647c1741cb5547809b.tscn",
+      "bounds": [
+        -264.44,
+        -84.51,
+        542.96,
+        163.45
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        770.71277,
+        211.4864
+      ],
+      "parallax": 0.4,
+      "source_node": "cloud8",
+      "source_armature": "FarCastle"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1aa5f5f475c4d74fcdea.tscn",
+      "bounds": [
+        -212.25,
+        -186.5,
+        417.25,
+        371
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        971.3017,
+        117.1441
+      ],
+      "parallax": 0.25,
+      "source_node": "cloud12",
+      "source_armature": "Cloud_lightning0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7ba81a8e2f17a3353ee0.tscn",
+      "bounds": [
+        -124.5,
+        -101.5,
+        249,
+        203
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        930.7963,
+        168.61955
+      ],
+      "parallax": 0.41,
+      "source_node": "cloud11",
+      "source_armature": "Cloud3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        901.26095,
+        226.0022
+      ],
+      "parallax": 0.43,
+      "source_node": "cloud10",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ea9cf1f4262e41b62ce0.tscn",
+      "bounds": [
+        -193,
+        -33,
+        386,
+        66
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        813.39655,
+        221.30465
+      ],
+      "parallax": 0.4,
+      "source_node": "cloud7",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1aa5f5f475c4d74fcdea.tscn",
+      "bounds": [
+        -212.25,
+        -186.5,
+        417.25,
+        371
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2254.05057,
+        34.0338
+      ],
+      "parallax": 0.4,
+      "source_node": "cloud30",
+      "source_armature": "Cloud_lightning0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1aa5f5f475c4d74fcdea.tscn",
+      "bounds": [
+        -212.25,
+        -186.5,
+        417.25,
+        371
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1508.06052,
+        117.1441
+      ],
+      "parallax": 0.6,
+      "source_node": "cloud13",
+      "source_armature": "Cloud_lightning0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1aa5f5f475c4d74fcdea.tscn",
+      "bounds": [
+        -212.25,
+        -186.5,
+        417.25,
+        371
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        414.69825,
+        166.07415
+      ],
+      "parallax": 0.4,
+      "source_node": "cloud0",
+      "source_armature": "Cloud_lightning0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7ba81a8e2f17a3353ee0.tscn",
+      "bounds": [
+        -124.5,
+        -101.5,
+        249,
+        203
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        600.73995,
+        166.07415
+      ],
+      "parallax": 0.5,
+      "source_node": "cloud2",
+      "source_armature": "Cloud3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/121cf6956e26dcf11953.tscn",
+      "bounds": [
+        -193,
+        -35,
+        386,
+        70
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        443.62845,
+        166.07415
+      ],
+      "parallax": 0.53,
+      "source_node": "cloud5",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62f9f4609313616d53ee.tscn",
+      "bounds": [
+        -161.18,
+        -130,
+        320.68,
+        261.49
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2510.867,
+        99.7605
+      ],
+      "parallax": 0.57,
+      "source_node": "cloud23",
+      "source_armature": "Cloud_lightning1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        497.544,
+        224.59235
+      ],
+      "parallax": 0.6,
+      "source_node": "cloud1",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ea9cf1f4262e41b62ce0.tscn",
+      "bounds": [
+        -193,
+        -33,
+        386,
+        66
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        2458.867,
+        163.33115
+      ],
+      "parallax": 0.55,
+      "source_node": "cloud21",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        303.57945,
+        248.2621
+      ],
+      "parallax": 0.55,
+      "source_node": "cloud3",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        368.6724,
+        202.89405
+      ],
+      "parallax": 0.65,
+      "source_node": "cloud4",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/121cf6956e26dcf11953.tscn",
+      "bounds": [
+        -193,
+        -35,
+        386,
+        70
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.455,
+        1934.80385,
+        208.84025
+      ],
+      "parallax": 0.6,
+      "source_node": "cloud20",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62f9f4609313616d53ee.tscn",
+      "bounds": [
+        -161.18,
+        -130,
+        320.68,
+        261.49
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1733.3318,
+        117.1441
+      ],
+      "parallax": 0.65,
+      "source_node": "cloud15",
+      "source_armature": "Cloud_lightning1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/121cf6956e26dcf11953.tscn",
+      "bounds": [
+        -193,
+        -35,
+        386,
+        70
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        748.05335,
+        221.30465
+      ],
+      "parallax": 0.7,
+      "source_node": "cloud6",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7ba81a8e2f17a3353ee0.tscn",
+      "bounds": [
+        -124.5,
+        -101.5,
+        249,
+        203
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1618.53075,
+        147.46985
+      ],
+      "parallax": 0.64,
+      "source_node": "cloud17",
+      "source_armature": "Cloud3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        -0.52,
+        0.0,
+        0.0,
+        0.52,
+        1600.11885,
+        183.20945
+      ],
+      "parallax": 0.65,
+      "source_node": "cloud16",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bca9d1a57670192f44e0.tscn",
+      "bounds": [
+        -90.5,
+        -34,
+        181,
+        68
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        1919.66795,
+        186.3574
+      ],
+      "parallax": 0.68,
+      "source_node": "cloud18",
+      "source_armature": "Cloud0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.455,
+        2059.13715,
+        187.91675
+      ],
+      "parallax": 0.7,
+      "source_node": "cloud19",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7ba81a8e2f17a3353ee0.tscn",
+      "bounds": [
+        -124.5,
+        -101.5,
+        249,
+        203
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2483.41822,
+        158.64855
+      ],
+      "parallax": 0.7,
+      "source_node": "cloud28",
+      "source_armature": "Cloud3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.91,
+        0.0,
+        0.0,
+        0.52,
+        2414.1262,
+        178.32275
+      ],
+      "parallax": 0.7,
+      "source_node": "cloud22",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ea9cf1f4262e41b62ce0.tscn",
+      "bounds": [
+        -193,
+        -33,
+        386,
+        66
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        2277.9096,
+        185.658
+      ],
+      "parallax": 0.6,
+      "source_node": "cloud24",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.845,
+        0.0,
+        0.0,
+        0.65,
+        2394.696,
+        185.658
+      ],
+      "parallax": 0.66,
+      "source_node": "cloud25",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/121cf6956e26dcf11953.tscn",
+      "bounds": [
+        -193,
+        -35,
+        386,
+        70
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3441.4512,
+        259.03715
+      ],
+      "parallax": 0.85,
+      "source_node": "cloud27",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2716.6869,
+        259.03715
+      ],
+      "parallax": 0.9,
+      "source_node": "cloud26",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/110d9bb9e596b32215a5.tscn",
+      "bounds": [
+        -222.5,
+        -68.5,
+        445,
+        137
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        4080.65535,
+        259.03715
+      ],
+      "parallax": 0.9,
+      "source_node": "cloud29",
+      "source_armature": "Cloud4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        6.5,
+        0.0,
+        0.0,
+        3.25,
+        3661.65625,
+        227.29375
+      ],
+      "parallax": 0.65,
+      "source_node": "extension_cloud",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8f8f0c0a442ba1c908f3.tscn",
+      "bounds": [
+        -602.06,
+        -617.44,
+        788.329924868734,
+        905
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        512.0,
+        218.4141
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "PlayerHouse"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        607.52205,
+        254.2213
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b8808dfa88c0235687a.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        78.28000020980835
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        565.69338,
+        276.2173
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        588.15192,
+        283.3816
+      ],
+      "parallax": 1.0,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        702.42075,
+        277.27225
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        820.7617,
+        262.24425
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/966356819b9378883b27.tscn",
+      "bounds": [
+        -26.64,
+        -19.23,
+        45,
+        58
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        805.0837,
+        290.99427
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a0d9702e6055c0a8b83f.tscn",
+      "bounds": [
+        -4.600000000000001,
+        -6.58,
+        43,
+        32
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        826.87963,
+        292.98795
+      ],
+      "parallax": 1.0,
+      "source_node": "root1",
+      "source_armature": "Root2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        917.30165,
+        214.271
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e055caf082f3336fb66e.tscn",
+      "bounds": [
+        -47.94,
+        -33.93,
+        96,
+        74
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        921.33815,
+        247.68165
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/48361f72c22e8c18f522.tscn",
+      "bounds": [
+        -134.96399800393937,
+        -157.9713326805847,
+        252.77892568107552,
+        285.8105285571442
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        951.49737,
+        130.15515
+      ],
+      "parallax": 1.0,
+      "source_node": "ff0",
+      "source_armature": "FireFlies"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        1008.91785,
+        163.98765
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        987.58953,
+        196.68057
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        1119.47245,
+        118.0047
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        1110.74893,
+        161.07825
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/966356819b9378883b27.tscn",
+      "bounds": [
+        -26.64,
+        -19.23,
+        45,
+        58
+      ],
+      "transform": [
+        -0.429,
+        0.0,
+        0.0,
+        0.429,
+        1133.54872,
+        147.36078
+      ],
+      "parallax": 1.0,
+      "source_node": "root1",
+      "source_armature": "Root3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1216.0254,
+        75.4895
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.3575,
+        0.0,
+        0.0,
+        0.3575,
+        1210.74935,
+        104.71415
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1338.06488,
+        125.70739
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1328.7796,
+        79.51885
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e055caf082f3336fb66e.tscn",
+      "bounds": [
+        -47.94,
+        -33.93,
+        96,
+        74
+      ],
+      "transform": [
+        -0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1323.04332,
+        122.01305
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        -0.3575,
+        0.0,
+        0.0,
+        0.3575,
+        1435.47678,
+        144.51755
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1428.33425,
+        108.9879
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/966356819b9378883b27.tscn",
+      "bounds": [
+        -26.64,
+        -19.23,
+        45,
+        58
+      ],
+      "transform": [
+        0.4225,
+        0.0,
+        0.0,
+        0.4225,
+        1417.7373,
+        138.377
+      ],
+      "parallax": 1.0,
+      "source_node": "root1",
+      "source_armature": "Root3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1539.7254,
+        150.91615
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1525.57249,
+        185.5658
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1559.59051,
+        186.91949
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/48361f72c22e8c18f522.tscn",
+      "bounds": [
+        -134.96399800393937,
+        -157.9713326805847,
+        252.77892568107552,
+        285.8105285571442
+      ],
+      "transform": [
+        -0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1727.3387,
+        111.50798
+      ],
+      "parallax": 1.0,
+      "source_node": "ff0",
+      "source_armature": "FireFlies"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1647.9556,
+        190.5252
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/966356819b9378883b27.tscn",
+      "bounds": [
+        -26.64,
+        -19.23,
+        45,
+        58
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1628.61609,
+        220.34609
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1651.38419,
+        224.88501
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        1759.32465,
+        222.11845
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e055caf082f3336fb66e.tscn",
+      "bounds": [
+        -47.94,
+        -33.93,
+        96,
+        74
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        1773.75156,
+        255.35415
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a0d9702e6055c0a8b83f.tscn",
+      "bounds": [
+        -4.600000000000001,
+        -6.58,
+        43,
+        32
+      ],
+      "transform": [
+        0.39325,
+        0.0,
+        0.0,
+        0.39325,
+        1778.5485,
+        262.98928
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1878.0179,
+        236.2904
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1869.26581,
+        277.83271
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1850.06319,
+        264.60043
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1097.04485,
+        207.49215
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1082.89195,
+        242.1418
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1116.90996,
+        243.49549
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/48361f72c22e8c18f522.tscn",
+      "bounds": [
+        -134.96399800393937,
+        -157.9713326805847,
+        252.77892568107552,
+        285.8105285571442
+      ],
+      "transform": [
+        -0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1098.20848,
+        276.96496
+      ],
+      "parallax": 1.0,
+      "source_node": "ff0",
+      "source_armature": "FireFlies"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab67e44af823ecb8a187.tscn",
+      "bounds": [
+        -90.88,
+        -43.25,
+        181,
+        135
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1205.27505,
+        247.10055
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/966356819b9378883b27.tscn",
+      "bounds": [
+        -26.64,
+        -19.23,
+        45,
+        58
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1185.93554,
+        276.92144
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1208.70364,
+        281.46036
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/07fed2ed1b5a29872b6c.tscn",
+      "bounds": [
+        -272.20490234812274,
+        -517.7716,
+        594.7437391607199,
+        689
+      ],
+      "transform": [
+        0.572,
+        0.0,
+        0.0,
+        0.572,
+        2072.25415,
+        270.20415
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.312,
+        0.0,
+        0.0,
+        0.312,
+        2558.89095,
+        86.17147
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f110a57bad1f4c061cdc.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2530.62375,
+        94.89265
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        2530.62414,
+        45.03739
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2488.42393,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2451.42385,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2429.2075,
+        136.71755
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2570.99668,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        2606.58925,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2415.49913,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2378.49905,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.312,
+        0.0,
+        0.0,
+        0.312,
+        3006.8352,
+        86.17147
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2978.568,
+        94.89265
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        2978.568,
+        54.51322
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2939.08388,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2902.0838,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3126.19145,
+        94.89265
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        3090.59927,
+        118.90573
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3017.23403,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        3052.8266,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2864.41578,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2827.4157,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2850.2658,
+        163.89327
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2642.96533,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        2678.5579,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2340.01593,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2303.01585,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3090.59888,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        3126.19145,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        2789.6416,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2716.1188,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/faedeea42c62102579f0.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        2752.8802,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        2752.8802,
+        170.60387
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        2770.70983,
+        172.85495
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2735.56888,
+        163.11275
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow1",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8105a4964040f594852c.tscn",
+      "bounds": [
+        -653.39775,
+        -538.2729,
+        1294,
+        846
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        3477.1973,
+        242.65195
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3166.05647,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3203.05655,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/148ca7dd81730b98ee12.tscn",
+      "bounds": [
+        -248.19,
+        -500.3116329310951,
+        531.4316875936343,
+        850.8716329310951
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4288.08725,
+        113.23955
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.312,
+        0.0,
+        0.0,
+        0.312,
+        3999.2136,
+        86.17147
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f110a57bad1f4c061cdc.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3970.9464,
+        94.89265
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        3970.9464,
+        44.19304
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        3928.74658,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3891.7465,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3869.53015,
+        136.71755
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3934.62232,
+        167.30447
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        3970.2145,
+        191.31755
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4011.31933,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        4046.9119,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4011.23912,
+        213.14377
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        4046.8313,
+        237.15685
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        3855.82178,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3818.8217,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.312,
+        0.0,
+        0.0,
+        0.312,
+        4447.15785,
+        86.17147
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4418.89065,
+        94.89265
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        4418.89065,
+        53.66887
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4379.40588,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4342.4058,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8105a4964040f594852c.tscn",
+      "bounds": [
+        -653.39775,
+        -538.2729,
+        1294,
+        846
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4913.61865,
+        235.45125
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4457.55668,
+        120.51422
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        4493.14925,
+        138.7241
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4304.73778,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4267.7377,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4290.5878,
+        163.89327
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4083.28798,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        4118.88055,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        3780.33858,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        3743.3385,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4530.92153,
+        163.07622
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        4566.5141,
+        181.2861
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4229.9636,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4156.4408,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge1",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/faedeea42c62102579f0.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4193.2022,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e768a02ef219848dcb0a.tscn",
+      "bounds": [
+        -100.83,
+        -166.71,
+        308.8251438714713,
+        212
+      ],
+      "transform": [
+        0.429,
+        0.0,
+        0.0,
+        0.429,
+        4193.20259,
+        174.3701
+      ],
+      "parallax": 1.0,
+      "source_node": "hat",
+      "source_armature": "Hat"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        4211.03183,
+        172.85495
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow0",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c83b422a284465d0b543.tscn",
+      "bounds": [
+        -1.8099999999999987,
+        -42.230000000000004,
+        44,
+        45
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4175.89088,
+        163.11275
+      ],
+      "parallax": 1.0,
+      "source_node": "arrow1",
+      "source_armature": "Arrow"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        4606.37912,
+        205.46597
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e53171881890402323cf.tscn",
+      "bounds": [
+        -119.41,
+        -146.06,
+        236,
+        419
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4643.3792,
+        223.67585
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/148ca7dd81730b98ee12.tscn",
+      "bounds": [
+        -248.19,
+        -500.3116329310951,
+        531.4316875936343,
+        850.8716329310951
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        2530.44565,
+        258.28055
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1797.76825,
+        302.94205
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b865670dfd15b2ff560d.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        71
+      ],
+      "transform": [
+        0.3575,
+        0.0,
+        0.0,
+        0.3575,
+        1837.58693,
+        318.1722
+      ],
+      "parallax": 1.0,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/164db343feee62aaa6a9.tscn",
+      "bounds": [
+        -66.45,
+        -10.02,
+        74,
+        48
+      ],
+      "transform": [
+        0.46475,
+        0.0,
+        0.0,
+        0.46475,
+        1884.88993,
+        351.29796
+      ],
+      "parallax": 1.0,
+      "source_node": "root0",
+      "source_armature": "Root1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/946f823e58abe2e6eba4.tscn",
+      "bounds": [
+        -99.21,
+        -50.489999999999995,
+        189,
+        158
+      ],
+      "transform": [
+        0.507,
+        0.0,
+        0.0,
+        0.507,
+        1902.0016,
+        320.0
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4449.86198,
+        167.30447
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4414.2698,
+        191.31755
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        0.468,
+        0.0,
+        0.0,
+        0.468,
+        4372.38913,
+        213.14377
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        0.351,
+        0.0,
+        0.0,
+        0.351,
+        4336.79695,
+        237.15685
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/09aaca7b9151e7660877.tscn",
+      "bounds": [
+        -248.19,
+        -500.3116329310951,
+        531.4316875936343,
+        850.8716329310951
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4491.8642,
+        276.1601
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "MainPotion"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        2943.39208,
+        168.79167
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        2978.98465,
+        187.00155
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/613645600a350298bed8.tscn",
+      "bounds": [
+        -57.34,
+        -34.93,
+        113,
+        80
+      ],
+      "transform": [
+        -0.468,
+        0.0,
+        0.0,
+        0.468,
+        3016.75693,
+        211.35367
+      ],
+      "parallax": 1.0,
+      "source_node": "bridge0",
+      "source_armature": "Bridge"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/24d7c8b403b5d5fc6fac.tscn",
+      "bounds": [
+        -111.21,
+        -68.82,
+        223,
+        226
+      ],
+      "transform": [
+        -0.351,
+        0.0,
+        0.0,
+        0.351,
+        3052.3495,
+        229.56355
+      ],
+      "parallax": 1.0,
+      "source_node": "island0",
+      "source_armature": "Island3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        769.63774,
+        315.4279
+      ],
+      "parallax": 1.05,
+      "source_node": "float1",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b8808dfa88c0235687a.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        78.28000020980835
+      ],
+      "transform": [
+        0.47775,
+        0.0,
+        0.0,
+        0.455,
+        720.06094,
+        326.40835
+      ],
+      "parallax": 1.05,
+      "source_node": "float0",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        953.53327,
+        249.2709
+      ],
+      "parallax": 1.05,
+      "source_node": "float2",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        1115.18135,
+        196.8445
+      ],
+      "parallax": 1.05,
+      "source_node": "float3",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        1593.79471,
+        244.32895
+      ],
+      "parallax": 1.05,
+      "source_node": "float4",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        1667.51972,
+        286.187
+      ],
+      "parallax": 1.05,
+      "source_node": "float5",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6b014eaf738663b3441b.tscn",
+      "bounds": [
+        -18.06,
+        -11.51,
+        36,
+        38.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        1765.06331,
+        339.45515
+      ],
+      "parallax": 1.05,
+      "source_node": "float6",
+      "source_armature": "Float1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8ca23ac0d2b759b4e772.tscn",
+      "bounds": [
+        -47.94,
+        -33.93,
+        96,
+        81.28000020980835
+      ],
+      "transform": [
+        0.6825,
+        0.0,
+        0.0,
+        0.65,
+        2272.61194,
+        306.33115
+      ],
+      "parallax": 1.05,
+      "source_node": "float7",
+      "source_armature": "Float2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b8808dfa88c0235687a.tscn",
+      "bounds": [
+        -47.93,
+        -33.38,
+        94,
+        78.28000020980835
+      ],
+      "transform": [
+        0.6825,
+        0.0,
+        0.0,
+        0.65,
+        2333.61174,
+        317.5027
+      ],
+      "parallax": 1.05,
+      "source_node": "float8",
+      "source_armature": "Float0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2513.48393,
+        227.94245
+      ],
+      "parallax": 1.05,
+      "source_node": "float9",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2528.20204,
+        267.7335
+      ],
+      "parallax": 1.05,
+      "source_node": "float10",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2551.46642,
+        307.52455
+      ],
+      "parallax": 1.05,
+      "source_node": "float11",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2613.66265,
+        300.7418
+      ],
+      "parallax": 1.05,
+      "source_node": "float12",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2695.32446,
+        237.89005
+      ],
+      "parallax": 1.05,
+      "source_node": "float13",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2871.94249,
+        165.0907
+      ],
+      "parallax": 1.05,
+      "source_node": "float14",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2724.36142,
+        187.699
+      ],
+      "parallax": 1.05,
+      "source_node": "float15",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        2926.54181,
+        213.92455
+      ],
+      "parallax": 1.05,
+      "source_node": "float16",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        3049.80335,
+        264.3093
+      ],
+      "parallax": 1.05,
+      "source_node": "float17",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        3352.06895,
+        303.65705
+      ],
+      "parallax": 1.05,
+      "source_node": "float18",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        3577.56695,
+        301.4308
+      ],
+      "parallax": 1.05,
+      "source_node": "float19",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        3324.73892,
+        172.7464
+      ],
+      "parallax": 1.05,
+      "source_node": "float20",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        3657.10277,
+        279.0162
+      ],
+      "parallax": 1.05,
+      "source_node": "float21",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4130.20495,
+        267.7335
+      ],
+      "parallax": 1.05,
+      "source_node": "float22",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4153.46933,
+        307.52455
+      ],
+      "parallax": 1.05,
+      "source_node": "float23",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4215.66555,
+        300.7418
+      ],
+      "parallax": 1.05,
+      "source_node": "float24",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4420.61484,
+        320.7449
+      ],
+      "parallax": 1.05,
+      "source_node": "float25",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4473.94539,
+        165.0907
+      ],
+      "parallax": 1.05,
+      "source_node": "float26",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4415.07226,
+        187.699
+      ],
+      "parallax": 1.05,
+      "source_node": "float27",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4506.4126,
+        272.27375
+      ],
+      "parallax": 1.05,
+      "source_node": "float28",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4651.80626,
+        264.3093
+      ],
+      "parallax": 1.05,
+      "source_node": "float29",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4818.46115,
+        235.80875
+      ],
+      "parallax": 1.05,
+      "source_node": "float30",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        5179.56985,
+        301.4308
+      ],
+      "parallax": 1.05,
+      "source_node": "float31",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        4926.74183,
+        172.7464
+      ],
+      "parallax": 1.05,
+      "source_node": "float32",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8654840e0cf6fca6cd8b.tscn",
+      "bounds": [
+        -18.25,
+        -16.81,
+        35,
+        48.28000020980835
+      ],
+      "transform": [
+        0.546,
+        0.0,
+        0.0,
+        0.52,
+        5259.10567,
+        279.0162
+      ],
+      "parallax": 1.05,
+      "source_node": "float33",
+      "source_armature": "Float5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ea9cf1f4262e41b62ce0.tscn",
+      "bounds": [
+        -193,
+        -33,
+        386,
+        66
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2472.05342,
+        299.37095
+      ],
+      "parallax": 1.1,
+      "source_node": "cloud3",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/121cf6956e26dcf11953.tscn",
+      "bounds": [
+        -193,
+        -35,
+        386,
+        70
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3526.53555,
+        324.00205
+      ],
+      "parallax": 1.2,
+      "source_node": "cloud2",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4d8a149686f452c326b5.tscn",
+      "bounds": [
+        -90.5,
+        -34.5,
+        181,
+        69
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        603.29315,
+        324.9816
+      ],
+      "parallax": 1.3,
+      "source_node": "cloud1",
+      "source_armature": "Cloud0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ea9cf1f4262e41b62ce0.tscn",
+      "bounds": [
+        -193,
+        -33,
+        386,
+        66
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        6164.13571,
+        300.13665
+      ],
+      "parallax": 1.4,
+      "source_node": "cloud4",
+      "source_armature": "Cloud1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.455,
+        5028.73111,
+        393.7906
+      ],
+      "parallax": 1.3,
+      "source_node": "c0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        4845.92641,
+        389.1431
+      ],
+      "parallax": 1.3,
+      "source_node": "c1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.65,
+        5607.08096,
+        387.6988
+      ],
+      "parallax": 1.3,
+      "source_node": "c2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        5793.54647,
+        401.4034
+      ],
+      "parallax": 1.3,
+      "source_node": "c5",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.845,
+        5247.44636,
+        382.8134
+      ],
+      "parallax": 1.3,
+      "source_node": "c4",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        5426.66501,
+        399.2792
+      ],
+      "parallax": 1.3,
+      "source_node": "c3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.65,
+        6675.91756,
+        393.7906
+      ],
+      "parallax": 1.3,
+      "source_node": "c9",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.715,
+        0.0,
+        0.0,
+        0.65,
+        5986.93186,
+        393.7906
+      ],
+      "parallax": 1.3,
+      "source_node": "c6",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.845,
+        0.0,
+        0.0,
+        0.39,
+        6439.11996,
+        400.1944
+      ],
+      "parallax": 1.3,
+      "source_node": "c8",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.39,
+        6209.45871,
+        400.1944
+      ],
+      "parallax": 1.3,
+      "source_node": "c7",
+      "source_armature": "Clouds"
+    }
+  ],
+  "source": {
+    "prefab": "DarkWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

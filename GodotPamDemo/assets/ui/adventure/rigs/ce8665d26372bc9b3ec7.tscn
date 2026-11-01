@@ -1,0 +1,65 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/785aae1d-422e-4db9-8ea3-95d351e64b22.png" id="atlas"]
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(0.5367, 0, 0, 0.8243, -47.53475, 5.81845)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1059, 676, 185, 117)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(0.5425, 0, 0, 0.647, -56.33, -19.0075)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1059, 795, 208, 85)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(0.776321, 0, 0, 0.928094, -46.933922, -16.11709)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1484, 77, 124, 70)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(0.667, 0, 0, 0.7974, -10.63198, 53.37333)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(953, 2010, 61, 35)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(0.47357, 0, 0, 0.310986, -1.531899, 34.826484)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1671, 50, 13, 19)
+
+[node name="Part_5" type="Sprite2D" parent="."]
+transform = Transform2D(0.18676, 0, 0, 0.223272, 13.929128, 4.444627)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1395, 648, 23, 16)
+

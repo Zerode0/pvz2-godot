@@ -1,0 +1,100 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/plant_card.gd" id="script"]
+[ext_resource type="Texture2D" path="res://assets/Sun.png" id="sun"]
+
+[sub_resource type="StyleBoxFlat" id="normal"]
+bg_color = Color(0.93, 0.88, 0.66, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 4
+border_color = Color(0.41, 0.43, 0.23, 1)
+corner_radius_top_left = 9
+corner_radius_top_right = 9
+corner_radius_bottom_left = 9
+corner_radius_bottom_right = 9
+
+[sub_resource type="StyleBoxFlat" id="selected"]
+bg_color = Color(0.86, 0.94, 0.61, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 4
+border_color = Color(0.29, 0.49, 0.18, 1)
+corner_radius_top_left = 9
+corner_radius_top_right = 9
+corner_radius_bottom_left = 9
+corner_radius_bottom_right = 9
+
+[sub_resource type="StyleBoxFlat" id="focus"]
+bg_color = Color(0, 0, 0, 0)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.78, 0.2, 1)
+corner_radius_top_left = 9
+corner_radius_top_right = 9
+corner_radius_bottom_left = 9
+corner_radius_bottom_right = 9
+expand_margin_left = 3.0
+expand_margin_top = 3.0
+expand_margin_right = 3.0
+expand_margin_bottom = 3.0
+
+[node name="PlantCard" type="Button"]
+custom_minimum_size = Vector2(104, 154)
+offset_right = 104.0
+offset_bottom = 154.0
+mouse_default_cursor_shape = 2
+toggle_mode = true
+theme_override_styles/normal = SubResource("normal")
+theme_override_styles/hover = SubResource("selected")
+theme_override_styles/pressed = SubResource("selected")
+theme_override_styles/hover_pressed = SubResource("selected")
+theme_override_styles/focus = SubResource("focus")
+script = ExtResource("script")
+
+[node name="CardTitle" type="Label" parent="."]
+unique_name_in_owner = true
+offset_left = 4.0
+offset_top = 7.0
+offset_right = 100.0
+offset_bottom = 30.0
+mouse_filter = 2
+theme_override_colors/font_color = Color(0.17, 0.24, 0.12, 1)
+theme_override_font_sizes/font_size = 15
+text = "植物"
+horizontal_alignment = 1
+
+[node name="Portrait" type="TextureRect" parent="."]
+unique_name_in_owner = true
+offset_left = 7.0
+offset_top = 31.0
+offset_right = 97.0
+offset_bottom = 119.0
+mouse_filter = 2
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Sun" type="TextureRect" parent="."]
+offset_left = 22.0
+offset_top = 124.0
+offset_right = 44.0
+offset_bottom = 146.0
+mouse_filter = 2
+texture = ExtResource("sun")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="CardCost" type="Label" parent="."]
+unique_name_in_owner = true
+offset_left = 48.0
+offset_top = 123.0
+offset_right = 96.0
+offset_bottom = 148.0
+mouse_filter = 2
+theme_override_colors/font_color = Color(0.18, 0.23, 0.12, 1)
+theme_override_font_sizes/font_size = 18
+text = "50"

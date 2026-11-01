@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="PamAnimationAsset" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/pam_animation_asset.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+pam_path = "res://assets/animations/peashooter/PEASHOOTER.pam.json"
+compiled_path = "res://assets/animations/peashooter/PEASHOOTER.compiled.json"
+texture_directory = "res://assets/animations/peashooter/images"
+default_clip = "idle"
+origin = Vector2(195, 232)
+explode_origin = Vector2(195, 178)
+hidden_sprite_prefixes = PackedStringArray("custom_", "gatlingpea_")
+hidden_sprite_names = PackedStringArray("_custom")

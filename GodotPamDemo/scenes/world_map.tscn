@@ -1,0 +1,409 @@
+[gd_scene load_steps=14 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/world_map.gd" id="script"]
+[ext_resource type="Script" path="res://scripts/ui/map_pan_view.gd" id="pan"]
+[ext_resource type="Texture2D" path="res://assets/Frontyard.png" id="preview"]
+[ext_resource type="Texture2D" path="res://assets/ui/login/PlayButton_normal.png" id="button"]
+[ext_resource type="Texture2D" path="res://assets/ui/login/PlayButton_hover.png" id="button_hover"]
+
+[sub_resource type="SystemFont" id="font"]
+font_names = PackedStringArray("Microsoft YaHei UI", "Microsoft YaHei", "Trebuchet MS")
+
+[sub_resource type="Gradient" id="sky_gradient"]
+offsets = PackedFloat32Array(0, 0.6, 1)
+colors = PackedColorArray(0.12, 0.43, 0.52, 1, 0.27, 0.66, 0.67, 1, 0.63, 0.8, 0.69, 1)
+
+[sub_resource type="GradientTexture2D" id="sky"]
+gradient = SubResource("sky_gradient")
+fill_from = Vector2(0, 0)
+fill_to = Vector2(0.2, 1)
+
+[sub_resource type="StyleBoxTexture" id="play_normal"]
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+texture = ExtResource("button")
+texture_margin_left = 24.0
+texture_margin_top = 24.0
+texture_margin_right = 24.0
+texture_margin_bottom = 24.0
+
+[sub_resource type="StyleBoxTexture" id="play_hover"]
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+texture = ExtResource("button_hover")
+texture_margin_left = 24.0
+texture_margin_top = 24.0
+texture_margin_right = 24.0
+texture_margin_bottom = 24.0
+
+[sub_resource type="StyleBoxFlat" id="paper"]
+bg_color = Color(0.97, 0.94, 0.8, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 5
+border_color = Color(0.33, 0.4, 0.24, 1)
+corner_radius_top_left = 18
+corner_radius_top_right = 18
+corner_radius_bottom_left = 18
+corner_radius_bottom_right = 18
+shadow_color = Color(0.05, 0.18, 0.17, 0.22)
+shadow_size = 10
+shadow_offset = Vector2(0, 8)
+
+[sub_resource type="StyleBoxFlat" id="small_button"]
+bg_color = Color(0.1, 0.28, 0.28, 0.82)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.66, 0.82, 0.65, 0.65)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_left = 12
+corner_radius_bottom_right = 12
+
+[sub_resource type="StyleBoxFlat" id="focus"]
+bg_color = Color(1, 1, 1, 0)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(1, 0.94, 0.59, 1)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_left = 16
+corner_radius_bottom_right = 16
+expand_margin_left = 4.0
+expand_margin_top = 4.0
+expand_margin_right = 4.0
+expand_margin_bottom = 4.0
+
+[node name="WorldMap" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+clip_contents = true
+theme_override_fonts/font = SubResource("font")
+script = ExtResource("script")
+
+[node name="Backdrop" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = SubResource("sky")
+expand_mode = 1
+
+[node name="ReferenceCanvas" type="Control" parent="."]
+layout_mode = 0
+offset_right = 1024.0
+offset_bottom = 640.0
+scale = Vector2(1.40625, 1.40625)
+mouse_filter = 2
+
+[node name="BackButton" type="Button" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 32.0
+offset_top = 30.0
+offset_right = 176.0
+offset_bottom = 80.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 20
+theme_override_colors/font_color = Color(0.98, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("small_button")
+theme_override_styles/hover = SubResource("small_button")
+theme_override_styles/pressed = SubResource("small_button")
+theme_override_styles/focus = SubResource("focus")
+text = "‹  主菜单"
+
+[node name="PageTitle" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 208.0
+offset_top = 21.0
+offset_right = 708.0
+offset_bottom = 71.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 34
+theme_override_colors/font_color = Color(1, 0.97, 0.81, 1)
+theme_override_colors/font_shadow_color = Color(0.07, 0.22, 0.21, 0.8)
+theme_override_constants/shadow_offset_y = 3
+text = "选择世界"
+
+[node name="Breadcrumb" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 210.0
+offset_top = 72.0
+offset_right = 760.0
+offset_bottom = 103.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 14
+theme_override_colors/font_color = Color(0.82, 0.93, 0.84, 1)
+text = "冒险之旅  /  世界"
+
+[node name="PlantPreviewButton" type="Button" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 818.0
+offset_top = 42.0
+offset_right = 984.0
+offset_bottom = 78.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 17
+theme_override_colors/font_color = Color(0.86, 0.94, 0.8, 1)
+theme_override_styles/normal = SubResource("small_button")
+theme_override_styles/hover = SubResource("small_button")
+theme_override_styles/pressed = SubResource("small_button")
+theme_override_styles/focus = SubResource("focus")
+text = "植物图鉴"
+alignment = 1
+
+[node name="WorldsView" type="Control" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 1024.0
+offset_bottom = 640.0
+mouse_filter = 2
+
+[node name="WorldCarousel" type="Control" parent="ReferenceCanvas/WorldsView"]
+unique_name_in_owner = true
+offset_left = 0.0
+offset_top = 116.0
+offset_right = 1024.0
+offset_bottom = 449.0
+clip_contents = true
+script = ExtResource("pan")
+
+[node name="PreviousWorld" type="Button" parent="ReferenceCanvas/WorldsView"]
+offset_left = 32.0
+offset_top = 265.0
+offset_right = 88.0
+offset_bottom = 321.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 21
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("small_button")
+theme_override_styles/hover = SubResource("small_button")
+theme_override_styles/pressed = SubResource("small_button")
+theme_override_styles/focus = SubResource("focus")
+text = "‹"
+
+[node name="NextWorld" type="Button" parent="ReferenceCanvas/WorldsView"]
+offset_left = 936.0
+offset_top = 265.0
+offset_right = 992.0
+offset_bottom = 321.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 21
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("small_button")
+theme_override_styles/hover = SubResource("small_button")
+theme_override_styles/pressed = SubResource("small_button")
+theme_override_styles/focus = SubResource("focus")
+text = "›"
+
+[node name="WorldTitle" type="Label" parent="ReferenceCanvas/WorldsView"]
+unique_name_in_owner = true
+offset_left = 46.0
+offset_top = 466.0
+offset_right = 700.0
+offset_bottom = 520.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 34
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+text = "前院"
+
+[node name="WorldDescription" type="Label" parent="ReferenceCanvas/WorldsView"]
+unique_name_in_owner = true
+offset_left = 48.0
+offset_top = 524.0
+offset_right = 700.0
+offset_bottom = 585.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 18
+theme_override_colors/font_color = Color(0.14, 0.31, 0.24, 1)
+text = "冒险从家门口开始。"
+autowrap_mode = 3
+
+[node name="WorldCount" type="Label" parent="ReferenceCanvas/WorldsView"]
+unique_name_in_owner = true
+offset_left = 800.0
+offset_top = 473.0
+offset_right = 976.0
+offset_bottom = 511.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 18
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+text = "01 / 01"
+horizontal_alignment = 2
+
+[node name="EnterWorldButton" type="Button" parent="ReferenceCanvas/WorldsView"]
+unique_name_in_owner = true
+offset_left = 732.0
+offset_top = 526.0
+offset_right = 982.0
+offset_bottom = 598.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 21
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("play_normal")
+theme_override_styles/hover = SubResource("play_hover")
+theme_override_styles/pressed = SubResource("play_hover")
+theme_override_styles/focus = SubResource("focus")
+text = "进入世界  ›"
+
+[node name="CarouselHint" type="Label" parent="ReferenceCanvas/WorldsView"]
+offset_left = 48.0
+offset_top = 605.0
+offset_right = 970.0
+offset_bottom = 637.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 14
+theme_override_colors/font_color = Color(0.16, 0.35, 0.29, 1)
+text = "左右拖动或滚轮切换世界 · 方向键选择 · Enter 确认"
+
+[node name="LevelsView" type="Control" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 1024.0
+offset_bottom = 640.0
+visible = false
+mouse_filter = 2
+
+[node name="MapViewport" type="Control" parent="ReferenceCanvas/LevelsView"]
+unique_name_in_owner = true
+offset_left = 0.0
+offset_top = 108.0
+offset_right = 1024.0
+offset_bottom = 505.0
+clip_contents = true
+script = ExtResource("pan")
+
+[node name="LocateButton" type="Button" parent="ReferenceCanvas/LevelsView"]
+unique_name_in_owner = true
+z_index = 4090
+offset_left = 816.0
+offset_top = 90.0
+offset_right = 992.0
+offset_bottom = 124.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 21
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("small_button")
+theme_override_styles/hover = SubResource("small_button")
+theme_override_styles/pressed = SubResource("small_button")
+theme_override_styles/focus = SubResource("focus")
+text = "定位所选关卡"
+
+[node name="MapSlider" type="HSlider" parent="ReferenceCanvas/LevelsView"]
+unique_name_in_owner = true
+offset_left = 280.0
+offset_top = 510.0
+offset_right = 744.0
+offset_bottom = 527.0
+mouse_default_cursor_shape = 2
+step = 1.0
+focus_mode = 0
+
+[node name="LevelDetails" type="Panel" parent="ReferenceCanvas/LevelsView"]
+offset_left = 24.0
+offset_top = 530.0
+offset_right = 1000.0
+offset_bottom = 622.0
+mouse_filter = 0
+theme_override_styles/panel = SubResource("paper")
+
+[node name="Preview" type="TextureRect" parent="ReferenceCanvas/LevelsView/LevelDetails"]
+unique_name_in_owner = true
+offset_left = 12.0
+offset_top = 12.0
+offset_right = 116.0
+offset_bottom = 78.0
+mouse_filter = 2
+texture = ExtResource("preview")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="LevelNumber" type="Label" parent="ReferenceCanvas/LevelsView/LevelDetails"]
+unique_name_in_owner = true
+offset_left = 132.0
+offset_top = 7.0
+offset_right = 358.0
+offset_bottom = 28.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 13
+theme_override_colors/font_color = Color(0.38, 0.49, 0.22, 1)
+text = "前院 / 可挑战"
+
+[node name="LevelTitle" type="Label" parent="ReferenceCanvas/LevelsView/LevelDetails"]
+unique_name_in_owner = true
+offset_left = 130.0
+offset_top = 30.0
+offset_right = 360.0
+offset_bottom = 74.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 23
+theme_override_colors/font_color = Color(0.19, 0.3, 0.16, 1)
+text = "前院 · 第1关"
+
+[node name="LevelDescription" type="Label" parent="ReferenceCanvas/LevelsView/LevelDetails"]
+unique_name_in_owner = true
+offset_left = 365.0
+offset_top = 13.0
+offset_right = 700.0
+offset_bottom = 80.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 15
+theme_override_colors/font_color = Color(0.35, 0.4, 0.28, 1)
+text = "种下植物，收集阳光。挡住三波来袭的僵尸！"
+autowrap_mode = 3
+vertical_alignment = 1
+
+[node name="StartLevelButton" type="Button" parent="ReferenceCanvas/LevelsView/LevelDetails"]
+unique_name_in_owner = true
+offset_left = 722.0
+offset_top = 13.0
+offset_right = 958.0
+offset_bottom = 79.0
+mouse_default_cursor_shape = 2
+theme_override_font_sizes/font_size = 21
+theme_override_colors/font_color = Color(1, 0.97, 0.83, 1)
+theme_override_styles/normal = SubResource("play_normal")
+theme_override_styles/hover = SubResource("play_hover")
+theme_override_styles/pressed = SubResource("play_hover")
+theme_override_styles/focus = SubResource("focus")
+text = "开始关卡  ›"
+
+[node name="StatusLabel" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+offset_left = 200.0
+offset_top = 605.0
+offset_right = 824.0
+offset_bottom = 638.0
+mouse_filter = 2
+theme_override_font_sizes/font_size = 15
+theme_override_colors/font_color = Color(0.63, 0.18, 0.12, 1)
+text = ""
+visible = false
+horizontal_alignment = 1
+
+[connection signal="resized" from="." to="." method="_fit_reference_canvas"]
+
+[connection signal="pressed" from="ReferenceCanvas/PlantPreviewButton" to="." method="open_plant_preview"]
+[connection signal="pressed" from="ReferenceCanvas/BackButton" to="." method="_on_back"]
+[connection signal="pressed" from="ReferenceCanvas/WorldsView/EnterWorldButton" to="." method="_on_enter_world"]
+[connection signal="pressed" from="ReferenceCanvas/WorldsView/PreviousWorld" to="." method="_on_previous_world"]
+[connection signal="pressed" from="ReferenceCanvas/WorldsView/NextWorld" to="." method="_on_next_world"]
+[connection signal="pressed" from="ReferenceCanvas/LevelsView/LocateButton" to="." method="_on_locate"]
+[connection signal="pressed" from="ReferenceCanvas/LevelsView/LevelDetails/StartLevelButton" to="." method="_on_start_level"]

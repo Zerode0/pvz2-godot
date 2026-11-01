@@ -1,0 +1,1 @@
+{"files":["pam_viewer_worker_bg.wasm","pam_viewer_worker.js","pam_viewer_worker.d.ts"],"license":"AGPL-3.0-or-later","main":"pam_viewer_worker.js","name":"pam_viewer_worker","repository":{"type":"git","url":"https://github.com/LambdaEd1th/pam-viewer"},"sideEffects":["./snippets/*"],"type":"module","types":"pam_viewer_worker.d.ts","version":"0.1.1"}

@@ -1,0 +1,65 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/ac3a9595-fcf4-4669-9db6-ad6252e64739.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 0.133333
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_3:transform")
+tracks/0/interp = 1
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(1, 0, 0, 1, -100.83, -23.86), Transform2D(1, 0, 0, 1, -100.83, -23.86), Transform2D(1.0473, 0, 0, 1.0473, -99.62985, -23.4479), Transform2D(1.0473, 0, 0, 1.0473, -99.62985, -23.4479), Transform2D(1, 0, 0, 1, -100.83, -23.86)]}
+
+tracks/1/type = "value"
+tracks/1/path = NodePath("Part_3:region_rect")
+tracks/1/interp = 0
+tracks/1/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [Rect2(1412, 1580, 199, 49), Rect2(1412, 1580, 199, 49), Rect2(1412, 1631, 189, 46), Rect2(1412, 1631, 189, 46), Rect2(1412, 1580, 199, 49)]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(-2.959536, 0, 0, -3.008359, 60.67048, 215.383293)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1222, 64, 40, 39)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(-2.602247, 0, 0, -2.645176, 41.635954, 181.316511)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1040, 1638, 32, 32)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -168.5, -78.38)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(665, 1044, 337, 236)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -100.83, -23.86)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1412, 1580, 199, 49)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

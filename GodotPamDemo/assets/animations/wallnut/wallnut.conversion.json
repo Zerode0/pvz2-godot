@@ -1,0 +1,18 @@
+{
+  "tool": "LambdaEd1th/pam-viewer",
+  "version": "v0.1.1",
+  "source": "wallnut.pam",
+  "source_sha256": "0ef2a61e023225f198d9849b4dfb9aea9608a49ea8cd5cfd500b31db3b6d035b",
+  "images": 35,
+  "sprites": 35,
+  "main_frames": 1074,
+  "frame_rate": 30,
+  "loaded_images": 35,
+  "missing_images": [],
+  "content_bounds": {
+    "x": 108.67058563232422,
+    "y": 75.54927062988281,
+    "width": 174.92681884765625,
+    "height": 190.0485076904297
+  }
+}

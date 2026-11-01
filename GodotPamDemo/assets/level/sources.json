@@ -1,0 +1,137 @@
+[
+  {
+    "asset": "Sunflower",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_052903_images_1536_initial_UI_packets_sunflower.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\UI\\packets\\sunflower",
+        "resource_id": "IMAGE_UI_PACKETS_SUNFLOWER",
+        "atlas": "ATLASES/UI_SEEDPACKETS_1536_00.PTX",
+        "width": "138",
+        "height": "136"
+      }
+    ]
+  },
+  {
+    "asset": "Peashooter",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_052836_images_1536_initial_UI_packets_peashooter.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\UI\\packets\\peashooter",
+        "resource_id": "IMAGE_UI_PACKETS_PEASHOOTER",
+        "atlas": "ATLASES/UI_SEEDPACKETS_1536_00.PTX",
+        "width": "158",
+        "height": "131"
+      }
+    ]
+  },
+  {
+    "asset": "Wallnut",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_052935_images_1536_initial_UI_packets_wallnut.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\UI\\packets\\wallnut",
+        "resource_id": "IMAGE_UI_PACKETS_WALLNUT",
+        "atlas": "ATLASES/UI_SEEDPACKETS_1536_00.PTX",
+        "width": "132",
+        "height": "131"
+      }
+    ]
+  },
+  {
+    "asset": "Zombie",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_054097_images_1536_initial_UI_almanac_packets_zombies_tutorial.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\UI\\almanac\\packets_zombies\\tutorial",
+        "resource_id": "IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL",
+        "atlas": "ATLASES/UI_ZOMBIEPACKETS_1536_00.PTX",
+        "width": "122",
+        "height": "204"
+      }
+    ]
+  },
+  {
+    "asset": "Pea",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_004334_images_1536_initial_ProjectilePea.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\ProjectilePea",
+        "resource_id": "IMAGE_PROJECTILEPEA",
+        "atlas": "ATLASES/LEVELCOMMON_1536_00.PTX",
+        "width": "62",
+        "height": "57"
+      }
+    ]
+  },
+  {
+    "asset": "Shovel",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_047743_images_1536_initial_UI_hud_ingame_shovel_icon.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\UI\\hud_ingame\\shovel_icon",
+        "resource_id": "IMAGE_UI_HUD_INGAME_SHOVEL_ICON",
+        "atlas": "ATLASES/UI_ALWAYSLOADED_1536_00.PTX",
+        "width": "265",
+        "height": "151"
+      }
+    ]
+  },
+  {
+    "asset": "MowerBody",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_003274_images_1536_initial_mowers_mower_tutorial_mower_tutorial_110x65.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\mowers\\mower_tutorial\\mower_tutorial_110x65",
+        "resource_id": "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_110X65",
+        "atlas": "ATLASES/FRONTLAWNMOWERGROUP_1536_00.PTX",
+        "width": "141",
+        "height": "83"
+      }
+    ]
+  },
+  {
+    "asset": "MowerHandle",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_003286_images_1536_initial_mowers_mower_tutorial_mower_tutorial_65x103.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\mowers\\mower_tutorial\\mower_tutorial_65x103",
+        "resource_id": "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_65X103",
+        "atlas": "ATLASES/FRONTLAWNMOWERGROUP_1536_00.PTX",
+        "width": "83",
+        "height": "132"
+      }
+    ]
+  },
+  {
+    "asset": "MowerWheel",
+    "operation": "copy",
+    "sources": [
+      {
+        "filename": "sprite_003283_images_1536_initial_mowers_mower_tutorial_mower_tutorial_49x49.png",
+        "type": "sprite",
+        "source": "images\\1536\\initial\\mowers\\mower_tutorial\\mower_tutorial_49x49",
+        "resource_id": "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_49X49",
+        "atlas": "ATLASES/FRONTLAWNMOWERGROUP_1536_00.PTX",
+        "width": "63",
+        "height": "63"
+      }
+    ]
+  }
+]

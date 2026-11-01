@@ -1,0 +1,18 @@
+{
+  "tool": "LambdaEd1th/pam-viewer",
+  "version": "v0.1.1",
+  "source": "ZOMBIE_ICEAGE_WEASELHOARDER.PAM",
+  "source_sha256": "00a1357718d916f6d657722ffc9e21a44312836a32795792303fb6bbb85b9efe",
+  "images": 70,
+  "sprites": 14,
+  "main_frames": 397,
+  "frame_rate": 30,
+  "loaded_images": 70,
+  "missing_images": [],
+  "content_bounds": {
+    "x": 79.46867370605469,
+    "y": 62.9304084777832,
+    "width": 269.63238525390625,
+    "height": 252.9980010986328
+  }
+}

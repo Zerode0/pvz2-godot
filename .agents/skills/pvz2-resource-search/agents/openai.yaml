@@ -1,0 +1,6 @@
+interface:
+  display_name: "Luna 资源查找"
+  short_description: "统一委派 Luna 并行查找项目资源，原生失败时使用 PAgent Luna"
+  default_prompt: "使用 $pvz2-resource-search 委派 Luna 查找本轮所需资源并核验结果。"
+policy:
+  allow_implicit_invocation: true

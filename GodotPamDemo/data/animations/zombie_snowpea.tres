@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="PamAnimationAsset" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/pam_animation_asset.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+pam_path = "res://assets/animations/zombie_snowpea/ZOMBIE_SNOWPEA.pam.json"
+compiled_path = "res://assets/animations/zombie_snowpea/ZOMBIE_SNOWPEA.compiled.json"
+texture_directory = "res://assets/animations/zombie_snowpea/images"
+default_clip = "walk"
+origin = Vector2(195, 250)
+explode_origin = Vector2(195, 220)
+hidden_sprite_names = PackedStringArray("butter", "ground_swatch", "ground_swatch_plane")

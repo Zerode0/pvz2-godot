@@ -1,0 +1,22 @@
+{
+  "runtime": "dragonbones-runtime@5.6.200",
+  "frame_rate": 30,
+  "clips": {
+    "idle": {
+      "frames": 132,
+      "duration": 4.4
+    },
+    "Spawn": {
+      "frames": 27,
+      "duration": 0.9
+    },
+    "Idle": {
+      "frames": 132,
+      "duration": 4.4
+    },
+    "Leave": {
+      "frames": 31,
+      "duration": 1.0333333333333334
+    }
+  }
+}

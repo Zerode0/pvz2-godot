@@ -1,0 +1,111 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/ui/loading_flower/UIAnimate_tex.png" id="texture"]
+[ext_resource type="PackedScene" path="res://scenes/ui/loading_flower_petals.tscn" id="petals"]
+
+[sub_resource type="Animation" id="animation_Spawn"]
+resource_name = "Spawn"
+length = 0.9
+tracks/0/type = "value"
+tracks/0/path = NodePath("flowerpieces:transform")
+tracks/0/interp = 0
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.01, 0, 0, 0.01, 0, 0), Transform2D(0.13, 0, 0, 0.13, 0, 0), Transform2D(0.512994, 0, 0, 0.512994, 0, 0), Transform2D(0.823052, 0, 0, 0.823052, 0, 0), Transform2D(1.057413, 0, 0, 1.057413, 0, 0), Transform2D(1.208166, 0, 0, 1.208166, 0, 0), Transform2D(1.27, 0, 0, 1.27, 0, 0), Transform2D(1.249931, 0, 0, 1.249931, 0, 0), Transform2D(1.201002, 0, 0, 1.201002, 0, 0), Transform2D(1.124938, 0, 0, 1.124938, 0, 0), Transform2D(1.024305, 0, 0, 1.024305, 0, 0), Transform2D(0.9, 0, 0, 0.9, 0, 0), Transform2D(0.933596, 0, 0, 0.933596, 0, 0), Transform2D(0.960794, 0, 0, 0.960794, 0, 0), Transform2D(0.981352, 0, 0, 0.981352, 0, 0), Transform2D(0.994576, 0, 0, 0.994576, 0, 0), Transform2D(1, 0, 0, 1, 0, 0)]}
+tracks/1/type = "value"
+tracks/1/path = NodePath("flowerpieces:modulate")
+tracks/1/interp = 0
+tracks/1/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/2/type = "value"
+tracks/2/path = NodePath("flowerpieces:visible")
+tracks/2/interp = 0
+tracks/2/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [true]}
+tracks/3/type = "value"
+tracks/3/path = NodePath("head:transform")
+tracks/3/interp = 0
+tracks/3/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.13, 0, 0, 0.13, -8.84, -8.84), Transform2D(0.512994, 0, 0, 0.512994, -34.883619, -34.883619), Transform2D(0.823052, 0, 0, 0.823052, -55.967508, -55.967508), Transform2D(1.057413, 0, 0, 1.057413, -71.904069, -71.904069), Transform2D(1.208166, 0, 0, 1.208166, -82.155314, -82.155314), Transform2D(1.27, 0, 0, 1.27, -86.359999, -86.359999), Transform2D(1.249931, 0, 0, 1.249931, -84.99532, -84.99532), Transform2D(1.201002, 0, 0, 1.201002, -81.668162, -81.668162), Transform2D(1.124938, 0, 0, 1.124938, -76.495769, -76.495769), Transform2D(1.024305, 0, 0, 1.024305, -69.652752, -69.652752), Transform2D(0.9, 0, 0, 0.9, -61.199998, -61.199998), Transform2D(0.933596, 0, 0, 0.933596, -63.484527, -63.484527), Transform2D(0.960794, 0, 0, 0.960794, -65.333991, -65.333991), Transform2D(0.981352, 0, 0, 0.981352, -66.731936, -66.731936), Transform2D(0.994576, 0, 0, 0.994576, -67.631168, -67.631168), Transform2D(1, 0, 0, 1, -68, -68)]}
+tracks/4/type = "value"
+tracks/4/path = NodePath("head:modulate")
+tracks/4/interp = 0
+tracks/4/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/5/type = "value"
+tracks/5/path = NodePath("head:visible")
+tracks/5/interp = 0
+tracks/5/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [true]}
+
+[sub_resource type="Animation" id="animation_Idle"]
+resource_name = "Idle"
+length = 4.4
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("flowerpieces:transform")
+tracks/0/interp = 0
+tracks/0/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Transform2D(1, 0, 0, 1, 0, 0)]}
+tracks/1/type = "value"
+tracks/1/path = NodePath("flowerpieces:modulate")
+tracks/1/interp = 0
+tracks/1/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/2/type = "value"
+tracks/2/path = NodePath("flowerpieces:visible")
+tracks/2/interp = 0
+tracks/2/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [true]}
+tracks/3/type = "value"
+tracks/3/path = NodePath("head:transform")
+tracks/3/interp = 0
+tracks/3/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Transform2D(1, 0, 0, 1, -68, -68)]}
+tracks/4/type = "value"
+tracks/4/path = NodePath("head:modulate")
+tracks/4/interp = 0
+tracks/4/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/5/type = "value"
+tracks/5/path = NodePath("head:visible")
+tracks/5/interp = 0
+tracks/5/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [true]}
+
+[sub_resource type="Animation" id="animation_Leave"]
+resource_name = "Leave"
+length = 1.033333
+tracks/0/type = "value"
+tracks/0/path = NodePath("flowerpieces:transform")
+tracks/0/interp = 0
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(1, 0, 0, 1, 0, 0), Transform2D(1.001748, 0, 0, 1.001748, 0, 0), Transform2D(1.007043, 0, 0, 1.007043, 0, 0), Transform2D(1.0166, 0, 0, 1.0166, 0, 0), Transform2D(1.031178, 0, 0, 1.031178, 0, 0), Transform2D(1.051442, 0, 0, 1.051442, 0, 0), Transform2D(1.07757, 0, 0, 1.07757, 0, 0), Transform2D(1.10849, 0, 0, 1.10849, 0, 0), Transform2D(1.14151, 0, 0, 1.14151, 0, 0), Transform2D(1.17243, 0, 0, 1.17243, 0, 0), Transform2D(1.198558, 0, 0, 1.198558, 0, 0), Transform2D(1.218822, 0, 0, 1.218822, 0, 0), Transform2D(1.2334, 0, 0, 1.2334, 0, 0), Transform2D(1.242957, 0, 0, 1.242957, 0, 0), Transform2D(1.248252, 0, 0, 1.248252, 0, 0), Transform2D(1.25, 0, 0, 1.25, 0, 0), Transform2D(1.234837, 0, 0, 1.234837, 0, 0), Transform2D(1.195006, 0, 0, 1.195006, 0, 0), Transform2D(1.133058, 0, 0, 1.133058, 0, 0), Transform2D(1.050718, 0, 0, 1.050718, 0, 0), Transform2D(0.949652, 0, 0, 0.949652, 0, 0), Transform2D(0.828411, 0, 0, 0.828411, 0, 0), Transform2D(0.690387, 0, 0, 0.690387, 0, 0), Transform2D(0.53571, 0, 0, 0.53571, 0, 0), Transform2D(0.363514, 0, 0, 0.363514, 0, 0), Transform2D(0.17, 0, 0, 0.17, 0, 0)]}
+tracks/1/type = "value"
+tracks/1/path = NodePath("flowerpieces:modulate")
+tracks/1/interp = 0
+tracks/1/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/2/type = "value"
+tracks/2/path = NodePath("flowerpieces:visible")
+tracks/2/interp = 0
+tracks/2/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [true]}
+tracks/3/type = "value"
+tracks/3/path = NodePath("head:transform")
+tracks/3/interp = 0
+tracks/3/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(1, 0, 0, 1, -68, -68), Transform2D(1.004165, 0, 0, 1.004165, -68.28322, -68.28322), Transform2D(1.017085, 0, 0, 1.017085, -69.16178, -69.16178), Transform2D(1.04113, 0, 0, 1.04113, -70.79684, -70.79684), Transform2D(1.0779, 0, 0, 1.0779, -73.2972, -73.2972), Transform2D(1.124975, 0, 0, 1.124975, -76.4983, -76.4983), Transform2D(1.1721, 0, 0, 1.1721, -79.7028, -79.7028), Transform2D(1.20887, 0, 0, 1.20887, -82.20316, -82.20316), Transform2D(1.232915, 0, 0, 1.232915, -83.83822, -83.83822), Transform2D(1.245835, 0, 0, 1.245835, -84.71678, -84.71678), Transform2D(1.25, 0, 0, 1.25, -85, -85), Transform2D(1.234837, 0, 0, 1.234837, -83.968902, -83.968902), Transform2D(1.195006, 0, 0, 1.195006, -81.260435, -81.260435), Transform2D(1.133058, 0, 0, 1.133058, -77.047917, -77.047917), Transform2D(1.050718, 0, 0, 1.050718, -71.448851, -71.448851), Transform2D(0.949652, 0, 0, 0.949652, -64.576336, -64.576336), Transform2D(0.828411, 0, 0, 0.828411, -56.331962, -56.331962), Transform2D(0.690387, 0, 0, 0.690387, -46.94633, -46.94633), Transform2D(0.53571, 0, 0, 0.53571, -36.428253, -36.428253), Transform2D(0.363514, 0, 0, 0.363514, -24.718979, -24.718979), Transform2D(0.17, 0, 0, 0.17, 0, 0)]}
+tracks/4/type = "value"
+tracks/4/path = NodePath("head:modulate")
+tracks/4/interp = 0
+tracks/4/keys = {"times": PackedFloat32Array(0), "transitions": PackedFloat32Array(1), "update": 0, "values": [Color(1, 1, 1, 1)]}
+tracks/5/type = "value"
+tracks/5/path = NodePath("head:visible")
+tracks/5/interp = 0
+tracks/5/keys = {"times": PackedFloat32Array(0, 0.666667), "transitions": PackedFloat32Array(1, 1), "update": 0, "values": [true, false]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {"Spawn": SubResource("animation_Spawn"), "Idle": SubResource("animation_Idle"), "Leave": SubResource("animation_Leave")}
+
+[node name="LoadingFlower" type="Node2D"]
+
+[node name="flowerpieces" parent="." instance=ExtResource("petals")]
+transform = Transform2D(0.01, 0, 0, 0.01, 0, 0)
+visible = true
+
+[node name="head" type="Sprite2D" parent="."]
+texture = ExtResource("texture")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1, 1, 136, 136)
+transform = Transform2D(0.13, 0, 0, 0.13, -8.84, -8.84)
+modulate = Color(1, 1, 1, 1)
+visible = true
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}

@@ -1,0 +1,1635 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/04ee9a11-fd56-4b52-ae53-c22145d1ddc2.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 2.666667
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_1:visible")
+tracks/0/interp = 0
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/1/type = "value"
+tracks/1/path = NodePath("Part_2:visible")
+tracks/1/interp = 0
+tracks/1/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/2/type = "value"
+tracks/2/path = NodePath("Part_3:visible")
+tracks/2/interp = 0
+tracks/2/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/3/type = "value"
+tracks/3/path = NodePath("Part_4:visible")
+tracks/3/interp = 0
+tracks/3/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/4/type = "value"
+tracks/4/path = NodePath("Part_5:visible")
+tracks/4/interp = 0
+tracks/4/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/5/type = "value"
+tracks/5/path = NodePath("Part_6:visible")
+tracks/5/interp = 0
+tracks/5/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/6/type = "value"
+tracks/6/path = NodePath("Part_7:visible")
+tracks/6/interp = 0
+tracks/6/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/7/type = "value"
+tracks/7/path = NodePath("Part_8:visible")
+tracks/7/interp = 0
+tracks/7/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/8/type = "value"
+tracks/8/path = NodePath("Part_9:visible")
+tracks/8/interp = 0
+tracks/8/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/9/type = "value"
+tracks/9/path = NodePath("Part_10:visible")
+tracks/9/interp = 0
+tracks/9/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/10/type = "value"
+tracks/10/path = NodePath("Part_11:visible")
+tracks/10/interp = 0
+tracks/10/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/11/type = "value"
+tracks/11/path = NodePath("Part_12:visible")
+tracks/11/interp = 0
+tracks/11/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/12/type = "value"
+tracks/12/path = NodePath("Part_13:visible")
+tracks/12/interp = 0
+tracks/12/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/13/type = "value"
+tracks/13/path = NodePath("Part_14:visible")
+tracks/13/interp = 0
+tracks/13/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/14/type = "value"
+tracks/14/path = NodePath("Part_15:visible")
+tracks/14/interp = 0
+tracks/14/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/15/type = "value"
+tracks/15/path = NodePath("Part_16:visible")
+tracks/15/interp = 0
+tracks/15/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/16/type = "value"
+tracks/16/path = NodePath("Part_17:visible")
+tracks/16/interp = 0
+tracks/16/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/17/type = "value"
+tracks/17/path = NodePath("Part_18:visible")
+tracks/17/interp = 0
+tracks/17/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/18/type = "value"
+tracks/18/path = NodePath("Part_19:visible")
+tracks/18/interp = 0
+tracks/18/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/19/type = "value"
+tracks/19/path = NodePath("Part_20:visible")
+tracks/19/interp = 0
+tracks/19/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/20/type = "value"
+tracks/20/path = NodePath("Part_21:visible")
+tracks/20/interp = 0
+tracks/20/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/21/type = "value"
+tracks/21/path = NodePath("Part_22:visible")
+tracks/21/interp = 0
+tracks/21/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/22/type = "value"
+tracks/22/path = NodePath("Part_23:visible")
+tracks/22/interp = 0
+tracks/22/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/23/type = "value"
+tracks/23/path = NodePath("Part_24:visible")
+tracks/23/interp = 0
+tracks/23/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/24/type = "value"
+tracks/24/path = NodePath("Part_25:visible")
+tracks/24/interp = 0
+tracks/24/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/25/type = "value"
+tracks/25/path = NodePath("Part_26:visible")
+tracks/25/interp = 0
+tracks/25/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/26/type = "value"
+tracks/26/path = NodePath("Part_27:visible")
+tracks/26/interp = 0
+tracks/26/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/27/type = "value"
+tracks/27/path = NodePath("Part_28:visible")
+tracks/27/interp = 0
+tracks/27/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/28/type = "value"
+tracks/28/path = NodePath("Part_29:visible")
+tracks/28/interp = 0
+tracks/28/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/29/type = "value"
+tracks/29/path = NodePath("Part_30:visible")
+tracks/29/interp = 0
+tracks/29/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/30/type = "value"
+tracks/30/path = NodePath("Part_31:visible")
+tracks/30/interp = 0
+tracks/30/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/31/type = "value"
+tracks/31/path = NodePath("Part_32:visible")
+tracks/31/interp = 0
+tracks/31/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/32/type = "value"
+tracks/32/path = NodePath("Part_33:visible")
+tracks/32/interp = 0
+tracks/32/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/33/type = "value"
+tracks/33/path = NodePath("Part_34:visible")
+tracks/33/interp = 0
+tracks/33/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/34/type = "value"
+tracks/34/path = NodePath("Part_35:visible")
+tracks/34/interp = 0
+tracks/34/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/35/type = "value"
+tracks/35/path = NodePath("Part_36:visible")
+tracks/35/interp = 0
+tracks/35/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/36/type = "value"
+tracks/36/path = NodePath("Part_37:visible")
+tracks/36/interp = 0
+tracks/36/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/37/type = "value"
+tracks/37/path = NodePath("Part_38:visible")
+tracks/37/interp = 0
+tracks/37/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/38/type = "value"
+tracks/38/path = NodePath("Part_39:visible")
+tracks/38/interp = 0
+tracks/38/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/39/type = "value"
+tracks/39/path = NodePath("Part_40:visible")
+tracks/39/interp = 0
+tracks/39/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/40/type = "value"
+tracks/40/path = NodePath("Part_41:visible")
+tracks/40/interp = 0
+tracks/40/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/41/type = "value"
+tracks/41/path = NodePath("Part_42:visible")
+tracks/41/interp = 0
+tracks/41/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/42/type = "value"
+tracks/42/path = NodePath("Part_43:visible")
+tracks/42/interp = 0
+tracks/42/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/43/type = "value"
+tracks/43/path = NodePath("Part_44:visible")
+tracks/43/interp = 0
+tracks/43/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/44/type = "value"
+tracks/44/path = NodePath("Part_45:visible")
+tracks/44/interp = 0
+tracks/44/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/45/type = "value"
+tracks/45/path = NodePath("Part_46:visible")
+tracks/45/interp = 0
+tracks/45/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/46/type = "value"
+tracks/46/path = NodePath("Part_47:visible")
+tracks/46/interp = 0
+tracks/46/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/47/type = "value"
+tracks/47/path = NodePath("Part_48:visible")
+tracks/47/interp = 0
+tracks/47/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/48/type = "value"
+tracks/48/path = NodePath("Part_49:visible")
+tracks/48/interp = 0
+tracks/48/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/49/type = "value"
+tracks/49/path = NodePath("Part_50:visible")
+tracks/49/interp = 0
+tracks/49/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/50/type = "value"
+tracks/50/path = NodePath("Part_52:visible")
+tracks/50/interp = 0
+tracks/50/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/51/type = "value"
+tracks/51/path = NodePath("Part_53:modulate")
+tracks/51/interp = 1
+tracks/51/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1)]}
+
+tracks/52/type = "value"
+tracks/52/path = NodePath("Part_53:visible")
+tracks/52/interp = 0
+tracks/52/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.833333, 0.866667, 1.466667, 1.5, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true]}
+
+tracks/53/type = "value"
+tracks/53/path = NodePath("Part_54:modulate")
+tracks/53/interp = 1
+tracks/53/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0)]}
+
+tracks/54/type = "value"
+tracks/54/path = NodePath("Part_54:visible")
+tracks/54/interp = 0
+tracks/54/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 1.633333, 1.666667, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true]}
+
+tracks/55/type = "value"
+tracks/55/path = NodePath("Part_55:modulate")
+tracks/55/interp = 1
+tracks/55/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/56/type = "value"
+tracks/56/path = NodePath("Part_55:visible")
+tracks/56/interp = 0
+tracks/56/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/57/type = "value"
+tracks/57/path = NodePath("Part_56:modulate")
+tracks/57/interp = 1
+tracks/57/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1)]}
+
+tracks/58/type = "value"
+tracks/58/path = NodePath("Part_56:visible")
+tracks/58/interp = 0
+tracks/58/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/59/type = "value"
+tracks/59/path = NodePath("Part_57:modulate")
+tracks/59/interp = 1
+tracks/59/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/60/type = "value"
+tracks/60/path = NodePath("Part_57:visible")
+tracks/60/interp = 0
+tracks/60/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/61/type = "value"
+tracks/61/path = NodePath("Part_58:modulate")
+tracks/61/interp = 1
+tracks/61/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1)]}
+
+tracks/62/type = "value"
+tracks/62/path = NodePath("Part_58:visible")
+tracks/62/interp = 0
+tracks/62/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/63/type = "value"
+tracks/63/path = NodePath("Part_59:modulate")
+tracks/63/interp = 1
+tracks/63/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/64/type = "value"
+tracks/64/path = NodePath("Part_59:visible")
+tracks/64/interp = 0
+tracks/64/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/65/type = "value"
+tracks/65/path = NodePath("Part_60:modulate")
+tracks/65/interp = 1
+tracks/65/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1)]}
+
+tracks/66/type = "value"
+tracks/66/path = NodePath("Part_60:visible")
+tracks/66/interp = 0
+tracks/66/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/67/type = "value"
+tracks/67/path = NodePath("Part_61:modulate")
+tracks/67/interp = 1
+tracks/67/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/68/type = "value"
+tracks/68/path = NodePath("Part_61:visible")
+tracks/68/interp = 0
+tracks/68/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/69/type = "value"
+tracks/69/path = NodePath("Part_62:modulate")
+tracks/69/interp = 1
+tracks/69/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 1), Color(1, 1, 1, 1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1)]}
+
+tracks/70/type = "value"
+tracks/70/path = NodePath("Part_62:visible")
+tracks/70/interp = 0
+tracks/70/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/71/type = "value"
+tracks/71/path = NodePath("Part_63:modulate")
+tracks/71/interp = 1
+tracks/71/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/72/type = "value"
+tracks/72/path = NodePath("Part_63:visible")
+tracks/72/interp = 0
+tracks/72/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, true, false, false, true, true, false, false, true, true, false, false, true, true, false, false, true]}
+
+tracks/73/type = "value"
+tracks/73/path = NodePath("Part_64:visible")
+tracks/73/interp = 0
+tracks/73/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.433333, 0.466667, 0.5, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, true, true, false, true, false, true, false, false, true, false, false, true, false, true, false, false, true, true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true, false, false, true, false, true]}
+
+tracks/74/type = "value"
+tracks/74/path = NodePath("Part_65:visible")
+tracks/74/interp = 0
+tracks/74/keys = {"times": PackedFloat32Array(0, 0.033333, 0.3, 0.333333, 0.366667, 0.633333, 0.666667, 0.7, 1, 1.033333, 1.066667, 1.3, 1.333333, 1.366667, 1.633333, 1.666667, 1.7, 1.966667, 2, 2.033333, 2.3, 2.333333, 2.366667, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true]}
+
+tracks/75/type = "value"
+tracks/75/path = NodePath("Part_66:visible")
+tracks/75/interp = 0
+tracks/75/keys = {"times": PackedFloat32Array(0, 0.033333, 0.333333, 0.366667, 0.4, 0.433333, 0.666667, 0.7, 0.733333, 1.333333, 1.366667, 1.4, 1.666667, 1.7, 1.733333, 2, 2.033333, 2.066667, 2.333333, 2.366667, 2.4, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [true, false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true]}
+
+tracks/76/type = "value"
+tracks/76/path = NodePath("Part_67:visible")
+tracks/76/interp = 0
+tracks/76/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.333333, 0.366667, 0.4, 0.433333, 0.666667, 0.7, 0.733333, 1.333333, 1.366667, 1.4, 1.666667, 1.7, 1.733333, 2, 2.033333, 2.066667, 2.333333, 2.366667, 2.4), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, true, false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/77/type = "value"
+tracks/77/path = NodePath("Part_68:visible")
+tracks/77/interp = 0
+tracks/77/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.4, 0.433333, 0.466667, 0.7, 0.733333, 0.766667, 1.033333, 1.066667, 1.1, 1.366667, 1.4, 1.433333, 1.7, 1.733333, 1.766667, 2.033333, 2.066667, 2.1, 2.366667, 2.4, 2.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/78/type = "value"
+tracks/78/path = NodePath("Part_69:visible")
+tracks/78/interp = 0
+tracks/78/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.4, 0.433333, 0.466667, 0.7, 0.733333, 0.766667, 1.033333, 1.066667, 1.1, 1.366667, 1.4, 1.433333, 1.7, 1.733333, 1.766667, 2.033333, 2.066667, 2.1, 2.366667, 2.4, 2.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/79/type = "value"
+tracks/79/path = NodePath("Part_70:visible")
+tracks/79/interp = 0
+tracks/79/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.433333, 0.466667, 0.5, 0.733333, 0.766667, 0.8, 0.833333, 1.066667, 1.1, 1.133333, 1.4, 1.433333, 1.466667, 1.733333, 1.766667, 1.8, 2.066667, 2.1, 2.133333, 2.4, 2.433333, 2.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/80/type = "value"
+tracks/80/path = NodePath("Part_71:visible")
+tracks/80/interp = 0
+tracks/80/keys = {"times": PackedFloat32Array(0, 0.066667, 0.1, 0.133333, 0.433333, 0.466667, 0.5, 0.733333, 0.766667, 0.8, 0.833333, 1.066667, 1.1, 1.133333, 1.4, 1.433333, 1.466667, 1.733333, 1.766667, 1.8, 2.066667, 2.1, 2.133333, 2.4, 2.433333, 2.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/81/type = "value"
+tracks/81/path = NodePath("Part_72:visible")
+tracks/81/interp = 0
+tracks/81/keys = {"times": PackedFloat32Array(0, 0.066667, 0.1, 0.133333, 0.466667, 0.5, 0.533333, 0.8, 0.833333, 0.866667, 1.1, 1.133333, 1.166667, 1.433333, 1.466667, 1.5, 1.766667, 1.8, 1.833333, 2.1, 2.133333, 2.166667, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/82/type = "value"
+tracks/82/path = NodePath("Part_73:visible")
+tracks/82/interp = 0
+tracks/82/keys = {"times": PackedFloat32Array(0, 0.1, 0.133333, 0.166667, 0.466667, 0.5, 0.533333, 0.8, 0.833333, 0.866667, 1.1, 1.133333, 1.166667, 1.433333, 1.466667, 1.5, 1.766667, 1.8, 1.833333, 2.1, 2.133333, 2.166667, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/83/type = "value"
+tracks/83/path = NodePath("Part_74:visible")
+tracks/83/interp = 0
+tracks/83/keys = {"times": PackedFloat32Array(0, 0.1, 0.133333, 0.166667, 0.833333, 0.866667, 0.9, 1.133333, 1.166667, 1.2, 1.466667, 1.5, 1.533333, 1.8, 1.833333, 1.866667, 2.133333, 2.166667, 2.2, 2.466667, 2.5, 2.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/84/type = "value"
+tracks/84/path = NodePath("Part_75:modulate")
+tracks/84/interp = 1
+tracks/84/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0)]}
+
+tracks/85/type = "value"
+tracks/85/path = NodePath("Part_75:visible")
+tracks/85/interp = 0
+tracks/85/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.833333, 0.866667, 1.3, 1.333333, 1.966667, 2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+tracks/86/type = "value"
+tracks/86/path = NodePath("Part_76:modulate")
+tracks/86/interp = 1
+tracks/86/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/87/type = "value"
+tracks/87/path = NodePath("Part_76:visible")
+tracks/87/interp = 0
+tracks/87/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/88/type = "value"
+tracks/88/path = NodePath("Part_77:modulate")
+tracks/88/interp = 1
+tracks/88/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/89/type = "value"
+tracks/89/path = NodePath("Part_77:visible")
+tracks/89/interp = 0
+tracks/89/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/90/type = "value"
+tracks/90/path = NodePath("Part_78:modulate")
+tracks/90/interp = 1
+tracks/90/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/91/type = "value"
+tracks/91/path = NodePath("Part_78:visible")
+tracks/91/interp = 0
+tracks/91/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/92/type = "value"
+tracks/92/path = NodePath("Part_79:modulate")
+tracks/92/interp = 1
+tracks/92/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/93/type = "value"
+tracks/93/path = NodePath("Part_79:visible")
+tracks/93/interp = 0
+tracks/93/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/94/type = "value"
+tracks/94/path = NodePath("Part_80:modulate")
+tracks/94/interp = 1
+tracks/94/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/95/type = "value"
+tracks/95/path = NodePath("Part_80:visible")
+tracks/95/interp = 0
+tracks/95/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.5, 0.533333, 0.833333, 0.866667, 1.133333, 1.166667, 1.466667, 1.5, 1.8, 1.833333, 2.133333, 2.166667, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/96/type = "value"
+tracks/96/path = NodePath("Part_81:visible")
+tracks/96/interp = 0
+tracks/96/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.2, 0.233333, 0.833333, 0.866667, 0.9, 1.133333, 1.166667, 1.2, 1.466667, 1.5, 1.533333, 1.8, 1.833333, 1.866667, 2.133333, 2.166667, 2.2, 2.466667, 2.5, 2.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/97/type = "value"
+tracks/97/path = NodePath("Part_82:visible")
+tracks/97/interp = 0
+tracks/97/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.2, 0.233333, 0.5, 0.533333, 0.566667, 0.866667, 0.9, 0.933333, 1.166667, 1.2, 1.233333, 1.5, 1.533333, 1.566667, 1.833333, 1.866667, 1.9, 2.166667, 2.2, 2.233333, 2.5, 2.533333, 2.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/98/type = "value"
+tracks/98/path = NodePath("Part_83:visible")
+tracks/98/interp = 0
+tracks/98/keys = {"times": PackedFloat32Array(0, 0.2, 0.233333, 0.266667, 0.5, 0.533333, 0.566667, 0.866667, 0.9, 0.933333, 1.166667, 1.2, 1.233333, 1.5, 1.533333, 1.566667, 1.833333, 1.866667, 1.9, 2.166667, 2.2, 2.233333, 2.5, 2.533333, 2.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/99/type = "value"
+tracks/99/path = NodePath("Part_84:visible")
+tracks/99/interp = 0
+tracks/99/keys = {"times": PackedFloat32Array(0, 0.2, 0.233333, 0.266667, 0.533333, 0.566667, 0.6, 0.9, 0.933333, 0.966667, 1.2, 1.233333, 1.266667, 1.533333, 1.566667, 1.6, 1.866667, 1.9, 1.933333, 2.2, 2.233333, 2.266667, 2.533333, 2.566667, 2.6), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/100/type = "value"
+tracks/100/path = NodePath("Part_85:visible")
+tracks/100/interp = 0
+tracks/100/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.566667, 0.6, 0.633333, 0.933333, 0.966667, 1, 1.233333, 1.266667, 1.3, 1.566667, 1.6, 1.633333, 1.9, 1.933333, 1.966667, 2.233333, 2.266667, 2.3, 2.566667, 2.6, 2.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/101/type = "value"
+tracks/101/path = NodePath("Part_86:visible")
+tracks/101/interp = 0
+tracks/101/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.6, 0.633333, 0.666667, 0.966667, 1, 1.033333, 1.266667, 1.3, 1.333333, 1.6, 1.633333, 1.666667, 1.933333, 1.966667, 2, 2.266667, 2.3, 2.333333, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/102/type = "value"
+tracks/102/path = NodePath("Part_87:visible")
+tracks/102/interp = 0
+tracks/102/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.333333, 0.6, 0.633333, 0.666667, 0.966667, 1, 1.033333, 1.266667, 1.3, 1.333333, 1.6, 1.633333, 1.666667, 1.933333, 1.966667, 2, 2.266667, 2.3, 2.333333, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/103/type = "value"
+tracks/103/path = NodePath("Part_88:modulate")
+tracks/103/interp = 1
+tracks/103/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0)]}
+
+tracks/104/type = "value"
+tracks/104/path = NodePath("Part_88:visible")
+tracks/104/interp = 0
+tracks/104/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 1, 1.033333, 1.8, 1.833333, 2.466667, 2.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+tracks/105/type = "value"
+tracks/105/path = NodePath("Part_89:modulate")
+tracks/105/interp = 1
+tracks/105/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0)]}
+
+tracks/106/type = "value"
+tracks/106/path = NodePath("Part_89:visible")
+tracks/106/interp = 0
+tracks/106/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 1, 1.033333, 1.633333, 1.666667, 2.3, 2.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+tracks/107/type = "value"
+tracks/107/path = NodePath("Part_90:modulate")
+tracks/107/interp = 1
+tracks/107/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/108/type = "value"
+tracks/108/path = NodePath("Part_90:visible")
+tracks/108/interp = 0
+tracks/108/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/109/type = "value"
+tracks/109/path = NodePath("Part_91:modulate")
+tracks/109/interp = 1
+tracks/109/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/110/type = "value"
+tracks/110/path = NodePath("Part_91:visible")
+tracks/110/interp = 0
+tracks/110/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/111/type = "value"
+tracks/111/path = NodePath("Part_92:modulate")
+tracks/111/interp = 1
+tracks/111/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/112/type = "value"
+tracks/112/path = NodePath("Part_92:visible")
+tracks/112/interp = 0
+tracks/112/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/113/type = "value"
+tracks/113/path = NodePath("Part_93:modulate")
+tracks/113/interp = 1
+tracks/113/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.8), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0)]}
+
+tracks/114/type = "value"
+tracks/114/path = NodePath("Part_93:visible")
+tracks/114/interp = 0
+tracks/114/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.633333, 0.666667, 1, 1.033333, 1.3, 1.333333, 1.633333, 1.666667, 1.966667, 2, 2.3, 2.333333, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false, false, true, true, false, false, true, true, false]}
+
+tracks/115/type = "value"
+tracks/115/path = NodePath("Part_94:visible")
+tracks/115/interp = 0
+tracks/115/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.366667, 0.633333, 0.666667, 0.7, 1, 1.033333, 1.066667, 1.3, 1.333333, 1.366667, 1.633333, 1.666667, 1.7, 1.966667, 2, 2.033333, 2.3, 2.333333, 2.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/116/type = "value"
+tracks/116/path = NodePath("Part_95:visible")
+tracks/116/interp = 0
+tracks/116/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.9, 0.933333, 0.966667, 1.2, 1.233333, 1.266667, 1.533333, 1.566667, 1.6, 1.866667, 1.9, 1.933333, 2.2, 2.233333, 2.266667, 2.533333, 2.566667, 2.6), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/117/type = "value"
+tracks/117/path = NodePath("Part_96:visible")
+tracks/117/interp = 0
+tracks/117/keys = {"times": PackedFloat32Array(0, 0.566667, 0.6, 0.633333, 0.933333, 0.966667, 1, 1.233333, 1.266667, 1.3, 1.566667, 1.6, 1.633333, 1.9, 1.933333, 1.966667, 2.233333, 2.266667, 2.3, 2.566667, 2.6, 2.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false, false, true, false]}
+
+tracks/118/type = "value"
+tracks/118/path = NodePath("Part_97:modulate")
+tracks/118/interp = 1
+tracks/118/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0)]}
+
+tracks/119/type = "value"
+tracks/119/path = NodePath("Part_97:visible")
+tracks/119/interp = 0
+tracks/119/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 1.3, 1.333333, 1.466667, 1.5, 2.133333, 2.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+tracks/120/type = "value"
+tracks/120/path = NodePath("Part_98:modulate")
+tracks/120/interp = 1
+tracks/120/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1)]}
+
+tracks/121/type = "value"
+tracks/121/path = NodePath("Part_98:visible")
+tracks/121/interp = 0
+tracks/121/keys = {"times": PackedFloat32Array(0, 0.833333, 0.866667, 1.466667, 1.5, 1.966667, 2, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+tracks/122/type = "value"
+tracks/122/path = NodePath("Part_99:modulate")
+tracks/122/interp = 1
+tracks/122/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0), Color(1, 1, 1, 0.1), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.9), Color(1, 1, 1, 1), Color(1, 1, 1, 0.9), Color(1, 1, 1, 0.8), Color(1, 1, 1, 0.7), Color(1, 1, 1, 0.6), Color(1, 1, 1, 0.5), Color(1, 1, 1, 0.4), Color(1, 1, 1, 0.3), Color(1, 1, 1, 0.2), Color(1, 1, 1, 0.1)]}
+
+tracks/123/type = "value"
+tracks/123/path = NodePath("Part_99:visible")
+tracks/123/interp = 0
+tracks/123/keys = {"times": PackedFloat32Array(0, 1, 1.033333, 1.633333, 1.666667, 1.966667, 2, 2.633333, 2.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false, false, true, true, false]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -162.27, -299.655)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1, 1, 657, 806)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -18.335, -94.7089)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 24.36, -91.0189)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -49.115, -107.0839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -39.825, -106.4389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_5" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 2.315, -132.7739)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_6" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, 43.135, -139.9689)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_7" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -43.59, -131.1439)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_8" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -31.845, -125.4589)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_9" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -20.785, -112.2339)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_10" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -25.385, -151.9389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_11" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -43.07, -138.6589)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_12" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -45.575, -166.1389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_13" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -48.83, -132.9739)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_14" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -31.41, -151.3539)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_15" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, 39.1, -162.5089)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_16" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -23.955, -181.1689)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_17" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -37.625, -165.0939)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_18" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 4.435, -177.2839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_19" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -74.96, -202.7489)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_20" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -67.36, -192.2739)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_21" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -28.475, -183.5689)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_22" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -57.585, -181.5389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_23" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -19.895, -229.6589)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_24" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -26.52, -198.1989)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_25" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, 42.96, -199.7489)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_26" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -76.14, -202.9989)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_27" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -22.9, -243.5639)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_28" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -164.465, -222.7689)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_29" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 57.64, -222.0589)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_30" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 93.61, -243.1589)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_31" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -146.49, -185.3989)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_32" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -141.175, -196.3289)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_33" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -74.19, -213.5489)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_34" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 16.725, -218.5389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_35" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -73.14, -234.3989)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_36" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, 50.935, -274.5839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_37" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -57.97, -273.1239)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_38" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -73.17, -259.7489)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_39" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, 15.42, -199.3839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_40" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -20.1, -261.7839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_41" type="Sprite2D" parent="."]
+transform = Transform2D(-0.5, 0, 0, 0.5, -27.075, -274.3839)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_42" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -135.795, -233.7739)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_43" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 61.66, -254.9939)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_44" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, -0.5, 120.68, -270.6389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_45" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 60.745, -280.4239)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_46" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 88.34, -261.4739)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_47" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 61.605, -237.7389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_48" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 77.89, -205.7239)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_49" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 92.91, -236.3239)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1213, 135, 4)
+
+[node name="Part_50" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 121.06, -218.2989)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1388, 60, 30)
+
+[node name="Part_51" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -163.585, -301.28)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(694, 765, 660, 461)
+
+[node name="Part_52" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -159.48, -297.345)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1253, 1, 643, 443)
+
+[node name="Part_53" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -54.015, -41.165)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1740, 1116, 105, 116)
+
+[node name="Part_54" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -26.06, -23.69)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1328, 105, 116)
+
+[node name="Part_55" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -122.455, -29.95)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_56" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -86.175, -9.075)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_57" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -72.645, -1.155)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_58" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -30.175, 23.89)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_59" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -16.215, 32.815)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_60" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 28.985, 15.485)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_61" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 43.03, 6.705)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_62" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 82.755, -16.565)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_63" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 95.375, -23.09)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_64" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -49.52, -95.4389)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1356, 1018, 129, 30)
+
+[node name="Part_65" type="Sprite2D" parent="."]
+transform = Transform2D(0.42485, 0, 0, 0.5, -48.28715, -86.58535)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_66" type="Sprite2D" parent="."]
+transform = Transform2D(0.45765, 0, 0, 0.5, -68.52535, -191.01035)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_67" type="Sprite2D" parent="."]
+transform = Transform2D(0.40215, 0, 0, 0.5, -47.28585, -101.32535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_68" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -76.81, -202.92035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_69" type="Sprite2D" parent="."]
+transform = Transform2D(0.3738, 0, 0, 0.5, -41.6472, -112.39035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_70" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -74.645, -213.53035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_71" type="Sprite2D" parent="."]
+transform = Transform2D(0.38815, 0, 0, 0.5, -44.77485, -120.58535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_72" type="Sprite2D" parent="."]
+transform = Transform2D(1.324, 0, 0, 0.5, -159.766, -225.00035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_73" type="Sprite2D" parent="."]
+transform = Transform2D(0.3582, 0, 0, 0.5, -43.0458, -127.47035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_74" type="Sprite2D" parent="."]
+transform = Transform2D(1.18705, 0, 0, 0.5, -122.07395, -235.28535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_75" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -54.405, -74.555)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1328, 105, 116)
+
+[node name="Part_76" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -111.08, -22.605)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_77" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -59.26, 6.76)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_78" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -0.375, 32.96)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_79" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 56.64, -0.98)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_80" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 106.08, -29.675)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_81" type="Sprite2D" parent="."]
+transform = Transform2D(0.3588, 0, 0, 0.5, -45.7172, -138.72535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_82" type="Sprite2D" parent="."]
+transform = Transform2D(0.9442, 0, 0, 0.5, -68.5548, -247.63035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_83" type="Sprite2D" parent="."]
+transform = Transform2D(0.34955, 0, 0, 0.5, -43.54645, -147.27535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_84" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -71.79, -258.35535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_85" type="Sprite2D" parent="."]
+transform = Transform2D(0.3387, 0, 0, 0.5, -43.5553, -161.67535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_86" type="Sprite2D" parent="."]
+transform = Transform2D(0.26905, 0, 0, 0.5, -43.54195, -280.88535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_87" type="Sprite2D" parent="."]
+transform = Transform2D(0.39715, 0, 0, 0.5, -57.42585, -172.61035)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_88" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -26.06, -57.08)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1847, 1050, 105, 116)
+
+[node name="Part_89" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -83.525, -56.695)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1210, 105, 116)
+
+[node name="Part_90" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -98.56, -15.555)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_91" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -45.15, 15.975)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_92" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 14.06, 23.82)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_93" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 69.81, -8.66)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1816, 1011, 33, 33)
+
+[node name="Part_94" type="Sprite2D" parent="."]
+transform = Transform2D(0.40985, 0, 0, 0.5, -61.65715, -180.18535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_95" type="Sprite2D" parent="."]
+transform = Transform2D(0.34955, 0, 0, 0.5, -44.19645, -154.20535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_96" type="Sprite2D" parent="."]
+transform = Transform2D(0.46415, 0, 0, 0.5, -64.44885, -269.87535)
+visible = false
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1700, 1565, 238, 11)
+
+[node name="Part_97" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 32.565, -58.245)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1847, 1050, 105, 116)
+
+[node name="Part_98" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, 3.835, -74.945)
+visible = false
+modulate = Color(1, 1, 1, 0.1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1740, 1116, 105, 116)
+
+[node name="Part_99" type="Sprite2D" parent="."]
+transform = Transform2D(0.5, 0, 0, 0.5, -25.095, -90.605)
+visible = false
+modulate = Color(1, 1, 1, 0.1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1633, 1210, 105, 116)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

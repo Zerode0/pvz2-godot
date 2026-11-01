@@ -1,0 +1,3156 @@
+{
+  "schema_version": 1,
+  "world_id": "dino",
+  "width": 10770.192,
+  "nodes": [
+    {
+      "id": "dino1",
+      "kind": "level",
+      "position": [
+        512.0,
+        236.756
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "恐龙危机 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_primalpeashooter_1",
+      "kind": "plant",
+      "position": [
+        676.791,
+        179.941
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "恐龙危机 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dino2",
+      "kind": "level",
+      "position": [
+        821.345,
+        133.213
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "恐龙危机 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino3",
+      "kind": "level",
+      "position": [
+        947.075,
+        182.211
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "恐龙危机 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino4",
+      "kind": "level",
+      "position": [
+        1106.087,
+        258.019
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "恐龙危机 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_primalwallnut_5",
+      "kind": "plant",
+      "position": [
+        1244.76,
+        208.097
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "恐龙危机 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dino5",
+      "kind": "level",
+      "position": [
+        1425.96,
+        126.742
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "恐龙危机 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino6",
+      "kind": "level",
+      "position": [
+        1560.011,
+        175.739
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "恐龙危机 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox0_8",
+      "kind": "gift",
+      "position": [
+        1701.457,
+        236.756
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino7",
+      "kind": "level",
+      "position": [
+        1867.866,
+        190.531
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "恐龙危机 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox1_10",
+      "kind": "gift",
+      "position": [
+        1976.03,
+        129.515
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino8",
+      "kind": "level",
+      "position": [
+        2120.251,
+        163.722
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "恐龙危机 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_perfumeshroom_12",
+      "kind": "plant",
+      "position": [
+        2245.057,
+        192.381
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "恐龙危机 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dino9",
+      "kind": "level",
+      "position": [
+        2373.56,
+        236.756
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "恐龙危机 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino10",
+      "kind": "level",
+      "position": [
+        2478.197,
+        190.819
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "恐龙危机 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino11",
+      "kind": "level",
+      "position": [
+        2569.221,
+        155.089
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "恐龙危机 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino12",
+      "kind": "level",
+      "position": [
+        2692.573,
+        105.748
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "恐龙危机 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox2_17",
+      "kind": "gift",
+      "position": [
+        2826.133,
+        161.894
+      ],
+      "number": "★",
+      "label": "13",
+      "title": "恐龙危机 · 13",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino13",
+      "kind": "level",
+      "position": [
+        3004.781,
+        233.353
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "恐龙危机 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino14",
+      "kind": "level",
+      "position": [
+        3161.31,
+        178.058
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "恐龙危机 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox3_20",
+      "kind": "gift",
+      "position": [
+        3308.304,
+        112.419
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino15",
+      "kind": "level",
+      "position": [
+        3447.901,
+        163.266
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "恐龙危机 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino16",
+      "kind": "level",
+      "position": [
+        3743.509,
+        247.887
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "恐龙危机 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino17",
+      "kind": "level",
+      "position": [
+        3997.632,
+        163.266
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "恐龙危机 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_primalsunflower_24",
+      "kind": "plant",
+      "position": [
+        4172.755,
+        108.445
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "恐龙危机 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dino18",
+      "kind": "level",
+      "position": [
+        4298.973,
+        190.561
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "恐龙危机 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino19",
+      "kind": "level",
+      "position": [
+        4446.24,
+        278.998
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "恐龙危机 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino20",
+      "kind": "level",
+      "position": [
+        4790.609,
+        278.998
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "恐龙危机 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino21",
+      "kind": "level",
+      "position": [
+        4924.169,
+        198.181
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "恐龙危机 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino22",
+      "kind": "level",
+      "position": [
+        5051.406,
+        123.836
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "恐龙危机 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino23",
+      "kind": "level",
+      "position": [
+        5224.285,
+        176.532
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "恐龙危机 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_primalpotatomine_31",
+      "kind": "plant",
+      "position": [
+        5426.747,
+        233.85
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "恐龙危机 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "dino24",
+      "kind": "level",
+      "position": [
+        5587.609,
+        188.397
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "恐龙危机 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox4_33",
+      "kind": "gift",
+      "position": [
+        5721.659,
+        139.538
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino25",
+      "kind": "level",
+      "position": [
+        5860.333,
+        102.281
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "恐龙危机 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino26",
+      "kind": "level",
+      "position": [
+        6076.452,
+        181.278
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "恐龙危机 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino27",
+      "kind": "level",
+      "position": [
+        6216.174,
+        236.221
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "恐龙危机 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino28",
+      "kind": "level",
+      "position": [
+        6365.87,
+        160.516
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "恐龙危机 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino29",
+      "kind": "level",
+      "position": [
+        6529.632,
+        91.549
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "恐龙危机 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox5_39",
+      "kind": "gift",
+      "position": [
+        6719.515,
+        147.81
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino30",
+      "kind": "level",
+      "position": [
+        6918.02,
+        213.341
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "恐龙危机 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino31",
+      "kind": "level",
+      "position": [
+        7053.282,
+        169.563
+      ],
+      "number": "31",
+      "label": "第31关",
+      "title": "恐龙危机 · 第31关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino31"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino32",
+      "kind": "level",
+      "position": [
+        7471.192,
+        304.862
+      ],
+      "number": "32",
+      "label": "第32关",
+      "title": "恐龙危机 · 第32关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino32"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino33",
+      "kind": "level",
+      "position": [
+        7839.544,
+        123.836
+      ],
+      "number": "33",
+      "label": "第33关",
+      "title": "恐龙危机 · 第33关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino33"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox6_44",
+      "kind": "gift",
+      "position": [
+        8012.423,
+        176.532
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino34",
+      "kind": "level",
+      "position": [
+        8192.645,
+        196.393
+      ],
+      "number": "34",
+      "label": "第34关",
+      "title": "恐龙危机 · 第34关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino34"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino35",
+      "kind": "level",
+      "position": [
+        8334.577,
+        266.314
+      ],
+      "number": "35",
+      "label": "第35关",
+      "title": "恐龙危机 · 第35关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino35"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino36",
+      "kind": "level",
+      "position": [
+        8473.877,
+        300.45
+      ],
+      "number": "36",
+      "label": "第36关",
+      "title": "恐龙危机 · 第36关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino36"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino37",
+      "kind": "level",
+      "position": [
+        8654.364,
+        309.766
+      ],
+      "number": "37",
+      "label": "第37关",
+      "title": "恐龙危机 · 第37关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino37"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox7_49",
+      "kind": "gift",
+      "position": [
+        8855.007,
+        221.431
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino38",
+      "kind": "level",
+      "position": [
+        9002.463,
+        137.057
+      ],
+      "number": "38",
+      "label": "第38关",
+      "title": "恐龙危机 · 第38关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino38"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino39",
+      "kind": "level",
+      "position": [
+        9188.413,
+        94.921
+      ],
+      "number": "39",
+      "label": "第39关",
+      "title": "恐龙危机 · 第39关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino39"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino40",
+      "kind": "level",
+      "position": [
+        9390.343,
+        104.425
+      ],
+      "number": "40",
+      "label": "第40关",
+      "title": "恐龙危机 · 第40关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino40"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino41",
+      "kind": "level",
+      "position": [
+        9614.339,
+        150.821
+      ],
+      "number": "41",
+      "label": "第41关",
+      "title": "恐龙危机 · 第41关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino41"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_giftbox8_54",
+      "kind": "gift",
+      "position": [
+        9832.91,
+        221.871
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "恐龙危机 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "dino42",
+      "kind": "level",
+      "position": [
+        10258.192,
+        304.862
+      ],
+      "number": "42",
+      "label": "第42关",
+      "title": "恐龙危机 · 第42关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "dino42"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "meteorflower0",
+      "kind": "level",
+      "position": [
+        9479.726,
+        213.993
+      ],
+      "number": "40-1",
+      "label": "第40-1关",
+      "title": "恐龙危机 · 第40-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [
+        "meteorflower0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "dino_level40_2_57",
+      "kind": "portal",
+      "position": [
+        9607.115,
+        269.04
+      ],
+      "number": "◎",
+      "label": "40-2",
+      "title": "恐龙危机 · 40-2",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "source_level_ids": [],
+      "source_display": 4
+    }
+  ],
+  "paths": [
+    [
+      "dino1",
+      "dino_primalpeashooter_1"
+    ],
+    [
+      "dino_primalpeashooter_1",
+      "dino2"
+    ],
+    [
+      "dino2",
+      "dino3"
+    ],
+    [
+      "dino3",
+      "dino4"
+    ],
+    [
+      "dino4",
+      "dino_primalwallnut_5"
+    ],
+    [
+      "dino_primalwallnut_5",
+      "dino5"
+    ],
+    [
+      "dino5",
+      "dino6"
+    ],
+    [
+      "dino6",
+      "dino_giftbox0_8"
+    ],
+    [
+      "dino_giftbox0_8",
+      "dino7"
+    ],
+    [
+      "dino7",
+      "dino_giftbox1_10"
+    ],
+    [
+      "dino_giftbox1_10",
+      "dino8"
+    ],
+    [
+      "dino8",
+      "dino_perfumeshroom_12"
+    ],
+    [
+      "dino_perfumeshroom_12",
+      "dino9"
+    ],
+    [
+      "dino9",
+      "dino10"
+    ],
+    [
+      "dino10",
+      "dino11"
+    ],
+    [
+      "dino11",
+      "dino12"
+    ],
+    [
+      "dino12",
+      "dino_giftbox2_17"
+    ],
+    [
+      "dino_giftbox2_17",
+      "dino13"
+    ],
+    [
+      "dino13",
+      "dino14"
+    ],
+    [
+      "dino14",
+      "dino_giftbox3_20"
+    ],
+    [
+      "dino_giftbox3_20",
+      "dino15"
+    ],
+    [
+      "dino15",
+      "dino16"
+    ],
+    [
+      "dino16",
+      "dino17"
+    ],
+    [
+      "dino17",
+      "dino_primalsunflower_24"
+    ],
+    [
+      "dino_primalsunflower_24",
+      "dino18"
+    ],
+    [
+      "dino18",
+      "dino19"
+    ],
+    [
+      "dino19",
+      "dino20"
+    ],
+    [
+      "dino20",
+      "dino21"
+    ],
+    [
+      "dino21",
+      "dino22"
+    ],
+    [
+      "dino22",
+      "dino23"
+    ],
+    [
+      "dino23",
+      "dino_primalpotatomine_31"
+    ],
+    [
+      "dino_primalpotatomine_31",
+      "dino24"
+    ],
+    [
+      "dino24",
+      "dino_giftbox4_33"
+    ],
+    [
+      "dino_giftbox4_33",
+      "dino25"
+    ],
+    [
+      "dino25",
+      "dino26"
+    ],
+    [
+      "dino26",
+      "dino27"
+    ],
+    [
+      "dino27",
+      "dino28"
+    ],
+    [
+      "dino28",
+      "dino29"
+    ],
+    [
+      "dino29",
+      "dino_giftbox5_39"
+    ],
+    [
+      "dino_giftbox5_39",
+      "dino30"
+    ],
+    [
+      "dino30",
+      "dino31"
+    ],
+    [
+      "dino31",
+      "dino32"
+    ],
+    [
+      "dino32",
+      "dino33"
+    ],
+    [
+      "dino33",
+      "dino_giftbox6_44"
+    ],
+    [
+      "dino_giftbox6_44",
+      "dino34"
+    ],
+    [
+      "dino34",
+      "dino35"
+    ],
+    [
+      "dino35",
+      "dino36"
+    ],
+    [
+      "dino36",
+      "dino37"
+    ],
+    [
+      "dino37",
+      "dino_giftbox7_49"
+    ],
+    [
+      "dino_giftbox7_49",
+      "dino38"
+    ],
+    [
+      "dino38",
+      "dino39"
+    ],
+    [
+      "dino39",
+      "dino40"
+    ],
+    [
+      "dino40",
+      "meteorflower0"
+    ],
+    [
+      "dino40",
+      "dino41"
+    ],
+    [
+      "dino41",
+      "dino_giftbox8_54"
+    ],
+    [
+      "dino_giftbox8_54",
+      "dino42"
+    ],
+    [
+      "meteorflower0",
+      "dino_level40_2_57"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/f3bf3c0b917b23b8f3c1.tscn",
+      "bounds": [
+        -222.77,
+        -410.1,
+        409,
+        673
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        512.0,
+        237.6623
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "FarTotal"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2386.62275,
+        219.9693
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2386.62275,
+        219.9693
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b08c122759ea31fd643.tscn",
+      "bounds": [
+        -40.12,
+        -77.6,
+        88.5,
+        112.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        1944.73266,
+        79.46595
+      ],
+      "parallax": 0.3,
+      "source_node": "far4",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b08c122759ea31fd643.tscn",
+      "bounds": [
+        -40.12,
+        -77.6,
+        88.5,
+        112.5
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        502.55862,
+        78.53515
+      ],
+      "parallax": 0.4,
+      "source_node": "far0",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b08c122759ea31fd643.tscn",
+      "bounds": [
+        -40.12,
+        -77.6,
+        88.5,
+        112.5
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        1113.44671,
+        285.397
+      ],
+      "parallax": 0.5,
+      "source_node": "far2",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bb7d32a78bda5decd705.tscn",
+      "bounds": [
+        -50.5,
+        -92.3,
+        101,
+        129.5
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3358.42605,
+        55.34055
+      ],
+      "parallax": 0.5,
+      "source_node": "far5",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9a0527cca4f4d375be20.tscn",
+      "bounds": [
+        -81.63,
+        -140.15,
+        175,
+        208
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1056.69506,
+        79.54005
+      ],
+      "parallax": 0.6,
+      "source_node": "far1",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9a0527cca4f4d375be20.tscn",
+      "bounds": [
+        -81.63,
+        -140.15,
+        175,
+        208
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2665.99366,
+        158.29925
+      ],
+      "parallax": 0.7,
+      "source_node": "far3",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9a0527cca4f4d375be20.tscn",
+      "bounds": [
+        -81.63,
+        -140.15,
+        175,
+        208
+      ],
+      "transform": [
+        -0.975,
+        0.0,
+        0.0,
+        0.975,
+        7277.05895,
+        171.9785
+      ],
+      "parallax": 0.8,
+      "source_node": "far6",
+      "source_armature": "Far"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        6.5,
+        0.0,
+        0.0,
+        3.25,
+        5936.52651,
+        256.23605
+      ],
+      "parallax": 0.65,
+      "source_node": "extension_cloud",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7b393b6765e1350ae126.tscn",
+      "bounds": [
+        -586.04,
+        -783.97,
+        922,
+        881
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4637.56105,
+        256.18145
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7b393b6765e1350ae126.tscn",
+      "bounds": [
+        -586.04,
+        -783.97,
+        922,
+        881
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        8535.11835,
+        228.7651
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a376a20782ee70140fcc.tscn",
+      "bounds": [
+        -529.4098962577143,
+        -488.62,
+        749.1998962577143,
+        777
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        512.0,
+        236.75555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level01"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e9f7bdb625a5324ba101.tscn",
+      "bounds": [
+        -125.35645000000001,
+        -139.27716839423582,
+        266.3685997065231,
+        311.0330683942358
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        676.79125,
+        179.941
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PrimalPeashooter"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/01cc3f3d3040b7a7bcb0.tscn",
+      "bounds": [
+        -97.188,
+        -75.0616687304024,
+        222.38716144474506,
+        197.1366687304024
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        821.34475,
+        133.21315
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level02"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a474bd4bcedb0354582c.tscn",
+      "bounds": [
+        -144.02648895411596,
+        -122.07754475747876,
+        280.5922044481391,
+        271.79754475747876
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        947.0749,
+        182.2108
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level03"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f3fbeb5908f65a37b8c2.tscn",
+      "bounds": [
+        -142.5258708652681,
+        -134.8502616020674,
+        226.2758708652681,
+        246.7573116020674
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1106.087,
+        258.019
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level04"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0fa06b485ff06e0cde7f.tscn",
+      "bounds": [
+        -78.4556,
+        -142.6847183942358,
+        285.84089970652315,
+        297.4792183942358
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1244.75995,
+        208.09705
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PrimalWallnut"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e9204b3ad843e01c35bc.tscn",
+      "bounds": [
+        -113.548204,
+        -135.33687215782874,
+        270.3962582430285,
+        220.93217215782875
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1425.9598,
+        126.74175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level05"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9f6d25edd4ed73750f8f.tscn",
+      "bounds": [
+        -71.5832,
+        -111.74903690345637,
+        231.06167952361645,
+        236.46303690345638
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1560.0106,
+        175.7394
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level06"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b76e003084d89db31a2d.tscn",
+      "bounds": [
+        -94.0924,
+        -116.48917242095719,
+        263.9624,
+        274.9959724209572
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1701.4571,
+        236.75555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/2aef1cf4e3c86c98677a.tscn",
+      "bounds": [
+        -113.95038617547631,
+        -81.75349279498164,
+        162.2083861754763,
+        156.25084279498162
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1867.86555,
+        190.53145
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level07"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/01dee69b5af0a6fa0288.tscn",
+      "bounds": [
+        -100.68813239117931,
+        -88.5787246109763,
+        191.94186874106566,
+        189.4114746109763
+      ],
+      "transform": [
+        0.585,
+        0.0,
+        0.0,
+        0.585,
+        1976.0301,
+        129.51465
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b3ce50d2282e300edd1a.tscn",
+      "bounds": [
+        -99.47178600000001,
+        -62.36358819902689,
+        143.365386,
+        159.6311381990269
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2120.2508,
+        163.72155
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level08"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5a74c04edd3442738aac.tscn",
+      "bounds": [
+        -144.19145871912295,
+        -122.31392189643394,
+        265.451092724413,
+        237.86392189643394
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2245.05665,
+        192.3807
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PerfumeShroom"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7c54851696684b7d534c.tscn",
+      "bounds": [
+        -109.93424181450715,
+        -158.0075183942358,
+        240.92755761426164,
+        287.08856839423584
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2373.56035,
+        236.7562
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level09"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ce8665d26372bc9b3ec7.tscn",
+      "bounds": [
+        -56.33,
+        -19.0075,
+        112.84,
+        121.26905
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2478.1967,
+        190.81875
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level10"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ee6e2b2d31222b61e3db.tscn",
+      "bounds": [
+        -82.60762643979366,
+        -50.52871732120437,
+        138.85762643979368,
+        123.27436732120437
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2569.2214,
+        155.0889
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level11"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fe398a43f73f2cd909c7.tscn",
+      "bounds": [
+        -146.11184973467255,
+        -129.40172322296257,
+        267.79976053324896,
+        263.46572322296254
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2692.5732,
+        105.74805
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level12"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/786dbfe58e619bb2d9af.tscn",
+      "bounds": [
+        -51.932,
+        -92.583481011974,
+        171.19793886393583,
+        237.32908101197398
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2826.13325,
+        161.8944
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox2"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c2d7e2b5de621a6fb01b.tscn",
+      "bounds": [
+        -120.50119646052204,
+        -93.67810919978156,
+        266.88050782126487,
+        212.5475091997816
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3004.7812,
+        233.35345
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level13"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b2c7adfda515931424e8.tscn",
+      "bounds": [
+        -71.48475617378523,
+        -117.55876454369267,
+        191.915593386334,
+        223.4817145436927
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3161.3103,
+        178.05795
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level14"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a23f02f53450252c9f03.tscn",
+      "bounds": [
+        -133.65847651853122,
+        -135.9495276515346,
+        238.6480655637995,
+        259.4600276515346
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3308.3039,
+        112.419
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox3"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0fa6f574879d24a1951f.tscn",
+      "bounds": [
+        -93.0375,
+        -154.31930727319926,
+        299.7475842866405,
+        320.0161072731993
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3447.90115,
+        163.2659
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level15"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/62a87f1d67806cd00a0b.tscn",
+      "bounds": [
+        -90.7924461410078,
+        -135.88,
+        174.2574461410078,
+        211
+      ],
+      "transform": [
+        1.625,
+        0.0,
+        0.0,
+        1.625,
+        3743.50945,
+        247.88745
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level16"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a62e09450c4ec3e43347.tscn",
+      "bounds": [
+        -138.6628475402797,
+        -115.98868516442192,
+        265.9061475402797,
+        285.9334671644219
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3997.63215,
+        163.2659
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level17"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/eb0518803fa8c6089add.tscn",
+      "bounds": [
+        -94.9192,
+        -34.15,
+        189.1488,
+        173.10825000000003
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4172.7545,
+        108.4449
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PrimalSunflower"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/db955310f2adab827ffb.tscn",
+      "bounds": [
+        -89.4672,
+        -129.35062007069897,
+        228.9299471625077,
+        296.59167007069897
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4298.9728,
+        190.56135
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level18"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ff64c36a814d3d263006.tscn",
+      "bounds": [
+        -108.91910000000001,
+        -143.18856101087331,
+        248.9089475402797,
+        313.1333430108733
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        4446.24005,
+        278.9984
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level19"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/51a57a32ecef3c2010ff.tscn",
+      "bounds": [
+        -94.9192,
+        -88.11008226577773,
+        189.1488,
+        227.06833226577777
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4790.60875,
+        278.9984
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level20"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/86e145f93abad5aba3d9.tscn",
+      "bounds": [
+        -109.4111,
+        -120.48457147740848,
+        253.73374238349427,
+        276.1065412774085
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4924.1688,
+        198.1813
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level21"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bd4364e83dd179d27be0.tscn",
+      "bounds": [
+        -93.15815517051769,
+        -160.62797597788202,
+        256.0043711458135,
+        345.47552597788206
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5051.40565,
+        123.83625
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level22"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7af21ec9a5c2fabf7bbb.tscn",
+      "bounds": [
+        -80.25,
+        -125.26333517151437,
+        256.3215496054658,
+        280.4858676115144
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5224.28485,
+        176.53175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level23"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5cf20c91d70adea5fa81.tscn",
+      "bounds": [
+        -115.988,
+        -36.076420931125234,
+        213.77800000000002,
+        189.04459073112523
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5426.7475,
+        233.85005
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PrimalPotatoMine"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ba1885ffa55e6dd96450.tscn",
+      "bounds": [
+        -140.31119999999999,
+        -155.81737597788202,
+        215.5968,
+        315.076425977882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5587.60885,
+        188.39685
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level24"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5023f4dea3e1dcca3992.tscn",
+      "bounds": [
+        -94.52,
+        -39.500299999999996,
+        193.9,
+        168.20367663999997
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5721.659,
+        139.53765
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f010b9d4df96ee051ce6.tscn",
+      "bounds": [
+        -101.88552613362907,
+        -202.2731208373354,
+        310.8990398959386,
+        390.8754206173354
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5860.3326,
+        102.28095
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level25"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/de0a0561ff4a9c8d2e40.tscn",
+      "bounds": [
+        -132.0512,
+        -107.77885905444504,
+        215.5968,
+        262.21590905444504
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6076.45175,
+        181.27805
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level26"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8af826ad8d1cf01a3bb4.tscn",
+      "bounds": [
+        -81.5772,
+        -157.872575977882,
+        211.8144,
+        295.138499037882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6216.1738,
+        236.22125
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level27"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f1821213296a6e95c729.tscn",
+      "bounds": [
+        -90.85594999999999,
+        -152.77842597788202,
+        251.71169754027972,
+        346.207775977882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6365.8701,
+        160.5164
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level28"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/d37125db0cf4f41713c6.tscn",
+      "bounds": [
+        -87.88329754027973,
+        -157.99168150336172,
+        231.58379754027973,
+        307.60070498336177
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6529.63175,
+        91.5488
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level29"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fbac8e8116cb46e2f66a.tscn",
+      "bounds": [
+        -111.01665,
+        -186.2629087536018,
+        309.09529798836553,
+        357.88408555360184
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6719.51495,
+        147.8102
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/eb024d5256d5e822b492.tscn",
+      "bounds": [
+        -129.6712,
+        -124.29598516442194,
+        215.5968,
+        251.05363516442193
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6918.01975,
+        213.34125
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level30"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edb12ae373186ade5ab9.tscn",
+      "bounds": [
+        -89.33,
+        -163.31702597788203,
+        250.1605338254609,
+        318.879970777882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7053.28215,
+        169.5631
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level31"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bd4364e83dd179d27be0.tscn",
+      "bounds": [
+        -93.15815517051769,
+        -160.62797597788202,
+        256.0043711458135,
+        345.47552597788206
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7839.5436,
+        123.83625
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level22"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7af21ec9a5c2fabf7bbb.tscn",
+      "bounds": [
+        -80.25,
+        -125.26333517151437,
+        256.3215496054658,
+        280.4858676115144
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8012.4228,
+        176.53175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level23"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5cf20c91d70adea5fa81.tscn",
+      "bounds": [
+        -115.988,
+        -36.076420931125234,
+        213.77800000000002,
+        189.04459073112523
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8192.64505,
+        196.39315
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PrimalPotatoMine"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ba1885ffa55e6dd96450.tscn",
+      "bounds": [
+        -140.31119999999999,
+        -155.81737597788202,
+        215.5968,
+        315.076425977882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8334.5771,
+        266.31365
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level24"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5023f4dea3e1dcca3992.tscn",
+      "bounds": [
+        -94.52,
+        -39.500299999999996,
+        193.9,
+        168.20367663999997
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        8473.8773,
+        300.4497
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox4"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f010b9d4df96ee051ce6.tscn",
+      "bounds": [
+        -101.88552613362907,
+        -202.2731208373354,
+        310.8990398959386,
+        390.8754206173354
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        8654.3641,
+        309.76615
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level25"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/de0a0561ff4a9c8d2e40.tscn",
+      "bounds": [
+        -132.0512,
+        -107.77885905444504,
+        215.5968,
+        262.21590905444504
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        8855.00675,
+        221.43115
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level26"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8af826ad8d1cf01a3bb4.tscn",
+      "bounds": [
+        -81.5772,
+        -157.872575977882,
+        211.8144,
+        295.138499037882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9002.46315,
+        137.0566
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level27"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f1821213296a6e95c729.tscn",
+      "bounds": [
+        -90.85594999999999,
+        -152.77842597788202,
+        251.71169754027972,
+        346.207775977882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9188.4132,
+        94.921
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level28"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/d37125db0cf4f41713c6.tscn",
+      "bounds": [
+        -87.88329754027973,
+        -157.99168150336172,
+        231.58379754027973,
+        307.60070498336177
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9390.34285,
+        104.42465
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level29"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fbac8e8116cb46e2f66a.tscn",
+      "bounds": [
+        -111.01665,
+        -186.2629087536018,
+        309.09529798836553,
+        357.88408555360184
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9614.33935,
+        150.821
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox5"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/eb024d5256d5e822b492.tscn",
+      "bounds": [
+        -129.6712,
+        -124.29598516442194,
+        215.5968,
+        251.05363516442193
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9832.9103,
+        221.87055
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level30"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/2e8871504359566a36f6.tscn",
+      "bounds": [
+        -655.18244256,
+        -678.0832239671672,
+        1437.1444626274038,
+        924.8217739671672
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        7471.19185,
+        304.8619
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/2e8871504359566a36f6.tscn",
+      "bounds": [
+        -655.18244256,
+        -678.0832239671672,
+        1437.1444626274038,
+        924.8217739671672
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        10258.1923,
+        304.8619
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8af826ad8d1cf01a3bb4.tscn",
+      "bounds": [
+        -81.5772,
+        -157.872575977882,
+        211.8144,
+        295.138499037882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9479.72565,
+        213.9932
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level27"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f1821213296a6e95c729.tscn",
+      "bounds": [
+        -90.85594999999999,
+        -152.77842597788202,
+        251.71169754027972,
+        346.207775977882
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        9607.1146,
+        269.03975
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level28"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        1056.18748,
+        277.0224
+      ],
+      "parallax": 1.5,
+      "source_node": "near0",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2898.54358,
+        277.0224
+      ],
+      "parallax": 1.5,
+      "source_node": "near1",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        6088.74455,
+        277.0224
+      ],
+      "parallax": 1.5,
+      "source_node": "near3",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        8704.04945,
+        305.2961
+      ],
+      "parallax": 1.5,
+      "source_node": "near4",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        9557.7601,
+        346.1356
+      ],
+      "parallax": 1.5,
+      "source_node": "near5",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        12803.7158,
+        305.2961
+      ],
+      "parallax": 1.5,
+      "source_node": "near6",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        5665.63706,
+        305.6302
+      ],
+      "parallax": 1.8,
+      "source_node": "near2",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/df59247581d7d056db7c.tscn",
+      "bounds": [
+        -76.56,
+        -86.11,
+        158,
+        243
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        18377.80523,
+        349.27705
+      ],
+      "parallax": 1.8,
+      "source_node": "near7",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.455,
+        10351.18481,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.65,
+        10131.81917,
+        418.0854
+      ],
+      "parallax": 1.3,
+      "source_node": "c1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.936,
+        0.0,
+        0.0,
+        0.65,
+        10560.60857,
+        416.6411
+      ],
+      "parallax": 1.3,
+      "source_node": "c2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.455,
+        11324.44619,
+        430.3457
+      ],
+      "parallax": 1.3,
+      "source_node": "c5",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.845,
+        12426.79211,
+        411.7557
+      ],
+      "parallax": 1.3,
+      "source_node": "c4",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.455,
+        12662.44181,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c10",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.455,
+        10826.18375,
+        428.2215
+      ],
+      "parallax": 1.3,
+      "source_node": "c3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.936,
+        0.0,
+        0.0,
+        0.65,
+        12141.18263,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c9",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.858,
+        0.0,
+        0.0,
+        0.65,
+        11662.43189,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c6",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -1.014,
+        0.0,
+        0.0,
+        0.39,
+        11983.12421,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c8",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.39,
+        11011.46807,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c7",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -1.014,
+        0.0,
+        0.0,
+        0.39,
+        12972.15797,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c11",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -1.014,
+        0.0,
+        0.0,
+        0.39,
+        13295.87357,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c12",
+      "source_armature": "Clouds"
+    }
+  ],
+  "source": {
+    "prefab": "DinoWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

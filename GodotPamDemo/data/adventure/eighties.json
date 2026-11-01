@@ -1,0 +1,3643 @@
+{
+  "schema_version": 1,
+  "world_id": "eighties",
+  "width": 7411.228,
+  "nodes": [
+    {
+      "id": "eighties1",
+      "kind": "level",
+      "position": [
+        512.0,
+        236.756
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "霓虹年代 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_phatbeet_1",
+      "kind": "plant",
+      "position": [
+        713.503,
+        210.423
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties2",
+      "kind": "level",
+      "position": [
+        808.653,
+        167.117
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "霓虹年代 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties3",
+      "kind": "level",
+      "position": [
+        901.335,
+        221.293
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "霓虹年代 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties4",
+      "kind": "level",
+      "position": [
+        1007.941,
+        283.681
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "霓虹年代 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties5",
+      "kind": "level",
+      "position": [
+        1115.386,
+        254.699
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "霓虹年代 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_celerystalker_6",
+      "kind": "plant",
+      "position": [
+        1222.757,
+        218.115
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties6",
+      "kind": "level",
+      "position": [
+        1325.722,
+        182.666
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "霓虹年代 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties7",
+      "kind": "level",
+      "position": [
+        1440.975,
+        180.505
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "霓虹年代 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties8",
+      "kind": "level",
+      "position": [
+        1536.494,
+        216.938
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "霓虹年代 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties9",
+      "kind": "level",
+      "position": [
+        1635.786,
+        267.304
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "霓虹年代 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_thymewarp_11",
+      "kind": "plant",
+      "position": [
+        1743.286,
+        219.079
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties10",
+      "kind": "level",
+      "position": [
+        1834.71,
+        178.893
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "霓虹年代 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties11",
+      "kind": "level",
+      "position": [
+        1920.107,
+        137.701
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "霓虹年代 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties12",
+      "kind": "level",
+      "position": [
+        2010.528,
+        175.879
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "霓虹年代 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox0_15",
+      "kind": "gift",
+      "position": [
+        2097.935,
+        218.075
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties13",
+      "kind": "level",
+      "position": [
+        2183.332,
+        260.271
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "霓虹年代 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties14",
+      "kind": "level",
+      "position": [
+        2272.748,
+        210.037
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "霓虹年代 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox1_18",
+      "kind": "gift",
+      "position": [
+        2376.229,
+        157.794
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties15",
+      "kind": "level",
+      "position": [
+        2479.711,
+        188.938
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "霓虹年代 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties16",
+      "kind": "level",
+      "position": [
+        2651.891,
+        276.167
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "霓虹年代 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties17",
+      "kind": "level",
+      "position": [
+        2812.489,
+        188.938
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "霓虹年代 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_garlic_22",
+      "kind": "plant",
+      "position": [
+        2891.995,
+        151.958
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties18",
+      "kind": "level",
+      "position": [
+        2986.293,
+        195.52
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "霓虹年代 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties19",
+      "kind": "level",
+      "position": [
+        3080.59,
+        237.122
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "霓虹年代 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties20",
+      "kind": "level",
+      "position": [
+        3174.527,
+        285.656
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "霓虹年代 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties21",
+      "kind": "level",
+      "position": [
+        3271.595,
+        235.556
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "霓虹年代 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_sporeshroom_27",
+      "kind": "plant",
+      "position": [
+        3360.834,
+        187.805
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties22",
+      "kind": "level",
+      "position": [
+        3443.812,
+        137.792
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "霓虹年代 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties23",
+      "kind": "level",
+      "position": [
+        3530.703,
+        165.575
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "霓虹年代 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties24",
+      "kind": "level",
+      "position": [
+        3619.161,
+        203.15
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "霓虹年代 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox2_31",
+      "kind": "gift",
+      "position": [
+        3707.618,
+        246.204
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties25",
+      "kind": "level",
+      "position": [
+        3800.771,
+        203.15
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "霓虹年代 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties26",
+      "kind": "level",
+      "position": [
+        3888.445,
+        156.964
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "霓虹年代 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_intensivecarrot_34",
+      "kind": "plant",
+      "position": [
+        3975.336,
+        110.778
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "霓虹年代 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "eighties27",
+      "kind": "level",
+      "position": [
+        4077.101,
+        156.964
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "霓虹年代 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties28",
+      "kind": "level",
+      "position": [
+        4168.689,
+        203.933
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "霓虹年代 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties29",
+      "kind": "level",
+      "position": [
+        4256.363,
+        241.507
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "霓虹年代 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox3_38",
+      "kind": "gift",
+      "position": [
+        4347.169,
+        207.846
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties30",
+      "kind": "level",
+      "position": [
+        4425.779,
+        169.633
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "霓虹年代 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties31",
+      "kind": "level",
+      "position": [
+        4517.199,
+        183.643
+      ],
+      "number": "31",
+      "label": "第31关",
+      "title": "霓虹年代 · 第31关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties31"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties32",
+      "kind": "level",
+      "position": [
+        4976.33,
+        296.842
+      ],
+      "number": "32",
+      "label": "第32关",
+      "title": "霓虹年代 · 第32关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties32"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "strawburst0",
+      "kind": "level",
+      "position": [
+        2319.681,
+        290.692
+      ],
+      "number": "14-1",
+      "label": "第14-1关",
+      "title": "霓虹年代 · 第14-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "strawburst0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_level14_2_43",
+      "kind": "portal",
+      "position": [
+        2418.434,
+        293.811
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "霓虹年代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "bloominghearts0",
+      "kind": "level",
+      "position": [
+        3894.285,
+        240.1
+      ],
+      "number": "25-1",
+      "label": "第25-1关",
+      "title": "霓虹年代 · 第25-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "bloominghearts0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_level25_2_45",
+      "kind": "portal",
+      "position": [
+        3994.845,
+        251.158
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "霓虹年代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "eighties33",
+      "kind": "level",
+      "position": [
+        5414.933,
+        176.805
+      ],
+      "number": "33",
+      "label": "第33关",
+      "title": "霓虹年代 · 第33关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties33"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox4_47",
+      "kind": "gift",
+      "position": [
+        5506.204,
+        144.67
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties34",
+      "kind": "level",
+      "position": [
+        5605.514,
+        112.457
+      ],
+      "number": "34",
+      "label": "第34关",
+      "title": "霓虹年代 · 第34关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties34"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties35",
+      "kind": "level",
+      "position": [
+        5706.515,
+        161.086
+      ],
+      "number": "35",
+      "label": "第35关",
+      "title": "霓虹年代 · 第35关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties35"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties36",
+      "kind": "level",
+      "position": [
+        5802.028,
+        216.542
+      ],
+      "number": "36",
+      "label": "第36关",
+      "title": "霓虹年代 · 第36关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties36"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties37",
+      "kind": "level",
+      "position": [
+        5919.179,
+        266.594
+      ],
+      "number": "37",
+      "label": "第37关",
+      "title": "霓虹年代 · 第37关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties37"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox5_52",
+      "kind": "gift",
+      "position": [
+        6037.643,
+        274.381
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties38",
+      "kind": "level",
+      "position": [
+        6138.435,
+        235.209
+      ],
+      "number": "38",
+      "label": "第38关",
+      "title": "霓虹年代 · 第38关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties38"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties39",
+      "kind": "level",
+      "position": [
+        6233.676,
+        185.585
+      ],
+      "number": "39",
+      "label": "第39关",
+      "title": "霓虹年代 · 第39关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties39"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties40",
+      "kind": "level",
+      "position": [
+        6329.195,
+        151.186
+      ],
+      "number": "40",
+      "label": "第40关",
+      "title": "霓虹年代 · 第40关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties40"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_giftbox6_56",
+      "kind": "gift",
+      "position": [
+        6433.825,
+        144.605
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "霓虹年代 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "eighties41",
+      "kind": "level",
+      "position": [
+        6548.443,
+        167.563
+      ],
+      "number": "41",
+      "label": "第41关",
+      "title": "霓虹年代 · 第41关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties41"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties42",
+      "kind": "level",
+      "position": [
+        6899.228,
+        296.842
+      ],
+      "number": "42",
+      "label": "第42关",
+      "title": "霓虹年代 · 第42关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "eighties42"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "mirrornut0",
+      "kind": "level",
+      "position": [
+        3360.702,
+        274.117
+      ],
+      "number": "21-1",
+      "label": "第21-1关",
+      "title": "霓虹年代 · 第21-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [
+        "mirrornut0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "eighties_level21_2_60",
+      "kind": "portal",
+      "position": [
+        3475.123,
+        296.193
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "霓虹年代 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "source_level_ids": [],
+      "source_display": 4
+    }
+  ],
+  "paths": [
+    [
+      "eighties1",
+      "eighties_phatbeet_1"
+    ],
+    [
+      "eighties_phatbeet_1",
+      "eighties2"
+    ],
+    [
+      "eighties2",
+      "eighties3"
+    ],
+    [
+      "eighties3",
+      "eighties4"
+    ],
+    [
+      "eighties4",
+      "eighties5"
+    ],
+    [
+      "eighties5",
+      "eighties_celerystalker_6"
+    ],
+    [
+      "eighties_celerystalker_6",
+      "eighties6"
+    ],
+    [
+      "eighties6",
+      "eighties7"
+    ],
+    [
+      "eighties7",
+      "eighties8"
+    ],
+    [
+      "eighties8",
+      "eighties9"
+    ],
+    [
+      "eighties9",
+      "eighties_thymewarp_11"
+    ],
+    [
+      "eighties_thymewarp_11",
+      "eighties10"
+    ],
+    [
+      "eighties10",
+      "eighties11"
+    ],
+    [
+      "eighties11",
+      "eighties12"
+    ],
+    [
+      "eighties12",
+      "eighties_giftbox0_15"
+    ],
+    [
+      "eighties_giftbox0_15",
+      "eighties13"
+    ],
+    [
+      "eighties13",
+      "eighties14"
+    ],
+    [
+      "eighties14",
+      "strawburst0"
+    ],
+    [
+      "eighties14",
+      "eighties_giftbox1_18"
+    ],
+    [
+      "eighties_giftbox1_18",
+      "eighties15"
+    ],
+    [
+      "eighties15",
+      "eighties16"
+    ],
+    [
+      "eighties16",
+      "eighties17"
+    ],
+    [
+      "eighties17",
+      "eighties_garlic_22"
+    ],
+    [
+      "eighties_garlic_22",
+      "eighties18"
+    ],
+    [
+      "eighties18",
+      "eighties19"
+    ],
+    [
+      "eighties19",
+      "eighties20"
+    ],
+    [
+      "eighties20",
+      "eighties21"
+    ],
+    [
+      "eighties21",
+      "mirrornut0"
+    ],
+    [
+      "eighties21",
+      "eighties_sporeshroom_27"
+    ],
+    [
+      "eighties_sporeshroom_27",
+      "eighties22"
+    ],
+    [
+      "eighties22",
+      "eighties23"
+    ],
+    [
+      "eighties23",
+      "eighties24"
+    ],
+    [
+      "eighties24",
+      "eighties_giftbox2_31"
+    ],
+    [
+      "eighties_giftbox2_31",
+      "eighties25"
+    ],
+    [
+      "eighties25",
+      "bloominghearts0"
+    ],
+    [
+      "eighties25",
+      "eighties26"
+    ],
+    [
+      "eighties26",
+      "eighties_intensivecarrot_34"
+    ],
+    [
+      "eighties_intensivecarrot_34",
+      "eighties27"
+    ],
+    [
+      "eighties27",
+      "eighties28"
+    ],
+    [
+      "eighties28",
+      "eighties29"
+    ],
+    [
+      "eighties29",
+      "eighties_giftbox3_38"
+    ],
+    [
+      "eighties_giftbox3_38",
+      "eighties30"
+    ],
+    [
+      "eighties30",
+      "eighties31"
+    ],
+    [
+      "eighties31",
+      "eighties32"
+    ],
+    [
+      "eighties32",
+      "eighties33"
+    ],
+    [
+      "strawburst0",
+      "eighties_level14_2_43"
+    ],
+    [
+      "bloominghearts0",
+      "eighties_level25_2_45"
+    ],
+    [
+      "eighties33",
+      "eighties_giftbox4_47"
+    ],
+    [
+      "eighties_giftbox4_47",
+      "eighties34"
+    ],
+    [
+      "eighties34",
+      "eighties35"
+    ],
+    [
+      "eighties35",
+      "eighties36"
+    ],
+    [
+      "eighties36",
+      "eighties37"
+    ],
+    [
+      "eighties37",
+      "eighties_giftbox5_52"
+    ],
+    [
+      "eighties_giftbox5_52",
+      "eighties38"
+    ],
+    [
+      "eighties38",
+      "eighties39"
+    ],
+    [
+      "eighties39",
+      "eighties40"
+    ],
+    [
+      "eighties40",
+      "eighties_giftbox6_56"
+    ],
+    [
+      "eighties_giftbox6_56",
+      "eighties41"
+    ],
+    [
+      "eighties41",
+      "eighties42"
+    ],
+    [
+      "mirrornut0",
+      "eighties_level21_2_60"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/40c24a6db5d9f3b22a73.tscn",
+      "bounds": [
+        -859.6875,
+        -504.22,
+        1719.375,
+        1076.9389999999999
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        528.0745,
+        212.54565
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "FarTotal"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2402.69725,
+        219.9693
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2402.69725,
+        219.9693
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/334f1c268d939a2c1eb0.tscn",
+      "bounds": [
+        -149.41,
+        -101.68,
+        248,
+        202
+      ],
+      "transform": [
+        -0.91,
+        0.0,
+        0.0,
+        0.715,
+        896.11802,
+        228.7261
+      ],
+      "parallax": 0.2,
+      "source_node": "far5",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e8b99e33b84bba5b42a3.tscn",
+      "bounds": [
+        -209.47,
+        -174.04,
+        321,
+        288
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        1.04,
+        516.28298,
+        158.51115
+      ],
+      "parallax": 0.2,
+      "source_node": "far0",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/334f1c268d939a2c1eb0.tscn",
+      "bounds": [
+        -149.41,
+        -101.68,
+        248,
+        202
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        1.04,
+        1236.07413,
+        228.9302
+      ],
+      "parallax": 0.2,
+      "source_node": "far8",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/720dcaf89983044a8a87.tscn",
+      "bounds": [
+        -52.31,
+        -96.22,
+        112,
+        159
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        814.7973,
+        111.60845
+      ],
+      "parallax": 0.25,
+      "source_node": "far18",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e8b99e33b84bba5b42a3.tscn",
+      "bounds": [
+        -209.47,
+        -174.04,
+        321,
+        288
+      ],
+      "transform": [
+        0.91,
+        0.0,
+        0.0,
+        0.91,
+        1120.78886,
+        228.7261
+      ],
+      "parallax": 0.25,
+      "source_node": "far6",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e8b99e33b84bba5b42a3.tscn",
+      "bounds": [
+        -209.47,
+        -174.04,
+        321,
+        288
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        0.52,
+        804.46815,
+        251.3136
+      ],
+      "parallax": 0.25,
+      "source_node": "far4",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e8b99e33b84bba5b42a3.tscn",
+      "bounds": [
+        -209.47,
+        -174.04,
+        321,
+        288
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        720.0678,
+        250.22355
+      ],
+      "parallax": 0.3,
+      "source_node": "far2",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/55e3ac245ff1bf97400f.tscn",
+      "bounds": [
+        -14.094999237060545,
+        -57.43000045776367,
+        37,
+        180
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        998.2689,
+        137.78525
+      ],
+      "parallax": 0.3,
+      "source_node": "far13",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4621d18a21749bb5a96e.tscn",
+      "bounds": [
+        -186.44475299499425,
+        -186.44475299795246,
+        372.8895059959046,
+        372.88950598998815
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1275.50911,
+        97.41505
+      ],
+      "parallax": 0.3,
+      "source_node": "far20",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e8b99e33b84bba5b42a3.tscn",
+      "bounds": [
+        -209.47,
+        -174.04,
+        321,
+        288
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        1.04,
+        2313.82542,
+        245.3817
+      ],
+      "parallax": 0.3,
+      "source_node": "far23",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/334f1c268d939a2c1eb0.tscn",
+      "bounds": [
+        -149.41,
+        -101.68,
+        248,
+        202
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        0.715,
+        847.05888,
+        231.6628
+      ],
+      "parallax": 0.4,
+      "source_node": "far1",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/730223a9ee41404e29d0.tscn",
+      "bounds": [
+        -24.725,
+        -67.1700001525879,
+        58.550000762939455,
+        189.1700001525879
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        800.55008,
+        243.70925
+      ],
+      "parallax": 0.4,
+      "source_node": "far10",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6252483a78fca6c6aa2b.tscn",
+      "bounds": [
+        -34.67,
+        -91.85,
+        70,
+        147
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        2060.5145,
+        70.1781
+      ],
+      "parallax": 0.4,
+      "source_node": "far21",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4621d18a21749bb5a96e.tscn",
+      "bounds": [
+        -186.44475299499425,
+        -186.44475299795246,
+        372.8895059959046,
+        372.88950598998815
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        733.82212,
+        170.5667
+      ],
+      "parallax": 0.4,
+      "source_node": "far17",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f7bc3d80f91aade8d13f.tscn",
+      "bounds": [
+        -210.85,
+        -32,
+        384,
+        64
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        0.715,
+        2018.97105,
+        262.34215
+      ],
+      "parallax": 0.5,
+      "source_node": "far7",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/12c9f974a8838878bfc8.tscn",
+      "bounds": [
+        -25.934999389648436,
+        -58.26999965667724,
+        67.52499948501587,
+        180
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1080.5056,
+        98.2425
+      ],
+      "parallax": 0.5,
+      "source_node": "far11",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/439aabb0a6b3197e32f9.tscn",
+      "bounds": [
+        -15.415000057220459,
+        -31.629999237060552,
+        32,
+        155
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1503.94875,
+        147.9129
+      ],
+      "parallax": 0.5,
+      "source_node": "far15",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/720dcaf89983044a8a87.tscn",
+      "bounds": [
+        -52.31,
+        -96.22,
+        112,
+        159
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3339.57638,
+        111.60845
+      ],
+      "parallax": 0.5,
+      "source_node": "far22",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/439aabb0a6b3197e32f9.tscn",
+      "bounds": [
+        -15.415000057220459,
+        -31.629999237060552,
+        32,
+        155
+      ],
+      "transform": [
+        0.39,
+        0.0,
+        0.0,
+        0.39,
+        1343.65248,
+        166.5601
+      ],
+      "parallax": 0.55,
+      "source_node": "far12",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f7bc3d80f91aade8d13f.tscn",
+      "bounds": [
+        -210.85,
+        -32,
+        384,
+        64
+      ],
+      "transform": [
+        1.04,
+        0.0,
+        0.0,
+        0.715,
+        1255.9822,
+        281.88635
+      ],
+      "parallax": 0.6,
+      "source_node": "far3",
+      "source_armature": "FarClouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6252483a78fca6c6aa2b.tscn",
+      "bounds": [
+        -34.67,
+        -91.85,
+        70,
+        147
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        1661.85793,
+        97.41505
+      ],
+      "parallax": 0.6,
+      "source_node": "far19",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0811e3990ca41d9f5b7b.tscn",
+      "bounds": [
+        -32.375,
+        -77.33000000000001,
+        56.15,
+        182.83
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        608.61451,
+        207.54065
+      ],
+      "parallax": 0.7,
+      "source_node": "far9",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6252483a78fca6c6aa2b.tscn",
+      "bounds": [
+        -34.67,
+        -91.85,
+        70,
+        147
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.65,
+        3878.27044,
+        191.70145
+      ],
+      "parallax": 0.7,
+      "source_node": "far24",
+      "source_armature": "FarLands"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1c2761ae65a91b114793.tscn",
+      "bounds": [
+        -18.414999961853027,
+        -23,
+        37,
+        145
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        2115.56378,
+        147.9129
+      ],
+      "parallax": 0.8,
+      "source_node": "far14",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/a6d3a1a8b0268b4c3648.tscn",
+      "bounds": [
+        -50.53500137329102,
+        -70.55000010490417,
+        98.47500137329101,
+        180
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        3488.6906,
+        126.4148
+      ],
+      "parallax": 0.8,
+      "source_node": "far16",
+      "source_armature": "FarBalloons"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        6.5,
+        0.0,
+        0.0,
+        3.25,
+        4401.55408,
+        256.23605
+      ],
+      "parallax": 0.65,
+      "source_node": "extension_cloud",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/79f7ecfabafd61e675a5.tscn",
+      "bounds": [
+        -570,
+        -633.6167,
+        1140,
+        905
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6899.22825,
+        296.84155
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/79f7ecfabafd61e675a5.tscn",
+      "bounds": [
+        -570,
+        -633.6167,
+        1140,
+        905
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4976.33,
+        296.84155
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5f061c1b65a572fd712e.tscn",
+      "bounds": [
+        -296.98,
+        -562.0838741542938,
+        621,
+        866.0823741542938
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        5987.4284,
+        187.41405
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5f061c1b65a572fd712e.tscn",
+      "bounds": [
+        -296.98,
+        -562.0838741542938,
+        621,
+        866.0823741542938
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        3180.84475,
+        163.30425
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/edcbefce5c4a722b2633.tscn",
+      "bounds": [
+        -453.45795209776907,
+        -459.9888500236988,
+        755.7543446064184,
+        720.9888500236988
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        512.0,
+        236.75555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level01"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8620cd6daf3e016c9667.tscn",
+      "bounds": [
+        -74,
+        -107.13,
+        205.13,
+        218.90949999999998
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        713.50325,
+        210.42275
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PhatBeet"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b3443b83b3bc59e3f5c.tscn",
+      "bounds": [
+        -64.5,
+        -160.535,
+        129,
+        248.075
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        808.65285,
+        167.11715
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level02"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/25aec6d0f8358d3e46b3.tscn",
+      "bounds": [
+        -71.55365,
+        -206.3366991607666,
+        218.81365,
+        293.03694916076665
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        901.33505,
+        221.2927
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level03"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/358fbd21ad8a59100f8f.tscn",
+      "bounds": [
+        -74,
+        -245.06,
+        148,
+        338.15
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1007.9409,
+        283.681
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level04"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c0ece8d83fd1acebc568.tscn",
+      "bounds": [
+        -74,
+        -188.81565,
+        196.49,
+        278.88265
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1115.3859,
+        254.6988
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level05"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fa44d5ff9814b2bebcc7.tscn",
+      "bounds": [
+        -45.456,
+        -183.8082991607666,
+        90.912,
+        268.8704491607666
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1222.75745,
+        218.1155
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "CeleryStalker"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6558235bbba8e7d38742.tscn",
+      "bounds": [
+        -74,
+        -228.41,
+        160.6748,
+        343.8765
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1325.722,
+        182.6658
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level06"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/81e6fa5ecc4a16f2c8ec.tscn",
+      "bounds": [
+        -64.5,
+        -114.62,
+        190.54,
+        199.68215
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1440.9748,
+        180.50455
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level07"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e196e0131a14e6dbe5c6.tscn",
+      "bounds": [
+        -73.22999999999999,
+        -188.7502991607666,
+        123.234,
+        273.8124491607666
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1536.49425,
+        216.93835
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level08"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7e2ea18a52c2cb0051b2.tscn",
+      "bounds": [
+        -64.5,
+        -117.08,
+        183.65,
+        204.62
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1635.78565,
+        267.3036
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level09"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab977c29ac7c5444b3e6.tscn",
+      "bounds": [
+        -74,
+        -269.9805496948242,
+        148,
+        374.1847996948242
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1743.2859,
+        219.07945
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "ThymeWarp"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/2b50f75183edd7a9cc03.tscn",
+      "bounds": [
+        -64.5,
+        -191.54000000000002,
+        129,
+        276.60215000000005
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1834.71035,
+        178.89255
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level10"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/401fea6d40931074458f.tscn",
+      "bounds": [
+        -49.818000000000005,
+        -102.35,
+        190.21800000000002,
+        192.70925
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        1920.10735,
+        137.70075
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level11"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/71d10602660896af79cc.tscn",
+      "bounds": [
+        -64.5,
+        -176.82,
+        129,
+        266.02
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2010.5282,
+        175.8785
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level12"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/eeee3418e1c8cedbc3a2.tscn",
+      "bounds": [
+        -74,
+        -128.97,
+        148,
+        217.38215
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2097.935,
+        218.07455
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox00"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/bfddabbdbaee3962d746.tscn",
+      "bounds": [
+        -65.445,
+        -256.6651996948242,
+        128.57524999999998,
+        320.1134496948242
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2183.332,
+        260.2706
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level13"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6676cc47f4daeef250ba.tscn",
+      "bounds": [
+        -64.5,
+        -105.87,
+        200.68,
+        184.14175
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2272.74795,
+        210.03665
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level14"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3b3443b83b3bc59e3f5c.tscn",
+      "bounds": [
+        -64.5,
+        -160.535,
+        129,
+        248.075
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2319.6812,
+        290.6919
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level02"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8620cd6daf3e016c9667.tscn",
+      "bounds": [
+        -74,
+        -107.13,
+        205.13,
+        218.90949999999998
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2418.43375,
+        293.8106
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PhatBeet"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3eb09c646846ddb5c92f.tscn",
+      "bounds": [
+        -49.8,
+        -137.97,
+        99.6,
+        224.17525
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2376.22925,
+        157.79355
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox01"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/42ea3f102ad1e588f09f.tscn",
+      "bounds": [
+        -64.01,
+        -201.44465,
+        128.02,
+        289.95465
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2479.71055,
+        188.9383
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level15"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5a239bb5a904a5e31041.tscn",
+      "bounds": [
+        -164.465,
+        -301.28,
+        330.88,
+        404.625
+      ],
+      "transform": [
+        0.715,
+        0.0,
+        0.0,
+        0.715,
+        2651.891,
+        276.167
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level16"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8f027ff11b4f13f208a7.tscn",
+      "bounds": [
+        -52,
+        -97.49,
+        104,
+        199
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2812.4891,
+        188.9383
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level17"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/63de4ea053214aee1ba2.tscn",
+      "bounds": [
+        -62.59295,
+        -224.67464999999999,
+        114.59295,
+        308.99465
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2891.99515,
+        151.9585
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Garlic"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/044e3ba1b81c9bade17d.tscn",
+      "bounds": [
+        -146.41,
+        -129.25,
+        227,
+        218.92000000000002
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        2986.2926,
+        195.51955
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level18"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9e403baf5469c4ec524e.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        118.547
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3080.59005,
+        237.1215
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level19"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/78f22bc18933e1f08241.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3174.52675,
+        285.6557
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level20"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/17e5f1b8108c534c6f43.tscn",
+      "bounds": [
+        -52,
+        -122.55,
+        106.23,
+        212.22
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3271.5945,
+        235.5563
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level21"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/af723c199e3733f898a6.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        126.74000000000001
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3360.8343,
+        187.80535
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "SporeShroom"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/034d6029b3897acab05b.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3443.812,
+        137.79175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level22"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/05b9a30b1da9a527e4ac.tscn",
+      "bounds": [
+        -62.792950000000005,
+        -207.66465,
+        114.79295,
+        295.21164999999996
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3530.70335,
+        165.57535
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level23"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e92e2725d87addc08f1a.tscn",
+      "bounds": [
+        -84.88999999999999,
+        -129.25,
+        227,
+        221.92000000000002
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3619.16055,
+        203.1499
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level24"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5232cf626b7bf95c9a66.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3707.61775,
+        246.20395
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox02"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c4ef4f21a67b3f359188.tscn",
+      "bounds": [
+        -52.269999999999996,
+        -115.87,
+        165,
+        200.651
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3800.7712,
+        203.1499
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level25"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9ab8e8e11b1061421bec.tscn",
+      "bounds": [
+        -65.5955,
+        -205.9497,
+        126.9333,
+        300.6597
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3888.44515,
+        156.96415
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level26"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/602a9fce0ab65c5b0067.tscn",
+      "bounds": [
+        -56.373200000000004,
+        -33.6071,
+        112.74640000000001,
+        133.3696
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3975.3365,
+        110.7784
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "IntensiveCarrot"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0b46be8f24c62c043406.tscn",
+      "bounds": [
+        -52,
+        -114.93,
+        104,
+        204
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4077.10115,
+        156.96415
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level27"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/014bc8548420a0cd6b4c.tscn",
+      "bounds": [
+        -52,
+        -99.47999999999999,
+        187.34,
+        187.027
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4168.6894,
+        203.9325
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level28"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5787d9bcd7c41d820b7c.tscn",
+      "bounds": [
+        -52,
+        -112.11,
+        104,
+        204
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4256.36335,
+        241.50705
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level29"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/835010604bd0222c3d50.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.781
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4347.169,
+        207.84615
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox03"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/519debbc53fdf8672959.tscn",
+      "bounds": [
+        -146.41,
+        -129.25,
+        227,
+        218.92000000000002
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4425.77935,
+        169.63265
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level30"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/213a1b8ee71adcd51f26.tscn",
+      "bounds": [
+        -84.96594999999999,
+        -198.39884999999998,
+        142.21185,
+        293.10884999999996
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        4517.19925,
+        183.6434
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level31"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/17e5f1b8108c534c6f43.tscn",
+      "bounds": [
+        -52,
+        -122.55,
+        106.23,
+        212.22
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3894.28475,
+        240.0998
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level21"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/044e3ba1b81c9bade17d.tscn",
+      "bounds": [
+        -146.41,
+        -129.25,
+        227,
+        218.92000000000002
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3994.84495,
+        251.15825
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level18"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/78f22bc18933e1f08241.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5414.9331,
+        176.80475
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level20"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/8620cd6daf3e016c9667.tscn",
+      "bounds": [
+        -74,
+        -107.13,
+        205.13,
+        218.90949999999998
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5506.20415,
+        144.67005
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PhatBeet"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/78f22bc18933e1f08241.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5605.51375,
+        112.4567
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level20"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/25aec6d0f8358d3e46b3.tscn",
+      "bounds": [
+        -71.55365,
+        -206.3366991607666,
+        218.81365,
+        293.03694916076665
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5706.5153,
+        161.08645
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level03"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/358fbd21ad8a59100f8f.tscn",
+      "bounds": [
+        -74,
+        -245.06,
+        148,
+        338.15
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        5802.02825,
+        216.54185
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level04"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c4ef4f21a67b3f359188.tscn",
+      "bounds": [
+        -52.269999999999996,
+        -115.87,
+        165,
+        200.651
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5919.17905,
+        266.5938
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level25"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/fa44d5ff9814b2bebcc7.tscn",
+      "bounds": [
+        -45.456,
+        -183.8082991607666,
+        90.912,
+        268.8704491607666
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6037.64285,
+        274.3808
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "CeleryStalker"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6558235bbba8e7d38742.tscn",
+      "bounds": [
+        -74,
+        -228.41,
+        160.6748,
+        343.8765
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6138.4351,
+        235.20855
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level06"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/213a1b8ee71adcd51f26.tscn",
+      "bounds": [
+        -84.96594999999999,
+        -198.39884999999998,
+        142.21185,
+        293.10884999999996
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        6233.6757,
+        185.58495
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level31"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/e196e0131a14e6dbe5c6.tscn",
+      "bounds": [
+        -73.22999999999999,
+        -188.7502991607666,
+        123.234,
+        273.8124491607666
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6329.19515,
+        151.18565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level08"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/7e2ea18a52c2cb0051b2.tscn",
+      "bounds": [
+        -64.5,
+        -117.08,
+        183.65,
+        204.62
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6433.825,
+        144.60505
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level09"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/ab977c29ac7c5444b3e6.tscn",
+      "bounds": [
+        -74,
+        -269.9805496948242,
+        148,
+        374.1847996948242
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        6548.4434,
+        167.56305
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "ThymeWarp"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/5232cf626b7bf95c9a66.tscn",
+      "bounds": [
+        -52,
+        -31,
+        104,
+        115.32
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3360.70235,
+        274.1169
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "GiftBox02"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/c4ef4f21a67b3f359188.tscn",
+      "bounds": [
+        -52.269999999999996,
+        -115.87,
+        165,
+        200.651
+      ],
+      "transform": [
+        0.52,
+        0.0,
+        0.0,
+        0.52,
+        3475.1225,
+        296.19285
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Level25"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3e962f24329d2f3c9285.tscn",
+      "bounds": [
+        -186.63251702473573,
+        -186.63251702017428,
+        373.26503404034816,
+        373.2650340494712
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        965.47744,
+        345.41722
+      ],
+      "parallax": 1.2,
+      "source_node": "near0",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f4f95d698b1f0ad7c5ef.tscn",
+      "bounds": [
+        -43.38,
+        -92.86,
+        85.5,
+        143.5
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        1490.21698,
+        350.9638
+      ],
+      "parallax": 1.2,
+      "source_node": "near1",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4aacc10b0dc8b8907222.tscn",
+      "bounds": [
+        -101.22636814952111,
+        -101.22636814910344,
+        202.4527362982067,
+        202.45273629904202
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        1678.8124,
+        343.19812
+      ],
+      "parallax": 1.2,
+      "source_node": "near2",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3e962f24329d2f3c9285.tscn",
+      "bounds": [
+        -186.63251702473573,
+        -186.63251702017428,
+        373.26503404034816,
+        373.2650340494712
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        2223.25006,
+        345.41722
+      ],
+      "parallax": 1.2,
+      "source_node": "near3",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f4f95d698b1f0ad7c5ef.tscn",
+      "bounds": [
+        -43.38,
+        -92.86,
+        85.5,
+        143.5
+      ],
+      "transform": [
+        0.858,
+        0.0,
+        0.0,
+        0.858,
+        2804.32978,
+        350.9638
+      ],
+      "parallax": 1.2,
+      "source_node": "near4",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3e962f24329d2f3c9285.tscn",
+      "bounds": [
+        -186.63251702473573,
+        -186.63251702017428,
+        373.26503404034816,
+        373.2650340494712
+      ],
+      "transform": [
+        0.702,
+        0.0,
+        0.0,
+        0.702,
+        3388.65976,
+        350.9638
+      ],
+      "parallax": 1.2,
+      "source_node": "near5",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4aacc10b0dc8b8907222.tscn",
+      "bounds": [
+        -101.22636814952111,
+        -101.22636814910344,
+        202.4527362982067,
+        202.45273629904202
+      ],
+      "transform": [
+        0.858,
+        0.0,
+        0.0,
+        0.858,
+        4038.68368,
+        293.04958
+      ],
+      "parallax": 1.2,
+      "source_node": "near6",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f4f95d698b1f0ad7c5ef.tscn",
+      "bounds": [
+        -43.38,
+        -92.86,
+        85.5,
+        143.5
+      ],
+      "transform": [
+        0.858,
+        0.0,
+        0.0,
+        0.858,
+        4634.25112,
+        303.42202
+      ],
+      "parallax": 1.2,
+      "source_node": "near7",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3e962f24329d2f3c9285.tscn",
+      "bounds": [
+        -186.63251702473573,
+        -186.63251702017428,
+        373.26503404034816,
+        373.2650340494712
+      ],
+      "transform": [
+        0.858,
+        0.0,
+        0.0,
+        0.858,
+        5286.0043,
+        303.42202
+      ],
+      "parallax": 1.2,
+      "source_node": "near8",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f4f95d698b1f0ad7c5ef.tscn",
+      "bounds": [
+        -43.38,
+        -92.86,
+        85.5,
+        143.5
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        7586.68918,
+        319.80826
+      ],
+      "parallax": 1.2,
+      "source_node": "near9",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/3e962f24329d2f3c9285.tscn",
+      "bounds": [
+        -186.63251702473573,
+        -186.63251702017428,
+        373.26503404034816,
+        373.2650340494712
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.78,
+        6751.56096,
+        350.96302
+      ],
+      "parallax": 1.2,
+      "source_node": "near10",
+      "source_armature": "Near"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.455,
+        7088.57852,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        6905.77381,
+        418.0854
+      ],
+      "parallax": 1.3,
+      "source_node": "c1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.65,
+        7263.09831,
+        416.6411
+      ],
+      "parallax": 1.3,
+      "source_node": "c2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        7853.39386,
+        430.3457
+      ],
+      "parallax": 1.3,
+      "source_node": "c5",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.845,
+        7674.95976,
+        411.7557
+      ],
+      "parallax": 1.3,
+      "source_node": "c4",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        7486.51241,
+        428.2215
+      ],
+      "parallax": 1.3,
+      "source_node": "c3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.65,
+        8735.76497,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c9",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.715,
+        0.0,
+        0.0,
+        0.65,
+        8046.77926,
+        422.7329
+      ],
+      "parallax": 1.3,
+      "source_node": "c6",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.845,
+        0.0,
+        0.0,
+        0.39,
+        8498.96737,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c8",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.39,
+        8269.30612,
+        429.1367
+      ],
+      "parallax": 1.3,
+      "source_node": "c7",
+      "source_armature": "Clouds"
+    }
+  ],
+  "source": {
+    "prefab": "EightiesWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

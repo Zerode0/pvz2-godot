@@ -1,0 +1,777 @@
+{
+  "mapped": 35,
+  "indexed": 35,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "wallnut_40x111|IMAGE_PLANT_WALLNUT_WALLNUT_40X111",
+      "file": "wallnut_40x111.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041185_images_1536_initial_plant_wallnut_wallnut_40x111.png",
+      "sha256": "e18b1eea52c5308c9dcbbb5b205cb452183135e568393a5fbbf359517557c45b",
+      "logical_size": [
+        40,
+        111
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041185_images_1536_initial_plant_wallnut_wallnut_40x111.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_40x111",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_40X111",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "51",
+          "height": "142"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_70x137|IMAGE_PLANT_WALLNUT_WALLNUT_70X137",
+      "file": "wallnut_70x137.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041190_images_1536_initial_plant_wallnut_wallnut_70x137.png",
+      "sha256": "603068f2848944f60621cd579a2b02ff4a1814e8877b4ecf449b77407159d931",
+      "logical_size": [
+        70,
+        137
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041190_images_1536_initial_plant_wallnut_wallnut_70x137.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_70x137",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_70X137",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "90",
+          "height": "176"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_93x135|IMAGE_PLANT_WALLNUT_WALLNUT_93X135",
+      "file": "wallnut_93x135.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041192_images_1536_initial_plant_wallnut_wallnut_93x135.png",
+      "sha256": "7a77259001efeee223c27af149e7698e4e13c5b7cccd24a93ddba9614d0e14fd",
+      "logical_size": [
+        93,
+        135
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041192_images_1536_initial_plant_wallnut_wallnut_93x135.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_93x135",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_93X135",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "119",
+          "height": "173"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_20x14|IMAGE_PLANT_WALLNUT_WALLNUT_20X14",
+      "file": "wallnut_20x14.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041176_images_1536_initial_plant_wallnut_wallnut_20x14.png",
+      "sha256": "77251fcada3ba845fe53e571bb40990fb4720464cf8882182463535e7c5d2bb4",
+      "logical_size": [
+        20,
+        14
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041176_images_1536_initial_plant_wallnut_wallnut_20x14.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_20x14",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_20X14",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "26",
+          "height": "18"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_31x35|IMAGE_PLANT_WALLNUT_WALLNUT_31X35",
+      "file": "wallnut_31x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041180_images_1536_initial_plant_wallnut_wallnut_31x35.png",
+      "sha256": "f5ff4e4bc0570ff1c05cd4f8f913a171a46d64aef9202d2a0184be41c7723365",
+      "logical_size": [
+        31,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041180_images_1536_initial_plant_wallnut_wallnut_31x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_31x35",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_31X35",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "40",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_13x13|IMAGE_PLANT_WALLNUT_WALLNUT_13X13",
+      "file": "wallnut_13x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041167_images_1536_initial_plant_wallnut_wallnut_13x13.png",
+      "sha256": "34b5795350374bdd8db456a2149e06d155469d0bb469e25c1352237891755c06",
+      "logical_size": [
+        13,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041167_images_1536_initial_plant_wallnut_wallnut_13x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_13x13",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_13X13",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "17",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_14x13|IMAGE_PLANT_WALLNUT_WALLNUT_14X13",
+      "file": "wallnut_14x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041169_images_1536_initial_plant_wallnut_wallnut_14x13.png",
+      "sha256": "6afd8f4dcb21a36062ba26864d7cf3a2eed69f18508ebc6e8a4802a47f81dec5",
+      "logical_size": [
+        14,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041169_images_1536_initial_plant_wallnut_wallnut_14x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_14x13",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_14X13",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "18",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_108x92|IMAGE_PLANT_WALLNUT_WALLNUT_108X92",
+      "file": "wallnut_108x92.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041160_images_1536_initial_plant_wallnut_wallnut_108x92.png",
+      "sha256": "d243a5afbd53e3efa9bed73269fce774f49999671a5baa6f57bcf3352b894e9d",
+      "logical_size": [
+        108,
+        92
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041160_images_1536_initial_plant_wallnut_wallnut_108x92.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_108x92",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_108X92",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "138",
+          "height": "118"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_55x60|IMAGE_PLANT_WALLNUT_WALLNUT_55X60",
+      "file": "wallnut_55x60.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041188_images_1536_initial_plant_wallnut_wallnut_55x60.png",
+      "sha256": "5702c0b9a041330607e00cfd6f34fa8bbfd0c94964024c84ceb8b5efba8aea82",
+      "logical_size": [
+        55,
+        60
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041188_images_1536_initial_plant_wallnut_wallnut_55x60.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_55x60",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_55X60",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "71",
+          "height": "77"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_50x33|IMAGE_PLANT_WALLNUT_WALLNUT_50X33",
+      "file": "wallnut_50x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041186_images_1536_initial_plant_wallnut_wallnut_50x33.png",
+      "sha256": "ff4f3b30808fc2e1bb6f0295c403e10adb078c42cc67add99ae79eb6c422c59a",
+      "logical_size": [
+        50,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041186_images_1536_initial_plant_wallnut_wallnut_50x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_50x33",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_50X33",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "64",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_54x33|IMAGE_PLANT_WALLNUT_WALLNUT_54X33",
+      "file": "wallnut_54x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041187_images_1536_initial_plant_wallnut_wallnut_54x33.png",
+      "sha256": "3fd8b8aa48b2e5039feefe8aff9347398be74e1d950dac2aaf875010ef0b863e",
+      "logical_size": [
+        54,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041187_images_1536_initial_plant_wallnut_wallnut_54x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_54x33",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_54X33",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "69",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_56x38|IMAGE_PLANT_WALLNUT_WALLNUT_56X38",
+      "file": "wallnut_56x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041189_images_1536_initial_plant_wallnut_wallnut_56x38.png",
+      "sha256": "ade14b095b389251130fa880f45ac29b43f1c1226e8398f5421332e17cdb8ae8",
+      "logical_size": [
+        56,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041189_images_1536_initial_plant_wallnut_wallnut_56x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_56x38",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_56X38",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "72",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_114x134|IMAGE_PLANT_WALLNUT_WALLNUT_114X134",
+      "file": "wallnut_114x134.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041162_images_1536_initial_plant_wallnut_wallnut_114x134.png",
+      "sha256": "e56ad5fcae605f5f5e2899120b61f772e885967d5298eebe60e9d35ce7504b7f",
+      "logical_size": [
+        114,
+        134
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041162_images_1536_initial_plant_wallnut_wallnut_114x134.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_114x134",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_114X134",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "146",
+          "height": "172"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_115x75|IMAGE_PLANT_WALLNUT_WALLNUT_115X75",
+      "file": "wallnut_115x75.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041163_images_1536_initial_plant_wallnut_wallnut_115x75.png",
+      "sha256": "67653e8143303fd63b9693a1c2765a24d462e1ef031982d36bedf7b573f3e7d3",
+      "logical_size": [
+        115,
+        75
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041163_images_1536_initial_plant_wallnut_wallnut_115x75.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_115x75",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_115X75",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "147",
+          "height": "96"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_118x61|IMAGE_PLANT_WALLNUT_WALLNUT_118X61",
+      "file": "wallnut_118x61.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041164_images_1536_initial_plant_wallnut_wallnut_118x61.png",
+      "sha256": "3da0dd8158c244adbf3ac6c1c6d254a155cc81d6fb89b43e403bfaa8e7d66cef",
+      "logical_size": [
+        118,
+        61
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041164_images_1536_initial_plant_wallnut_wallnut_118x61.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_118x61",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_118X61",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "151",
+          "height": "78"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_120x139|IMAGE_PLANT_WALLNUT_WALLNUT_120X139",
+      "file": "wallnut_120x139.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041166_images_1536_initial_plant_wallnut_wallnut_120x139.png",
+      "sha256": "f6ea7683352faa9ac50f1b9f30fcdc10ab7edea84f408f40d5de50e603c9de1b",
+      "logical_size": [
+        120,
+        139
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041166_images_1536_initial_plant_wallnut_wallnut_120x139.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_120x139",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_120X139",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "154",
+          "height": "178"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_120x100|IMAGE_PLANT_WALLNUT_WALLNUT_120X100",
+      "file": "wallnut_120x100.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041165_images_1536_initial_plant_wallnut_wallnut_120x100.png",
+      "sha256": "10d30d89c71fffaf3fa8cb53cdd8ef45c5cd5ceabe8d7414636ac5e260c5e331",
+      "logical_size": [
+        120,
+        100
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041165_images_1536_initial_plant_wallnut_wallnut_120x100.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_120x100",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_120X100",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "154",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_110x51|IMAGE_PLANT_WALLNUT_WALLNUT_110X51",
+      "file": "wallnut_110x51.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041161_images_1536_initial_plant_wallnut_wallnut_110x51.png",
+      "sha256": "7527ace23a11a40ec3503eee937870784984d0f3dd79088b4d1d8b39ff1f0f68",
+      "logical_size": [
+        110,
+        51
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041161_images_1536_initial_plant_wallnut_wallnut_110x51.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_110x51",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_110X51",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "141",
+          "height": "66"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_34x33|IMAGE_PLANT_WALLNUT_WALLNUT_34X33",
+      "file": "wallnut_34x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041182_images_1536_initial_plant_wallnut_wallnut_34x33.png",
+      "sha256": "7fbc4b7923e65c801cfe366e0997751d2547a3084da22a4aa40cc3fd864f008c",
+      "logical_size": [
+        34,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041182_images_1536_initial_plant_wallnut_wallnut_34x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_34x33",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_34X33",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "44",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_34x33_2|IMAGE_PLANT_WALLNUT_WALLNUT_34X33_2",
+      "file": "wallnut_34x33_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041183_images_1536_initial_plant_wallnut_wallnut_34x33_2.png",
+      "sha256": "07368dc0d7b428e908e394100cf72617a07fc9a057dda86e01084adf7a5b82b1",
+      "logical_size": [
+        34,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041183_images_1536_initial_plant_wallnut_wallnut_34x33_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_34x33_2",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_34X33_2",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "44",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_33x20|IMAGE_PLANT_WALLNUT_WALLNUT_33X20",
+      "file": "wallnut_33x20.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041181_images_1536_initial_plant_wallnut_wallnut_33x20.png",
+      "sha256": "a065c704b64ebb296facc1c1a30bbbb01c2c1a011d96da389d18843053ab9afe",
+      "logical_size": [
+        33,
+        20
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041181_images_1536_initial_plant_wallnut_wallnut_33x20.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_33x20",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_33X20",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "42",
+          "height": "26"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_21x13|IMAGE_PLANT_WALLNUT_WALLNUT_21X13",
+      "file": "wallnut_21x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041177_images_1536_initial_plant_wallnut_wallnut_21x13.png",
+      "sha256": "f1eb513a689d89581dcf8f54ae587b03e1e68bc2549afae50e900b993355fe6f",
+      "logical_size": [
+        21,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041177_images_1536_initial_plant_wallnut_wallnut_21x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_21x13",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_21X13",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "27",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_35x33|IMAGE_PLANT_WALLNUT_WALLNUT_35X33",
+      "file": "wallnut_35x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041184_images_1536_initial_plant_wallnut_wallnut_35x33.png",
+      "sha256": "32c20311e5c792d47c73e4c2e3c79d389e59ce826eabd23914d875e980f01a17",
+      "logical_size": [
+        35,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041184_images_1536_initial_plant_wallnut_wallnut_35x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_35x33",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_35X33",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "45",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_21x17|IMAGE_PLANT_WALLNUT_WALLNUT_21X17",
+      "file": "wallnut_21x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041178_images_1536_initial_plant_wallnut_wallnut_21x17.png",
+      "sha256": "215aa631b3b4c2a62a9a6f2ad11d537d119b591f08f67737390c2b0a37cb3e3b",
+      "logical_size": [
+        21,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041178_images_1536_initial_plant_wallnut_wallnut_21x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_21x17",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_21X17",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "27",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_93x135_2|IMAGE_PLANT_WALLNUT_WALLNUT_93X135_2",
+      "file": "wallnut_93x135_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041193_images_1536_initial_plant_wallnut_wallnut_93x135_2.png",
+      "sha256": "9febe46ef2d17a8553cec5c65a91bfcf9e15165254e48ec844cf28c909bfc2ba",
+      "logical_size": [
+        93,
+        135
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041193_images_1536_initial_plant_wallnut_wallnut_93x135_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_93x135_2",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_93X135_2",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "119",
+          "height": "173"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_17x15|IMAGE_PLANT_WALLNUT_WALLNUT_17X15",
+      "file": "wallnut_17x15.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041173_images_1536_initial_plant_wallnut_wallnut_17x15.png",
+      "sha256": "82cc5fa8210040a274afaf053220d4a8db39ebe5526c697bd80a563fb8137f2d",
+      "logical_size": [
+        17,
+        15
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041173_images_1536_initial_plant_wallnut_wallnut_17x15.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_17x15",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_17X15",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "22",
+          "height": "19"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_93x135_3|IMAGE_PLANT_WALLNUT_WALLNUT_93X135_3",
+      "file": "wallnut_93x135_3.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041194_images_1536_initial_plant_wallnut_wallnut_93x135_3.png",
+      "sha256": "dd9f7b77b1dcd001ffa1e1e7a875bb5fd995ada5c572e76700f6f62198785a29",
+      "logical_size": [
+        93,
+        135
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041194_images_1536_initial_plant_wallnut_wallnut_93x135_3.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_93x135_3",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_93X135_3",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "119",
+          "height": "173"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_14x17|IMAGE_PLANT_WALLNUT_WALLNUT_14X17",
+      "file": "wallnut_14x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041170_images_1536_initial_plant_wallnut_wallnut_14x17.png",
+      "sha256": "1c512b9754d07cd631c6a40cb44fb0e5d669e1ee2a9e61e4fa45af7f70d15b2d",
+      "logical_size": [
+        14,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041170_images_1536_initial_plant_wallnut_wallnut_14x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_14x17",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_14X17",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "18",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_93x127|IMAGE_PLANT_WALLNUT_WALLNUT_93X127",
+      "file": "wallnut_93x127.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041191_images_1536_initial_plant_wallnut_wallnut_93x127.png",
+      "sha256": "840a8362bc9daabd3b2476d11f5f576f92b00b23ba2ca79449cf415471bdb690",
+      "logical_size": [
+        93,
+        127
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041191_images_1536_initial_plant_wallnut_wallnut_93x127.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_93x127",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_93X127",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "119",
+          "height": "163"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_14x18|IMAGE_PLANT_WALLNUT_WALLNUT_14X18",
+      "file": "wallnut_14x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041171_images_1536_initial_plant_wallnut_wallnut_14x18.png",
+      "sha256": "e2a6b3a10c16cb9e7cae7e626baabc9b096395ee5a828ea413b8964f70104b82",
+      "logical_size": [
+        14,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041171_images_1536_initial_plant_wallnut_wallnut_14x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_14x18",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_14X18",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "18",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_22x19|IMAGE_PLANT_WALLNUT_WALLNUT_22X19",
+      "file": "wallnut_22x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041179_images_1536_initial_plant_wallnut_wallnut_22x19.png",
+      "sha256": "99a69e353cc26dc4464e806ff6e0b9f6924aa9d136c21971eb9974c83bc62e27",
+      "logical_size": [
+        22,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041179_images_1536_initial_plant_wallnut_wallnut_22x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_22x19",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_22X19",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "28",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_169x187|IMAGE_PLANT_WALLNUT_WALLNUT_169X187",
+      "file": "wallnut_169x187.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041172_images_1536_initial_plant_wallnut_wallnut_169x187.png",
+      "sha256": "2036fb36a608199307efe6c34e183d56452989a48591242efbebdb36816062b8",
+      "logical_size": [
+        169,
+        187
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041172_images_1536_initial_plant_wallnut_wallnut_169x187.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_169x187",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_169X187",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "217",
+          "height": "240"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_1x1|IMAGE_PLANT_WALLNUT_WALLNUT_1X1",
+      "file": "wallnut_1x1.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041175_images_1536_initial_plant_wallnut_wallnut_1x1.png",
+      "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3",
+      "logical_size": [
+        1,
+        1
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041175_images_1536_initial_plant_wallnut_wallnut_1x1.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_1x1",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_1X1",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "2",
+          "height": "2"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_140x159|IMAGE_PLANT_WALLNUT_WALLNUT_140X159",
+      "file": "wallnut_140x159.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041168_images_1536_initial_plant_wallnut_wallnut_140x159.png",
+      "sha256": "b71889d5b37710f90d260e5823df7b722f5d2fa110c85f198f7c3c3460c55895",
+      "logical_size": [
+        140,
+        159
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041168_images_1536_initial_plant_wallnut_wallnut_140x159.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_140x159",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_140X159",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "179",
+          "height": "204"
+        }
+      }
+    },
+    {
+      "pam_image": "wallnut_100x106|IMAGE_PLANT_WALLNUT_WALLNUT_100X106",
+      "file": "wallnut_100x106.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_041159_images_1536_initial_plant_wallnut_wallnut_100x106.png",
+      "sha256": "6047a99c78c826d13a442de1a251cdc1807e15a7a5e0399977a13d42de334072",
+      "logical_size": [
+        100,
+        106
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_041159_images_1536_initial_plant_wallnut_wallnut_100x106.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\wallnut\\wallnut_100x106",
+          "resource_id": "IMAGE_PLANT_WALLNUT_WALLNUT_100X106",
+          "atlas": "ATLASES/PLANTWALLNUT_1536_00.PTX",
+          "width": "128",
+          "height": "136"
+        }
+      }
+    }
+  ]
+}

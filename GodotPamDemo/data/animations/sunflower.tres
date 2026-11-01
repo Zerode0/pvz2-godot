@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="PamAnimationAsset" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/pam_animation_asset.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+pam_path = "res://assets/sunflower.pam.json"
+compiled_path = "res://assets/sunflower.compiled.json"
+texture_directory = "res://assets/sunflower"
+default_clip = "idle"
+origin = Vector2(195, 232)
+explode_origin = Vector2(195, 178)
+hidden_sprite_prefixes = PackedStringArray("custom_")

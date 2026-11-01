@@ -1,0 +1,702 @@
+[
+  {
+    "pam_image": "zombie_snowpea_28x33",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_28X33",
+    "file": "zombie_snowpea_28x33.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      136,
+      29,
+      169
+    ],
+    "sha256": "de49be9f069656ae0a657c9ab50aa4dbaf65266797d72edbd217eafe0731548a"
+  },
+  {
+    "pam_image": "zombie_snowpea_22x40",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_22X40",
+    "file": "zombie_snowpea_22x40.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      68,
+      183,
+      90,
+      223
+    ],
+    "sha256": "eb984661acff0e151ebaf7211fa3fab46cc5830b2dde1840e2220e28f4cced17"
+  },
+  {
+    "pam_image": "zombie_snowpea_21x48",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X48",
+    "file": "zombie_snowpea_21x48.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      195,
+      160,
+      216,
+      208
+    ],
+    "sha256": "6bbe09e362f7d2170fabc2dd00bd3e239ab9214b7f8c56d0836327930fdf5607"
+  },
+  {
+    "pam_image": "zombie_snowpea_30x21",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X21",
+    "file": "zombie_snowpea_30x21.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      210,
+      31,
+      231
+    ],
+    "sha256": "3ecf719dbc08ce6af249dce0c0a9576627d0a34cbe8e5d8b0130126884ca55e5"
+  },
+  {
+    "pam_image": "zombie_snowpea_36x47",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X47",
+    "file": "zombie_snowpea_36x47.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      206,
+      1,
+      242,
+      48
+    ],
+    "sha256": "7b4342c7c7c1cd0fa7ae42dc25d2c0ea02f544cca4c10bfbb6e1b42de46aa2b3"
+  },
+  {
+    "pam_image": "zombie_snowpea_36x23",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X23",
+    "file": "zombie_snowpea_36x23.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      92,
+      183,
+      128,
+      206
+    ],
+    "sha256": "8cfe867c7510d063aad78573671b1750e232995f750a3d3c0d0340daaf87864b"
+  },
+  {
+    "pam_image": "zombie_snowpea_20x40",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_20X40",
+    "file": "zombie_snowpea_20x40.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      130,
+      201,
+      150,
+      241
+    ],
+    "sha256": "98827eddb0cc202f46f300fc913c5faaada6b7e034a2b60df61814811845f7c3"
+  },
+  {
+    "pam_image": "zombie_snowpea_43x25",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_43X25",
+    "file": "zombie_snowpea_43x25.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      138,
+      174,
+      181,
+      199
+    ],
+    "sha256": "2cbbdd9277c66b4e6f5e73db5428b55abad23220e0206d9e350a0c7b4a273f70"
+  },
+  {
+    "pam_image": "zombie_snowpea_14x35",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_14X35",
+    "file": "zombie_snowpea_14x35.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      108,
+      134,
+      122,
+      169
+    ],
+    "sha256": "3a37e6f1f76a5851eb94557b2ae1c0e1b7629e3878edcc696d1f03e3289b9e68"
+  },
+  {
+    "pam_image": "zombie_snowpea_37x32",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_37X32",
+    "file": "zombie_snowpea_37x32.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      195,
+      126,
+      232,
+      158
+    ],
+    "sha256": "a83d4a8b9b8a9718dccb0663856994d8e574f81abfe26b6423584574d629f2b9"
+  },
+  {
+    "pam_image": "zombie_snowpea_40x25",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_40X25",
+    "file": "zombie_snowpea_40x25.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      183,
+      41,
+      208
+    ],
+    "sha256": "0de11dfa8f96491a2aa923648f326b75eefeb2d4e57d6982f3a3a044a2b4b1e7"
+  },
+  {
+    "pam_image": "zombie_snowpea_28x46",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_28X46",
+    "file": "zombie_snowpea_28x46.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      165,
+      126,
+      193,
+      172
+    ],
+    "sha256": "c41116f5f16a379c467d6222b473e6c0db46a0317d450a2d9549e2a2f735d5dc"
+  },
+  {
+    "pam_image": "zombie_snowpea_60x86",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_60X86",
+    "file": "zombie_snowpea_60x86.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      1,
+      61,
+      87
+    ],
+    "sha256": "f330db547fe8598a275d1b4eb620cd60236ce4091be79d228293a2237c8be0bd"
+  },
+  {
+    "pam_image": "zombie_snowpea_35x39",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_35X39",
+    "file": "zombie_snowpea_35x39.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      39,
+      121,
+      74,
+      160
+    ],
+    "sha256": "bc7d9cda3b4d06b23bf47ebd84bf885cfbd470043d6e85eb3484090ec77b3156"
+  },
+  {
+    "pam_image": "zombie_snowpea_23x40",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X40",
+    "file": "zombie_snowpea_23x40.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      43,
+      183,
+      66,
+      223
+    ],
+    "sha256": "b8b80f40e70793d3835d825b2a79db3ef0918ee45f63355c3ea579f566ac120e"
+  },
+  {
+    "pam_image": "zombie_snowpea_24x58",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_24X58",
+    "file": "zombie_snowpea_24x58.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      101,
+      74,
+      125,
+      132
+    ],
+    "sha256": "22b0ac4cb81363dc7fdb7c21c6295eccfb276fc59f9a1f98222a3175edb4d7ac"
+  },
+  {
+    "pam_image": "zombie_snowpea_22x49",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_22X49",
+    "file": "zombie_snowpea_22x49.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      234,
+      126,
+      256,
+      175
+    ],
+    "sha256": "10dbb5181596fe227a7d86045df255599a5f061b18f2a6775a2b456acb418e0c"
+  },
+  {
+    "pam_image": "zombie_snowpea_36x36",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X36",
+    "file": "zombie_snowpea_36x36.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      127,
+      125,
+      163,
+      161
+    ],
+    "sha256": "8a04a4161bef27916d43670832e4db1db2164a2a90be34a5db2bd41dc3d06634"
+  },
+  {
+    "pam_image": "zombie_snowpea_58x57",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_58X57",
+    "file": "zombie_snowpea_58x57.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      135,
+      66,
+      193,
+      123
+    ],
+    "sha256": "dbddc3aa4efc8ffa7f9421ba798031cb02eb5c8bade751ceabe0a9958ca713f3"
+  },
+  {
+    "pam_image": "zombie_snowpea_69x63",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_69X63",
+    "file": "zombie_snowpea_69x63.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      135,
+      1,
+      204,
+      64
+    ],
+    "sha256": "7aa1d52364f89607e119d6c34987b29d91b6de901fc2ee1f80c6f1be473b0455"
+  },
+  {
+    "pam_image": "zombie_snowpea_18x20",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_18X20",
+    "file": "zombie_snowpea_18x20.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      152,
+      230,
+      170,
+      250
+    ],
+    "sha256": "8c5f086dd3e0a682646a114ea2029cb6d5d2b5332672a0fc34bb0a4a01ded1fc"
+  },
+  {
+    "pam_image": "zombie_snowpea_13x15",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_13X15",
+    "file": "zombie_snowpea_13x15.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      218,
+      160,
+      231,
+      175
+    ],
+    "sha256": "39d309ef547688487625391a3f5736f0d4b2f44dbd1cdf56f60553f8ad8fa9f5"
+  },
+  {
+    "pam_image": "zombie_snowpea_36x45",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X45",
+    "file": "zombie_snowpea_36x45.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      63,
+      74,
+      99,
+      119
+    ],
+    "sha256": "6a48ce951319fc91beed912d43b1e08a46182f16c7836ca316ce4501e4e53240"
+  },
+  {
+    "pam_image": "zombie_snowpea_26x36",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_26X36",
+    "file": "zombie_snowpea_26x36.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      218,
+      177,
+      244,
+      213
+    ],
+    "sha256": "10d0fcde3004777bf63c4b06d678f9f4b6a57a9e2bb0a3f0afbe535d84838acf"
+  },
+  {
+    "pam_image": "zombie_snowpea_70x71",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_70X71",
+    "file": "zombie_snowpea_70x71.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      63,
+      1,
+      133,
+      72
+    ],
+    "sha256": "69f3e099637b2eaf58585c6461a54d558e503d091d0831f3d724778a9adb5f9a"
+  },
+  {
+    "pam_image": "zombie_snowpea_135x8",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_135X8",
+    "file": "zombie_snowpea_135x8.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      173,
+      136,
+      181
+    ],
+    "sha256": "551946aaac903347994527312dd80359120aff0225bade5b1d26f81d9ac94a33"
+  },
+  {
+    "pam_image": "zombie_snowpea_6x6",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_6X6",
+    "file": "zombie_snowpea_6x6.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      195,
+      66,
+      201,
+      72
+    ],
+    "sha256": "bf11b760e5a4eadaee7b1841dd4070cb8ca37b69fd4e2f1c971ac1654ccb2dcf"
+  },
+  {
+    "pam_image": "zombie_snowpea_18x24",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_18X24",
+    "file": "zombie_snowpea_18x24.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      197,
+      210,
+      215,
+      234
+    ],
+    "sha256": "84c22f6f81f7ea6675d3ba8222292d10778bfb97e40a3b9004d1f4b8b66dac77"
+  },
+  {
+    "pam_image": "zombie_snowpea_7x12",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_7X12",
+    "file": "zombie_snowpea_7x12.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      245,
+      45,
+      252,
+      57
+    ],
+    "sha256": "02915a3370387d119f7fbdce1a58d9968cbd7b1716492db8d7b77db72d5818cd"
+  },
+  {
+    "pam_image": "zombie_snowpea_12x15",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_12X15",
+    "file": "zombie_snowpea_12x15.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      240,
+      233,
+      252,
+      248
+    ],
+    "sha256": "791178bf5cfc1ed28091bcc39b14b5622a47b179a7797bad3dd98465cf5ce53d"
+  },
+  {
+    "pam_image": "zombie_snowpea_5x8",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_5X8",
+    "file": "zombie_snowpea_5x8.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      245,
+      59,
+      250,
+      67
+    ],
+    "sha256": "6ab41f6d54285f055c16bf7d4604789143c4c10c72476559c60ac5842e56d3b4"
+  },
+  {
+    "pam_image": "zombie_snowpea_8x15",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_8X15",
+    "file": "zombie_snowpea_8x15.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      244,
+      14,
+      252,
+      29
+    ],
+    "sha256": "b27eacc16152c0e72d35f4f2f20c5d498c42546dc81f758053a032b312367579"
+  },
+  {
+    "pam_image": "zombie_snowpea_11x11",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_11X11",
+    "file": "zombie_snowpea_11x11.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      244,
+      1,
+      255,
+      12
+    ],
+    "sha256": "c4677f8203932b59821b4dad039354360e33371d3bf17b74e054c2671e832d7e"
+  },
+  {
+    "pam_image": "zombie_snowpea_26x27",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_26X27",
+    "file": "zombie_snowpea_26x27.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      152,
+      201,
+      178,
+      228
+    ],
+    "sha256": "e8e75d919427f13d5af1544957a04ad84573c04baa9ebacca9658fae8b370854"
+  },
+  {
+    "pam_image": "zombie_snowpea_21x23",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X23",
+    "file": "zombie_snowpea_21x23.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      39,
+      89,
+      60,
+      112
+    ],
+    "sha256": "85d7fc0fc5a3637b093d76c0ac6c0b4304d86b484db3cb36a4f4c0512e2acf82"
+  },
+  {
+    "pam_image": "zombie_snowpea_15x16",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X16",
+    "file": "zombie_snowpea_15x16.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      240,
+      215,
+      255,
+      231
+    ],
+    "sha256": "9f3555be74a0bda5cd3f3ba9d9e81a2413ee88de4ebce58cbd67eba537672d1b"
+  },
+  {
+    "pam_image": "zombie_snowpea_21x20",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_21X20",
+    "file": "zombie_snowpea_21x20.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      217,
+      215,
+      238,
+      235
+    ],
+    "sha256": "c62b6e3c2942264fdc87b15c36a61ecd947fa26d357c48682369829eb3f4b2f6"
+  },
+  {
+    "pam_image": "zombie_snowpea_15x15",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X15",
+    "file": "zombie_snowpea_15x15.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      105,
+      232,
+      120,
+      247
+    ],
+    "sha256": "457d8805cc9d26086e222b6b18895fa9dfc796386d0c96f2155be4fca67ade85"
+  },
+  {
+    "pam_image": "zombie_snowpea_23x17",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X17",
+    "file": "zombie_snowpea_23x17.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      33,
+      225,
+      56,
+      242
+    ],
+    "sha256": "f44b8a975b70c237da5b885c8f9ee99e2e4207db2c2026c8a306350a536cf789"
+  },
+  {
+    "pam_image": "zombie_snowpea_16x13",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_16X13",
+    "file": "zombie_snowpea_16x13.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      233,
+      17,
+      246
+    ],
+    "sha256": "f856dc9ae36468fecebeff260b10d6f143a9f836587a5d467d730010836e704a"
+  },
+  {
+    "pam_image": "zombie_snowpea_17x7",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_17X7",
+    "file": "zombie_snowpea_17x7.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      76,
+      121,
+      93,
+      128
+    ],
+    "sha256": "9e9f6bdc861f507d80c6df96c1f2c5fe73ec61f1d68d72dac63182d2b2afe1f7"
+  },
+  {
+    "pam_image": "zombie_snowpea_30x22",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X22",
+    "file": "zombie_snowpea_30x22.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      92,
+      208,
+      122,
+      230
+    ],
+    "sha256": "fd2bd1acec66a1599fcd95eefa8ad17ce9b3ee7a4cbffdf6d46a4728a7101e73"
+  },
+  {
+    "pam_image": "zombie_snowpea_20x15",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_20X15",
+    "file": "zombie_snowpea_20x15.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      83,
+      232,
+      103,
+      247
+    ],
+    "sha256": "c29f526ae4d8e481bc57b54ae63c4340f9cb5e042a6078f91d6574283e17852b"
+  },
+  {
+    "pam_image": "zombie_snowpea_51x27",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_51X27",
+    "file": "zombie_snowpea_51x27.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      195,
+      97,
+      246,
+      124
+    ],
+    "sha256": "20869159d4c02931f0d25e2b37902cf42b51224bb170e1ee58aad0ce5b4cd1bf"
+  },
+  {
+    "pam_image": "zombie_snowpea_15x29",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_15X29",
+    "file": "zombie_snowpea_15x29.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      180,
+      210,
+      195,
+      239
+    ],
+    "sha256": "68cdf2c2293df08d7b6e3b601360e8bbddb85cf50a02d9a496cd4982837eff46"
+  },
+  {
+    "pam_image": "zombie_snowpea_37x45",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_37X45",
+    "file": "zombie_snowpea_37x45.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      206,
+      50,
+      243,
+      95
+    ],
+    "sha256": "2e78b95c44d86f26e844153d8f40c289bf6c6064caeb80d5ba64b323ff90f267"
+  },
+  {
+    "pam_image": "zombie_snowpea_9x12",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_9X12",
+    "file": "zombie_snowpea_9x12.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      244,
+      31,
+      253,
+      43
+    ],
+    "sha256": "294b9deeae92d7b9a28a341a9976c94022da1b27e69eea08fd1f1d6d4b8b77f6"
+  },
+  {
+    "pam_image": "zombie_snowpea_36x45_2",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_36X45_2",
+    "file": "zombie_snowpea_36x45_2.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      1,
+      89,
+      37,
+      134
+    ],
+    "sha256": "09925fb8f67a75a986144c0c40cd8141b2852f1b3746d27154ba17af7140ea01"
+  },
+  {
+    "pam_image": "zombie_snowpea_30x37",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_30X37",
+    "file": "zombie_snowpea_30x37.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      76,
+      134,
+      106,
+      171
+    ],
+    "sha256": "3310651c16c2d0ee1b5bb8dc1b6d137ea8a4b1d707bd0ff272f7dec14d9cfe6c"
+  },
+  {
+    "pam_image": "zombie_snowpea_23x17_2",
+    "resource_id": "IMAGE_ZOMBIE_ZOMBIE_SNOWPEA_ZOMBIE_SNOWPEA_23X17_2",
+    "file": "zombie_snowpea_23x17_2.png",
+    "source_atlas": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.png",
+    "source_config": "reference\\pam-resources\\jiangnangame-Gekota-e567741\\ZOMBIE_SNOWPEA.ImageConfig.json",
+    "rectangle": [
+      58,
+      225,
+      81,
+      242
+    ],
+    "sha256": "16d5e15d82db0adf096dfaa764b0212c99b1bf14be752d9eb1b10a8f7a0b8f85"
+  }
+]

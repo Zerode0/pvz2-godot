@@ -1,0 +1,6 @@
+interface:
+  display_name: "动画验证与定位"
+  short_description: "针对真实场景验证动画资源、绑定、动作切换及受影响调用路径"
+  default_prompt: "使用 $pvz2-animation-verify 完成当前对应操作，遵从项目 AGENTS.md。"
+policy:
+  allow_implicit_invocation: true

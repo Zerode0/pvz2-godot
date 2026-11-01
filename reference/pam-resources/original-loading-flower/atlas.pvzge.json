@@ -1,0 +1,1 @@
+{"width":256,"SubTexture":[{"frameX":-2,"y":1,"frameY":-2,"frameWidth":140,"width":136,"frameHeight":140,"height":136,"name":"head","x":1},{"width":124,"y":139,"height":100,"name":"arrow","x":1},{"frameX":-2,"y":1,"frameY":-2,"frameWidth":103,"width":99,"frameHeight":165,"height":160,"name":"piece","x":139}],"height":256,"name":"UIAnimate","imagePath":"UIAnimate_tex.png"}

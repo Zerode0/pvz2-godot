@@ -1,0 +1,1270 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/b00e59fd-0097-4ecf-8c4b-9148422133df.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 8
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_3:transform")
+tracks/0/interp = 1
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -254.594683, -382.658346), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.892912, -380.566472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -261.709021, -379.19592), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -262.854683, -378.638346), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -261.709021, -379.19592), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.892912, -380.566472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -254.594683, -382.658346)]}
+
+tracks/1/type = "value"
+tracks/1/path = NodePath("Part_3:modulate")
+tracks/1/interp = 1
+tracks/1/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/2/type = "value"
+tracks/2/path = NodePath("Part_3:visible")
+tracks/2/interp = 0
+tracks/2/keys = {"times": PackedFloat32Array(0, 0.2, 0.233333), "transitions": PackedFloat32Array(1, 1, 1), "update": 0, "values": [true, true, false]}
+
+tracks/3/type = "value"
+tracks/3/path = NodePath("Part_4:transform")
+tracks/3/interp = 1
+tracks/3/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.979833, -377.074246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.979833, -377.074246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.278062, -374.982372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -250.094171, -373.61182), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.239833, -373.054246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -250.094171, -373.61182), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.278062, -374.982372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.979833, -377.074246)]}
+
+tracks/4/type = "value"
+tracks/4/path = NodePath("Part_4:modulate")
+tracks/4/interp = 1
+tracks/4/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/5/type = "value"
+tracks/5/path = NodePath("Part_4:visible")
+tracks/5/interp = 0
+tracks/5/keys = {"times": PackedFloat32Array(0, 0.033333, 0.233333, 0.266667), "transitions": PackedFloat32Array(1, 1, 1, 1), "update": 0, "values": [false, true, true, false]}
+
+tracks/6/type = "value"
+tracks/6/path = NodePath("Part_5:transform")
+tracks/6/interp = 1
+tracks/6/keys = {"times": PackedFloat32Array(0, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.584433, -371.266796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.584433, -371.266796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -256.882662, -369.174922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.698771, -367.80437), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.844433, -367.246796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.698771, -367.80437), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -256.882662, -369.174922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.584433, -371.266796)]}
+
+tracks/7/type = "value"
+tracks/7/path = NodePath("Part_5:modulate")
+tracks/7/interp = 1
+tracks/7/keys = {"times": PackedFloat32Array(0, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/8/type = "value"
+tracks/8/path = NodePath("Part_5:visible")
+tracks/8/interp = 0
+tracks/8/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.233333, 0.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/9/type = "value"
+tracks/9/path = NodePath("Part_6:transform")
+tracks/9/interp = 1
+tracks/9/keys = {"times": PackedFloat32Array(0, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.209583, -386.008796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.209583, -386.008796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.507812, -383.916922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -273.323921, -382.54637), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -274.469583, -381.988796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -273.323921, -382.54637), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.507812, -383.916922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.209583, -386.008796)]}
+
+tracks/10/type = "value"
+tracks/10/path = NodePath("Part_6:modulate")
+tracks/10/interp = 1
+tracks/10/keys = {"times": PackedFloat32Array(0, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/11/type = "value"
+tracks/11/path = NodePath("Part_6:visible")
+tracks/11/interp = 0
+tracks/11/keys = {"times": PackedFloat32Array(0, 0.066667, 0.1, 0.266667, 0.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/12/type = "value"
+tracks/12/path = NodePath("Part_7:transform")
+tracks/12/interp = 1
+tracks/12/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -264.646033, -374.840646), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -264.646033, -374.840646), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -268.944262, -372.748772), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -271.760371, -371.37822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -272.906033, -370.820646), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -271.760371, -371.37822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -268.944262, -372.748772), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -264.646033, -374.840646)]}
+
+tracks/13/type = "value"
+tracks/13/path = NodePath("Part_7:modulate")
+tracks/13/interp = 1
+tracks/13/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/14/type = "value"
+tracks/14/path = NodePath("Part_7:visible")
+tracks/14/interp = 0
+tracks/14/keys = {"times": PackedFloat32Array(0, 0.1, 0.133333, 0.3, 0.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/15/type = "value"
+tracks/15/path = NodePath("Part_8:transform")
+tracks/15/interp = 1
+tracks/15/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.508683, -364.565896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.508683, -364.565896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -263.806912, -362.474022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.623021, -361.10347), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -267.768683, -360.545896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.623021, -361.10347), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -263.806912, -362.474022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.508683, -364.565896)]}
+
+tracks/16/type = "value"
+tracks/16/path = NodePath("Part_8:modulate")
+tracks/16/interp = 1
+tracks/16/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/17/type = "value"
+tracks/17/path = NodePath("Part_8:visible")
+tracks/17/interp = 0
+tracks/17/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/18/type = "value"
+tracks/18/path = NodePath("Part_9:transform")
+tracks/18/interp = 1
+tracks/18/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.315683, -349.330596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.315683, -349.330596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -215.613912, -347.238722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -218.430021, -345.86817), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -219.575683, -345.310596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -218.430021, -345.86817), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -215.613912, -347.238722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.315683, -349.330596)]}
+
+tracks/19/type = "value"
+tracks/19/path = NodePath("Part_9:modulate")
+tracks/19/interp = 1
+tracks/19/keys = {"times": PackedFloat32Array(0, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/20/type = "value"
+tracks/20/path = NodePath("Part_9:visible")
+tracks/20/interp = 0
+tracks/20/keys = {"times": PackedFloat32Array(0, 0.133333, 0.166667, 0.333333, 0.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/21/type = "value"
+tracks/21/path = NodePath("Part_10:transform")
+tracks/21/interp = 1
+tracks/21/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -278.995612, -378.332822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -278.995612, -378.332822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -281.811721, -376.96227), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -282.957383, -376.404696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -281.811721, -376.96227), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -278.995612, -378.332822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -274.697383, -380.424696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -278.995612, -378.332822)]}
+
+tracks/22/type = "value"
+tracks/22/path = NodePath("Part_10:modulate")
+tracks/22/interp = 1
+tracks/22/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/23/type = "value"
+tracks/23/path = NodePath("Part_10:visible")
+tracks/23/interp = 0
+tracks/23/keys = {"times": PackedFloat32Array(0, 0.2, 0.233333, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/24/type = "value"
+tracks/24/path = NodePath("Part_11:transform")
+tracks/24/interp = 1
+tracks/24/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.999062, -341.654622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.999062, -341.654622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.815171, -340.28407), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -207.960833, -339.726496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.815171, -340.28407), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.999062, -341.654622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -199.700833, -343.746496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.999062, -341.654622)]}
+
+tracks/25/type = "value"
+tracks/25/path = NodePath("Part_11:modulate")
+tracks/25/interp = 1
+tracks/25/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/26/type = "value"
+tracks/26/path = NodePath("Part_11:visible")
+tracks/26/interp = 0
+tracks/26/keys = {"times": PackedFloat32Array(0, 0.2, 0.233333, 0.4, 0.433333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/27/type = "value"
+tracks/27/path = NodePath("Part_12:transform")
+tracks/27/interp = 1
+tracks/27/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.603662, -335.847172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.603662, -335.847172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.419771, -334.47662), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -217.565433, -333.919046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.419771, -334.47662), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.603662, -335.847172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -209.305433, -337.939046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.603662, -335.847172)]}
+
+tracks/28/type = "value"
+tracks/28/path = NodePath("Part_12:modulate")
+tracks/28/interp = 1
+tracks/28/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/29/type = "value"
+tracks/29/path = NodePath("Part_12:visible")
+tracks/29/interp = 0
+tracks/29/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.433333, 0.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/30/type = "value"
+tracks/30/path = NodePath("Part_13:transform")
+tracks/30/interp = 1
+tracks/30/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -222.930583, -352.681046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -222.930583, -352.681046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -227.228812, -350.589172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -230.044921, -349.21862), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -231.190583, -348.661046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -230.044921, -349.21862), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -227.228812, -350.589172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -222.930583, -352.681046)]}
+
+tracks/31/type = "value"
+tracks/31/path = NodePath("Part_13:modulate")
+tracks/31/interp = 1
+tracks/31/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/32/type = "value"
+tracks/32/path = NodePath("Part_13:visible")
+tracks/32/interp = 0
+tracks/32/keys = {"times": PackedFloat32Array(0, 0.233333, 0.266667, 0.466667, 0.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/33/type = "value"
+tracks/33/path = NodePath("Part_14:transform")
+tracks/33/interp = 1
+tracks/33/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.367033, -341.512896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.367033, -341.512896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -225.665262, -339.421022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -228.481371, -338.05047), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -229.627033, -337.492896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -228.481371, -338.05047), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -225.665262, -339.421022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.367033, -341.512896)]}
+
+tracks/34/type = "value"
+tracks/34/path = NodePath("Part_14:modulate")
+tracks/34/interp = 1
+tracks/34/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/35/type = "value"
+tracks/35/path = NodePath("Part_14:visible")
+tracks/35/interp = 0
+tracks/35/keys = {"times": PackedFloat32Array(0, 0.266667, 0.3, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/36/type = "value"
+tracks/36/path = NodePath("Part_15:transform")
+tracks/36/interp = 1
+tracks/36/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.229683, -331.238146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.229683, -331.238146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -220.527912, -329.146272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -223.344021, -327.77572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -224.489683, -327.218146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -223.344021, -327.77572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -220.527912, -329.146272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.229683, -331.238146)]}
+
+tracks/37/type = "value"
+tracks/37/path = NodePath("Part_15:modulate")
+tracks/37/interp = 1
+tracks/37/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/38/type = "value"
+tracks/38/path = NodePath("Part_15:visible")
+tracks/38/interp = 0
+tracks/38/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/39/type = "value"
+tracks/39/path = NodePath("Part_16:transform")
+tracks/39/interp = 1
+tracks/39/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -232.795783, -307.515146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -232.795783, -307.515146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -237.094012, -305.423272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.910121, -304.05272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -241.055783, -303.495146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.910121, -304.05272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -237.094012, -305.423272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -232.795783, -307.515146)]}
+
+tracks/40/type = "value"
+tracks/40/path = NodePath("Part_16:modulate")
+tracks/40/interp = 1
+tracks/40/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/41/type = "value"
+tracks/41/path = NodePath("Part_16:visible")
+tracks/41/interp = 0
+tracks/41/keys = {"times": PackedFloat32Array(0, 0.3, 0.333333, 0.5, 0.533333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/42/type = "value"
+tracks/42/path = NodePath("Part_17:transform")
+tracks/42/interp = 1
+tracks/42/keys = {"times": PackedFloat32Array(0, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -231.418383, -347.096946), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -231.418383, -347.096946), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.716612, -345.005072), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -238.532721, -343.63452), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.678383, -343.076946), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -238.532721, -343.63452), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.716612, -345.005072), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -231.418383, -347.096946)]}
+
+tracks/43/type = "value"
+tracks/43/path = NodePath("Part_17:modulate")
+tracks/43/interp = 1
+tracks/43/keys = {"times": PackedFloat32Array(0, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/44/type = "value"
+tracks/44/path = NodePath("Part_17:visible")
+tracks/44/interp = 0
+tracks/44/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/45/type = "value"
+tracks/45/path = NodePath("Part_18:transform")
+tracks/45/interp = 1
+tracks/45/keys = {"times": PackedFloat32Array(0, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.180933, -301.931046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.180933, -301.931046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -225.479162, -299.839172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -228.295271, -298.46862), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -229.440933, -297.911046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -228.295271, -298.46862), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -225.479162, -299.839172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.180933, -301.931046)]}
+
+tracks/46/type = "value"
+tracks/46/path = NodePath("Part_18:modulate")
+tracks/46/interp = 1
+tracks/46/keys = {"times": PackedFloat32Array(0, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/47/type = "value"
+tracks/47/path = NodePath("Part_18:visible")
+tracks/47/interp = 0
+tracks/47/keys = {"times": PackedFloat32Array(0, 0.333333, 0.366667, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/48/type = "value"
+tracks/48/path = NodePath("Part_19:transform")
+tracks/48/interp = 1
+tracks/48/keys = {"times": PackedFloat32Array(0, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.083762, -294.031722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.083762, -294.031722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -237.899871, -292.66117), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.045533, -292.103596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -237.899871, -292.66117), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.083762, -294.031722)]}
+
+tracks/49/type = "value"
+tracks/49/path = NodePath("Part_19:modulate")
+tracks/49/interp = 1
+tracks/49/keys = {"times": PackedFloat32Array(0, 0.433333, 0.466667, 0.5, 0.533333, 0.566667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/50/type = "value"
+tracks/50/path = NodePath("Part_19:visible")
+tracks/50/interp = 0
+tracks/50/keys = {"times": PackedFloat32Array(0, 0.4, 0.433333, 0.566667, 0.6), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/51/type = "value"
+tracks/51/path = NodePath("Part_20:transform")
+tracks/51/interp = 1
+tracks/51/keys = {"times": PackedFloat32Array(0, 0.466667, 0.5, 0.533333, 0.566667, 0.6), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.708912, -308.773722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.708912, -308.773722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.525021, -307.40317), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.670683, -306.845596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.525021, -307.40317), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.708912, -308.773722)]}
+
+tracks/52/type = "value"
+tracks/52/path = NodePath("Part_20:modulate")
+tracks/52/interp = 1
+tracks/52/keys = {"times": PackedFloat32Array(0, 0.466667, 0.5, 0.533333, 0.566667, 0.6), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/53/type = "value"
+tracks/53/path = NodePath("Part_20:visible")
+tracks/53/interp = 0
+tracks/53/keys = {"times": PackedFloat32Array(0, 0.433333, 0.466667, 0.6, 0.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/54/type = "value"
+tracks/54/path = NodePath("Part_21:transform")
+tracks/54/interp = 1
+tracks/54/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.566667, 0.6, 0.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.145362, -297.605572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.145362, -297.605572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -249.961471, -296.23502), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.107133, -295.677446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -249.961471, -296.23502), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.145362, -297.605572)]}
+
+tracks/55/type = "value"
+tracks/55/path = NodePath("Part_21:modulate")
+tracks/55/interp = 1
+tracks/55/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.566667, 0.6, 0.633333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/56/type = "value"
+tracks/56/path = NodePath("Part_21:visible")
+tracks/56/interp = 0
+tracks/56/keys = {"times": PackedFloat32Array(0, 0.466667, 0.5, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/57/type = "value"
+tracks/57/path = NodePath("Part_22:transform")
+tracks/57/interp = 1
+tracks/57/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.008012, -287.330822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.008012, -287.330822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.824121, -285.96027), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -245.969783, -285.402696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.824121, -285.96027), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.008012, -287.330822)]}
+
+tracks/58/type = "value"
+tracks/58/path = NodePath("Part_22:modulate")
+tracks/58/interp = 1
+tracks/58/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/59/type = "value"
+tracks/59/path = NodePath("Part_22:visible")
+tracks/59/interp = 0
+tracks/59/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.666667, 0.7), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/60/type = "value"
+tracks/60/path = NodePath("Part_23:transform")
+tracks/60/interp = 1
+tracks/60/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.898483, -305.281496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.898483, -305.281496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -257.196712, -303.189622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.012821, -301.81907), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -261.158483, -301.261496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.012821, -301.81907), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -257.196712, -303.189622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.898483, -305.281496)]}
+
+tracks/61/type = "value"
+tracks/61/path = NodePath("Part_23:modulate")
+tracks/61/interp = 1
+tracks/61/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/62/type = "value"
+tracks/62/path = NodePath("Part_23:visible")
+tracks/62/interp = 0
+tracks/62/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/63/type = "value"
+tracks/63/path = NodePath("Part_24:transform")
+tracks/63/interp = 1
+tracks/63/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.017762, -272.961122), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.017762, -272.961122), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.833871, -271.59057), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -204.979533, -271.032996), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.833871, -271.59057), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.017762, -272.961122)]}
+
+tracks/64/type = "value"
+tracks/64/path = NodePath("Part_24:modulate")
+tracks/64/interp = 1
+tracks/64/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/65/type = "value"
+tracks/65/path = NodePath("Part_24:visible")
+tracks/65/interp = 0
+tracks/65/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.666667, 0.7), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/66/type = "value"
+tracks/66/path = NodePath("Part_25:transform")
+tracks/66/interp = 1
+tracks/66/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -185.104683, -269.468896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -185.104683, -269.468896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -189.402912, -267.377022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -192.219021, -266.00647), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -193.364683, -265.448896), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -192.219021, -266.00647), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -189.402912, -267.377022), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -185.104683, -269.468896)]}
+
+tracks/67/type = "value"
+tracks/67/path = NodePath("Part_25:modulate")
+tracks/67/interp = 1
+tracks/67/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/68/type = "value"
+tracks/68/path = NodePath("Part_25:visible")
+tracks/68/interp = 0
+tracks/68/keys = {"times": PackedFloat32Array(0, 0.5, 0.533333, 0.7, 0.733333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/69/type = "value"
+tracks/69/path = NodePath("Part_26:transform")
+tracks/69/interp = 1
+tracks/69/keys = {"times": PackedFloat32Array(0, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -194.709283, -263.661446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -194.709283, -263.661446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -199.007512, -261.569572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.823621, -260.19902), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -202.969283, -259.641446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.823621, -260.19902), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -199.007512, -261.569572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -194.709283, -263.661446)]}
+
+tracks/70/type = "value"
+tracks/70/path = NodePath("Part_26:modulate")
+tracks/70/interp = 1
+tracks/70/keys = {"times": PackedFloat32Array(0, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/71/type = "value"
+tracks/71/path = NodePath("Part_26:visible")
+tracks/71/interp = 0
+tracks/71/keys = {"times": PackedFloat32Array(0, 0.533333, 0.566667, 0.733333, 0.766667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/72/type = "value"
+tracks/72/path = NodePath("Part_27:transform")
+tracks/72/interp = 1
+tracks/72/keys = {"times": PackedFloat32Array(0, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.334433, -278.403446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.334433, -278.403446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -212.632662, -276.311572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -215.448771, -274.94102), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.594433, -274.383446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -215.448771, -274.94102), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -212.632662, -276.311572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.334433, -278.403446)]}
+
+tracks/73/type = "value"
+tracks/73/path = NodePath("Part_27:modulate")
+tracks/73/interp = 1
+tracks/73/keys = {"times": PackedFloat32Array(0, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/74/type = "value"
+tracks/74/path = NodePath("Part_27:visible")
+tracks/74/interp = 0
+tracks/74/keys = {"times": PackedFloat32Array(0, 0.566667, 0.6, 0.8, 0.833333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/75/type = "value"
+tracks/75/path = NodePath("Part_28:transform")
+tracks/75/interp = 1
+tracks/75/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.770883, -267.235296), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.770883, -267.235296), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.069112, -265.143422), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.885221, -263.77287), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -215.030883, -263.215296), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.885221, -263.77287), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.069112, -265.143422), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.770883, -267.235296)]}
+
+tracks/76/type = "value"
+tracks/76/path = NodePath("Part_28:modulate")
+tracks/76/interp = 1
+tracks/76/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/77/type = "value"
+tracks/77/path = NodePath("Part_28:visible")
+tracks/77/interp = 0
+tracks/77/keys = {"times": PackedFloat32Array(0, 0.6, 0.633333, 0.833333, 0.866667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/78/type = "value"
+tracks/78/path = NodePath("Part_29:transform")
+tracks/78/interp = 1
+tracks/78/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.633533, -256.960546), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.633533, -256.960546), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -205.931762, -254.868672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.747871, -253.49812), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -209.893533, -252.940546), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.747871, -253.49812), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -205.931762, -254.868672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.633533, -256.960546)]}
+
+tracks/79/type = "value"
+tracks/79/path = NodePath("Part_29:modulate")
+tracks/79/interp = 1
+tracks/79/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/80/type = "value"
+tracks/80/path = NodePath("Part_29:visible")
+tracks/80/interp = 0
+tracks/80/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/81/type = "value"
+tracks/81/path = NodePath("Part_30:transform")
+tracks/81/interp = 1
+tracks/81/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -246.552733, -253.549246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -246.552733, -253.549246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -250.850962, -251.457372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -253.667071, -250.08682), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -254.812733, -249.529246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -253.667071, -250.08682), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -250.850962, -251.457372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -246.552733, -253.549246)]}
+
+tracks/82/type = "value"
+tracks/82/path = NodePath("Part_30:modulate")
+tracks/82/interp = 1
+tracks/82/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/83/type = "value"
+tracks/83/path = NodePath("Part_30:visible")
+tracks/83/interp = 0
+tracks/83/keys = {"times": PackedFloat32Array(0, 0.633333, 0.666667, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/84/type = "value"
+tracks/84/path = NodePath("Part_31:transform")
+tracks/84/interp = 1
+tracks/84/keys = {"times": PackedFloat32Array(0, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.822233, -272.819346), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.822233, -272.819346), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.120462, -270.727472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -223.936571, -269.35692), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -225.082233, -268.799346), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -223.936571, -269.35692), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.120462, -270.727472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.822233, -272.819346)]}
+
+tracks/85/type = "value"
+tracks/85/path = NodePath("Part_31:modulate")
+tracks/85/interp = 1
+tracks/85/keys = {"times": PackedFloat32Array(0, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/86/type = "value"
+tracks/86/path = NodePath("Part_31:visible")
+tracks/86/interp = 0
+tracks/86/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.9, 0.933333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/87/type = "value"
+tracks/87/path = NodePath("Part_32:transform")
+tracks/87/interp = 1
+tracks/87/keys = {"times": PackedFloat32Array(0, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -234.937883, -247.965146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -234.937883, -247.965146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.236112, -245.873272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.052221, -244.50272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -243.197883, -243.945146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.052221, -244.50272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -239.236112, -245.873272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -234.937883, -247.965146)]}
+
+tracks/88/type = "value"
+tracks/88/path = NodePath("Part_32:modulate")
+tracks/88/interp = 1
+tracks/88/keys = {"times": PackedFloat32Array(0, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/89/type = "value"
+tracks/89/path = NodePath("Part_32:visible")
+tracks/89/interp = 0
+tracks/89/keys = {"times": PackedFloat32Array(0, 0.666667, 0.7, 0.9, 0.933333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/90/type = "value"
+tracks/90/path = NodePath("Part_33:transform")
+tracks/90/interp = 1
+tracks/90/keys = {"times": PackedFloat32Array(0, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.542483, -242.157696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.542483, -242.157696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.840712, -240.065822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.656821, -238.69527), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.802483, -238.137696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.656821, -238.69527), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.840712, -240.065822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.542483, -242.157696)]}
+
+tracks/91/type = "value"
+tracks/91/path = NodePath("Part_33:modulate")
+tracks/91/interp = 1
+tracks/91/keys = {"times": PackedFloat32Array(0, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/92/type = "value"
+tracks/92/path = NodePath("Part_33:visible")
+tracks/92/interp = 0
+tracks/92/keys = {"times": PackedFloat32Array(0, 0.7, 0.733333, 0.933333, 0.966667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/93/type = "value"
+tracks/93/path = NodePath("Part_34:transform")
+tracks/93/interp = 1
+tracks/93/keys = {"times": PackedFloat32Array(0, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.167633, -256.899696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.167633, -256.899696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -262.465862, -254.807822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -265.281971, -253.43727), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.427633, -252.879696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -265.281971, -253.43727), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -262.465862, -254.807822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.167633, -256.899696)]}
+
+tracks/94/type = "value"
+tracks/94/path = NodePath("Part_34:modulate")
+tracks/94/interp = 1
+tracks/94/keys = {"times": PackedFloat32Array(0, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/95/type = "value"
+tracks/95/path = NodePath("Part_34:visible")
+tracks/95/interp = 0
+tracks/95/keys = {"times": PackedFloat32Array(0, 0.733333, 0.766667, 0.966667, 1), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/96/type = "value"
+tracks/96/path = NodePath("Part_35:transform")
+tracks/96/interp = 1
+tracks/96/keys = {"times": PackedFloat32Array(0, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.902312, -243.639672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.902312, -243.639672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -263.718421, -242.26912), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -264.864083, -241.711546), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -263.718421, -242.26912), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.902312, -243.639672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -256.604083, -245.731546), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.902312, -243.639672)]}
+
+tracks/97/type = "value"
+tracks/97/path = NodePath("Part_35:modulate")
+tracks/97/interp = 1
+tracks/97/keys = {"times": PackedFloat32Array(0, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/98/type = "value"
+tracks/98/path = NodePath("Part_35:visible")
+tracks/98/interp = 0
+tracks/98/keys = {"times": PackedFloat32Array(0, 0.8, 0.833333, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/99/type = "value"
+tracks/99/path = NodePath("Part_36:transform")
+tracks/99/interp = 1
+tracks/99/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -255.764962, -233.364922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -255.764962, -233.364922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.581071, -231.99437), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.726733, -231.436796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.581071, -231.99437), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -255.764962, -233.364922), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -251.466733, -235.456796), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -255.764962, -233.364922)]}
+
+tracks/100/type = "value"
+tracks/100/path = NodePath("Part_36:modulate")
+tracks/100/interp = 1
+tracks/100/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/101/type = "value"
+tracks/101/path = NodePath("Part_36:visible")
+tracks/101/interp = 0
+tracks/101/keys = {"times": PackedFloat32Array(0, 0.833333, 0.866667, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/102/type = "value"
+tracks/102/path = NodePath("Part_37:transform")
+tracks/102/interp = 1
+tracks/102/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.624712, -330.946822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.624712, -330.946822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.440821, -329.57627), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -355.586483, -329.018696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.440821, -329.57627), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.624712, -330.946822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -347.326483, -333.038696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.624712, -330.946822)]}
+
+tracks/103/type = "value"
+tracks/103/path = NodePath("Part_37:modulate")
+tracks/103/interp = 1
+tracks/103/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367)]}
+
+tracks/104/type = "value"
+tracks/104/path = NodePath("Part_37:visible")
+tracks/104/interp = 0
+tracks/104/keys = {"times": PackedFloat32Array(0, 0.833333, 0.866667, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/105/type = "value"
+tracks/105/path = NodePath("Part_38:transform")
+tracks/105/interp = 1
+tracks/105/keys = {"times": PackedFloat32Array(0, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.953662, -249.223722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.953662, -249.223722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -273.769771, -247.85317), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -274.915433, -247.295596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -273.769771, -247.85317), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.953662, -249.223722)]}
+
+tracks/106/type = "value"
+tracks/106/path = NodePath("Part_38:modulate")
+tracks/106/interp = 1
+tracks/106/keys = {"times": PackedFloat32Array(0, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/107/type = "value"
+tracks/107/path = NodePath("Part_38:visible")
+tracks/107/interp = 0
+tracks/107/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/108/type = "value"
+tracks/108/path = NodePath("Part_39:transform")
+tracks/108/interp = 1
+tracks/108/keys = {"times": PackedFloat32Array(0, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -340.009862, -325.362722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -340.009862, -325.362722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.825971, -323.99217), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -343.971633, -323.434596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.825971, -323.99217), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -340.009862, -325.362722)]}
+
+tracks/109/type = "value"
+tracks/109/path = NodePath("Part_39:modulate")
+tracks/109/interp = 1
+tracks/109/keys = {"times": PackedFloat32Array(0, 0.9, 0.933333, 0.966667, 1, 1.033333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/110/type = "value"
+tracks/110/path = NodePath("Part_39:visible")
+tracks/110/interp = 0
+tracks/110/keys = {"times": PackedFloat32Array(0, 0.866667, 0.9, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/111/type = "value"
+tracks/111/path = NodePath("Part_40:transform")
+tracks/111/interp = 1
+tracks/111/keys = {"times": PackedFloat32Array(0, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.614462, -319.555272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.614462, -319.555272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -352.430571, -318.18472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -353.576233, -317.627146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -352.430571, -318.18472), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.614462, -319.555272)]}
+
+tracks/112/type = "value"
+tracks/112/path = NodePath("Part_40:modulate")
+tracks/112/interp = 1
+tracks/112/keys = {"times": PackedFloat32Array(0, 0.933333, 0.966667, 1, 1.033333, 1.066667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/113/type = "value"
+tracks/113/path = NodePath("Part_40:visible")
+tracks/113/interp = 0
+tracks/113/keys = {"times": PackedFloat32Array(0, 0.9, 0.933333, 1.066667, 1.1), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/114/type = "value"
+tracks/114/path = NodePath("Part_41:transform")
+tracks/114/interp = 1
+tracks/114/keys = {"times": PackedFloat32Array(0, 0.966667, 1, 1.033333, 1.066667, 1.1), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -363.239612, -334.297272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -363.239612, -334.297272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -366.055721, -332.92672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -367.201383, -332.369146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -366.055721, -332.92672), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -363.239612, -334.297272)]}
+
+tracks/115/type = "value"
+tracks/115/path = NodePath("Part_41:modulate")
+tracks/115/interp = 1
+tracks/115/keys = {"times": PackedFloat32Array(0, 0.966667, 1, 1.033333, 1.066667, 1.1), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/116/type = "value"
+tracks/116/path = NodePath("Part_41:visible")
+tracks/116/interp = 0
+tracks/116/keys = {"times": PackedFloat32Array(0, 0.933333, 0.966667, 1.1, 1.133333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/117/type = "value"
+tracks/117/path = NodePath("Part_42:transform")
+tracks/117/interp = 1
+tracks/117/keys = {"times": PackedFloat32Array(0, 1, 1.033333, 1.066667, 1.1, 1.133333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.676062, -323.129122), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.676062, -323.129122), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.492171, -321.75857), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -365.637833, -321.200996), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.492171, -321.75857), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.676062, -323.129122)]}
+
+tracks/118/type = "value"
+tracks/118/path = NodePath("Part_42:modulate")
+tracks/118/interp = 1
+tracks/118/keys = {"times": PackedFloat32Array(0, 1, 1.033333, 1.066667, 1.1, 1.133333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/119/type = "value"
+tracks/119/path = NodePath("Part_42:visible")
+tracks/119/interp = 0
+tracks/119/keys = {"times": PackedFloat32Array(0, 0.966667, 1, 1.133333, 1.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/120/type = "value"
+tracks/120/path = NodePath("Part_43:transform")
+tracks/120/interp = 1
+tracks/120/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.1, 1.133333, 1.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.538712, -312.854372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.538712, -312.854372), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -359.354821, -311.48382), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -360.500483, -310.926246), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -359.354821, -311.48382), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.538712, -312.854372)]}
+
+tracks/121/type = "value"
+tracks/121/path = NodePath("Part_43:modulate")
+tracks/121/interp = 1
+tracks/121/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.1, 1.133333, 1.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/122/type = "value"
+tracks/122/path = NodePath("Part_43:visible")
+tracks/122/interp = 0
+tracks/122/keys = {"times": PackedFloat32Array(0, 1, 1.033333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/123/type = "value"
+tracks/123/path = NodePath("Part_44:transform")
+tracks/123/interp = 1
+tracks/123/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.1, 1.133333, 1.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.370962, -260.991272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.370962, -260.991272), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.187071, -259.62072), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -352.332733, -259.063146), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.187071, -259.62072), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.370962, -260.991272)]}
+
+tracks/124/type = "value"
+tracks/124/path = NodePath("Part_44:modulate")
+tracks/124/interp = 1
+tracks/124/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.1, 1.133333, 1.166667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/125/type = "value"
+tracks/125/path = NodePath("Part_44:visible")
+tracks/125/interp = 0
+tracks/125/keys = {"times": PackedFloat32Array(0, 1, 1.033333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/126/type = "value"
+tracks/126/path = NodePath("Part_45:transform")
+tracks/126/interp = 1
+tracks/126/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.727412, -328.713172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.727412, -328.713172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -374.543521, -327.34262), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -375.689183, -326.785046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -374.543521, -327.34262), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.727412, -328.713172)]}
+
+tracks/127/type = "value"
+tracks/127/path = NodePath("Part_45:modulate")
+tracks/127/interp = 1
+tracks/127/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/128/type = "value"
+tracks/128/path = NodePath("Part_45:visible")
+tracks/128/interp = 0
+tracks/128/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.2, 1.233333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/129/type = "value"
+tracks/129/path = NodePath("Part_46:transform")
+tracks/129/interp = 1
+tracks/129/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -336.756112, -255.407172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -336.756112, -255.407172), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -339.572221, -254.03662), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -340.717883, -253.479046), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -339.572221, -254.03662), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -336.756112, -255.407172)]}
+
+tracks/130/type = "value"
+tracks/130/path = NodePath("Part_46:modulate")
+tracks/130/interp = 1
+tracks/130/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367)]}
+
+tracks/131/type = "value"
+tracks/131/path = NodePath("Part_46:visible")
+tracks/131/interp = 0
+tracks/131/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.2, 1.233333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/132/type = "value"
+tracks/132/path = NodePath("Part_47:transform")
+tracks/132/interp = 1
+tracks/132/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.062483, -251.691596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.062483, -251.691596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -346.360712, -249.599722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.176821, -248.22917), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -350.322483, -247.671596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.176821, -248.22917), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -346.360712, -249.599722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.062483, -251.691596)]}
+
+tracks/133/type = "value"
+tracks/133/path = NodePath("Part_47:modulate")
+tracks/133/interp = 1
+tracks/133/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/134/type = "value"
+tracks/134/path = NodePath("Part_47:visible")
+tracks/134/interp = 0
+tracks/134/keys = {"times": PackedFloat32Array(0, 1.033333, 1.066667, 1.233333, 1.266667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/135/type = "value"
+tracks/135/path = NodePath("Part_48:transform")
+tracks/135/interp = 1
+tracks/135/keys = {"times": PackedFloat32Array(0, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -355.687633, -266.433596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -355.687633, -266.433596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -359.985862, -264.341722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -362.801971, -262.97117), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -363.947633, -262.413596), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -362.801971, -262.97117), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -359.985862, -264.341722), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -355.687633, -266.433596)]}
+
+tracks/136/type = "value"
+tracks/136/path = NodePath("Part_48:modulate")
+tracks/136/interp = 1
+tracks/136/keys = {"times": PackedFloat32Array(0, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/137/type = "value"
+tracks/137/path = NodePath("Part_48:visible")
+tracks/137/interp = 0
+tracks/137/keys = {"times": PackedFloat32Array(0, 1.066667, 1.1, 1.266667, 1.3), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/138/type = "value"
+tracks/138/path = NodePath("Part_49:transform")
+tracks/138/interp = 1
+tracks/138/keys = {"times": PackedFloat32Array(0, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.124083, -255.265446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.124083, -255.265446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -358.422312, -253.173572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.238421, -251.80302), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -362.384083, -251.245446), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.238421, -251.80302), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -358.422312, -253.173572), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.124083, -255.265446)]}
+
+tracks/139/type = "value"
+tracks/139/path = NodePath("Part_49:modulate")
+tracks/139/interp = 1
+tracks/139/keys = {"times": PackedFloat32Array(0, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/140/type = "value"
+tracks/140/path = NodePath("Part_49:visible")
+tracks/140/interp = 0
+tracks/140/keys = {"times": PackedFloat32Array(0, 1.1, 1.133333, 1.3, 1.333333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/141/type = "value"
+tracks/141/path = NodePath("Part_50:transform")
+tracks/141/interp = 1
+tracks/141/keys = {"times": PackedFloat32Array(0, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.986733, -244.990696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.986733, -244.990696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -353.284962, -242.898822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.101071, -241.52827), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -357.246733, -240.970696), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.101071, -241.52827), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -353.284962, -242.898822), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.986733, -244.990696)]}
+
+tracks/142/type = "value"
+tracks/142/path = NodePath("Part_50:modulate")
+tracks/142/interp = 1
+tracks/142/keys = {"times": PackedFloat32Array(0, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/143/type = "value"
+tracks/143/path = NodePath("Part_50:visible")
+tracks/143/interp = 0
+tracks/143/keys = {"times": PackedFloat32Array(0, 1.133333, 1.166667, 1.333333, 1.366667), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+tracks/144/type = "value"
+tracks/144/path = NodePath("Part_51:transform")
+tracks/144/interp = 1
+tracks/144/keys = {"times": PackedFloat32Array(0, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.175433, -260.849496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.175433, -260.849496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -368.473662, -258.757622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.289771, -257.38707), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -372.435433, -256.829496), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.289771, -257.38707), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -368.473662, -258.757622), Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.175433, -260.849496)]}
+
+tracks/145/type = "value"
+tracks/145/path = NodePath("Part_51:modulate")
+tracks/145/interp = 1
+tracks/145/keys = {"times": PackedFloat32Array(0, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 1), Color(1, 1, 1, 0.8613), Color(1, 1, 1, 0.520367), Color(1, 1, 1, 0)]}
+
+tracks/146/type = "value"
+tracks/146/path = NodePath("Part_51:visible")
+tracks/146/interp = 0
+tracks/146/keys = {"times": PackedFloat32Array(0, 1.166667, 1.2, 1.366667, 1.4), "transitions": PackedFloat32Array(1, 1, 1, 1, 1), "update": 0, "values": [false, false, true, true, false]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -442.65, -444.78)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(650, 1, 686, 735)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(0.74, 0, 0, 0.74, -100.5778, -461.2952)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1963, 721, 51, 43)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(0.999977, -0.006718, 0.006718, 0.999977, 134.921747, -211.262004)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(993, 913, 7, 10)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -254.594683, -382.658346)
+visible = true
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.979833, -377.074246)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_5" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.584433, -371.266796)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_6" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -266.209583, -386.008796)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_7" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -264.646033, -374.840646)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_8" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -259.508683, -364.565896)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_9" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -211.315683, -349.330596)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_10" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -278.995612, -378.332822)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_11" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -203.999062, -341.654622)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_12" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -213.603662, -335.847172)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_13" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -222.930583, -352.681046)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_14" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.367033, -341.512896)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_15" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.229683, -331.238146)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_16" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -232.795783, -307.515146)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_17" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -231.418383, -347.096946)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_18" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -221.180933, -301.931046)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_19" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -235.083762, -294.031722)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_20" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -248.708912, -308.773722)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_21" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -247.145362, -297.605572)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_22" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -242.008012, -287.330822)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_23" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -252.898483, -305.281496)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_24" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.017762, -272.961122)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_25" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -185.104683, -269.468896)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_26" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -194.709283, -263.661446)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_27" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -208.334433, -278.403446)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_28" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -206.770883, -267.235296)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_29" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -201.633533, -256.960546)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_30" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -246.552733, -253.549246)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_31" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -216.822233, -272.819346)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_32" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -234.937883, -247.965146)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_33" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -244.542483, -242.157696)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_34" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -258.167633, -256.899696)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_35" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -260.902312, -243.639672)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_36" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -255.764962, -233.364922)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_37" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -351.624712, -330.946822)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_38" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -270.953662, -249.223722)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_39" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -340.009862, -325.362722)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_40" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -349.614462, -319.555272)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_41" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -363.239612, -334.297272)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_42" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -361.676062, -323.129122)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_43" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -356.538712, -312.854372)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_44" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.370962, -260.991272)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_45" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -371.727412, -328.713172)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_46" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -336.756112, -255.407172)
+visible = false
+modulate = Color(1, 1, 1, 0.520367)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_47" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -342.062483, -251.691596)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_48" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -355.687633, -266.433596)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_49" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -354.124083, -255.265446)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_50" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -348.986733, -244.990696)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="Part_51" type="Sprite2D" parent="."]
+transform = Transform2D(0.920232, 0.391374, -0.391374, 0.920232, -364.175433, -260.849496)
+visible = false
+modulate = Color(1, 1, 1, 0)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(980, 913, 11, 12)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

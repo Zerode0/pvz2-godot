@@ -1,0 +1,60 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/04ee9a11-fd56-4b52-ae53-c22145d1ddc2.png" id="atlas"]
+
+[sub_resource type="Animation" id="idle"]
+resource_name = "idle"
+length = 2.833333
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/path = NodePath("Part_0:transform")
+tracks/0/interp = 1
+tracks/0/keys = {"times": PackedFloat32Array(0, 0.033333, 0.066667, 0.1, 0.133333, 0.166667, 0.2, 0.233333, 0.266667, 0.3, 0.333333, 0.366667, 0.4, 0.433333, 0.466667, 0.5, 0.533333, 0.566667, 0.6, 0.633333, 0.666667, 0.7, 0.733333, 0.766667, 0.8, 0.833333, 0.866667, 0.9, 0.933333, 0.966667, 1, 1.033333, 1.066667, 1.1, 1.133333, 1.166667, 1.2, 1.233333, 1.266667, 1.3, 1.333333, 1.366667, 1.4, 1.433333, 1.466667, 1.5, 1.533333, 1.566667, 1.6, 1.633333, 1.666667, 1.7, 1.733333, 1.766667, 1.8, 1.833333, 1.866667, 1.9, 1.933333, 1.966667, 2, 2.033333, 2.066667, 2.1, 2.133333, 2.166667, 2.2, 2.233333, 2.266667, 2.3, 2.333333, 2.366667, 2.4, 2.433333, 2.466667, 2.5, 2.533333, 2.566667, 2.6, 2.633333, 2.666667, 2.7, 2.733333, 2.766667, 2.8, 2.833333), "transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), "update": 0, "values": [Transform2D(1, 0, 0, 1, -62.98295, -201.44465), Transform2D(1, 0, 0, 1, -62.98295, -201.431267), Transform2D(1, 0, 0, 1, -62.98295, -201.390563), Transform2D(1, 0, 0, 1, -62.98295, -201.322063), Transform2D(1, 0, 0, 1, -62.98295, -201.2226), Transform2D(1, 0, 0, 1, -62.98295, -201.090985), Transform2D(1, 0, 0, 1, -62.98295, -200.923418), Transform2D(1, 0, 0, 1, -62.98295, -200.720136), Transform2D(1, 0, 0, 1, -62.98295, -200.476705), Transform2D(1, 0, 0, 1, -62.98295, -200.190986), Transform2D(1, 0, 0, 1, -62.98295, -199.861237), Transform2D(1, 0, 0, 1, -62.98295, -199.483181), Transform2D(1, 0, 0, 1, -62.98295, -199.05777), Transform2D(1, 0, 0, 1, -62.98295, -198.580885), Transform2D(1, 0, 0, 1, -62.98295, -198.052685), Transform2D(1, 0, 0, 1, -62.98295, -197.472931), Transform2D(1, 0, 0, 1, -62.98295, -196.842892), Transform2D(1, 0, 0, 1, -62.98295, -196.166367), Transform2D(1, 0, 0, 1, -62.98295, -195.44716), Transform2D(1, 0, 0, 1, -62.98295, -194.696592), Transform2D(1, 0, 0, 1, -62.98295, -193.918467), Transform2D(1, 0, 0, 1, -62.98295, -193.131313), Transform2D(1, 0, 0, 1, -62.98295, -192.340834), Transform2D(1, 0, 0, 1, -62.98295, -191.562709), Transform2D(1, 0, 0, 1, -62.98295, -190.812141), Transform2D(1, 0, 0, 1, -62.98295, -190.092933), Transform2D(1, 0, 0, 1, -62.98295, -189.416409), Transform2D(1, 0, 0, 1, -62.98295, -188.78637), Transform2D(1, 0, 0, 1, -62.98295, -188.206616), Transform2D(1, 0, 0, 1, -62.98295, -187.678416), Transform2D(1, 0, 0, 1, -62.98295, -187.201531), Transform2D(1, 0, 0, 1, -62.98295, -186.77612), Transform2D(1, 0, 0, 1, -62.98295, -186.398064), Transform2D(1, 0, 0, 1, -62.98295, -186.068315), Transform2D(1, 0, 0, 1, -62.98295, -185.782596), Transform2D(1, 0, 0, 1, -62.98295, -185.539164), Transform2D(1, 0, 0, 1, -62.98295, -185.335883), Transform2D(1, 0, 0, 1, -62.98295, -185.168315), Transform2D(1, 0, 0, 1, -62.98295, -185.036701), Transform2D(1, 0, 0, 1, -62.98295, -184.937238), Transform2D(1, 0, 0, 1, -62.98295, -184.868738), Transform2D(1, 0, 0, 1, -62.98295, -184.828034), Transform2D(1, 0, 0, 1, -62.98295, -184.814651), Transform2D(1, 0, 0, 1, -62.98295, -184.827839), Transform2D(1, 0, 0, 1, -62.98295, -184.865121), Transform2D(1, 0, 0, 1, -62.98295, -184.931254), Transform2D(1, 0, 0, 1, -62.98295, -185.025272), Transform2D(1, 0, 0, 1, -62.98295, -185.150577), Transform2D(1, 0, 0, 1, -62.98295, -185.309065), Transform2D(1, 0, 0, 1, -62.98295, -185.503171), Transform2D(1, 0, 0, 1, -62.98295, -185.734831), Transform2D(1, 0, 0, 1, -62.98295, -186.004933), Transform2D(1, 0, 0, 1, -62.98295, -186.316843), Transform2D(1, 0, 0, 1, -62.98295, -186.673111), Transform2D(1, 0, 0, 1, -62.98295, -187.07664), Transform2D(1, 0, 0, 1, -62.98295, -187.527429), Transform2D(1, 0, 0, 1, -62.98295, -188.027644), Transform2D(1, 0, 0, 1, -62.98295, -188.577594), Transform2D(1, 0, 0, 1, -62.98295, -189.175385), Transform2D(1, 0, 0, 1, -62.98295, -189.81912), Transform2D(1, 0, 0, 1, -62.98295, -190.506906), Transform2D(1, 0, 0, 1, -62.98295, -191.228029), Transform2D(1, 0, 0, 1, -62.98295, -191.975412), Transform2D(1, 0, 0, 1, -62.98295, -192.74337), Transform2D(1, 0, 0, 1, -62.98295, -193.51593), Transform2D(1, 0, 0, 1, -62.98295, -194.283888), Transform2D(1, 0, 0, 1, -62.98295, -195.031271), Transform2D(1, 0, 0, 1, -62.98295, -195.752395), Transform2D(1, 0, 0, 1, -62.98295, -196.44018), Transform2D(1, 0, 0, 1, -62.98295, -197.083916), Transform2D(1, 0, 0, 1, -62.98295, -197.681707), Transform2D(1, 0, 0, 1, -62.98295, -198.231657), Transform2D(1, 0, 0, 1, -62.98295, -198.731872), Transform2D(1, 0, 0, 1, -62.98295, -199.182661), Transform2D(1, 0, 0, 1, -62.98295, -199.58619), Transform2D(1, 0, 0, 1, -62.98295, -199.942458), Transform2D(1, 0, 0, 1, -62.98295, -200.254367), Transform2D(1, 0, 0, 1, -62.98295, -200.52447), Transform2D(1, 0, 0, 1, -62.98295, -200.756129), Transform2D(1, 0, 0, 1, -62.98295, -200.950236), Transform2D(1, 0, 0, 1, -62.98295, -201.108724), Transform2D(1, 0, 0, 1, -62.98295, -201.234029), Transform2D(1, 0, 0, 1, -62.98295, -201.328047), Transform2D(1, 0, 0, 1, -62.98295, -201.39418), Transform2D(1, 0, 0, 1, -62.98295, -201.431462), Transform2D(1, 0, 0, 1, -62.98295, -201.44465)]}
+
+[sub_resource type="AnimationLibrary" id="library"]
+_data = {&"idle": SubResource("idle")}
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -62.98295, -201.44465)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1982, 190, 41, 197)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -40.94, 6.1)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1954, 1028, 84, 81)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -46.29, -110.49)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1898, 207, 82, 199)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(0.865, 0, 0, 0.865, -64.01, -39.79)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1536, 1116, 148, 92)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {&"": SubResource("library")}
+autoplay = "idle"

@@ -1,0 +1,95 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Texture2D" path="res://assets/ui/adventure/atlases/ac3a9595-fcf4-4669-9db6-ad6252e64739.png" id="atlas"]
+
+[node name="MapRig" type="Node2D"]
+
+[node name="Part_0" type="Sprite2D" parent="."]
+transform = Transform2D(-1.758548, 0, 0, -4.689805, 36.050237, 271.739652)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1222, 64, 40, 39)
+
+[node name="Part_1" type="Sprite2D" parent="."]
+transform = Transform2D(-1.546248, 0, 0, -4.123631, 24.739972, 218.632099)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1040, 1638, 32, 32)
+
+[node name="Part_2" type="Sprite2D" parent="."]
+transform = Transform2D(-1.533032, 0, 0, -4.088386, -63.218557, 314.628182)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1222, 64, 40, 39)
+
+[node name="Part_3" type="Sprite2D" parent="."]
+transform = Transform2D(-1.347958, 0, 0, -3.594818, -73.078397, 268.331126)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1040, 1638, 32, 32)
+
+[node name="Part_4" type="Sprite2D" parent="."]
+transform = Transform2D(-1.533032, 0, 0, -4.088386, 126.072887, 314.628182)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1222, 64, 40, 39)
+
+[node name="Part_5" type="Sprite2D" parent="."]
+transform = Transform2D(-1.347958, 0, 0, -3.594818, 116.213047, 268.331126)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1040, 1638, 32, 32)
+
+[node name="Part_6" type="Sprite2D" parent="."]
+transform = Transform2D(-1.758548, 0, 0, -4.689805, 36.050237, 377.332296)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1222, 64, 40, 39)
+
+[node name="Part_7" type="Sprite2D" parent="."]
+transform = Transform2D(-1.546248, 0, 0, -4.123631, 24.739972, 324.224743)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1040, 1638, 32, 32)
+
+[node name="Part_8" type="Sprite2D" parent="."]
+transform = Transform2D(1, 0, 0, 1, -174.86, -83.62)
+visible = true
+modulate = Color(1, 1, 1, 1)
+texture = ExtResource("atlas")
+centered = false
+region_enabled = true
+region_filter_clip_enabled = true
+region_rect = Rect2(1123, 1683, 302, 329)
+

@@ -1,0 +1,66 @@
+[
+  {
+    "file": "display_background.png",
+    "node": "/almanacScene/Canvas/Almanac/windowCommon/PlantPage/windowLime/PD/plantDisplayBackground",
+    "sprite_frame": {
+      "name": "boost",
+      "uuid": "8b328651-05cf-463e-8092-aed0160838ca@f9941",
+      "rect": {
+        "x": 2288,
+        "y": 2211,
+        "width": 553,
+        "height": 545
+      },
+      "rotated": false,
+      "originalSize": {
+        "width": 553,
+        "height": 545
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "texture": "assets/resources/native/1e/1e60593a5.png",
+      "insets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "source_sha256": "549881a75c83b7b0c21705266dbcc7cf95e5d7a10b8fc87be1d45970a62473aa",
+    "output_sha256": "3de360a60a158a0fb61db8dd8008e1e3084fa0f669d8615ba382eb962f3ac6d8"
+  },
+  {
+    "file": "display_glass.png",
+    "node": "/almanacScene/Canvas/Almanac/windowCommon/PlantPage/windowLime/PD/plantDisplayBackground/plantDisplayGlass",
+    "sprite_frame": {
+      "name": "plantDisplayGlass",
+      "uuid": "83ded967-4ad9-4b9a-a73b-1835bc9bc94f@f9941",
+      "rect": {
+        "x": 1,
+        "y": 1,
+        "width": 378,
+        "height": 287
+      },
+      "rotated": false,
+      "originalSize": {
+        "width": 380,
+        "height": 289
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "texture": "assets/resources/native/83/83ded967-4ad9-4b9a-a73b-1835bc9bc94f.png",
+      "insets": [
+        88,
+        88,
+        88,
+        88
+      ]
+    },
+    "source_sha256": "4bf79c1b529a5010b9b67b0d78e5d4fdc3479563c912afdcda731c52d620122b",
+    "output_sha256": "6421e11b1d9aaf02156467a88fd394f4e4770772f25f6bc2e071ba19e78e8a2d"
+  }
+]

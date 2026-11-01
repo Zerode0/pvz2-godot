@@ -1,0 +1,7 @@
+---
+description: PvZ2 Godot 项目入口与协作技能
+alwaysApply: true
+---
+
+读取仓库根 AGENTS.md 和 .agents/skills/pvz2-team-workflow/SKILL.md。
+按 AGENTS.md 的操作表读取本次任务所需的 SKILL.md；共享技能为普通 Markdown，使用当前工具的文件读取能力即可。

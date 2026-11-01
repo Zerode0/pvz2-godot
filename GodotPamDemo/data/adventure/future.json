@@ -1,0 +1,2592 @@
+{
+  "schema_version": 1,
+  "world_id": "future",
+  "width": 5746.929,
+  "nodes": [
+    {
+      "id": "future1",
+      "kind": "level",
+      "position": [
+        512.0,
+        157.602
+      ],
+      "number": "1",
+      "label": "第1关",
+      "title": "遥远未来 · 第1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_laserbean_1",
+      "kind": "plant",
+      "position": [
+        595.104,
+        204.778
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future2",
+      "kind": "level",
+      "position": [
+        674.529,
+        242.075
+      ],
+      "number": "2",
+      "label": "第2关",
+      "title": "遥远未来 · 第2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future3",
+      "kind": "level",
+      "position": [
+        750.402,
+        206.48
+      ],
+      "number": "3",
+      "label": "第3关",
+      "title": "遥远未来 · 第3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_blover_4",
+      "kind": "plant",
+      "position": [
+        827.104,
+        163.587
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future4",
+      "kind": "level",
+      "position": [
+        903.724,
+        123.58
+      ],
+      "number": "4",
+      "label": "第4关",
+      "title": "遥远未来 · 第4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future5",
+      "kind": "level",
+      "position": [
+        978.98,
+        162.322
+      ],
+      "number": "5",
+      "label": "第5关",
+      "title": "遥远未来 · 第5关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future5"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox0_7",
+      "kind": "gift",
+      "position": [
+        1053.852,
+        205.843
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future6",
+      "kind": "level",
+      "position": [
+        1132.339,
+        242.075
+      ],
+      "number": "6",
+      "label": "第6关",
+      "title": "遥远未来 · 第6关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future6"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_citron_9",
+      "kind": "plant",
+      "position": [
+        1210.535,
+        208.148
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future7",
+      "kind": "level",
+      "position": [
+        1287.813,
+        167.572
+      ],
+      "number": "7",
+      "label": "第7关",
+      "title": "遥远未来 · 第7关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future7"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future8",
+      "kind": "level",
+      "position": [
+        1473.088,
+        231.043
+      ],
+      "number": "8",
+      "label": "第8关",
+      "title": "遥远未来 · 第8关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future8"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future9",
+      "kind": "level",
+      "position": [
+        1659.466,
+        167.572
+      ],
+      "number": "9",
+      "label": "第9关",
+      "title": "遥远未来 · 第9关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future9"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_empeach_13",
+      "kind": "plant",
+      "position": [
+        1734.488,
+        208.148
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future10",
+      "kind": "level",
+      "position": [
+        1813.151,
+        243.886
+      ],
+      "number": "10",
+      "label": "第10关",
+      "title": "遥远未来 · 第10关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future10"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future10_1",
+      "kind": "level",
+      "position": [
+        1890.881,
+        281.845
+      ],
+      "number": "10-1",
+      "label": "第10-1关",
+      "title": "遥远未来 · 第10-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future10_1"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future10_2",
+      "kind": "level",
+      "position": [
+        1968.72,
+        319.022
+      ],
+      "number": "10-2",
+      "label": "第10-2关",
+      "title": "遥远未来 · 第10-2关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future10_2"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future10_3",
+      "kind": "level",
+      "position": [
+        2041.912,
+        281.845
+      ],
+      "number": "10-3",
+      "label": "第10-3关",
+      "title": "遥远未来 · 第10-3关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future10_3"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future10_4",
+      "kind": "level",
+      "position": [
+        2121.577,
+        242.002
+      ],
+      "number": "10-4",
+      "label": "第10-4关",
+      "title": "遥远未来 · 第10-4关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future10_4"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future11",
+      "kind": "level",
+      "position": [
+        1892.81,
+        208.949
+      ],
+      "number": "11",
+      "label": "第11关",
+      "title": "遥远未来 · 第11关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future11"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox1_20",
+      "kind": "gift",
+      "position": [
+        1965.358,
+        167.665
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future12",
+      "kind": "level",
+      "position": [
+        2041.537,
+        125.955
+      ],
+      "number": "12",
+      "label": "第12关",
+      "title": "遥远未来 · 第12关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future12"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future13",
+      "kind": "level",
+      "position": [
+        2117.266,
+        165.661
+      ],
+      "number": "13",
+      "label": "第13关",
+      "title": "遥远未来 · 第13关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future13"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_infinut_23",
+      "kind": "plant",
+      "position": [
+        2191.031,
+        209.183
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future14",
+      "kind": "level",
+      "position": [
+        2269.035,
+        243.886
+      ],
+      "number": "14",
+      "label": "第14关",
+      "title": "遥远未来 · 第14关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future14"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future15",
+      "kind": "level",
+      "position": [
+        2347.029,
+        208.707
+      ],
+      "number": "15",
+      "label": "第15关",
+      "title": "遥远未来 · 第15关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future15"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox2_26",
+      "kind": "gift",
+      "position": [
+        2421.586,
+        167.091
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future16",
+      "kind": "level",
+      "position": [
+        2497.349,
+        125.955
+      ],
+      "number": "16",
+      "label": "第16关",
+      "title": "遥远未来 · 第16关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future16"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future17",
+      "kind": "level",
+      "position": [
+        2573.676,
+        166.897
+      ],
+      "number": "17",
+      "label": "第17关",
+      "title": "遥远未来 · 第17关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future17"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_magnifyinggrass_29",
+      "kind": "plant",
+      "position": [
+        2648.065,
+        209.183
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future18",
+      "kind": "level",
+      "position": [
+        2725.159,
+        243.886
+      ],
+      "number": "18",
+      "label": "第18关",
+      "title": "遥远未来 · 第18关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future18"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future19",
+      "kind": "level",
+      "position": [
+        2803.269,
+        209.518
+      ],
+      "number": "19",
+      "label": "第19关",
+      "title": "遥远未来 · 第19关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future19"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future20",
+      "kind": "level",
+      "position": [
+        2876.779,
+        167.598
+      ],
+      "number": "20",
+      "label": "第20关",
+      "title": "遥远未来 · 第20关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future20"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_mowerlaunch_33",
+      "kind": "upgrade",
+      "position": [
+        2953.384,
+        125.955
+      ],
+      "number": "↑",
+      "label": "升级",
+      "title": "遥远未来 · 升级",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 3
+    },
+    {
+      "id": "future21",
+      "kind": "level",
+      "position": [
+        3029.267,
+        167.598
+      ],
+      "number": "21",
+      "label": "第21关",
+      "title": "遥远未来 · 第21关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future21"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future22",
+      "kind": "level",
+      "position": [
+        3103.77,
+        210.751
+      ],
+      "number": "22",
+      "label": "第22关",
+      "title": "遥远未来 · 第22关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future22"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox3_36",
+      "kind": "gift",
+      "position": [
+        3181.087,
+        243.886
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future23",
+      "kind": "level",
+      "position": [
+        3259.783,
+        210.751
+      ],
+      "number": "23",
+      "label": "第23关",
+      "title": "遥远未来 · 第23关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future23"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future24",
+      "kind": "level",
+      "position": [
+        3334.373,
+        166.511
+      ],
+      "number": "24",
+      "label": "第24关",
+      "title": "遥远未来 · 第24关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future24"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_tileturnip_39",
+      "kind": "plant",
+      "position": [
+        3409.063,
+        125.955
+      ],
+      "number": "✿",
+      "label": "植物",
+      "title": "遥远未来 · 植物",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 1
+    },
+    {
+      "id": "future25",
+      "kind": "level",
+      "position": [
+        3739.169,
+        222.157
+      ],
+      "number": "25",
+      "label": "第25关",
+      "title": "遥远未来 · 第25关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future25"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future26",
+      "kind": "level",
+      "position": [
+        4076.383,
+        125.955
+      ],
+      "number": "26",
+      "label": "第26关",
+      "title": "遥远未来 · 第26关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future26"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future27",
+      "kind": "level",
+      "position": [
+        4155.089,
+        166.511
+      ],
+      "number": "27",
+      "label": "第27关",
+      "title": "遥远未来 · 第27关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future27"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox4_43",
+      "kind": "gift",
+      "position": [
+        4224.725,
+        208.959
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future28",
+      "kind": "level",
+      "position": [
+        4303.768,
+        243.886
+      ],
+      "number": "28",
+      "label": "第28关",
+      "title": "遥远未来 · 第28关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future28"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future29",
+      "kind": "level",
+      "position": [
+        4382.249,
+        210.751
+      ],
+      "number": "29",
+      "label": "第29关",
+      "title": "遥远未来 · 第29关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future29"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future30",
+      "kind": "level",
+      "position": [
+        4457.514,
+        166.716
+      ],
+      "number": "30",
+      "label": "第30关",
+      "title": "遥远未来 · 第30关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future30"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox5_47",
+      "kind": "gift",
+      "position": [
+        4532.032,
+        125.955
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future31",
+      "kind": "level",
+      "position": [
+        4607.569,
+        166.716
+      ],
+      "number": "31",
+      "label": "第31关",
+      "title": "遥远未来 · 第31关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future31"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future32",
+      "kind": "level",
+      "position": [
+        4681.333,
+        209.5
+      ],
+      "number": "32",
+      "label": "第32关",
+      "title": "遥远未来 · 第32关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future32"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future33",
+      "kind": "level",
+      "position": [
+        4759.913,
+        243.886
+      ],
+      "number": "33",
+      "label": "第33关",
+      "title": "遥远未来 · 第33关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future33"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future34",
+      "kind": "level",
+      "position": [
+        4838.454,
+        209.5
+      ],
+      "number": "34",
+      "label": "第34关",
+      "title": "遥远未来 · 第34关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future34"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_giftbox6_52",
+      "kind": "gift",
+      "position": [
+        4916.287,
+        169.401
+      ],
+      "number": "★",
+      "label": "宝箱",
+      "title": "遥远未来 · 宝箱",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 2
+    },
+    {
+      "id": "future35",
+      "kind": "level",
+      "position": [
+        5234.929,
+        222.157
+      ],
+      "number": "35",
+      "label": "第35关",
+      "title": "遥远未来 · 第35关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "future35"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "solartomato0",
+      "kind": "level",
+      "position": [
+        4382.103,
+        287.088
+      ],
+      "number": "28-1",
+      "label": "第28-1关",
+      "title": "遥远未来 · 第28-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "solartomato0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_level28_2_55",
+      "kind": "portal",
+      "position": [
+        4460.073,
+        320.0
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "遥远未来 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 4
+    },
+    {
+      "id": "reinforce0",
+      "kind": "level",
+      "position": [
+        2178.944,
+        133.182
+      ],
+      "number": "13-1",
+      "label": "第13-1关",
+      "title": "遥远未来 · 第13-1关",
+      "description": "沿着地图继续探索。该关卡尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [
+        "reinforce0"
+      ],
+      "source_display": 0
+    },
+    {
+      "id": "future_level13-2_57",
+      "kind": "portal",
+      "position": [
+        2258.104,
+        91.732
+      ],
+      "number": "◎",
+      "label": "传送门",
+      "title": "遥远未来 · 传送门",
+      "description": "沿着地图继续探索。奖励尚未开放。",
+      "level_id": "",
+      "scene": "",
+      "preview": "res://assets/ui/adventure/future.png",
+      "source_level_ids": [],
+      "source_display": 4
+    }
+  ],
+  "paths": [
+    [
+      "future1",
+      "future_laserbean_1"
+    ],
+    [
+      "future_laserbean_1",
+      "future2"
+    ],
+    [
+      "future2",
+      "future3"
+    ],
+    [
+      "future3",
+      "future_blover_4"
+    ],
+    [
+      "future_blover_4",
+      "future4"
+    ],
+    [
+      "future4",
+      "future5"
+    ],
+    [
+      "future5",
+      "future_giftbox0_7"
+    ],
+    [
+      "future_giftbox0_7",
+      "future6"
+    ],
+    [
+      "future6",
+      "future_citron_9"
+    ],
+    [
+      "future_citron_9",
+      "future7"
+    ],
+    [
+      "future7",
+      "future8"
+    ],
+    [
+      "future8",
+      "future9"
+    ],
+    [
+      "future9",
+      "future_empeach_13"
+    ],
+    [
+      "future_empeach_13",
+      "future10"
+    ],
+    [
+      "future10",
+      "future10_1"
+    ],
+    [
+      "future10",
+      "future11"
+    ],
+    [
+      "future10_1",
+      "future10_2"
+    ],
+    [
+      "future10_2",
+      "future10_3"
+    ],
+    [
+      "future10_3",
+      "future10_4"
+    ],
+    [
+      "future11",
+      "future_giftbox1_20"
+    ],
+    [
+      "future_giftbox1_20",
+      "future12"
+    ],
+    [
+      "future12",
+      "future13"
+    ],
+    [
+      "future13",
+      "reinforce0"
+    ],
+    [
+      "future13",
+      "future_infinut_23"
+    ],
+    [
+      "future_infinut_23",
+      "future14"
+    ],
+    [
+      "future14",
+      "future15"
+    ],
+    [
+      "future15",
+      "future_giftbox2_26"
+    ],
+    [
+      "future_giftbox2_26",
+      "future16"
+    ],
+    [
+      "future16",
+      "future17"
+    ],
+    [
+      "future17",
+      "future_magnifyinggrass_29"
+    ],
+    [
+      "future_magnifyinggrass_29",
+      "future18"
+    ],
+    [
+      "future18",
+      "future19"
+    ],
+    [
+      "future19",
+      "future20"
+    ],
+    [
+      "future20",
+      "future_mowerlaunch_33"
+    ],
+    [
+      "future_mowerlaunch_33",
+      "future21"
+    ],
+    [
+      "future21",
+      "future22"
+    ],
+    [
+      "future22",
+      "future_giftbox3_36"
+    ],
+    [
+      "future_giftbox3_36",
+      "future23"
+    ],
+    [
+      "future23",
+      "future24"
+    ],
+    [
+      "future24",
+      "future_tileturnip_39"
+    ],
+    [
+      "future_tileturnip_39",
+      "future25"
+    ],
+    [
+      "future25",
+      "future26"
+    ],
+    [
+      "future26",
+      "future27"
+    ],
+    [
+      "future27",
+      "future_giftbox4_43"
+    ],
+    [
+      "future_giftbox4_43",
+      "future28"
+    ],
+    [
+      "future28",
+      "future29"
+    ],
+    [
+      "future28",
+      "solartomato0"
+    ],
+    [
+      "future29",
+      "future30"
+    ],
+    [
+      "future30",
+      "future_giftbox5_47"
+    ],
+    [
+      "future_giftbox5_47",
+      "future31"
+    ],
+    [
+      "future31",
+      "future32"
+    ],
+    [
+      "future32",
+      "future33"
+    ],
+    [
+      "future33",
+      "future34"
+    ],
+    [
+      "future34",
+      "future_giftbox6_52"
+    ],
+    [
+      "future_giftbox6_52",
+      "future35"
+    ],
+    [
+      "solartomato0",
+      "future_level28_2_55"
+    ],
+    [
+      "reinforce0",
+      "future_level13-2_57"
+    ]
+  ],
+  "rigs": [
+    {
+      "scene": "res://assets/ui/adventure/rigs/18cc0c7d2a0d8d154154.tscn",
+      "bounds": [
+        -285,
+        -564,
+        570,
+        1128
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        520.7867,
+        140.7534
+      ],
+      "parallax": 0.0,
+      "source_node": "FarTotal",
+      "source_armature": "FarTotal"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/b84e218907c80c766873.tscn",
+      "bounds": [
+        -8599.8685,
+        -947.3685,
+        18058.863024539998,
+        1716.36302454
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2395.40945,
+        160.7227
+      ],
+      "parallax": 0.05,
+      "source_node": "stars",
+      "source_armature": "Stars"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/119c38192066a57f8842.tscn",
+      "bounds": [
+        -9809.30229520652,
+        -1002.2607577755101,
+        20182.940759145516,
+        1943.7815155510202
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2395.40945,
+        160.7227
+      ],
+      "parallax": 0.1,
+      "source_node": "starClouds",
+      "source_armature": "StarCloud"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/231c3c13ccc6dde08d68.tscn",
+      "bounds": [
+        -274.5,
+        -1004.6077973100662,
+        540,
+        1275.1077973100662
+      ],
+      "transform": [
+        0.455,
+        0.0,
+        0.0,
+        0.455,
+        1742.3512,
+        441.2471
+      ],
+      "parallax": 0.3,
+      "source_node": "planet2",
+      "source_armature": "Tower"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/01837a7a7b5fdb666178.tscn",
+      "bounds": [
+        -196.9375114902138,
+        -127.98813850682313,
+        391.9950229804276,
+        255.97627701364627
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        1069.58287,
+        85.6386
+      ],
+      "parallax": 0.2,
+      "source_node": "planet1",
+      "source_armature": "PlanetFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/231c3c13ccc6dde08d68.tscn",
+      "bounds": [
+        -274.5,
+        -1004.6077973100662,
+        540,
+        1275.1077973100662
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1210.5914,
+        211.567
+      ],
+      "parallax": 0.4,
+      "source_node": "tower",
+      "source_armature": "Tower"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6778ce4c0f72eab59521.tscn",
+      "bounds": [
+        -160.91225345210208,
+        -160.9122534199022,
+        321.82450688273786,
+        321.8245068612713
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        1089.51492,
+        122.02365
+      ],
+      "parallax": 0.5,
+      "source_node": "star0",
+      "source_armature": "StarFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6778ce4c0f72eab59521.tscn",
+      "bounds": [
+        -160.91225345210208,
+        -160.9122534199022,
+        321.82450688273786,
+        321.8245068612713
+      ],
+      "transform": [
+        0.2275,
+        0.0,
+        0.0,
+        0.2275,
+        1607.06507,
+        122.02365
+      ],
+      "parallax": 0.5,
+      "source_node": "star1",
+      "source_armature": "StarFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6778ce4c0f72eab59521.tscn",
+      "bounds": [
+        -160.91225345210208,
+        -160.9122534199022,
+        321.82450688273786,
+        321.8245068612713
+      ],
+      "transform": [
+        0.2275,
+        0.0,
+        0.0,
+        0.2275,
+        2320.94766,
+        247.044
+      ],
+      "parallax": 0.6,
+      "source_node": "star4",
+      "source_armature": "StarFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0daedd130d2ca6f416ba.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -206.12,
+        640.4838091552729,
+        281.7487
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        461.95325,
+        124.2512
+      ],
+      "parallax": 0.75,
+      "source_node": "clouds0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0daedd130d2ca6f416ba.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -206.12,
+        640.4838091552729,
+        281.7487
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        583.20685,
+        164.4303
+      ],
+      "parallax": 0.85,
+      "source_node": "clouds1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0daedd130d2ca6f416ba.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -206.12,
+        640.4838091552729,
+        281.7487
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        375.85555,
+        183.08465
+      ],
+      "parallax": 0.9,
+      "source_node": "clouds2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/0daedd130d2ca6f416ba.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -206.12,
+        640.4838091552729,
+        281.7487
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        658.97248,
+        208.9137
+      ],
+      "parallax": 0.9,
+      "source_node": "clouds3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/01583582cb9a453cc354.tscn",
+      "bounds": [
+        -434.60282831276413,
+        -244.30557189783138,
+        872.5256566255283,
+        506.7460901026856
+      ],
+      "transform": [
+        0.325,
+        0.0,
+        0.0,
+        0.325,
+        953.2317,
+        30.67395
+      ],
+      "parallax": 0.7,
+      "source_node": "planet0",
+      "source_armature": "Planet"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6778ce4c0f72eab59521.tscn",
+      "bounds": [
+        -160.91225345210208,
+        -160.9122534199022,
+        321.82450688273786,
+        321.8245068612713
+      ],
+      "transform": [
+        0.2275,
+        0.0,
+        0.0,
+        0.2275,
+        2293.11772,
+        226.10035
+      ],
+      "parallax": 0.7,
+      "source_node": "star3",
+      "source_armature": "StarFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9b50864c67ad3fae54eb.tscn",
+      "bounds": [
+        -415.51147893491896,
+        -415.51147895562843,
+        831.0229579112561,
+        831.0229579526734
+      ],
+      "transform": [
+        0.195,
+        0.0,
+        0.0,
+        0.195,
+        3260.30322,
+        124.194
+      ],
+      "parallax": 0.8,
+      "source_node": "star5",
+      "source_armature": "Star"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/6778ce4c0f72eab59521.tscn",
+      "bounds": [
+        -160.91225345210208,
+        -160.9122534199022,
+        321.82450688273786,
+        321.8245068612713
+      ],
+      "transform": [
+        0.13,
+        0.0,
+        0.0,
+        0.13,
+        2733.46496,
+        70.99215
+      ],
+      "parallax": 0.9,
+      "source_node": "star2",
+      "source_armature": "StarFar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        6.5,
+        0.0,
+        0.0,
+        3.25,
+        3536.4696,
+        196.98945
+      ],
+      "parallax": 0.65,
+      "source_node": "extension_cloud",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9e184ce79825dfaeb5fb.tscn",
+      "bounds": [
+        -1060.59,
+        -971.28,
+        1507,
+        1502.3910495586988
+      ],
+      "transform": [
+        0.312,
+        0.0,
+        0.0,
+        0.312,
+        512.0,
+        157.60205
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "PlayerHouse"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/688fd2054c13db14a9e6.tscn",
+      "bounds": [
+        -567.51,
+        -113.94,
+        1135.02,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        903.7238,
+        123.57975
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandU"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9992272dea0815cef7e5.tscn",
+      "bounds": [
+        -192,
+        -358.98,
+        384,
+        564.5800018310547
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        706.61624,
+        193.39014
+      ],
+      "parallax": 1.0,
+      "source_node": "tree0",
+      "source_armature": "Tree0"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/492b99dbe47bac89f434.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        674.5286,
+        242.0754
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f347bc6376b6c5abc4a1.tscn",
+      "bounds": [
+        -119.5,
+        -220.9499997329712,
+        238,
+        407.539999961853
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        559.4552,
+        250.92684
+      ],
+      "parallax": 1.0,
+      "source_node": "tree1",
+      "source_armature": "Tree1"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4d0c2879b366cf1a1796.tscn",
+      "bounds": [
+        -749.2343620837886,
+        -1567.2757776570722,
+        1493.3735606220607,
+        1981.7025468701277
+      ],
+      "transform": [
+        0.2925,
+        0.0,
+        0.0,
+        0.2925,
+        1473.08805,
+        235.59295
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Gargantuar"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        1287.8127,
+        167.5724
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        1659.46645,
+        167.5724
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2258.1041,
+        91.73235
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1ed8abcbd3415baa7102.tscn",
+      "bounds": [
+        -237.51,
+        -150.51999999999998,
+        469.67999999999995,
+        288.52
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2178.94385,
+        133.18155
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "pathMid"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/688fd2054c13db14a9e6.tscn",
+      "bounds": [
+        -567.51,
+        -113.94,
+        1135.02,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2041.5371,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandU"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        1132.3392,
+        242.0754
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        1813.15115,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/688fd2054c13db14a9e6.tscn",
+      "bounds": [
+        -567.51,
+        -113.94,
+        1135.02,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2497.34895,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandU"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/688fd2054c13db14a9e6.tscn",
+      "bounds": [
+        -567.51,
+        -113.94,
+        1135.02,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2953.3844,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandU"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        3409.063,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4076.3829,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1ed8abcbd3415baa7102.tscn",
+      "bounds": [
+        -237.51,
+        -150.51999999999998,
+        469.67999999999995,
+        288.52
+      ],
+      "transform": [
+        -0.234,
+        0.0,
+        0.0,
+        0.234,
+        4152.82277,
+        168.77763
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "pathMid"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1ed8abcbd3415baa7102.tscn",
+      "bounds": [
+        -237.51,
+        -150.51999999999998,
+        469.67999999999995,
+        288.52
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        3332.10612,
+        168.77763
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "pathMid"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/688fd2054c13db14a9e6.tscn",
+      "bounds": [
+        -567.51,
+        -113.94,
+        1135.02,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4532.0316,
+        125.9555
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandU"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2269.0345,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2121.57745,
+        242.00195
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        1968.7202,
+        319.02175
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        2725.159,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        3181.0872,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/722270189ca34f2fe40d.tscn",
+      "bounds": [
+        -608.56615,
+        -541.6234,
+        1234,
+        832.8367999999999
+      ],
+      "transform": [
+        0.4875,
+        0.0,
+        0.0,
+        0.4875,
+        3739.1694,
+        222.15745
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/722270189ca34f2fe40d.tscn",
+      "bounds": [
+        -608.56615,
+        -541.6234,
+        1234,
+        832.8367999999999
+      ],
+      "transform": [
+        0.4875,
+        0.0,
+        0.0,
+        0.4875,
+        5234.9286,
+        222.15745
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "Zomboss"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/d1857600d1f7c969d9d5.tscn",
+      "bounds": [
+        -229.34,
+        -396.46073293109515,
+        468.06,
+        781.4796259373966
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4305.0295,
+        142.58445
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/f5949ade654c68c2189e.tscn",
+      "bounds": [
+        -229.34,
+        -396.46073293109515,
+        468.06,
+        781.4796259373966
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4757.12205,
+        143.38915
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "MainSunbomb"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4303.76785,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/1ed8abcbd3415baa7102.tscn",
+      "bounds": [
+        -237.51,
+        -150.51999999999998,
+        469.67999999999995,
+        288.52
+      ],
+      "transform": [
+        -0.234,
+        0.0,
+        0.0,
+        0.234,
+        4382.1026,
+        287.0879
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "pathMid"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4462.21133,
+        320.0
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/56ffef8095df31fdab71.tscn",
+      "bounds": [
+        -234.5,
+        -113.94,
+        469,
+        549.4673275724874
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4916.2869,
+        169.4015
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "island"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/4f0ef8cfba568b42efb9.tscn",
+      "bounds": [
+        -562.17,
+        -291.79999999999995,
+        1124.34,
+        727.3273275724873
+      ],
+      "transform": [
+        0.234,
+        0.0,
+        0.0,
+        0.234,
+        4759.91315,
+        243.88565
+      ],
+      "parallax": 1.0,
+      "source_node": "island",
+      "source_armature": "islandD"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/d1857600d1f7c969d9d5.tscn",
+      "bounds": [
+        -229.34,
+        -396.46073293109515,
+        468.06,
+        781.4796259373966
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        908.227,
+        270.6208
+      ],
+      "parallax": 1.0,
+      "source_node": "Main",
+      "source_armature": "Main"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/9b50864c67ad3fae54eb.tscn",
+      "bounds": [
+        -415.51147893491896,
+        -415.51147895562843,
+        831.0229579112561,
+        831.0229579526734
+      ],
+      "transform": [
+        0.26,
+        0.0,
+        0.0,
+        0.26,
+        4042.98617,
+        288.6388
+      ],
+      "parallax": 1.2,
+      "source_node": "star5",
+      "source_armature": "Star"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.455,
+        5388.62305,
+        363.4863
+      ],
+      "parallax": 1.3,
+      "source_node": "c0",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.65,
+        5267.59825,
+        358.8388
+      ],
+      "parallax": 1.3,
+      "source_node": "c1",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.78,
+        0.0,
+        0.0,
+        0.65,
+        6749.0165,
+        357.3945
+      ],
+      "parallax": 1.3,
+      "source_node": "c2",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        6200.15,
+        371.0991
+      ],
+      "parallax": 1.3,
+      "source_node": "c5",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.845,
+        6021.7159,
+        352.5091
+      ],
+      "parallax": 1.3,
+      "source_node": "c4",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.65,
+        0.0,
+        0.0,
+        0.455,
+        5833.26855,
+        368.9749
+      ],
+      "parallax": 1.3,
+      "source_node": "c3",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.78,
+        0.0,
+        0.0,
+        0.65,
+        7082.5211,
+        363.4863
+      ],
+      "parallax": 1.3,
+      "source_node": "c9",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.715,
+        0.0,
+        0.0,
+        0.65,
+        6538.19095,
+        363.4863
+      ],
+      "parallax": 1.3,
+      "source_node": "c6",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        -0.845,
+        0.0,
+        0.0,
+        0.39,
+        6845.7235,
+        369.8901
+      ],
+      "parallax": 1.3,
+      "source_node": "c8",
+      "source_armature": "Clouds"
+    },
+    {
+      "scene": "res://assets/ui/adventure/rigs/11e9f7adf5429534a734.tscn",
+      "bounds": [
+        -301.36100244140624,
+        -164.2315,
+        640.4838091552729,
+        246
+      ],
+      "transform": [
+        0.65,
+        0.0,
+        0.0,
+        0.39,
+        6616.06225,
+        369.8901
+      ],
+      "parallax": 1.3,
+      "source_node": "c7",
+      "source_armature": "Clouds"
+    }
+  ],
+  "source": {
+    "prefab": "FutureWORLDMAP",
+    "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+    "scale": 0.65
+  }
+}

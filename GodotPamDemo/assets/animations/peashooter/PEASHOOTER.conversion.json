@@ -1,0 +1,18 @@
+{
+  "tool": "LambdaEd1th/pam-viewer",
+  "version": "v0.1.1",
+  "source": "PEASHOOTER.PAM",
+  "source_sha256": "10f1cf57a1a1b1fb36a318d4e89f0f548a72ff7f0c289d8fc9990da27fc12614",
+  "images": 37,
+  "sprites": 39,
+  "main_frames": 144,
+  "frame_rate": 30,
+  "loaded_images": 37,
+  "missing_images": [],
+  "content_bounds": {
+    "x": 88.0270767211914,
+    "y": 87.0340347290039,
+    "width": 207.09609985351562,
+    "height": 157.92880249023438
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "worlds": [
+    {
+      "id": "egypt",
+      "title": "神秘埃及",
+      "description": "探索神秘埃及的冒险路线。  59 个地图节点",
+      "preview": "res://assets/ui/adventure/egypt.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/e7e39bede334d3f4e7fd.tscn",
+      "preview_bounds": [
+        -275,
+        -552,
+        550,
+        1104
+      ],
+      "map": "res://data/adventure/egypt.json"
+    },
+    {
+      "id": "pirate",
+      "title": "海盗港湾",
+      "description": "探索海盗港湾的冒险路线。  59 个地图节点",
+      "preview": "res://assets/ui/adventure/pirate.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/dc73e8e8631f9cd06f47.tscn",
+      "preview_bounds": [
+        -270.5,
+        -616,
+        541,
+        1232
+      ],
+      "map": "res://data/adventure/pirate.json"
+    },
+    {
+      "id": "cowboy",
+      "title": "狂野西部",
+      "description": "探索狂野西部的冒险路线。  61 个地图节点",
+      "preview": "res://assets/ui/adventure/cowboy.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/92617cc58a114fcc3057.tscn",
+      "preview_bounds": [
+        -238.74,
+        -575.5,
+        532,
+        1151
+      ],
+      "map": "res://data/adventure/cowboy.json"
+    },
+    {
+      "id": "future",
+      "title": "遥远未来",
+      "description": "探索遥远未来的冒险路线。  58 个地图节点",
+      "preview": "res://assets/ui/adventure/future.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/a526607bbd843d5d899a.tscn",
+      "preview_bounds": [
+        -259,
+        -560.5,
+        518,
+        1121
+      ],
+      "map": "res://data/adventure/future.json"
+    },
+    {
+      "id": "dark",
+      "title": "黑暗时代",
+      "description": "探索黑暗时代的冒险路线。  54 个地图节点",
+      "preview": "res://assets/ui/adventure/dark.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/2f3963489ec1ed6d2ff1.tscn",
+      "preview_bounds": [
+        -284,
+        -664,
+        568,
+        1328
+      ],
+      "map": "res://data/adventure/dark.json"
+    },
+    {
+      "id": "beach",
+      "title": "巨浪沙滩",
+      "description": "探索巨浪沙滩的冒险路线。  69 个地图节点",
+      "preview": "res://assets/ui/adventure/beach.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/99ed1b854db92c97abb6.tscn",
+      "preview_bounds": [
+        -315.25,
+        -611.5,
+        655,
+        1223
+      ],
+      "map": "res://data/adventure/beach.json"
+    },
+    {
+      "id": "iceage",
+      "title": "冰河世界",
+      "description": "探索冰河世界的冒险路线。  62 个地图节点",
+      "preview": "res://assets/ui/adventure/iceage.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/be21881f42475a809186.tscn",
+      "preview_bounds": [
+        -268.1,
+        -617,
+        593,
+        1234
+      ],
+      "map": "res://data/adventure/iceage.json"
+    },
+    {
+      "id": "lostcity",
+      "title": "失落之城",
+      "description": "探索失落之城的冒险路线。  63 个地图节点",
+      "preview": "res://assets/ui/adventure/lostcity.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/c630334ced124004e747.tscn",
+      "preview_bounds": [
+        -306.47,
+        -613,
+        626,
+        1226
+      ],
+      "map": "res://data/adventure/lostcity.json"
+    },
+    {
+      "id": "kongfu",
+      "title": "功夫世界",
+      "description": "探索功夫世界的冒险路线。  74 个地图节点",
+      "preview": "res://assets/ui/adventure/kongfu.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/607ecf0dea23d7c18280.tscn",
+      "preview_bounds": [
+        -309.2925,
+        -653.225,
+        639.585,
+        1307.13
+      ],
+      "map": "res://data/adventure/kongfu.json"
+    },
+    {
+      "id": "eighties",
+      "title": "霓虹年代",
+      "description": "探索霓虹年代的冒险路线。  61 个地图节点",
+      "preview": "res://assets/ui/adventure/eighties.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/48233d8b8e2ad2d4b45a.tscn",
+      "preview_bounds": [
+        -345.65,
+        -624,
+        781,
+        1248
+      ],
+      "map": "res://data/adventure/eighties.json"
+    },
+    {
+      "id": "dino",
+      "title": "恐龙危机",
+      "description": "探索恐龙危机的冒险路线。  58 个地图节点",
+      "preview": "res://assets/ui/adventure/dino.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/b3095cbcd4a5bf194c0c.tscn",
+      "preview_bounds": [
+        -338.5,
+        -558.5,
+        677,
+        1117
+      ],
+      "map": "res://data/adventure/dino.json"
+    },
+    {
+      "id": "sky",
+      "title": "天空之城",
+      "description": "探索天空之城的冒险路线。  49 个地图节点",
+      "preview": "res://assets/ui/adventure/sky.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/67daae9a0fbb0fa26770.tscn",
+      "preview_bounds": [
+        -285.16964999999993,
+        -617.30615,
+        679.0192999999999,
+        1213.3723
+      ],
+      "map": "res://data/adventure/sky.json"
+    },
+    {
+      "id": "modern",
+      "title": "前院",
+      "description": "从前院出发，开始冒险。  66 个地图节点",
+      "preview": "res://assets/ui/adventure/modern.png",
+      "preview_scene": "res://assets/ui/adventure/rigs/b5cc5af7870f1527246f.tscn",
+      "preview_bounds": [
+        -325.5,
+        -538.5,
+        651,
+        1077
+      ],
+      "map": "res://data/adventure/modern.json"
+    }
+  ]
+}

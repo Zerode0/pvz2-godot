@@ -1,0 +1,38 @@
+{
+  "id": "development_sandbox",
+  "title": "开发测试关卡",
+  "initial_sun": 5000,
+  "sky_sun_interval": 8.0,
+  "enemy_spawn_x": 1260.0,
+  "loss_x": 204.0,
+  "starting_plants": [],
+  "waves": [],
+  "schema_version": 1,
+  "actor_catalog": "res://data/actors.json",
+  "deck": [
+    "sunflower",
+    "peashooter",
+    "wallnut"
+  ],
+  "random_seed": 41,
+  "board": {
+    "rows": 5,
+    "columns": 9,
+    "cell_width": 81,
+    "cell_height": 108
+  },
+  "sky_sun": {
+    "first_delay": 4.0,
+    "left": 360,
+    "right": 1040,
+    "spawn_y": 224,
+    "target_top": 335,
+    "target_bottom": 735
+  },
+  "sun_pickup": {
+    "value": 25,
+    "lifetime": 13.0,
+    "fall_speed": 65.0,
+    "collect_radius": 36.0
+  }
+}

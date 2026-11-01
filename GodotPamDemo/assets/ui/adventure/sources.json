@@ -1,0 +1,175 @@
+{
+  "repository": "https://github.com/Gzh0821/pvzge_web",
+  "commit": "462f1161d5a29423409002936f2e05f1c24ac630",
+  "pipeline": [
+    "Tools/export_world_map_reference.py",
+    "Tools/sample_world_map.mjs",
+    "Tools/prepare_adventure_maps.py"
+  ],
+  "textures": {
+    "assets/resources/native/bb/bbed6ff7-a994-4040-97b1-7b8f5ffc4e57.png": {
+      "target": "res://assets/ui/adventure/atlases/bbed6ff7-a994-4040-97b1-7b8f5ffc4e57.png",
+      "sha256": "c6d9190900ebbcbdf54442540fa0ab5caf08f972ff80aaac623bcee737bd0564"
+    },
+    "assets/resources/native/0d/0dfe99a2-9227-4264-852a-41c83dfad806.png": {
+      "target": "res://assets/ui/adventure/atlases/0dfe99a2-9227-4264-852a-41c83dfad806.png",
+      "sha256": "23103dbb9a258b03d7f8d75ac8cf3982b6cc2de4632b05013e15e33f9ed4a0b5"
+    },
+    "assets/resources/native/ed/edc1479c-07e5-4085-9cee-4246aed8d668.png": {
+      "target": "res://assets/ui/adventure/atlases/edc1479c-07e5-4085-9cee-4246aed8d668.png",
+      "sha256": "deae832cfd143baa60ae20b122f132a90961ab23ec0bd5c3d75590f98beb5136"
+    },
+    "assets/resources/native/e9/e9cf4ce2-397a-489f-83c6-859d6bfd674c.png": {
+      "target": "res://assets/ui/adventure/atlases/e9cf4ce2-397a-489f-83c6-859d6bfd674c.png",
+      "sha256": "53ce86526ad89c63a319a0f343599d0565dca7dac0bfe4b8355e25c77bbab5c9"
+    },
+    "assets/resources/native/59/59968ae1-54bf-4f5a-8aae-4936401a1a10.png": {
+      "target": "res://assets/ui/adventure/atlases/59968ae1-54bf-4f5a-8aae-4936401a1a10.png",
+      "sha256": "0818452554b6d302741da144028d24622101817986c933a53b4870cba3e106b4"
+    },
+    "assets/resources/native/2e/2e2e2363-d2e6-480c-980c-eef34421fd16.png": {
+      "target": "res://assets/ui/adventure/atlases/2e2e2363-d2e6-480c-980c-eef34421fd16.png",
+      "sha256": "16a2b92ac105e12a07583a77ac3eca1b5311fceba64ac3459342f5fa588c449a"
+    },
+    "assets/resources/native/a4/a40ff701-4f80-424b-97df-13cdd0a8613e.png": {
+      "target": "res://assets/ui/adventure/atlases/a40ff701-4f80-424b-97df-13cdd0a8613e.png",
+      "sha256": "6ec056488d29cee4e0b77131c25ff14129433eb8ea06617885eef39849794412"
+    },
+    "assets/resources/native/bb/bb74b50c-dae3-4dd0-bd28-fd4d8b9196d6.png": {
+      "target": "res://assets/ui/adventure/atlases/bb74b50c-dae3-4dd0-bd28-fd4d8b9196d6.png",
+      "sha256": "cfb35e978fbdc2a60d509fb2e4aa71ba5306293345e505d170d6ed14eb9262d3"
+    },
+    "assets/resources/native/13/136839bf-9a76-4eb9-95e1-006d79bfa7ff.png": {
+      "target": "res://assets/ui/adventure/atlases/136839bf-9a76-4eb9-95e1-006d79bfa7ff.png",
+      "sha256": "c41a9f3ae210f43db90900a3a498e47148d8dcee198e326ceda4943a6f5602e4"
+    },
+    "assets/resources/native/d0/d0bce5dc-bd6f-4d3b-9aa1-bf2584990e2a.png": {
+      "target": "res://assets/ui/adventure/atlases/d0bce5dc-bd6f-4d3b-9aa1-bf2584990e2a.png",
+      "sha256": "8f765364e606d038af6addb89d6456df9ee3c0a721e905e2529ff91251d3c1fc"
+    },
+    "assets/resources/native/6e/6eab8f07-0e03-4070-8f20-6650c7078359.png": {
+      "target": "res://assets/ui/adventure/atlases/6eab8f07-0e03-4070-8f20-6650c7078359.png",
+      "sha256": "20b66c24147abb9e70dd3d63bc06c2370ad66dbcf3984f49feb46585930e3d9c"
+    },
+    "assets/resources/native/f9/f9a69143-d312-4931-855e-06042ec2be76.png": {
+      "target": "res://assets/ui/adventure/atlases/f9a69143-d312-4931-855e-06042ec2be76.png",
+      "sha256": "24794f9fcd95164ce0c1188413b2b221ff4ac7f6f416f6a9b4f077c7524daea0"
+    },
+    "assets/resources/native/9d/9d816a85-6737-46a8-adc7-1866cc053ae4.png": {
+      "target": "res://assets/ui/adventure/atlases/9d816a85-6737-46a8-adc7-1866cc053ae4.png",
+      "sha256": "c0d5b01aa5ed94c3c12dae3879f10312fb4cd758106c2440fe1b8d515d82edbe"
+    },
+    "assets/resources/native/b9/b968f623-33d7-4ba6-b899-7d98607afdb0.png": {
+      "target": "res://assets/ui/adventure/atlases/b968f623-33d7-4ba6-b899-7d98607afdb0.png",
+      "sha256": "ae88f66b2764dd61b321f1f2b1899dadd196ec9893f2babbe209e2dec5322990"
+    },
+    "assets/resources/native/49/497c66af-aa08-4237-b558-317c5dc0eee1.png": {
+      "target": "res://assets/ui/adventure/atlases/497c66af-aa08-4237-b558-317c5dc0eee1.png",
+      "sha256": "40b11a270ba30c2ac408452361c62764265fab88581a96d6a238034a2a646a19"
+    },
+    "assets/resources/native/9e/9eccddf7-e0b6-49c2-8237-df77f6ac45d6.png": {
+      "target": "res://assets/ui/adventure/atlases/9eccddf7-e0b6-49c2-8237-df77f6ac45d6.png",
+      "sha256": "f865c7f83eb811a6405709302ee423c67b688466bf7a73e180b82b98226ba7fd"
+    },
+    "assets/resources/native/d8/d8f59887-2670-4048-919e-466045083706.png": {
+      "target": "res://assets/ui/adventure/atlases/d8f59887-2670-4048-919e-466045083706.png",
+      "sha256": "d8ffdcb970f1db1f6965973dda1f31486dbfb668c228f8f37da4ef16ce467736"
+    },
+    "assets/resources/native/67/67191340-0bb7-4872-927c-add3357180b8.png": {
+      "target": "res://assets/ui/adventure/atlases/67191340-0bb7-4872-927c-add3357180b8.png",
+      "sha256": "83cd8c32256fe59566c873a20e1a64b56b68bc3e8dc569ebe6539cbf9561efa5"
+    },
+    "assets/resources/native/c8/c8538d14-9606-41dd-8168-7906d745a9f7.png": {
+      "target": "res://assets/ui/adventure/atlases/c8538d14-9606-41dd-8168-7906d745a9f7.png",
+      "sha256": "731e5018cd0f675dd437971fcd786fb672dfbc57b975e35c6c20af8fddf83ead"
+    },
+    "assets/resources/native/a7/a78f3667-3bab-4064-ba76-ee13f9fe3ef0.png": {
+      "target": "res://assets/ui/adventure/atlases/a78f3667-3bab-4064-ba76-ee13f9fe3ef0.png",
+      "sha256": "1f9cdbc532e30c030c5bfbc7c4ab80adf66c6b83862c5deebeb3c817aacbcf83"
+    },
+    "assets/resources/native/df/df602955-a344-46a4-afbe-1ceb8e46f724.png": {
+      "target": "res://assets/ui/adventure/atlases/df602955-a344-46a4-afbe-1ceb8e46f724.png",
+      "sha256": "0fc01b5960d0f27f61b4c3b8cfc580a179c4217421e6aa6e273782f12827023f"
+    },
+    "assets/resources/native/2b/2b11b6c5-afc2-4e17-bb03-2e4df4bb70f0.png": {
+      "target": "res://assets/ui/adventure/atlases/2b11b6c5-afc2-4e17-bb03-2e4df4bb70f0.png",
+      "sha256": "1954a73f8a6aabfce8c6a258dfd6ba37da2e66074d10c42b1abdc2e70fef8c43"
+    },
+    "assets/resources/native/18/18c1de65-a2b8-49d7-8f01-0a793b41b15b.png": {
+      "target": "res://assets/ui/adventure/atlases/18c1de65-a2b8-49d7-8f01-0a793b41b15b.png",
+      "sha256": "b4d9aac31e2a0d28fba831aeb981163dbf3ffd98e02b19a18487c1813e7be1e0"
+    },
+    "assets/resources/native/cb/cb4474b6-08bb-4ce9-a3c9-29d54c51436e.png": {
+      "target": "res://assets/ui/adventure/atlases/cb4474b6-08bb-4ce9-a3c9-29d54c51436e.png",
+      "sha256": "002d24838e3b61d9876b93008a57d526e27ec93b83196c4ff9f61959b027c294"
+    },
+    "assets/resources/native/0b/0bb23a36-895b-4650-aecc-daeca973a3c8.png": {
+      "target": "res://assets/ui/adventure/atlases/0bb23a36-895b-4650-aecc-daeca973a3c8.png",
+      "sha256": "ad66eb0db5a1f474097d96c89b9f65277f4a165621f670533b16d5ec9ad70a5e"
+    },
+    "assets/resources/native/e1/e15f073e-a840-4b0b-bf66-40a52bbef252.png": {
+      "target": "res://assets/ui/adventure/atlases/e15f073e-a840-4b0b-bf66-40a52bbef252.png",
+      "sha256": "7c321041e278d387384d91bd2e82f60ef8679888bb5948ee94644905bb637c87"
+    },
+    "assets/resources/native/dc/dc4dfb0c-ecc6-4293-9864-1ce6c1ad5930.png": {
+      "target": "res://assets/ui/adventure/atlases/dc4dfb0c-ecc6-4293-9864-1ce6c1ad5930.png",
+      "sha256": "2657d09c20bd76b34ee3de23bb077e1e4d9a3a760124b45bf6920c6f6d6f4b1d"
+    },
+    "assets/resources/native/a7/a7d10dbf-085b-4382-af02-751749485618.png": {
+      "target": "res://assets/ui/adventure/atlases/a7d10dbf-085b-4382-af02-751749485618.png",
+      "sha256": "711de9da4b949e0a2364cd8be6f058292c0a1017ed247045b8e1c4bb3560e4e7"
+    },
+    "assets/resources/native/11/1126902d-f962-4187-b7fa-a38ba8e663a2.png": {
+      "target": "res://assets/ui/adventure/atlases/1126902d-f962-4187-b7fa-a38ba8e663a2.png",
+      "sha256": "9102953728b6c7768facddad89375eef81d6f77e204416992e72fc20f330497c"
+    },
+    "assets/resources/native/04/04ee9a11-fd56-4b52-ae53-c22145d1ddc2.png": {
+      "target": "res://assets/ui/adventure/atlases/04ee9a11-fd56-4b52-ae53-c22145d1ddc2.png",
+      "sha256": "81537366153786c478e022a6d8084ec39d01e5e874463ee35a027ae5e0d67bd6"
+    },
+    "assets/resources/native/25/252a342c-4dd8-4f47-8f11-3a5e978ed2c4.png": {
+      "target": "res://assets/ui/adventure/atlases/252a342c-4dd8-4f47-8f11-3a5e978ed2c4.png",
+      "sha256": "343c5b3fbce971287632cb01d7c57bd944b88d6a4a9a65855c197ffdf6b9f0b3"
+    },
+    "assets/resources/native/0e/0e92abd6-3484-4b83-85d8-c4c96d42a39d.png": {
+      "target": "res://assets/ui/adventure/atlases/0e92abd6-3484-4b83-85d8-c4c96d42a39d.png",
+      "sha256": "4292bee7246498415dae713305ca1f828b77db616a626bb296651785ae4caeda"
+    },
+    "assets/resources/native/78/785aae1d-422e-4db9-8ea3-95d351e64b22.png": {
+      "target": "res://assets/ui/adventure/atlases/785aae1d-422e-4db9-8ea3-95d351e64b22.png",
+      "sha256": "337aeceebb6070c07dceeee390f4f7c14da1f45b613338b6b92434da3fa53045"
+    },
+    "assets/resources/native/92/92d865b1-934f-4483-b52c-a04dfaaf5129.png": {
+      "target": "res://assets/ui/adventure/atlases/92d865b1-934f-4483-b52c-a04dfaaf5129.png",
+      "sha256": "e66b0f066324b95d73950c150332e1d314e1f7952312b34221e79f2014f2934d"
+    },
+    "assets/resources/native/37/37aeaa3f-8ac6-4844-b0ed-5c07ed8d4ea2.png": {
+      "target": "res://assets/ui/adventure/atlases/37aeaa3f-8ac6-4844-b0ed-5c07ed8d4ea2.png",
+      "sha256": "04603dfb03afeb57e29a9754cc222b83b8b82b83ca0ff411619f8e3ac8f43ecb"
+    },
+    "assets/resources/native/ac/ac3a9595-fcf4-4669-9db6-ad6252e64739.png": {
+      "target": "res://assets/ui/adventure/atlases/ac3a9595-fcf4-4669-9db6-ad6252e64739.png",
+      "sha256": "5bd11fc69e1d63f191ec07684f40a4c6356b978b60c62bd8191abaa7a5182709"
+    },
+    "assets/resources/native/cc/cc40f727-11d9-44da-97ef-0192bdca5112.png": {
+      "target": "res://assets/ui/adventure/atlases/cc40f727-11d9-44da-97ef-0192bdca5112.png",
+      "sha256": "e21802a9a9de69c3af5c0a7f28bfd80f7abf4408e9d719d2ee4d8b7e668d0b4f"
+    },
+    "assets/resources/native/58/58bd6951-ebc5-4ab5-b70d-63fc791a20ef.png": {
+      "target": "res://assets/ui/adventure/atlases/58bd6951-ebc5-4ab5-b70d-63fc791a20ef.png",
+      "sha256": "a871acea7dc0c2a96f5971e9bd07f8e07d1dae7fd2bc7573b78bc320395db9bd"
+    },
+    "assets/resources/native/b0/b00e59fd-0097-4ecf-8c4b-9148422133df.png": {
+      "target": "res://assets/ui/adventure/atlases/b00e59fd-0097-4ecf-8c4b-9148422133df.png",
+      "sha256": "7cb2a59e42544749cd1a7e149c653210ada7a0e73b91234ac91370d926dfcfc4"
+    },
+    "assets/resources/native/0b/0ba034ea-83d9-47ec-89d2-865ffc1b6563.png": {
+      "target": "res://assets/ui/adventure/atlases/0ba034ea-83d9-47ec-89d2-865ffc1b6563.png",
+      "sha256": "073a5b1ef3389e3053b0003e081c40991dac64fd5d7a91f590a94019d8cc6a94"
+    },
+    "assets/resources/native/16/16e3aa90-5c5c-44c2-8235-9db13253b447.png": {
+      "target": "res://assets/ui/adventure/atlases/16e3aa90-5c5c-44c2-8235-9db13253b447.png",
+      "sha256": "5fbad06b275f3f47df75ea3e40b12ff334cfb8c93b36f6be1744ed2977c6f588"
+    }
+  }
+}

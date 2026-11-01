@@ -1,0 +1,320 @@
+[gd_scene load_steps=27 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/login_screen.gd" id="script"]
+
+[ext_resource type="FontFile" path="res://assets/ui/login/reference_font.ttf" id="font"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/mainScreenBg.png" id="mainScreenBg"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/PlayButton_normal.png" id="PlayButton_normal"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/PlayButton_hover.png" id="PlayButton_hover"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/PlayerSelectorButton.png" id="PlayerSelectorButton"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/SettingButton_normal.png" id="SettingButton_normal"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/SettingButton_hover.png" id="SettingButton_hover"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/UpdateButton_normal.png" id="UpdateButton_normal"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/UpdateButton_hover.png" id="UpdateButton_hover"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/ExitButton_normal.png" id="ExitButton_normal"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/ExitButton_hover.png" id="ExitButton_hover"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/InfoButton_normal.png" id="InfoButton_normal"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/InfoButton_hover.png" id="InfoButton_hover"]
+
+[ext_resource type="Texture2D" path="res://assets/ui/login/player_icon.png" id="player_icon"]
+
+[sub_resource type="StyleBoxTexture" id="PlayButton_normal"]
+texture = ExtResource("PlayButton_normal")
+texture_margin_left = 70
+texture_margin_top = 60
+texture_margin_right = 70
+texture_margin_bottom = 60
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="PlayButton_hover"]
+texture = ExtResource("PlayButton_hover")
+texture_margin_left = 70
+texture_margin_top = 60
+texture_margin_right = 70
+texture_margin_bottom = 60
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="selector"]
+texture = ExtResource("PlayerSelectorButton")
+texture_margin_left = 20.0
+texture_margin_top = 21.0
+texture_margin_right = 21.0
+texture_margin_bottom = 22.0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="SettingButton_normal"]
+texture = ExtResource("SettingButton_normal")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="SettingButton_hover"]
+texture = ExtResource("SettingButton_hover")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="UpdateButton_normal"]
+texture = ExtResource("UpdateButton_normal")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="UpdateButton_hover"]
+texture = ExtResource("UpdateButton_hover")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="ExitButton_normal"]
+texture = ExtResource("ExitButton_normal")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="ExitButton_hover"]
+texture = ExtResource("ExitButton_hover")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="InfoButton_normal"]
+texture = ExtResource("InfoButton_normal")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[sub_resource type="StyleBoxTexture" id="InfoButton_hover"]
+texture = ExtResource("InfoButton_hover")
+texture_margin_left = 0
+texture_margin_top = 0
+texture_margin_right = 0
+texture_margin_bottom = 0
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+
+[node name="LoginScreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+clip_contents = true
+script = ExtResource("script")
+
+[node name="ReferenceCanvas" type="Control" parent="."]
+layout_mode = 0
+offset_right = 1024.0
+offset_bottom = 640.0
+scale = Vector2(1.40625, 1.40625)
+mouse_filter = 2
+
+[node name="mainScreenBg" type="TextureRect" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = -56.88319999999999
+offset_top = -99.99957999999998
+offset_right = 1080.8832
+offset_bottom = 739.9995799999999
+mouse_filter = 2
+texture = ExtResource("mainScreenBg")
+expand_mode = 1
+
+[node name="PlayButton" type="Button" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 409.0844616091629
+offset_top = 526.3790000000001
+offset_right = 614.9155383908371
+offset_bottom = 634.5350000000001
+scale = Vector2(0.7, 0.7)
+pivot_offset = Vector2(102.9155383908371, 54.078)
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("PlayButton_normal")
+theme_override_styles/hover = SubResource("PlayButton_hover")
+theme_override_styles/pressed = SubResource("PlayButton_hover")
+theme_override_styles/disabled = SubResource("PlayButton_normal")
+
+[node name="PlayerSelectorButton" type="Button" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = 275.9332215
+offset_top = 462.69000000000005
+offset_right = 748.0667785
+offset_bottom = 530.6460000000001
+scale = Vector2(0.7, 0.7)
+pivot_offset = Vector2(236.0667785, 33.978)
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("selector")
+theme_override_styles/hover = SubResource("selector")
+theme_override_styles/pressed = SubResource("selector")
+theme_override_styles/disabled = SubResource("selector")
+
+[node name="SettingButton" type="Button" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = 964.0
+offset_top = 580.0
+offset_right = 1014.0
+offset_bottom = 630.0
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("SettingButton_normal")
+theme_override_styles/hover = SubResource("SettingButton_hover")
+theme_override_styles/pressed = SubResource("SettingButton_hover")
+theme_override_styles/disabled = SubResource("SettingButton_normal")
+
+[node name="UpdateButton" type="Button" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = 909.0
+offset_top = 580.0
+offset_right = 959.0
+offset_bottom = 630.0
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("UpdateButton_normal")
+theme_override_styles/hover = SubResource("UpdateButton_hover")
+theme_override_styles/pressed = SubResource("UpdateButton_hover")
+theme_override_styles/disabled = SubResource("UpdateButton_normal")
+
+[node name="ExitButton" type="Button" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = 10.0
+offset_top = 580.0
+offset_right = 60.0
+offset_bottom = 630.0
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("ExitButton_normal")
+theme_override_styles/hover = SubResource("ExitButton_hover")
+theme_override_styles/pressed = SubResource("ExitButton_hover")
+theme_override_styles/disabled = SubResource("ExitButton_normal")
+
+[node name="InfoButton" type="Button" parent="ReferenceCanvas"]
+layout_mode = 0
+offset_left = 32.01299999999998
+offset_top = 66.416
+offset_right = 72.01299999999998
+offset_bottom = 106.416
+mouse_default_cursor_shape = 2
+theme_override_styles/normal = SubResource("InfoButton_normal")
+theme_override_styles/hover = SubResource("InfoButton_hover")
+theme_override_styles/pressed = SubResource("InfoButton_hover")
+theme_override_styles/disabled = SubResource("InfoButton_normal")
+
+[node name="PlayLabel" type="Label" parent="ReferenceCanvas/PlayButton"]
+layout_mode = 0
+offset_left = 59.99999999999999
+offset_top = -10.0
+offset_right = 145.8310767816742
+offset_bottom = 108.156
+mouse_filter = 2
+theme_override_fonts/font = ExtResource("font")
+theme_override_colors/font_color = Color(1.0, 1.0, 1.0, 1.0)
+theme_override_font_sizes/font_size = 60
+text = "Play"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="PlayerNameLabel" type="Label" parent="ReferenceCanvas/PlayerSelectorButton"]
+layout_mode = 0
+offset_left = 60.465948499999996
+offset_top = -0.3569999999999993
+offset_right = 411.66760850000003
+offset_bottom = 68.313
+mouse_filter = 2
+theme_override_fonts/font = ExtResource("font")
+theme_override_colors/font_color = Color(0.0, 0.0, 0.0, 1.0)
+theme_override_font_sizes/font_size = 44
+text = "PLAYERNAMEEEE"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="player_icon" type="TextureRect" parent="ReferenceCanvas/PlayerSelectorButton"]
+layout_mode = 0
+offset_left = 406.6227785
+offset_top = 2.9780000000000015
+offset_right = 459.6227785
+offset_bottom = 64.97800000000001
+scale = Vector2(0.8, 0.8)
+pivot_offset = Vector2(26.5, 31.0)
+mouse_filter = 2
+texture = ExtResource("player_icon")
+expand_mode = 1
+
+[node name="StatusLabel" type="Label" parent="ReferenceCanvas"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 0
+offset_left = 140.0
+offset_top = 620.0
+offset_right = 884.0
+offset_bottom = 640.0
+horizontal_alignment = 1
+
+[connection signal="pressed" from="ReferenceCanvas/PlayButton" to="." method="_on_start_pressed"]
+
+[connection signal="pressed" from="ReferenceCanvas/PlayerSelectorButton" to="." method="_on_action_pressed" binds= [ &"players" ]]
+
+[connection signal="pressed" from="ReferenceCanvas/SettingButton" to="." method="_on_action_pressed" binds= [ &"settings" ]]
+
+[connection signal="pressed" from="ReferenceCanvas/UpdateButton" to="." method="_on_action_pressed" binds= [ &"updates" ]]
+
+[connection signal="pressed" from="ReferenceCanvas/ExitButton" to="." method="_on_action_pressed" binds= [ &"quit" ]]
+
+[connection signal="pressed" from="ReferenceCanvas/InfoButton" to="." method="_on_action_pressed" binds= [ &"info" ]]
+
+[connection signal="resized" from="." to="." method="_fit_reference_canvas"]
