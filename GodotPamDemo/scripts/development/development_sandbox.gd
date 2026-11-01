@@ -103,10 +103,7 @@ func try_plant(cell: Vector2i) -> bool:
 	return planted
 
 func spawn_test_zombie(kind: String, row: int) -> bool:
-	if not zombie_data.has(kind) or row < 0 or row >= grid.rows or phase != Phase.PLAYING or paused:
-		return false
-	_spawn_zombie(row, kind)
-	return true
+	return spawn_zombie(kind, row) != null
 
 func reset_level() -> void:
 	super.reset_level()

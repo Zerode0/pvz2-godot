@@ -34,7 +34,7 @@ func advance(seconds: float) -> void:
 		mower.advance(seconds, world.zombies.duplicate())
 	_advance_projectiles(seconds)
 
-func _spawn_zombie(row: int, kind: String) -> void:
+func _spawn_zombie(row: int, kind: String) -> LawnZombie:
 	var zombie := LawnZombie.new()
 	zombie.position = Vector2(float(world.level_data.enemy_spawn_x), world.grid.foot(Vector2i(0, row)).y)
 	world.actors.add_child(zombie)
@@ -43,6 +43,7 @@ func _spawn_zombie(row: int, kind: String) -> void:
 		world.zombies.erase(unit)
 		world.defeated += 1)
 	world.zombies.append(zombie)
+	return zombie
 
 func _shoot(plant: LawnPlant) -> void:
 	if world.phase != world.Phase.PLAYING:

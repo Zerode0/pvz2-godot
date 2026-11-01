@@ -3,7 +3,7 @@ param(
     [Parameter(Position=0)]
     [ValidateSet('Run','Editor','TestLevel','Preview','Check','Verify')]
     [string]$Action = 'Run',
-    [ValidateSet('level','transition','world-map','plant-preview','sandbox','all')]
+    [ValidateSet('level','transition','world-map','plant-preview','sandbox','interfaces','all')]
     [string]$Suite = 'level',
     [switch]$Headless
 )
@@ -39,8 +39,8 @@ switch ($Action) {
     'Preview' { $taskArgs += 'res://scenes/plant_preview.tscn' }
     'Check' { $taskArgs += @('--editor','--import') }
     'Verify' {
-        $taskSuites = [ordered]@{level='verify_level_01.gd'; transition='verify_scene_transition.gd'; 'world-map'='verify_world_map.gd'; 'plant-preview'='verify_plant_preview.gd'; sandbox='verify_development_sandbox.gd'}
-        $taskMarkers = @{level='LEVEL_01_VERIFIED'; transition='SCENE_TRANSITION_OK'; 'world-map'='WORLD_MAP_OK'; 'plant-preview'='PLANT_PREVIEW_OK'; sandbox='DEVELOPMENT_SANDBOX_OK'}
+        $taskSuites = [ordered]@{level='verify_level_01.gd'; transition='verify_scene_transition.gd'; 'world-map'='verify_world_map.gd'; 'plant-preview'='verify_plant_preview.gd'; sandbox='verify_development_sandbox.gd'; interfaces='verify_runtime_interfaces.gd'}
+        $taskMarkers = @{level='LEVEL_01_VERIFIED'; transition='SCENE_TRANSITION_OK'; 'world-map'='WORLD_MAP_OK'; 'plant-preview'='PLANT_PREVIEW_OK'; sandbox='DEVELOPMENT_SANDBOX_OK'; interfaces='RUNTIME_INTERFACES_OK'}
         $taskSelected = if ($Suite -eq 'all') { @($taskSuites.Keys) } else { @($Suite) }
         foreach ($taskName in $taskSelected) {
             Write-Host "Verifying: $taskName"

@@ -131,6 +131,7 @@ def convert(feature):
                       "label":label if display!=0 else "第"+label+"关", "title":TITLES[code]+" · "+("第"+label+"关" if display==0 else label),
                       "description":"种下植物，收集阳光，挡住来袭的僵尸！" if playable else "沿着地图继续探索。" + ("该关卡尚未开放。" if display==0 else "奖励尚未开放。"),
                       "level_id":"frontyard_01" if playable else "", "scene":"res://scenes/level_01.tscn" if playable else "",
+                      **({"level_path":"res://data/levels/level_01.json"} if playable else {}),
                       "preview":"res://assets/Frontyard.png" if playable else "res://assets/ui/adventure/"+code+".png",
                       "source_level_ids":island["levelIds"],"source_display":display})
     edges = [[ids[i["node"]],ids[next_id]] for i in islands for next_id in i.get("links",[]) if next_id in ids]

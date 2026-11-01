@@ -16,6 +16,7 @@
       "description": "种下植物，收集阳光，挡住来袭的僵尸！",
       "level_id": "frontyard_01",
       "scene": "res://scenes/level_01.tscn",
+      "level_path": "res://data/levels/level_01.json",
       "preview": "res://assets/Frontyard.png",
       "source_level_ids": [
         "modern1"
