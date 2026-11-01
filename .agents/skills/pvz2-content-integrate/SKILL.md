@@ -17,10 +17,16 @@ description: 将植物、僵尸或关卡内容按现有 Godot 数据契约接入
 ## 关卡
 
 - 参考 `data/levels/level_01.json`，包括 `schema_version`、`actor_catalog`、棋盘、牌组、初始植物和波次；启动时由 `ContentCatalog.load_content()` 读取和校验。`LevelSession` 的 `level_path` 指向关卡 JSON。
-- 复用现有场景契约：`FrontyardLevel` / `LevelSession` 派生根节点需要 `PlantingGrid`、`Actors`、`Projectiles`、`Pickups`；`FrontyardLevel` 还需要 `HUD/LevelHUD`。通过场景的 `level_path` 选择数据，在 `data/adventure/worlds.json` 引用的地图 JSON 中，用节点 `scene` 指向关卡场景，`level_id` 对应 `FrontyardLevel.map_level_id`，`requires` 引用前置通关 ID；关卡的 `map_scene_path` 控制返回地图入口。胜利自动记录地图通关状态，地图不推进战斗。
+- 复用现有场景契约：`FrontyardLevel` / `LevelSession` 派生根节点需要 `PlantingGrid`、`Actors`、`Projectiles`、`Pickups`；`FrontyardLevel` 还需要 `HUD/LevelHUD`。地图节点的 `scene` 指向战斗场景，`level_path` 指向配置，`level_id` 与配置 `id` 一致，`requires` 引用前置通关 ID；同一场景可复用多个配置。省略 `level_path` 时沿用场景 Inspector 配置。胜利自动记录通关，`map_scene_path` 控制返回地图入口。
+
+## 公共调用入口
+
+完整参数、返回值和接入示例见 `GodotPamDemo/docs/runtime-interfaces.md`。脚本启动使用 `LevelLaunchRequest` + `SceneTransition.launch_level(request) -> Error`；请求可指定配置、牌组、存档和返回场景。单局通过 `check_placement(kind, cell)` / `plant(kind, cell)` 返回结构化种植结果；`spawn_zombie(kind, row)` 返回实际僵尸或 null；`get_run_state()` 返回独立快照；`level_finished(result)` 提供每局一次的胜负事件。现有 HUD、种植预览、地图入口和测试刷怪均已接入。
 
 ## 完成与验证
 
 统一开发测试入口为 scenes/development_sandbox.tscn，可通过 Tools/project.ps1 TestLevel 启动。它复用正式战斗系统，选择器自动读取 actor catalog；支持手动刷怪、阳光、冷却、清场，不记录地图通关。接口见 docs/开发测试关卡.md。新行为仍在实际实体及系统中实现。
+
+公共接口实际场景验证：`Tools/project.ps1 Verify -Suite interfaces -Headless`，成功标记 `RUNTIME_INTERFACES_OK`；覆盖启动参数、牌组、种植、刷怪、暂停、快照和完成事件。
 
 确认资源路径、动作名与事件、角色 ID 和关卡引用相互对应，并在目标实际场景验证显示、操作及受影响的玩法。校验器检查动画资源路径等部分字段，动作、贴图、图标及弹体的完整可用性仍需在实际加载路径核实。涉及角色动画运行时读取 `pvz2-animation-verify`；现有第一关验证脚本针对原有三卡和波次，并会写入 `Artifacts/level-01/`，按本次改动选择验证范围。架构和已知能力边界见 `GodotPamDemo/ARCHITECTURE.md`。

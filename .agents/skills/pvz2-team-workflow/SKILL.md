@@ -13,7 +13,7 @@ description: 为团队配置本 Godot 工程、启动游戏、选择检查范围
 - 素材处理依赖：同一脚本加 -AssetTools，安装 Python/Node（缺少时）、项目 Python 虚拟环境和锁定的 TypeScript。使用 Tools/.venv/Scripts/python.exe 调用素材脚本。
 - 启动：Tools/project.ps1 Run；编辑器：Editor；统一测试关卡：TestLevel；植物展示：Preview。脚本可通过 powershell -ExecutionPolicy Bypass -File 调用，不依赖当前目录或本机快捷方式。
 - 编辑器导入和脚本扫描：Tools/project.ps1 Check。
-- 实际场景回归：Tools/project.ps1 Verify -Suite level|transition|world-map|plant-preview|sandbox，可加 -Headless；all 依次执行所有场景检查。运行记录与截图位于忽略提交的 Artifacts/。
+- 实际场景回归：Tools/project.ps1 Verify -Suite level|transition|world-map|plant-preview|sandbox|interfaces，可加 -Headless；all 依次执行所有场景检查。interfaces 验证内容启动与单局公共入口，接口见 GodotPamDemo/docs/runtime-interfaces.md。运行记录与截图位于忽略提交的 Artifacts/。
 
 ## 修改与提交
 

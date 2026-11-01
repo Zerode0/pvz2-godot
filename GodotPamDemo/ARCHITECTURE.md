@@ -44,6 +44,8 @@ flowchart TD
 
 ## 内容配置与扩展
 
+供内容接入与 AI 使用的公共接口见 [docs/runtime-interfaces.md](docs/runtime-interfaces.md)。`LevelLaunchRequest` + `SceneTransition.launch_level()` 在初始化前传入关卡配置、牌组、档案和返回场景；前院地图已使用这一入口。同一战斗场景可复用多个配置，通关身份取配置 `id`。`LevelSession.check_placement/plant/spawn_zombie/get_run_state` 提供种植检查、显式种植、实际刷怪和独立状态快照；`level_finished` 每局首次胜负时提供结算快照。HUD、种植预览与开发测试刷怪已使用这些接口。验证为 `Tools/project.ps1 Verify -Suite interfaces -Headless`。
+
 - `data/levels/level_01.json` 已迁移到 `schema_version: 1`，含 `actor_catalog`、`deck`、`board`、`random_seed`、初始阵型、波次、天空阳光与拾取参数。第一关原数据数值保持。
 - `data/actors.json` 保存角色属性、动画 Resource 路径、行为及弹体数据。当前支持 `sun`、`shoot`、`block` 三种植物行为，僵尸支持行走/啃咬。
 - 新关卡复用现有场景契约：根节点使用 FrontyardLevel/LevelSession 派生脚本，子节点包含 `PlantingGrid`、`Actors`、`Projectiles`、`Pickups`；FrontyardLevel 还需要 `HUD/LevelHUD`。在 Inspector 设置 `level_path`，无需复制战斗循环。

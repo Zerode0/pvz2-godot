@@ -7,6 +7,8 @@ description: "验证 Godot 角色动画接入或排查贴图、绑定、动作�
 
 统一命令为 Tools/project.ps1 Verify -Suite level|transition|world-map|plant-preview|sandbox，可加 -Headless。开发测试关卡验证成功标记 DEVELOPMENT_SANDBOX_OK；有画面时输出 Artifacts/development-sandbox/sandbox.png。
 
+内容启动与单局公共接口验证使用 `Tools/project.ps1 Verify -Suite interfaces -Headless`，成功标记 `RUNTIME_INTERFACES_OK`，调用实际过场和战斗场景；接口契约见 `GodotPamDemo/docs/runtime-interfaces.md`。
+
 植物预览动作/暂停/播放器释放与实际地图入口验证：同一 Godot 执行 `--path GodotPamDemo --script res://scripts/tests/verify_plant_preview.gd`，成功标记 `PLANT_PREVIEW_OK`；截图和 results.json 位于 `Artifacts/plant-preview/`。
 
 在项目根目录运行：

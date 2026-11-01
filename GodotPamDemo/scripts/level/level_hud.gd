@@ -90,30 +90,32 @@ func build(definitions: Dictionary, title: String, deck: Array[String]) -> void:
 	clock_text = _text("准备就绪", Rect2(1195, 861, 220, 27), 14, MUTED)
 	_build_modal()
 
-func refresh(world: Node) -> void:
-	sun_value.text = str(world.sun)
-	pause_button.text = "继续" if world.paused else "暂停"
-	speed_button.text = "%d×" % world.speed
-	ready_panel.visible = world.phase == world.Phase.READY
+func refresh(world: LevelSession) -> void:
+	var state := world.get_run_state()
+	sun_value.text = str(state.sun)
+	pause_button.text = "继续" if state.paused else "暂停"
+	speed_button.text = "%d×" % state.speed
+	ready_panel.visible = state.phase == LevelSession.Phase.READY
 	notice_text.visible = not ready_panel.visible
-	notice_text.text = world.notice if world.notice_time > 0.0 else ""
-	wave_text.text = "第 %d / %d 波" % [maxi(1, world.director.current_wave), world.level_data.waves.size()]
-	kills_text.text = "击退 %02d / %02d" % [world.defeated, world.director.schedule.size()]
-	progress.max_value = world.director.schedule.size()
-	progress.value = world.defeated
-	clock_text.text = "%02d:%02d" % [int(world.elapsed) / 60, int(world.elapsed) % 60]
+	notice_text.text = state.notice
+	wave_text.text = "第 %d / %d 波" % [maxi(1, state.wave), state.wave_count]
+	kills_text.text = "击退 %02d / %02d" % [state.defeated, state.enemy_count]
+	progress.max_value = state.enemy_count
+	progress.value = state.defeated
+	clock_text.text = "%02d:%02d" % [int(state.elapsed) / 60, int(state.elapsed) % 60]
 	for kind: String in cards:
-		var selected: bool = world.selected == kind and not world.shovel
+		var card: Dictionary = state.cards[kind]
+		var selected: bool = state.selected == kind and not state.shovel
 		cards[kind].modulate = Color("d7f79f") if selected else Color.WHITE
-		if world.sun < int(world.plant_data[kind].cost):
+		if state.sun < int(card.cost):
 			cards[kind].modulate *= Color(0.64, 0.64, 0.64)
-		covers[kind].size = Vector2(117, 126 * float(world.cooldowns[kind]) / float(world.plant_data[kind].recharge))
-	shovel_button.modulate = Color("d7f79f") if world.shovel else Color.WHITE
-	var ended: bool = world.phase in [world.Phase.VICTORY, world.Phase.DEFEAT]
-	modal.visible = ended or world.paused
+		covers[kind].size = Vector2(117, 126 * float(card.cooldown) / float(card.recharge))
+	shovel_button.modulate = Color("d7f79f") if state.shovel else Color.WHITE
+	var ended: bool = state.phase in [LevelSession.Phase.VICTORY, LevelSession.Phase.DEFEAT]
+	modal.visible = ended or state.paused
 	if modal.visible:
-		modal_title.text = "草坪守住了！" if world.phase == world.Phase.VICTORY else "僵尸进屋了" if world.phase == world.Phase.DEFEAT else "休息一下"
-		modal_subtitle.text = "测试关卡完成，所有僵尸已击退。" if world.phase == world.Phase.VICTORY else "试试增加射手，用坚果挡住来敌。" if world.phase == world.Phase.DEFEAT else "草坪与动画已暂停。"
+		modal_title.text = "草坪守住了！" if state.phase == LevelSession.Phase.VICTORY else "僵尸进屋了" if state.phase == LevelSession.Phase.DEFEAT else "休息一下"
+		modal_subtitle.text = "测试关卡完成，所有僵尸已击退。" if state.phase == LevelSession.Phase.VICTORY else "试试增加射手，用坚果挡住来敌。" if state.phase == LevelSession.Phase.DEFEAT else "草坪与动画已暂停。"
 		modal_action.text = "重新开始" if ended else "继续防守"
 
 func _build_modal() -> void:

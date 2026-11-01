@@ -22,6 +22,7 @@ Gardendless 主场景在 resources bundle 的 `config.json` 中索引0、pack `i
 过场接口：`GodotPamDemo/scenes/scene_transition.tscn` 为自动加载的 `SceneTransition`，在 AnimationPlayer 编辑 `fade_out` / `fade_in`；调用 `SceneTransition.change_scene(path)`，可监听 `transition_finished` 与 `transition_failed(path, error)`。默认 1 秒黑色遮罩；后台读取期间播放加载花 `Spawn / Idle / Leave` 并屏蔽输入，失败保留原场景。花的位置由 `Overlay/FlowerAnchor` 编辑，根节点 `flower_scale` 默认 0.2，按 1024×640 界面基准等比适配。
 
 - 关卡卡组入口：`LevelHUD.build(definitions, title, deck)`，`deck: Array[String]` 来自关卡 JSON；原三卡布局沿用，新增牌组数量时同步处理排版。
+- 关卡状态读取：`LevelSession.get_run_state()` 返回独立快照，现有 `LevelHUD.refresh(session)` 已使用它。鼠标种植预览与实际种植共用 `check_placement(kind, cell)`；玩家操作入口为 `select_plant`、`set_shovel`、`set_paused`、`set_speed`。参数与返回字段见 `GodotPamDemo/docs/runtime-interfaces.md`。
 
 地图入口：`GodotPamDemo/scenes/world_map.tscn`，`WorldMapScreen.catalog_path` 默认 `data/adventure/worlds.json`；各世界引用独立地图 JSON，节点 `scene`、`level_id`、`requires` 连接实际关卡与通关状态。`MapPanView` 复用裁剪拖动视口，接口为 `pan_to`、`tapped`、`position_changed`、`gesture_finished`；`WorldMapCanvas` 实例化原生岛屿场景并裁剪装饰、更新视差及暂停屏幕外动画；`MapLevelButton` 表示选择、锁定及完成。`ReferenceCanvas` 以 1024×640 编辑标题、视口和详情。
 

@@ -66,6 +66,12 @@ func _valid_map(data: Dictionary) -> bool:
 		if not scene.is_empty() and not ResourceLoader.exists(scene, "PackedScene"):
 			_fail("关卡场景不存在：" + scene)
 			return false
+		var level_path := str(value.get("level_path", ""))
+		if not level_path.is_empty():
+			var content := ContentCatalog.new()
+			if content.load_content(level_path) != OK or str(content.level.get("id", "")) != str(value.get("level_id", "")):
+				_fail("关卡配置无效或 level_id 不匹配：" + level_path)
+				return false
 	for edge in data.get("paths", []):
 		if edge.size() != 2 or not ids.has(edge[0]) or not ids.has(edge[1]):
 			_fail("地图路径引用了不存在的节点。")

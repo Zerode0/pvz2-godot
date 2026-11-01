@@ -13,6 +13,7 @@ signal transition_failed(path: String, error: int)
 @onready var flower_animation: AnimationPlayer = $Overlay/FlowerAnchor/LoadingFlower/AnimationPlayer
 @onready var petal_animation: AnimationPlayer = $Overlay/FlowerAnchor/LoadingFlower/flowerpieces/AnimationPlayer
 var busy := false
+var _level_request: LevelLaunchRequest
 
 func _ready() -> void:
 	overlay.resized.connect(_fit_flower)
@@ -29,6 +30,26 @@ func _input(_event: InputEvent) -> void:
 func _on_flower_finished(animation: StringName) -> void:
 	if animation == &"Spawn" and busy:
 		flower_animation.play(&"Idle")
+
+## Returns request acceptance; completion/failure uses the existing transition signals.
+func launch_level(request: LevelLaunchRequest) -> Error:
+	if busy:
+		return ERR_BUSY
+	if request == null:
+		return ERR_INVALID_PARAMETER
+	var error := request.validate()
+	if error != OK:
+		return error
+	_level_request = request.duplicate(true) as LevelLaunchRequest
+	change_scene(request.scene_path)
+	return OK
+
+func take_level_request(scene_path: String) -> LevelLaunchRequest:
+	if _level_request == null or _level_request.scene_path != scene_path:
+		return null
+	var request := _level_request
+	_level_request = null
+	return request
 
 func change_scene(path: String) -> void:
 	if busy:
@@ -67,6 +88,7 @@ func change_scene(path: String) -> void:
 	await animation_player.animation_finished
 	overlay.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	busy = false
+	_level_request = null
 	if error != OK:
 		transition_failed.emit(path, error)
 	transition_finished.emit()

@@ -326,7 +326,16 @@ func _on_start_level() -> void:
 	if progress.can_play(data):
 		_save_map_position()
 		map_view.cancel_motion()
-		SceneTransition.change_scene(str(data.scene))
+		if str(data.get("level_path", "")).is_empty():
+			SceneTransition.change_scene(str(data.scene))
+		else:
+			var request := LevelLaunchRequest.new()
+			request.level_path = str(data.level_path)
+			request.scene_path = str(data.scene)
+			request.profile_path = progress.save_path
+			if SceneTransition.launch_level(request) != OK:
+				status_label.text = "关卡配置无法打开：" + "；".join(request.errors)
+				status_label.show()
 
 func _on_back() -> void:
 	if SceneTransition.busy:

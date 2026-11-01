@@ -37,6 +37,7 @@ var sky_clock: float = 4.0
 
 signal phase_changed(value: Phase)
 signal run_reset
+signal level_finished(result: Dictionary)
 
 var catalog := ContentCatalog.new()
 var deck: Array[String] = []
@@ -45,15 +46,21 @@ var planting: PlantingSystem
 var combat: CombatSystem
 var pickups: PickupSystem
 var _accumulator: float = 0.0
+var _result_emitted := false
 
-func initialize_run() -> Error:
+func initialize_run(deck_override: Array[String] = []) -> Error:
 	var error := catalog.load_content(level_path)
 	if error != OK:
 		return error
 	level_data = catalog.level
 	plant_data = catalog.plants
 	zombie_data = catalog.zombies
-	deck.assign(level_data.deck)
+	deck.assign(level_data.deck if deck_override.is_empty() else deck_override)
+	var seen: Dictionary = {}
+	for kind in deck:
+		if not plant_data.has(kind) or seen.has(kind):
+			return ERR_INVALID_PARAMETER
+		seen[kind] = true
 	selected = deck[mini(1, deck.size() - 1)]
 	grid.rows = int(level_data.board.rows)
 	grid.columns = int(level_data.board.columns)
@@ -70,8 +77,12 @@ func set_phase(value: Phase) -> void:
 	if phase != value:
 		phase = value
 		phase_changed.emit(phase)
+		if phase in [Phase.VICTORY, Phase.DEFEAT] and not _result_emitted:
+			_result_emitted = true
+			level_finished.emit(get_run_state())
 
 func reset_level() -> void:
+	_result_emitted = false
 	for root in [actors, projectile_root, pickup_root]:
 		for child in root.get_children():
 			child.visible = false
@@ -114,8 +125,18 @@ func start_level() -> void:
 		notify("拾取阳光，种植更多植物。")
 
 func toggle_pause() -> void:
+	set_paused(not paused)
+
+func set_paused(value: bool) -> void:
 	if phase == Phase.PLAYING:
-		paused = not paused
+		paused = value
+
+func set_speed(value: int) -> void:
+	if value in [1, 2]:
+		speed = value
+
+func set_shovel(value: bool) -> void:
+	shovel = value
 
 func select_plant(kind: String) -> void:
 	if kind in deck:
@@ -147,6 +168,34 @@ func _simulate(seconds: float) -> void:
 
 func try_plant(cell: Vector2i) -> bool:
 	return planting.try_plant(cell)
+
+func check_placement(kind: String, cell: Vector2i) -> Dictionary:
+	return planting.check_placement(kind, cell)
+
+func plant(kind: String, cell: Vector2i) -> Dictionary:
+	return planting.plant(kind, cell)
+
+## Manual spawns use the same combat creation path as the wave director.
+func spawn_zombie(kind: String, row: int) -> LawnZombie:
+	if phase != Phase.PLAYING or paused or not zombie_data.has(kind) or row < 0 or row >= grid.rows:
+		return null
+	return combat._spawn_zombie(row, kind)
+
+## Detached data for HUDs, tooling and completion listeners. No live nodes/collections.
+func get_run_state() -> Dictionary:
+	var cards: Dictionary = {}
+	for kind in deck:
+		cards[kind] = {"cost": int(plant_data[kind].cost), "recharge": float(plant_data[kind].recharge), "cooldown": float(cooldowns.get(kind, 0.0))}
+	return {
+		"level_id": str(level_data.get("id", "")), "phase": phase, "paused": paused,
+		"speed": speed, "sun": sun, "selected": selected, "shovel": shovel,
+		"elapsed": elapsed, "defeated": defeated, "notice": notice if notice_time > 0.0 else "",
+		"wave": director.current_wave, "wave_count": level_data.get("waves", []).size(),
+		"enemy_count": director.schedule.size(), "plant_count": plants.size(),
+		"zombie_count": zombies.size(), "projectile_count": projectiles.size(),
+		"shots_fired": shots_fired, "sunflower_events": sunflower_events,
+		"deck": deck.duplicate(), "cards": cards,
+	}
 
 func remove_plant(cell: Vector2i) -> bool:
 	return planting.remove_plant(cell)
