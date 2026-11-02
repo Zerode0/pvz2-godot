@@ -1,0 +1,618 @@
+{
+  "source_repository": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art",
+  "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+  "items": [
+    {
+      "character": "plants_PeashooterPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PeashooterPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Food",
+        "Idle",
+        "Random",
+        "Shoot",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_PeashooterPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PeashooterPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "71b1f6ecbdd41d8d8f6a4670706e009b059aa49e21e5389955b7efcc96e0ff0f"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_PeashooterPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PeashooterPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "13939bea45b3543e19c8ef289f00a340049d3659ad9a1cff3e9a4b51eb1a96be"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_SunflowerPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SunflowerPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Food",
+        "Idle",
+        "Produce",
+        "Rand1",
+        "Rand2",
+        "Water",
+        "i"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_SunflowerPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SunflowerPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "d238ee44e53fa765c8bc20721caa88eabfbbb52c1d6de643ea0972091a6148bd"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_SunflowerPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SunflowerPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "b4f6707f0e7e01468359488be89d4371fc2e50f78b97571ac70605a5d396fe98"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_WallnutPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_WallnutPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death1",
+        "Death2",
+        "Death3",
+        "Death4",
+        "Food",
+        "Idle",
+        "Idle1",
+        "Idle2",
+        "Idle3",
+        "Idle4",
+        "Rand11",
+        "Rand12",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_WallnutPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_WallnutPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "0ec1660429dcf5b0888baf6782c3b1269c797136396b5f0ee0237977588de28c"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_WallnutPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_WallnutPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "3b1943fdbc61425b2da86e149fb04eb7da8049829adb43611cc2c5adb55c3958"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_PotatoMinePLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PotatoMinePLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Charging",
+        "Death_Baby",
+        "Explode",
+        "Flying",
+        "Food",
+        "Grow",
+        "Idle",
+        "Idle_Baby",
+        "LeapEnd",
+        "Spawn",
+        "Spawn_Baby",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_PotatoMinePLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PotatoMinePLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "4e81683e80ae7abcf6886d1ecd9696715412f7fa99c45742ec43e2c01f57843f"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_PotatoMinePLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_PotatoMinePLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "fbdfa50f0a9d5ee25b92f214b1a473720de4541078621e8cd9d73f385c4aa9cf"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_CherryBombPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CherryBombPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Attack",
+        "Idle",
+        "Play"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_CherryBombPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CherryBombPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "b6c17ad905c5fa4b49116d97f9c93fb87e0d537f3e38a0840bfcc25ca3c4150e"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_CherryBombPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CherryBombPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "eddccd0cb970c8cf190ad6dcdf1994035094a0af8b525f4d5025bd6f47a1d9bb"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_RepeaterPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_RepeaterPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Food",
+        "FoodBig",
+        "Idle",
+        "Random",
+        "Shoot",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_RepeaterPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_RepeaterPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "7aa1414cc3932a9d6fc5496351b5fe4b9120f7a3aa773e7627530e2f59b29c5e"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_RepeaterPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_RepeaterPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "e6f9dfd74d36713d1cb5199c4c646f742e6bc50280f09080a15ff86999cb8193"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_SnowPeaPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SnowPeaPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Food",
+        "FoodStart",
+        "Idle",
+        "Idle1",
+        "Idle2",
+        "Play",
+        "Random",
+        "Shoot",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_SnowPeaPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SnowPeaPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "ea829fabf8e1b92ff61923cdd46b96f6ca01a193337af8caa698fb1f1f1e359e"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_SnowPeaPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_SnowPeaPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "6ff19204186f5aee0f9de3ee99d7fc46d807374b8c901c93502bb769c7f8c18a"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_TorchwoodPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_TorchwoodPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Food",
+        "Idle",
+        "Idle_Blue",
+        "Random",
+        "RedFire",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_TorchwoodPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_TorchwoodPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "444fedf51a5eb95e0cf4cd3feaf69fd7e055846e5148f8a00d37bdd089b13b7e"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_TorchwoodPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_TorchwoodPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "3002b216d8e96a62008684ec24a05661ee3ec171fd58a30e64326d623d8cf8b1"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_CabbagePultPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CabbagePultPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Fade",
+        "Food",
+        "Idle",
+        "Lob",
+        "Pop",
+        "Rand1",
+        "Rand2",
+        "Water"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_CabbagePultPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CabbagePultPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "840af2c22b611a6277998765bafd64141ba4881344c73d1fccea9485ba058cfa"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_CabbagePultPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_CabbagePultPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "a7079a999172ddf983200ddfc97ddb50489bc8a1488ccf0145d7896a20fde980"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_ChomperPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_ChomperPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Attack",
+        "AttackChewStart",
+        "AttackEmpty",
+        "ChewEnd",
+        "Chewing",
+        "Death",
+        "FoodPullEndPushStart",
+        "FoodPullStart",
+        "FoodPulling",
+        "FoodPushEnd",
+        "FoodPushing",
+        "Idle",
+        "Rand1",
+        "Rand2",
+        "Rand3",
+        "Water",
+        "tongueIDLE"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_ChomperPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_ChomperPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "44933bf2702bb0e17986b5473653c72c04ddbcbe5b61c73e71680ea82e44fe74"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_ChomperPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_ChomperPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "7420debce2dea4075a649ad1f1cc53e010c9d2ac4012f0abc2ee5cf9b87dc403"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "plants_BonkChoyPLANT",
+      "group": "plant",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_BonkChoyPLANT",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Attack",
+        "Death",
+        "Defeat",
+        "Food",
+        "FoodStart",
+        "Idle",
+        "Rand1",
+        "Rand2",
+        "Water",
+        "idle"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_BonkChoyPLANT/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_BonkChoyPLANT/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "778bd816890a79d347f4cea6d12c71dfd9d4813a6df037ab8cd78c156bf7e546"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/plants_BonkChoyPLANT/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/plants_BonkChoyPLANT/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "acae4b60cc7b03a9c8d5d95acb4a503f8cd7ee895904f19424de1a2d7ea22239"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_BasicZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Broken0",
+        "Broken1",
+        "Broken2",
+        "Death",
+        "Eat",
+        "Idle",
+        "Walk",
+        "_Walk",
+        "idle"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_BasicZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "a8eb8cd12dd4d8c3aab374c0eb76f47edfdb25ede462396524bee73237645cd9"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_BasicZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "1599b42fff3a704e090668a2b482e438c7e6b2b7b4a30805da1dca32400e47df"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_BasicFlagZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicFlagZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Broken0",
+        "Broken1",
+        "Broken2",
+        "Death",
+        "Eat",
+        "Idle",
+        "Walk",
+        "_Walk",
+        "idle"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_BasicFlagZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicFlagZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "a8eb8cd12dd4d8c3aab374c0eb76f47edfdb25ede462396524bee73237645cd9"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_BasicFlagZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicFlagZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "1599b42fff3a704e090668a2b482e438c7e6b2b7b4a30805da1dca32400e47df"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_ImpZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ImpZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Eat",
+        "Fly",
+        "Idle",
+        "Land",
+        "Walk"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_ImpZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ImpZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "38838d8c44dc03f7308658fc71e46dfa137a13890fa9c27184c6b3f070113a28"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_ImpZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ImpZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "e3f00e6b304862a56b2f0352080fca6b3bfc9ef1d857d4e5888ba6694de81c2e"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_GargantuarZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_GargantuarZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Idle",
+        "Smash",
+        "Throw",
+        "Walk",
+        "a3"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_GargantuarZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_GargantuarZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "fa2924b20406702d48a1d394355505048d0593d4af9b7dcef90c28024f45ee7b"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_GargantuarZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_GargantuarZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "0f2102cc075f46bd999eb154c73bc10fa517c0303d03a9f98c702e59a693926a"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_EgyptBasicZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_EgyptBasicZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Broken0",
+        "Broken1",
+        "Broken2",
+        "Death",
+        "Eat",
+        "Idle",
+        "Spawn",
+        "Walk",
+        "newAnimation"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_EgyptBasicZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_EgyptBasicZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "eae1cd623c2265218e9d87ac839c1811c74bea9feb0ba865e9e23c0087de2465"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_EgyptBasicZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_EgyptBasicZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "a4c3c41678b8a7a73608029061c7c1c7aa2f2a31b290525e74612a84097ae298"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_PirateBasicZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_PirateBasicZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Broken0",
+        "Broken1",
+        "Broken2",
+        "Death",
+        "Eat",
+        "Idle",
+        "Walk",
+        "newAnimation"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_PirateBasicZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_PirateBasicZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "a03127a55704acfd41044279fa9c3a045cb5c034992aa1362a4d83c7920b2aa5"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_PirateBasicZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_PirateBasicZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "4fe745084c0050f76a06047ac2be21dc1affe5d5a7d7a707c3bc9945c0671f56"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    },
+    {
+      "character": "zombies_ModernNewspaperZOMBIE",
+      "group": "zombie",
+      "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ModernNewspaperZOMBIE",
+      "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+      "animations": [
+        "Death",
+        "Death_Angry",
+        "Eat",
+        "Eat_Angry",
+        "GetAngry",
+        "Idle",
+        "Idle_Angry",
+        "Play",
+        "Walk",
+        "Walk_Angry",
+        "hit",
+        "i",
+        "idle"
+      ],
+      "companion_files": [
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_ModernNewspaperZOMBIE/skeleton.json",
+          "format": "DragonBones 5.5 skeleton JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ModernNewspaperZOMBIE/skeleton.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "5f8630988322a2755f446867b1120c3c6df611786002d9f38d29cd3b75dadb34"
+        },
+        {
+          "local_path": "reference/pam-resources/gardendless-plus-art/zombies_ModernNewspaperZOMBIE/atlas.json",
+          "format": "DragonBones atlas JSON",
+          "source_url": "https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/blob/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_ModernNewspaperZOMBIE/atlas.json",
+          "revision": "ecbcf8bf50d7a72fe47d744958b66ace1144ad0c",
+          "sha256": "783c83953f29c9ac235ef404d773fbdf6021716b64acc849cb4472e4dc4bccb0"
+        }
+      ],
+      "texture_status": "DragonBones region definitions exist; the correct PNG has not been paired and verified."
+    }
+  ]
+}

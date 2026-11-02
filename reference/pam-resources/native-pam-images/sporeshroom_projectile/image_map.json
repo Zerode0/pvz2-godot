@@ -1,0 +1,359 @@
+{
+  "mapped": 16,
+  "indexed": 16,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "sporeshroom_93x56|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_93X56",
+      "file": "sporeshroom_93x56.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035973_images_1536_full_plant_sporeshroom_sporeshroom_93x56.png",
+      "sha256": "6f42a425835f9f02abfa9c8a4b37490e9a9f21aea57926acf2962b9fb925bf95",
+      "logical_size": [
+        93,
+        56
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035973_images_1536_full_plant_sporeshroom_sporeshroom_93x56.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_93x56",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_93X56",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "119",
+          "height": "72"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_61x80|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_61X80",
+      "file": "sporeshroom_61x80.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035970_images_1536_full_plant_sporeshroom_sporeshroom_61x80.png",
+      "sha256": "8a502f82231a5e06115a2acc0e1cdb8d7f2411d17283b9fb84b8cf28213f9c3f",
+      "logical_size": [
+        61,
+        80
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035970_images_1536_full_plant_sporeshroom_sporeshroom_61x80.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_61x80",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_61X80",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "78",
+          "height": "103"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_13x18|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18",
+      "file": "sporeshroom_13x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035960_images_1536_full_plant_sporeshroom_sporeshroom_13x18.png",
+      "sha256": "2e7aeb60f439fa2f82a81287b43b92b55ed5644cb4b24e06ee6951f81641521e",
+      "logical_size": [
+        13,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035960_images_1536_full_plant_sporeshroom_sporeshroom_13x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_13x18",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "17",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_17x17|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X17",
+      "file": "sporeshroom_17x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035965_images_1536_full_plant_sporeshroom_sporeshroom_17x17.png",
+      "sha256": "f9449e74ea8decbd095fd5e3cb2932dbc81236c09840d83e486e0329db0a40fe",
+      "logical_size": [
+        17,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035965_images_1536_full_plant_sporeshroom_sporeshroom_17x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_17x17",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X17",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "22",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_110x85|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_110X85",
+      "file": "sporeshroom_110x85.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035959_images_1536_full_plant_sporeshroom_sporeshroom_110x85.png",
+      "sha256": "f9b28c2d597fb7adad741d95e8b777428ad3a9ad9e6394bc2a6c5b7dd145e125",
+      "logical_size": [
+        110,
+        85
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035959_images_1536_full_plant_sporeshroom_sporeshroom_110x85.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_110x85",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_110X85",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "141",
+          "height": "109"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_56x37|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_56X37",
+      "file": "sporeshroom_56x37.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035969_images_1536_full_plant_sporeshroom_sporeshroom_56x37.png",
+      "sha256": "378d79c718f22892a2de6e47282ee74acbededf97850ce8d100938edd17dbf19",
+      "logical_size": [
+        56,
+        37
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035969_images_1536_full_plant_sporeshroom_sporeshroom_56x37.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_56x37",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_56X37",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "72",
+          "height": "48"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_89x92|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X92",
+      "file": "sporeshroom_89x92.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035972_images_1536_full_plant_sporeshroom_sporeshroom_89x92.png",
+      "sha256": "ebd8fdfe04f0d5d96154915adc3e65380d3e7fe372c6abadec8e4dd3311c91e2",
+      "logical_size": [
+        89,
+        92
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035972_images_1536_full_plant_sporeshroom_sporeshroom_89x92.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_89x92",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X92",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "114",
+          "height": "118"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_89x88|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X88",
+      "file": "sporeshroom_89x88.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035971_images_1536_full_plant_sporeshroom_sporeshroom_89x88.png",
+      "sha256": "8efc1aa6d42713bfd9300c30ddf800c68041e85986bc3f158f5eda09eedebe56",
+      "logical_size": [
+        89,
+        88
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035971_images_1536_full_plant_sporeshroom_sporeshroom_89x88.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_89x88",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X88",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "114",
+          "height": "113"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_46x44|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_46X44",
+      "file": "sporeshroom_46x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035968_images_1536_full_plant_sporeshroom_sporeshroom_46x44.png",
+      "sha256": "0a102fd8ee1f4ed7ca98dab8d0f81a135320a02b8da57c24e573852be506ba77",
+      "logical_size": [
+        46,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035968_images_1536_full_plant_sporeshroom_sporeshroom_46x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_46x44",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_46X44",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "59",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_40x40|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_40X40",
+      "file": "sporeshroom_40x40.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035967_images_1536_full_plant_sporeshroom_sporeshroom_40x40.png",
+      "sha256": "d971a0f92f262b2cb1349eaf0b497d8f4176744f1aeac0cbea40ec975ac00cb3",
+      "logical_size": [
+        40,
+        40
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035967_images_1536_full_plant_sporeshroom_sporeshroom_40x40.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_40x40",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_40X40",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "51",
+          "height": "51"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_31x38|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_31X38",
+      "file": "sporeshroom_31x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035966_images_1536_full_plant_sporeshroom_sporeshroom_31x38.png",
+      "sha256": "e561341c323c7164e672a126db2b1371844e46e7b401d394367420299977821b",
+      "logical_size": [
+        31,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035966_images_1536_full_plant_sporeshroom_sporeshroom_31x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_31x38",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_31X38",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "40",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_14x19|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_14X19",
+      "file": "sporeshroom_14x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035962_images_1536_full_plant_sporeshroom_sporeshroom_14x19.png",
+      "sha256": "e031a1a57c4e5ad999412627c605d60798975b05f75a1c40a2cac0ae8e8427f0",
+      "logical_size": [
+        14,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035962_images_1536_full_plant_sporeshroom_sporeshroom_14x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_14x19",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_14X19",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "18",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_17x7|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X7",
+      "file": "sporeshroom_17x7.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035964_images_1536_full_plant_sporeshroom_sporeshroom_17x7.png",
+      "sha256": "13a9e78307d992c3fbd4b669b62175ab625c8edec7b0079c9ba33840b4d2c4c4",
+      "logical_size": [
+        17,
+        7
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035964_images_1536_full_plant_sporeshroom_sporeshroom_17x7.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_17x7",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X7",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "22",
+          "height": "9"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_13x18_2|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18_2",
+      "file": "sporeshroom_13x18_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035961_images_1536_full_plant_sporeshroom_sporeshroom_13x18_2.png",
+      "sha256": "bcc7e53bb5cda99b900a311913b6826ae43e4930e497b0f51fe586f4d6ba8cf2",
+      "logical_size": [
+        13,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035961_images_1536_full_plant_sporeshroom_sporeshroom_13x18_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_13x18_2",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18_2",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "17",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_15x18|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_15X18",
+      "file": "sporeshroom_15x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035963_images_1536_full_plant_sporeshroom_sporeshroom_15x18.png",
+      "sha256": "9afdb5749680b7d89b13a057f8c49437c8b6126b83a3ac1c1b8c42b995930533",
+      "logical_size": [
+        15,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035963_images_1536_full_plant_sporeshroom_sporeshroom_15x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_15x18",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_15X18",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "19",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "sporeshroom_98x94|IMAGE_PLANT_SPORESHROOM_SPORESHROOM_98X94",
+      "file": "sporeshroom_98x94.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_035974_images_1536_full_plant_sporeshroom_sporeshroom_98x94.png",
+      "sha256": "3873744b13a61d1cfbd4b283b1fcaedbb904f9b42d3dc8f3ee593785729d969a",
+      "logical_size": [
+        98,
+        94
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_035974_images_1536_full_plant_sporeshroom_sporeshroom_98x94.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\plant\\sporeshroom\\sporeshroom_98x94",
+          "resource_id": "IMAGE_PLANT_SPORESHROOM_SPORESHROOM_98X94",
+          "atlas": "ATLASES/PLANTSPORESHROOM_1536_00.PTX",
+          "width": "126",
+          "height": "121"
+        }
+      }
+    }
+  ]
+}

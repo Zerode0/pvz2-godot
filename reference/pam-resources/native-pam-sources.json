@@ -1,0 +1,1117 @@
+[
+  {
+    "companion_files": [
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_107x96.png",
+        "sha256": "739b230532e6571b5fe4628c17b8fda023d97559df0611e5004cb0489f67c08c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_107x96.png",
+        "source_path": "sample/aloe/aloe_107x96.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_108x96.png",
+        "sha256": "8def77cf22bb7042ccec15c4989f25dfd5322e24c021ade1ec093eb931d79119",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_108x96.png",
+        "source_path": "sample/aloe/aloe_108x96.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_12x18.png",
+        "sha256": "63395611d86a1e1441fdf09b75a8d58e8007633528027696642bcacc8ce6bd20",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_12x18.png",
+        "source_path": "sample/aloe/aloe_12x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_13x14.png",
+        "sha256": "9ef39d976e2118f2ff0979a250ee80d2bb626f9db9b87b46f9efe932c4189dd6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_13x14.png",
+        "source_path": "sample/aloe/aloe_13x14.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_15x10.png",
+        "sha256": "5264094b4fdf918949db93dc4b3b2fa2d0ac1043356179f669a9aee6f9102e6c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_15x10.png",
+        "source_path": "sample/aloe/aloe_15x10.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_15x15.png",
+        "sha256": "48bab49a363e4f471aafaa6ddf003814b66b9b7233f041ca6f3ae3d1dd29f871",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_15x15.png",
+        "source_path": "sample/aloe/aloe_15x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_15x25.png",
+        "sha256": "65bcec1482c3d79654fa27b1d1c79b6b1e547e72416692c2ab2d1c389a3a0149",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_15x25.png",
+        "source_path": "sample/aloe/aloe_15x25.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_15x99.png",
+        "sha256": "bcb2a1e80a33c913e37ca2ea039ea134834bdb3d2a142d711c669a62afc1f1fb",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_15x99.png",
+        "source_path": "sample/aloe/aloe_15x99.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_16x17.png",
+        "sha256": "fa28cda0cee6f63bdefc46bddbc5e0aa77e805acf0230c1549a7429a06226ecf",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_16x17.png",
+        "source_path": "sample/aloe/aloe_16x17.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_17x19.png",
+        "sha256": "3425f93611e696914929ad18a0fb3c2ad7e4dea156343e26477f9651202567f7",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_17x19.png",
+        "source_path": "sample/aloe/aloe_17x19.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_17x27.png",
+        "sha256": "940440d1440402399fcc5b0dbac090e2595ddf7b91154df4a73f11dc1f7c90a5",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_17x27.png",
+        "source_path": "sample/aloe/aloe_17x27.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_18x9.png",
+        "sha256": "8b996a59f93cc79dc278c8f79c365b884cffb9909f3ac00b7b39b59b0029b88f",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_18x9.png",
+        "source_path": "sample/aloe/aloe_18x9.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_19x16.png",
+        "sha256": "19254ab551cc9d4d58480fd658febf642f991e4f8924e1dbfba129c43b8ccb58",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_19x16.png",
+        "source_path": "sample/aloe/aloe_19x16.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_22x24.png",
+        "sha256": "9208c2d70897b7f6a18e3ff9881383b828c6e7b91503f7a2e02f85e48e1417f6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_22x24.png",
+        "source_path": "sample/aloe/aloe_22x24.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_22x27.png",
+        "sha256": "7d055f6557aeacfe38b6cdf677bfe937b179469434b9c1e5f691b4a8d224b6f3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_22x27.png",
+        "source_path": "sample/aloe/aloe_22x27.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_23x72.png",
+        "sha256": "e0bc8f0790695b12888c3717ed9984ef4e24945eecc5af68453b29d839b5a2fc",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_23x72.png",
+        "source_path": "sample/aloe/aloe_23x72.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_34x34.png",
+        "sha256": "45f36fe7467ad47998cd97f316b63ffe114d0dcbe88c3a499a4bc6d0efaf79b5",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_34x34.png",
+        "source_path": "sample/aloe/aloe_34x34.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_43x39.png",
+        "sha256": "463899897bf9105e6de5b0d21b8ab353a0daef107cccc07be6dc1c64bd75fa4a",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_43x39.png",
+        "source_path": "sample/aloe/aloe_43x39.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_46x89.png",
+        "sha256": "5f72254072d58dceca296e76f2da2d88e55a60b386200e07b96428065fdc3253",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_46x89.png",
+        "source_path": "sample/aloe/aloe_46x89.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_49x53.png",
+        "sha256": "319a69835d416a6651b23c42e521174e37e9d8a4892052df3cfcd51acc9d169c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_49x53.png",
+        "source_path": "sample/aloe/aloe_49x53.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_49x74.png",
+        "sha256": "3432cc9f3c41a05294982af890421083bb59d56143e16a47273b959f0f3bed06",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_49x74.png",
+        "source_path": "sample/aloe/aloe_49x74.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_53x52.png",
+        "sha256": "0ed72c870e48ceccce6d673d2c59502e272400a898a67df5acf7a83a89363cb9",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_53x52.png",
+        "source_path": "sample/aloe/aloe_53x52.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_58x104.png",
+        "sha256": "8a6729b71ee48aaba2cc3174ce120fc5b6b1024fc0c3126c8dfc141d1806eab3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_58x104.png",
+        "source_path": "sample/aloe/aloe_58x104.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_58x97.png",
+        "sha256": "1fe1881fad2fdeb3074da3976b5a07770ca3b775ea95570437e0f58d3475aa60",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_58x97.png",
+        "source_path": "sample/aloe/aloe_58x97.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_64x64.png",
+        "sha256": "892f06c6d7a758dd70fcec8a064563ede61729b1f8be000ab4133cfbcf130f6b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_64x64.png",
+        "source_path": "sample/aloe/aloe_64x64.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_64x94.png",
+        "sha256": "f5793d5f1798eb38e327d36558c7ee8a342e3fbdc7968bc553707ccaee58e657",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_64x94.png",
+        "source_path": "sample/aloe/aloe_64x94.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_66x59.png",
+        "sha256": "c0c9ae0077b55725df6761b4e9089c597c7275948f2b4c6c9dd2ce3f5105d359",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_66x59.png",
+        "source_path": "sample/aloe/aloe_66x59.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_67x117.png",
+        "sha256": "63620df53e37448419888c2b228ef5b4152eaccca83c568d03f68dbae012e65c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_67x117.png",
+        "source_path": "sample/aloe/aloe_67x117.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_70x81.png",
+        "sha256": "ce5b9f850db5072d07e9b656f529fcd3fc47ddb445adbf7e5f41a5f9ce7e81a6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_70x81.png",
+        "source_path": "sample/aloe/aloe_70x81.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_7x8_2.png",
+        "sha256": "29df8d6fbc7ebfaa974f340f12421f9e7d8762a3b9be3453069cca813d35d287",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_7x8_2.png",
+        "source_path": "sample/aloe/aloe_7x8_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_7x8.png",
+        "sha256": "7d91128a8285660ae08f5222e0a3fb4d1b7eaefedda221fa084cc5fdcd7242cd",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_7x8.png",
+        "source_path": "sample/aloe/aloe_7x8.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_82x87.png",
+        "sha256": "1b79da1af2a0e8ed159b978bcb3e3e793519af98688f8c51777bea4ef1d1c08c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_82x87.png",
+        "source_path": "sample/aloe/aloe_82x87.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_83x48.png",
+        "sha256": "5ff8ab658a97401a60a49729afbcfeabc794a79cf425d4bd0232c7bb521287d7",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_83x48.png",
+        "source_path": "sample/aloe/aloe_83x48.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\aloe\\aloe_85x73.png",
+        "sha256": "e63ca174a22619b337cba8af0802be9b29735b87e01262e4dc8f72b5f3b04eb2",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe_85x73.png",
+        "source_path": "sample/aloe/aloe_85x73.png"
+      }
+    ],
+    "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe.pam",
+    "group": "plant",
+    "revision": "2badec2d7df8299a53f64e9c78eabb1865d807f5",
+    "format": "native-pam",
+    "character": "Aloe",
+    "sha256": "b57d7684bc6184af9dec961959f4312aa9d69e77d7fed3fbaa8470de0b388e16",
+    "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/aloe/aloe.pam"
+  },
+  {
+    "companion_files": [
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_11x18.png",
+        "sha256": "dbfb5ead495b72d5475708c08a2f0c0a1f19d3ad9f797855e3cca27c32bef9fe",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_11x18.png",
+        "source_path": "sample/nightshade/nightshade_11x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_11x9.png",
+        "sha256": "a0391bde8a6b268c72f4900ca97d12c9217bd1ec607fb2075101d8ca78cd021b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_11x9.png",
+        "source_path": "sample/nightshade/nightshade_11x9.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_12x19.png",
+        "sha256": "5834edb923c2f43dbc23712d70440b883f3a51c6ee58677a012bd6964c9bd787",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_12x19.png",
+        "source_path": "sample/nightshade/nightshade_12x19.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_13x9.png",
+        "sha256": "fa6639e8f4ca7513a47595b71a3dc1814eb8fc9ccde54baca2e01c02bb6d61f0",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_13x9.png",
+        "source_path": "sample/nightshade/nightshade_13x9.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_14x12.png",
+        "sha256": "d8f0096a0a58580962606b9f4727772101dfabbde6718f73483d4b3ea2bce668",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_14x12.png",
+        "source_path": "sample/nightshade/nightshade_14x12.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_154x48_2.png",
+        "sha256": "4e20878a0707dc1c8e2b593b28135a75b5fbbb776f24b44212d957934b39b99e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_154x48_2.png",
+        "source_path": "sample/nightshade/nightshade_154x48_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_154x48.png",
+        "sha256": "6f2214dfb265c31da7847a1e7a6cf788c88ccaae6b5d02848a469f3b4af07f6a",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_154x48.png",
+        "source_path": "sample/nightshade/nightshade_154x48.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_154x55_2.png",
+        "sha256": "bc96f02a1e610bc8c60952cf01ec96845ce076ec23205b8368a6dbcfc58a0a45",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_154x55_2.png",
+        "source_path": "sample/nightshade/nightshade_154x55_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_154x55.png",
+        "sha256": "c70aa2072f2085e5ed25ac25f27cf4881f6586d8a1bc457390db2a64a911370f",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_154x55.png",
+        "source_path": "sample/nightshade/nightshade_154x55.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_157x54_2.png",
+        "sha256": "644acfa46b1b04e6b1190b65af266671a6fdd5ca309ca482324020120c1a8576",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_157x54_2.png",
+        "source_path": "sample/nightshade/nightshade_157x54_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_157x54.png",
+        "sha256": "df634ad3a37924a59bbfb0e2b6e4b87dea40d1d25e0c92e38e673774804c3eeb",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_157x54.png",
+        "source_path": "sample/nightshade/nightshade_157x54.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_157x60_2.png",
+        "sha256": "cc420a2266733be8a7e28dffba4f806c46784a34af23f036abeee0534938d87e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_157x60_2.png",
+        "source_path": "sample/nightshade/nightshade_157x60_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_157x60.png",
+        "sha256": "5362055330c91a4048a9291ac8ded1597927bd4d8ebdf8ea4cd5365f95dacd59",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_157x60.png",
+        "source_path": "sample/nightshade/nightshade_157x60.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_15x7.png",
+        "sha256": "676b855389c3056f78b3b9eb8346f80d9154cc85b0aa3123367ba3f0674ed49f",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_15x7.png",
+        "source_path": "sample/nightshade/nightshade_15x7.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_16x15.png",
+        "sha256": "4d48a390cf8441d3fe266572715bdcc2a6b7bedeba79028d0dd3cb3da186b18b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_16x15.png",
+        "source_path": "sample/nightshade/nightshade_16x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_16x18.png",
+        "sha256": "e342fc6c3c2632ac804375868e4c92d1a218688fb6ac823a0474b0b98fde1511",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_16x18.png",
+        "source_path": "sample/nightshade/nightshade_16x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_16x19.png",
+        "sha256": "ed853e0c603b3862ce48d022d708c01290e5145a0e92ed5b74996cf572c342c6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_16x19.png",
+        "source_path": "sample/nightshade/nightshade_16x19.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_26x21_2.png",
+        "sha256": "08d6a89a09b4f69009f0c05dd6078c438bbc1221531c79365c5fef9318f6f0c8",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_26x21_2.png",
+        "source_path": "sample/nightshade/nightshade_26x21_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_26x21.png",
+        "sha256": "9ba338f5a34ef2e9e9c086c6e2a024e2ee271f61098b13db405ffe9aac783065",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_26x21.png",
+        "source_path": "sample/nightshade/nightshade_26x21.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_28x26_2.png",
+        "sha256": "f60ef09f63a27290ae94274611a0154a0aa72f9fcb4448f9cbe48a9cd1ae4011",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_28x26_2.png",
+        "source_path": "sample/nightshade/nightshade_28x26_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_28x26.png",
+        "sha256": "43031c804aeec3b169de3d08f02b18a21dcdc61c787fb7bff107d4c917111844",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_28x26.png",
+        "source_path": "sample/nightshade/nightshade_28x26.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_28x27_2.png",
+        "sha256": "4457ac2d2ce51a50b87c3443f0bbc94b4796bdb2c6116fec01f146a968859e90",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_28x27_2.png",
+        "source_path": "sample/nightshade/nightshade_28x27_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_28x27.png",
+        "sha256": "fe426c00fdf0b1cae050ebd929c201db0fbd03ee013189ef32c2853d386efb1e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_28x27.png",
+        "source_path": "sample/nightshade/nightshade_28x27.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_31x40_2.png",
+        "sha256": "0c3df5cd1bb3480cef0dc3cdbb71255f964dcf37cff092d6030d7e36017b4e04",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_31x40_2.png",
+        "source_path": "sample/nightshade/nightshade_31x40_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_31x40.png",
+        "sha256": "eb039e5eeb9743ca30a58b31a3407de283e0ade03aadb8375c577e75fa50dcc4",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_31x40.png",
+        "source_path": "sample/nightshade/nightshade_31x40.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_35x20_2.png",
+        "sha256": "317373dd637658a12bfa020751f7b1a49c7132c7fa618435d2ac28f85270105b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_35x20_2.png",
+        "source_path": "sample/nightshade/nightshade_35x20_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_35x20.png",
+        "sha256": "e8bc360298934496af2e685471aeca6d9295b3f1d801f526f5428a031d7bfea0",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_35x20.png",
+        "source_path": "sample/nightshade/nightshade_35x20.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_38x35_2.png",
+        "sha256": "fe1997e85f008171718e675965eda8eadcea4327a24b81a09076fc2167491f35",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_38x35_2.png",
+        "source_path": "sample/nightshade/nightshade_38x35_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_38x35.png",
+        "sha256": "01cfccdede6c93c938dd90fc8f9dea3aaec50f2311bea615fd662c6edaa56483",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_38x35.png",
+        "source_path": "sample/nightshade/nightshade_38x35.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_39x32_2.png",
+        "sha256": "cfc92f74fecbbe557d7cd142d6979b06639ccf79c9e53c1004fbde88145a7f16",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_39x32_2.png",
+        "source_path": "sample/nightshade/nightshade_39x32_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_39x32.png",
+        "sha256": "211eb0773b540930fd2d894288bc2587cd47d5c4fca6becf39040fe1dd0a935c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_39x32.png",
+        "source_path": "sample/nightshade/nightshade_39x32.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_40x18_2.png",
+        "sha256": "1d708ccdeed35c0398dcb2001e2341503317aebc315d570953e20896c696e33e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_40x18_2.png",
+        "source_path": "sample/nightshade/nightshade_40x18_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_40x18.png",
+        "sha256": "1d52972c2625dab9af06dcb7269a23dc4b6dca11ffa9d84a2da5f99b2ba3e702",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_40x18.png",
+        "source_path": "sample/nightshade/nightshade_40x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_40x44_2.png",
+        "sha256": "bbced4974192ae3b529752c47f25dcda4b8966c6eec98f7ce91dee12b4373501",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_40x44_2.png",
+        "source_path": "sample/nightshade/nightshade_40x44_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_40x44.png",
+        "sha256": "5a10ea789699e3403586aa5d3abaf4897566d2ebed71171c04c717e4f4a8a224",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_40x44.png",
+        "source_path": "sample/nightshade/nightshade_40x44.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_41x102_2.png",
+        "sha256": "d025cbe6d75f6461fcaa99474462b0e1d841967fd8fe709e8d5e4a1cf6961357",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_41x102_2.png",
+        "source_path": "sample/nightshade/nightshade_41x102_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_41x102.png",
+        "sha256": "42f5a20ed0b7d8804b2ee796db8890497dc9c057a150ad5b05dbee1be99b8c7e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_41x102.png",
+        "source_path": "sample/nightshade/nightshade_41x102.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_46x16_2.png",
+        "sha256": "867224c20ad831e7b1826fb038753183961ee0dc20754b60222c5c5cee54a8b3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_46x16_2.png",
+        "source_path": "sample/nightshade/nightshade_46x16_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_46x16.png",
+        "sha256": "8e45e60625eb1f90e39a69914224900cfb9ed51cab2ce9c9067e7b56b5782e1a",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_46x16.png",
+        "source_path": "sample/nightshade/nightshade_46x16.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_46x44_2.png",
+        "sha256": "9e0127dc2112bd2d3f50af752d01844d4a9b1820ff771a92d8ac729f5aa25035",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_46x44_2.png",
+        "source_path": "sample/nightshade/nightshade_46x44_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_46x44.png",
+        "sha256": "f633b1791294b406bc639e3b984d0abf4173f26ebac81aa9b18614271367aeef",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_46x44.png",
+        "source_path": "sample/nightshade/nightshade_46x44.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_57x73_2.png",
+        "sha256": "514dd7374076196868a03f58d469f6ad8363fb94e189afb7598559c0cac686dc",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_57x73_2.png",
+        "source_path": "sample/nightshade/nightshade_57x73_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_57x73.png",
+        "sha256": "7a250a5cc97f68f9a4b628896c0446b6f89a67821a2fdde20e038ae2f2fbdc90",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_57x73.png",
+        "source_path": "sample/nightshade/nightshade_57x73.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_58x32.png",
+        "sha256": "312e9386d2aaea2717dfd2751d6556a6732e534740ead4743748f7c60292e65b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_58x32.png",
+        "source_path": "sample/nightshade/nightshade_58x32.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_67x45_2.png",
+        "sha256": "9648e87467f730663c165eadaaaf010238d740d6684972c35208c33a6b60713b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_67x45_2.png",
+        "source_path": "sample/nightshade/nightshade_67x45_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_67x45.png",
+        "sha256": "429773693e0b9c34ad5add4f984a33f67c4921d5546995905b695d01b9fe34d4",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_67x45.png",
+        "source_path": "sample/nightshade/nightshade_67x45.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_67x49_2.png",
+        "sha256": "c97f0ae6e2f37020f4231362ea433dd506434f6d2195379e4e00c2f9ba5efeac",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_67x49_2.png",
+        "source_path": "sample/nightshade/nightshade_67x49_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_67x49.png",
+        "sha256": "f89de2cf1301293e8215867086a4acfe839d3c5c61829b1745d7dcea81b60f8f",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_67x49.png",
+        "source_path": "sample/nightshade/nightshade_67x49.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_77x58_2.png",
+        "sha256": "f67adbfe33b11873cb2dd00a112c7f136997d5a59d8b2358d7653b538b49b8ac",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_77x58_2.png",
+        "source_path": "sample/nightshade/nightshade_77x58_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_77x58.png",
+        "sha256": "fbd1cb73db107da0b2b5033580fa8fd56ce7e12207a4b50cf35fe47d2821c5ca",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_77x58.png",
+        "source_path": "sample/nightshade/nightshade_77x58.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_93x26_2.png",
+        "sha256": "cb129e3fd74f7f0a082512ecd0789026ba13012bb09ef4424fcfe3d403f7e16c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_93x26_2.png",
+        "source_path": "sample/nightshade/nightshade_93x26_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\nightshade\\nightshade_93x26.png",
+        "sha256": "fbd86f6203ec4a8f328c8a938d92c709d100cb548f384eea4b86eda9eedb94c4",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade_93x26.png",
+        "source_path": "sample/nightshade/nightshade_93x26.png"
+      }
+    ],
+    "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade.pam",
+    "group": "plant",
+    "revision": "2badec2d7df8299a53f64e9c78eabb1865d807f5",
+    "format": "native-pam",
+    "character": "Nightshade",
+    "sha256": "9d4b69f1688af70ec430fc7a781f9c99f38363b29ece1d87ebfa436e114ad06a",
+    "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/nightshade/nightshade.pam"
+  },
+  {
+    "companion_files": [
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_107x90.png",
+        "sha256": "71b5b7cf7cfc91299becad9d44a7a37287bc3268d22c01be0a6ad7204229442c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_107x90.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_107x90.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_10x9.png",
+        "sha256": "8b77a9f5850de01b3c35eca955b204fa467855fd4a747a53b3fad7b5a312f8c5",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_10x9.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_10x9.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_11x10.png",
+        "sha256": "2dc2fb84a0a380463105e950a43e2d78ccf8a101f6373fad9a09c4cf698cba78",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_11x10.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_11x10.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_11x11.png",
+        "sha256": "e1423f221c5e588ae07bd722787fbf8847d33450e55a4f2bc1de985b5d585fdf",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_11x11.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_11x11.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_12x16.png",
+        "sha256": "20f8f8e1404f476d4a058bc07def67c83393bba5fe1e720df50752dea7655448",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_12x16.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_12x16.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_132x115.png",
+        "sha256": "3acaf1b1a4cc15d3f7fd1a6bd4783b227581a45eb9a804ca9f94cb6b48db8f42",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_132x115.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_132x115.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_14x10.png",
+        "sha256": "0068bfdb0a6f454d0d344560ae467245b920f9fef83f9dababc650d423ed76f5",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_14x10.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_14x10.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_15x15.png",
+        "sha256": "c4ab0bbe59628289c3fb5f57f4e16d8ff4231e1c9d5b2200e84b4184bdd1ae7c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_15x15.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_15x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_15x8.png",
+        "sha256": "c531aa0c6b48d38ab7080a92583beae82a9a86197b294009e88b586b0955c90b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_15x8.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_15x8.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_17x15.png",
+        "sha256": "f43a90f509b6be1d668ebf9808f5c4ba018d72a94d8b216773a5b68cff916f1f",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_17x15.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_17x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_17x17.png",
+        "sha256": "e51b1d10c89758bd5a7c254409b9107364605a24111f3380455582f2d24efc38",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_17x17.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_17x17.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_19x47.png",
+        "sha256": "1ee9109a5e316b9686f9c37ad58edd4e8ab06ec15124f060d1665449b933b20b",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_19x47.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_19x47.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_20x16.png",
+        "sha256": "6fa4c154be3160231c44d8b43834861c3d1c1389b14501857b086d46b2ca27bd",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x16.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_20x16.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_20x17.png",
+        "sha256": "f49072509f019222cb270b1bfb973ba4d66f70b7682e1b0e651407c45b39e3af",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x17.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_20x17.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_20x20.png",
+        "sha256": "c7186782242c1f7d787d58311886c4a606311b03f5bfcfd4b714874a9c7093e2",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x20.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_20x20.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_20x7.png",
+        "sha256": "a4cc3738ba7a3d89757fe91a25a535baefd7c52264f5bab27b31b865259fd41e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_20x7.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_20x7.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_26x12.png",
+        "sha256": "06e3a9092eaf13696e0037b378e4c390ceacc65155d6979ed29b7a95946ca376",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_26x12.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_26x12.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_26x15.png",
+        "sha256": "7c19346a49ceff513ee9d09c507fb5868cfef0a34b96a9ba5d108b81a5cb3e76",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_26x15.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_26x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_28x15.png",
+        "sha256": "2d8902edbcb355a09fac1e7797f11b80dcc06d36b54cd6a74a7f2daab8c1e9d3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_28x15.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_28x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_31x18.png",
+        "sha256": "7e16c8b2b01efd017a045c3f38f82debe35a0d939eef5f785fa028eca7d88da6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_31x18.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_31x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_34x19.png",
+        "sha256": "16b6a967ae16d8bb135a85c2505becda491fb5dc6dc8e873d0396cad3e8aa1f0",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_34x19.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_34x19.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_39x35.png",
+        "sha256": "35e01db332159e811de58551b956aaa7f64eb5966e83a15510d650e2025d7de0",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_39x35.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_39x35.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_40x35.png",
+        "sha256": "a43846f7cc8ff6d5dba3e478157f81ac725cebf0e5c230fb5ede38e90b6eaaab",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_40x35.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_40x35.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_46x15.png",
+        "sha256": "3c17b27239283dd9dea54238d0e1bd34b2daae5fe882af03c03ce7bf22716fbc",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_46x15.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_46x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_54x13.png",
+        "sha256": "d7a4f595b12adf12f7340ee51b56e018b75c55940a86f1885ba128bdb8476378",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_54x13.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_54x13.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_55x41.png",
+        "sha256": "659a1b14dddcaaac7a782b89d807c3da029d43cbfdafcfc056bcb2b4ffae6c2d",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_55x41.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_55x41.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_6x8.png",
+        "sha256": "4891cab20f8d10e15c30fde00f61609f8372aacac649afb1b315d812881d30d8",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_6x8.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_6x8.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_74x61_2.png",
+        "sha256": "4693201cb142b362b6d039121147181139c02f5f090b7e731fb18adfe820c7e1",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_74x61_2.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_74x61_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_74x61.png",
+        "sha256": "39b3196a04c231759ac6ea43405a9080894fc3be15d9084f1ddcb2ede0064dc3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_74x61.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_74x61.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_85x36.png",
+        "sha256": "6c7e3e7a6965a0d654931af6c3a610e1a54afec184c2e267bcfc2aa3a2ac8336",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_85x36.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_85x36.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\sunflower\\image_plant_sunflower_sunflower_8x11.png",
+        "sha256": "eea94eb04b6ea1ee28acb52ca7f9fabc2f1f26c6fef3bc858860bfbe95c172f6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/image_plant_sunflower_sunflower_8x11.png",
+        "source_path": "sample/sunflower/image_plant_sunflower_sunflower_8x11.png"
+      }
+    ],
+    "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/SUNFLOWER.PAM",
+    "group": "plant",
+    "revision": "2badec2d7df8299a53f64e9c78eabb1865d807f5",
+    "format": "native-pam",
+    "character": "Sunflower",
+    "sha256": "95fb6012cdebfe64b7655e6e2f514f19d3a2a2fe1e4a0b6ac538b13e429b3202",
+    "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/sunflower/SUNFLOWER.PAM"
+  },
+  {
+    "companion_files": [
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_100x106.png",
+        "sha256": "0eb7620932b2fcc8dd59be45a295d111074ec5646b2e68ce520e1bdc5d9d8f39",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_100x106.png",
+        "source_path": "sample/wallnut/wallnut_100x106.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_108x92.png",
+        "sha256": "45222ba06517b1a38b3ba41d908339a69281e64a2b772e827fcc24e9800050bc",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_108x92.png",
+        "source_path": "sample/wallnut/wallnut_108x92.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_110x51.png",
+        "sha256": "404442efa76434b67a40bcee0d862f6a0781bc19970d62291bde01da8f2497fc",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_110x51.png",
+        "source_path": "sample/wallnut/wallnut_110x51.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_114x134.png",
+        "sha256": "59c616849c10695eb7315580ea02dd225563a379c9c1fcf3433ab40484bfcbce",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_114x134.png",
+        "source_path": "sample/wallnut/wallnut_114x134.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_115x75.png",
+        "sha256": "db27584f9fc4ea85838c7c597c22723f3e94f94d7b3b08978ee428a2cda58c24",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_115x75.png",
+        "source_path": "sample/wallnut/wallnut_115x75.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_118x61.png",
+        "sha256": "aa7df74d3bc43767fa4e81d53ccb1656ffce01807226f9f2421db6b9a60bf644",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_118x61.png",
+        "source_path": "sample/wallnut/wallnut_118x61.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_120x100.png",
+        "sha256": "b26e9fe026e4a4cb8148042b7eb7adb8b64d987ae1a734df520ef11779072bbb",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_120x100.png",
+        "source_path": "sample/wallnut/wallnut_120x100.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_120x139.png",
+        "sha256": "4a501f9e807d508160170d33643dfdfad0d72a31046433d3fbbb158fff7cb173",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_120x139.png",
+        "source_path": "sample/wallnut/wallnut_120x139.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_13x13.png",
+        "sha256": "34b5795350374bdd8db456a2149e06d155469d0bb469e25c1352237891755c06",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_13x13.png",
+        "source_path": "sample/wallnut/wallnut_13x13.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_140x159.png",
+        "sha256": "9bbbc0f9b2c673cb9f2b51310d769972dea05cbe8ec841b7d226bfee45c867cf",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_140x159.png",
+        "source_path": "sample/wallnut/wallnut_140x159.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_14x13.png",
+        "sha256": "5f69ed258ecdd9c9c287a2a0bc72b7ea5c050cdbf258db45cb5990567736a0b3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_14x13.png",
+        "source_path": "sample/wallnut/wallnut_14x13.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_14x17.png",
+        "sha256": "097a58f99f9023155d5d673421482dbab9a3554d9d330cda4e68d58f8fa5f89e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_14x17.png",
+        "source_path": "sample/wallnut/wallnut_14x17.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_14x18.png",
+        "sha256": "ae3356698d5e06651fdde120149988b31f72eba8a5474094d2d49f7e9526ba81",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_14x18.png",
+        "source_path": "sample/wallnut/wallnut_14x18.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_169x187.png",
+        "sha256": "2ed0245a5778bfa3e630e3b8f5244b5741d84e39919ab5bd5275adaace0eecb9",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_169x187.png",
+        "source_path": "sample/wallnut/wallnut_169x187.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_17x15.png",
+        "sha256": "2fc24b4c89bf80c7c1cac4731acb33bdb9b9c8a1d8f0b34c273021809c859e7a",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_17x15.png",
+        "source_path": "sample/wallnut/wallnut_17x15.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_1x1.png",
+        "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_1x1.png",
+        "source_path": "sample/wallnut/wallnut_1x1.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_20x14.png",
+        "sha256": "7f2c618833b85a597c7fd504033d4b5006941ac309261800b715144bf03cd1e6",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_20x14.png",
+        "source_path": "sample/wallnut/wallnut_20x14.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_21x13.png",
+        "sha256": "ebdc7b43d9fbcf689f6d474ce6338a3ee2ac652afdb82db9df52a45ae9f0ef57",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_21x13.png",
+        "source_path": "sample/wallnut/wallnut_21x13.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_21x17.png",
+        "sha256": "1b254dd3853be22910d923cc7fe58841c06a32a38e6eaf0177263b3c418a0dd7",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_21x17.png",
+        "source_path": "sample/wallnut/wallnut_21x17.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_22x19.png",
+        "sha256": "3ab01b337e2b529f9bd822e83c511247ff1e39ab6d5e474d401f486dbd2bee13",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_22x19.png",
+        "source_path": "sample/wallnut/wallnut_22x19.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_31x35.png",
+        "sha256": "35b68297f30d118341d42d0fd3e9cee76a4f1813d9279e5af15c41ba71fc204c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_31x35.png",
+        "source_path": "sample/wallnut/wallnut_31x35.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_33x20.png",
+        "sha256": "c9a21b405e4fac5249db391317b6e566cde2decb50000f9fbe2f9119aeb25913",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_33x20.png",
+        "source_path": "sample/wallnut/wallnut_33x20.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_34x33_2.png",
+        "sha256": "2330ea82adf0ef2bbd807a832d75245ffb4ad411d3db3fe18fe821bdf161f2c5",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_34x33_2.png",
+        "source_path": "sample/wallnut/wallnut_34x33_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_34x33.png",
+        "sha256": "99b287bec4daf4c1fd66065ab70676c0059826f11b0fbe42b553812726d04446",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_34x33.png",
+        "source_path": "sample/wallnut/wallnut_34x33.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_35x33.png",
+        "sha256": "7b9637074b50058832374fee49c81a640efba57354912b37fd8d6ce21c970bb9",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_35x33.png",
+        "source_path": "sample/wallnut/wallnut_35x33.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_40x111.png",
+        "sha256": "93d30a2f31a6cc7cc957894c5dde82ce011bf2008c76d4435ae95123b5298747",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_40x111.png",
+        "source_path": "sample/wallnut/wallnut_40x111.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_50x33.png",
+        "sha256": "fb952f6ce8dbf12b70bd3d32ceaa5f4ce5a654b4de11da35e1d67cc9c2ce837d",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_50x33.png",
+        "source_path": "sample/wallnut/wallnut_50x33.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_54x33.png",
+        "sha256": "8361f73f974b20665b5de50005d570ac23b53b00c629f281c3aad964891b98e2",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_54x33.png",
+        "source_path": "sample/wallnut/wallnut_54x33.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_55x60.png",
+        "sha256": "bc0e4c839cc7a03a6e5064f7fe7881ae37f6f90357a5a2f1b0ebee57da492cfd",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_55x60.png",
+        "source_path": "sample/wallnut/wallnut_55x60.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_56x38.png",
+        "sha256": "0063197939919d7e9644b02cd7ded51f6f857ddbb7836222ca60d65f5a572472",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_56x38.png",
+        "source_path": "sample/wallnut/wallnut_56x38.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_70x137.png",
+        "sha256": "ee2a5e0c9da3228cf259df34832a095a6b7de9557c4f613137521034476c2dc3",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_70x137.png",
+        "source_path": "sample/wallnut/wallnut_70x137.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_93x127.png",
+        "sha256": "f658295a7e08ab495b2353f9e13fb0d613bfecf3dfd54a0291f65bc00876c04c",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_93x127.png",
+        "source_path": "sample/wallnut/wallnut_93x127.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_93x135_2.png",
+        "sha256": "d1baa4fe898863b54c8ace958c80c7dbbb7980f1dbae29937b9f452eabe3ef53",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_93x135_2.png",
+        "source_path": "sample/wallnut/wallnut_93x135_2.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_93x135_3.png",
+        "sha256": "15ae0be0610b929c87756fc7b6c5548c5dc7393a7ef33024bf5be89713e4a26e",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_93x135_3.png",
+        "source_path": "sample/wallnut/wallnut_93x135_3.png"
+      },
+      {
+        "local_path": "reference\\pam-resources\\lambdaed1th-pam-codec-2badec2\\sample\\wallnut\\wallnut_93x135.png",
+        "sha256": "c86b09fdca9e23d6dbba810cf61285bf04fa6c8ae84d8246a9a7c4d234bba1db",
+        "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut_93x135.png",
+        "source_path": "sample/wallnut/wallnut_93x135.png"
+      }
+    ],
+    "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut.pam",
+    "group": "plant",
+    "revision": "2badec2d7df8299a53f64e9c78eabb1865d807f5",
+    "format": "native-pam",
+    "character": "Wall-nut",
+    "sha256": "0ef2a61e023225f198d9849b4dfb9aea9608a49ea8cd5cfd500b31db3b6d035b",
+    "source_url": "https://raw.githubusercontent.com/LambdaEd1th/pam-codec/2badec2d7df8299a53f64e9c78eabb1865d807f5/sample/wallnut/wallnut.pam"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/ALOE_HEAL_EFFECT.PAM",
+    "group": "effect",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Aloe heal effect",
+    "sha256": "b8a189e8cba533617a8a3e2c9b935affefc82f1325c8af8d5002b9f54b38f17a",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/ALOE_HEAL_EFFECT.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/CHOMPER.PAM",
+    "group": "plant",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Chomper",
+    "sha256": "389621af186fa7112f0030eb8ddc30a809832d273634225a0173dee90dacc81c",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/CHOMPER.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/CRAZYDAVE.PAM",
+    "group": "npc",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Crazy Dave",
+    "sha256": "e541d0b7f6dff4aa6c88baff9bb4ced812bc0d79023cfbb43a37b1ddccc7aef1",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/CRAZYDAVE.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/PEASHOOTER.PAM",
+    "group": "plant",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Peashooter",
+    "sha256": "10f1cf57a1a1b1fb36a318d4e89f0f548a72ff7f0c289d8fc9990da27fc12614",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/PEASHOOTER.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/SUNFLOWER.PAM",
+    "group": "plant",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Sunflower",
+    "sha256": "95fb6012cdebfe64b7655e6e2f514f19d3a2a2fe1e4a0b6ac538b13e429b3202",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/SUNFLOWER.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/SUNSHROOM.PAM",
+    "group": "plant",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Sun-shroom",
+    "sha256": "a79536f4e29026d5c799b89db6abe0089b0fccc5fcdf384bf6bd1badbd714f3a",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/SUNSHROOM.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/VASE_BROWN.PAM",
+    "group": "prop",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Brown vase",
+    "sha256": "3a1998de7deab8adaacdbca5ec22c9356e0c2c963b1653e3416fd95a3c28ffb3",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/VASE_BROWN.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/ZOMBIE_ICEAGE_WEASELHOARDER.PAM",
+    "group": "zombie",
+    "revision": "4963af4c6dd4fb76314311858f0aa446e9814c51",
+    "format": "native-pam",
+    "character": "Ice Age Weasel Hoarder",
+    "sha256": "00a1357718d916f6d657722ffc9e21a44312836a32795792303fb6bbb85b9efe",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/ReadPam/4963af4c6dd4fb76314311858f0aa446e9814c51/example/ZOMBIE_ICEAGE_WEASELHOARDER.PAM"
+  },
+  {
+    "companion_files": [
+      {
+        "source_path": "fail_example/SPORESHROOM_PROJECTILE.ImageConfig.json",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/SPORESHROOM_PROJECTILE.ImageConfig.json",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/SPORESHROOM_PROJECTILE.ImageConfig.json",
+        "sha256": "7c25a78ab0fe3925b6a1027d5b69e0d0580ae918a7034a2e30d45891f8c5ef99"
+      },
+      {
+        "source_path": "fail_example/SPORESHROOM_PROJECTILE.PNG",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/SPORESHROOM_PROJECTILE.PNG",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/SPORESHROOM_PROJECTILE.PNG",
+        "sha256": "79d83ff0b6438f076bba39c2c34e0eb826e3bfc034f4e23c4269e353dd742a27"
+      }
+    ],
+    "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/SPORESHROOM_PROJECTILE.PAM",
+    "group": "projectile",
+    "revision": "e567741bac1524256a3817e6ee3b002ccbe92226",
+    "format": "native-pam",
+    "character": "Spore-shroom projectile",
+    "sha256": "a4d4ec1c7266867c83646841b80d5669086df4e2fa504dbdc13a21e247d24a08",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/SPORESHROOM_PROJECTILE.PAM"
+  },
+  {
+    "companion_files": [
+      {
+        "source_path": "fail_example/ZOMBIE_SNOWPEA.ImageConfig.json",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_SNOWPEA.ImageConfig.json",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_SNOWPEA.ImageConfig.json",
+        "sha256": "d3852015632b44b42a7e7f4543ce1ab0a635e0d16345f293b8d50e500bcd27d1"
+      },
+      {
+        "source_path": "fail_example/ZOMBIE_SNOWPEA.png",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_SNOWPEA.png",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_SNOWPEA.png",
+        "sha256": "f92db1abb19b19842bfa2d546edb56da745160fdba06cdc67819920a81abcdf1"
+      }
+    ],
+    "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_SNOWPEA.PAM",
+    "group": "zombie",
+    "revision": "e567741bac1524256a3817e6ee3b002ccbe92226",
+    "format": "native-pam",
+    "character": "Snow Pea Zombie",
+    "sha256": "2bdfb1a5052121c65e0f01837d02dd026e465bc99ed9a5e7e3f8d0494ce5f521",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_SNOWPEA.PAM"
+  },
+  {
+    "companion_files": [
+      {
+        "source_path": "fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.ImageConfig.json",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.ImageConfig.json",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.ImageConfig.json",
+        "sha256": "18cbb8e65ac3b00dbfb188204ad8d351c48d6d83a5ee0dde6d9e185fe71cd12e"
+      },
+      {
+        "source_path": "fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.png",
+        "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.png",
+        "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.png",
+        "sha256": "c708407c29704ca1810ec3cb2ddd37bd8efa93a120c1d11b26bad94f882ea802"
+      }
+    ],
+    "local_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.PAM",
+    "group": "zombie",
+    "revision": "e567741bac1524256a3817e6ee3b002ccbe92226",
+    "format": "native-pam",
+    "character": "Ice Age Weasel Hoarder",
+    "sha256": "00a1357718d916f6d657722ffc9e21a44312836a32795792303fb6bbb85b9efe",
+    "source_url": "https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.PAM"
+  },
+  {
+    "companion_files": [],
+    "local_path": "reference/pam-resources/vghuy17ck1-PopAnimLib-1630c8b/PEASHOOTER.PAM",
+    "group": "plant",
+    "revision": "1630c8b8bee4a58b873778e1a0f5bfedd725d8fa",
+    "format": "native-pam",
+    "character": "Peashooter",
+    "sha256": "10f1cf57a1a1b1fb36a318d4e89f0f548a72ff7f0c289d8fc9990da27fc12614",
+    "source_url": "https://raw.githubusercontent.com/vghuy17ck1/PopAnimLib/1630c8b8bee4a58b873778e1a0f5bfedd725d8fa/Sample/PEASHOOTER.PAM"
+  }
+]

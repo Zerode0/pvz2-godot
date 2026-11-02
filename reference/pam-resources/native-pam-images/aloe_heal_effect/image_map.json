@@ -1,0 +1,755 @@
+{
+  "mapped": 34,
+  "indexed": 34,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "aloe_108x96|IMAGE_PLANT_ALOE_ALOE_108X96",
+      "file": "aloe_108x96.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007602_images_1536_initial_plant_aloe_aloe_108x96.png",
+      "sha256": "8d2cb8bdac97feb1432ee8a9d3b01719ed8513c7a396717170bd0affe9fc1345",
+      "logical_size": [
+        108,
+        96
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007602_images_1536_initial_plant_aloe_aloe_108x96.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_108x96",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_108X96",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "138",
+          "height": "123"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_107x96|IMAGE_PLANT_ALOE_ALOE_107X96",
+      "file": "aloe_107x96.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007601_images_1536_initial_plant_aloe_aloe_107x96.png",
+      "sha256": "69950ed9e5d5aa7040b3b057b7902673b00878a66a208dc492c64677608fecae",
+      "logical_size": [
+        107,
+        96
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007601_images_1536_initial_plant_aloe_aloe_107x96.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_107x96",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_107X96",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "137",
+          "height": "123"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_58x97|IMAGE_PLANT_ALOE_ALOE_58X97",
+      "file": "aloe_58x97.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007623_images_1536_initial_plant_aloe_aloe_58x97.png",
+      "sha256": "8bd04210acca0e73a4fad150ffd08096bc3659d53561892f56fbc317d32f3fb9",
+      "logical_size": [
+        58,
+        97
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007623_images_1536_initial_plant_aloe_aloe_58x97.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_58x97",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_58X97",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "74",
+          "height": "124"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_70x81|IMAGE_PLANT_ALOE_ALOE_70X81",
+      "file": "aloe_70x81.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007629_images_1536_initial_plant_aloe_aloe_70x81.png",
+      "sha256": "fb3835c8838994ec6732f8d4b4c1ab34419379a24ee2d169606f756a73df292b",
+      "logical_size": [
+        70,
+        81
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007629_images_1536_initial_plant_aloe_aloe_70x81.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_70x81",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_70X81",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "90",
+          "height": "104"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_67x117|IMAGE_PLANT_ALOE_ALOE_67X117",
+      "file": "aloe_67x117.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007628_images_1536_initial_plant_aloe_aloe_67x117.png",
+      "sha256": "ba0d05ba2c18b0bed17930c97f9a5c1976adaf77078593c5af537ed3aa85baab",
+      "logical_size": [
+        67,
+        117
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007628_images_1536_initial_plant_aloe_aloe_67x117.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_67x117",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_67X117",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "86",
+          "height": "150"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_15x99|IMAGE_PLANT_ALOE_ALOE_15X99",
+      "file": "aloe_15x99.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007608_images_1536_initial_plant_aloe_aloe_15x99.png",
+      "sha256": "4cbb41009026694ad4f16e3b2c823d2211cff7ffef61b8c35863c5d3e6d1d5dd",
+      "logical_size": [
+        15,
+        99
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007608_images_1536_initial_plant_aloe_aloe_15x99.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_15x99",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_15X99",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "19",
+          "height": "127"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_64x64|IMAGE_PLANT_ALOE_ALOE_64X64",
+      "file": "aloe_64x64.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007625_images_1536_initial_plant_aloe_aloe_64x64.png",
+      "sha256": "1105f375ab7ee595d1d1752272b0006620bd3411321f95c35f4329d7bc003990",
+      "logical_size": [
+        64,
+        64
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007625_images_1536_initial_plant_aloe_aloe_64x64.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_64x64",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_64X64",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "82",
+          "height": "82"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_15x25|IMAGE_PLANT_ALOE_ALOE_15X25",
+      "file": "aloe_15x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007607_images_1536_initial_plant_aloe_aloe_15x25.png",
+      "sha256": "6a00960b5927a3ad283c519a0946f9e5172b158e19923f128ba81f673e3887e2",
+      "logical_size": [
+        15,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007607_images_1536_initial_plant_aloe_aloe_15x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_15x25",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_15X25",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "19",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_17x27|IMAGE_PLANT_ALOE_ALOE_17X27",
+      "file": "aloe_17x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007611_images_1536_initial_plant_aloe_aloe_17x27.png",
+      "sha256": "0898f34d511db80f485f235d6db95015d84c5151d93b706076ba2ad1fc4f2233",
+      "logical_size": [
+        17,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007611_images_1536_initial_plant_aloe_aloe_17x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_17x27",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_17X27",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "22",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_7x8|IMAGE_PLANT_ALOE_ALOE_7X8",
+      "file": "aloe_7x8.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007630_images_1536_initial_plant_aloe_aloe_7x8.png",
+      "sha256": "51e939c28bdb55d8022c285afb5ecc5e28ecb168caf160f71aad80c7e6e22eb2",
+      "logical_size": [
+        7,
+        8
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007630_images_1536_initial_plant_aloe_aloe_7x8.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_7x8",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_7X8",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "9",
+          "height": "10"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_7x8_2|IMAGE_PLANT_ALOE_ALOE_7X8_2",
+      "file": "aloe_7x8_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007631_images_1536_initial_plant_aloe_aloe_7x8_2.png",
+      "sha256": "27163027403025dcceae7f436c8285c930762ec40cf55976007e0dba5a6c5361",
+      "logical_size": [
+        7,
+        8
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007631_images_1536_initial_plant_aloe_aloe_7x8_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_7x8_2",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_7X8_2",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "9",
+          "height": "10"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_13x14|IMAGE_PLANT_ALOE_ALOE_13X14",
+      "file": "aloe_13x14.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007604_images_1536_initial_plant_aloe_aloe_13x14.png",
+      "sha256": "a8bcfd055c0b002430b93e04049e9d5582fae3ee5dde3c23a55329212a7804d3",
+      "logical_size": [
+        13,
+        14
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007604_images_1536_initial_plant_aloe_aloe_13x14.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_13x14",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_13X14",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "17",
+          "height": "18"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_19x16|IMAGE_PLANT_ALOE_ALOE_19X16",
+      "file": "aloe_19x16.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007613_images_1536_initial_plant_aloe_aloe_19x16.png",
+      "sha256": "24d2576fe349f2827310aa5ef3d56db78727692700afab32ed913899d5a5ba02",
+      "logical_size": [
+        19,
+        16
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007613_images_1536_initial_plant_aloe_aloe_19x16.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_19x16",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_19X16",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "25",
+          "height": "21"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_53x52|IMAGE_PLANT_ALOE_ALOE_53X52",
+      "file": "aloe_53x52.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007622_images_1536_initial_plant_aloe_aloe_53x52.png",
+      "sha256": "9f250973296d5747f68f5d55b68d259f5c4e28fa0d25b79e159a387c1dddf6ee",
+      "logical_size": [
+        53,
+        52
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007622_images_1536_initial_plant_aloe_aloe_53x52.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_53x52",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_53X52",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "68",
+          "height": "67"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_46x89|IMAGE_PLANT_ALOE_ALOE_46X89",
+      "file": "aloe_46x89.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007619_images_1536_initial_plant_aloe_aloe_46x89.png",
+      "sha256": "461a886278a1d5913fd3217b04420a4ed7fab89560c4d04b42b42db8d8388032",
+      "logical_size": [
+        46,
+        89
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007619_images_1536_initial_plant_aloe_aloe_46x89.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_46x89",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_46X89",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "59",
+          "height": "114"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_23x72|IMAGE_PLANT_ALOE_ALOE_23X72",
+      "file": "aloe_23x72.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007616_images_1536_initial_plant_aloe_aloe_23x72.png",
+      "sha256": "b84c34b99c6c11ddf584ee087a7409d0db61bcf9723149d914942d36969a018c",
+      "logical_size": [
+        23,
+        72
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007616_images_1536_initial_plant_aloe_aloe_23x72.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_23x72",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_23X72",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "30",
+          "height": "92"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_82x87|IMAGE_PLANT_ALOE_ALOE_82X87",
+      "file": "aloe_82x87.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007632_images_1536_initial_plant_aloe_aloe_82x87.png",
+      "sha256": "525d52e76aada937572ba9a81550651a4a8093f0f7e2d26b4a9bb9494550a418",
+      "logical_size": [
+        82,
+        87
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007632_images_1536_initial_plant_aloe_aloe_82x87.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_82x87",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_82X87",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "105",
+          "height": "112"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_83x48|IMAGE_PLANT_ALOE_ALOE_83X48",
+      "file": "aloe_83x48.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007633_images_1536_initial_plant_aloe_aloe_83x48.png",
+      "sha256": "c690a9b6111715f9231253f3138af731cf3634abba7f3b4f436c0ea610b1db21",
+      "logical_size": [
+        83,
+        48
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007633_images_1536_initial_plant_aloe_aloe_83x48.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_83x48",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_83X48",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "106",
+          "height": "62"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_17x19|IMAGE_PLANT_ALOE_ALOE_17X19",
+      "file": "aloe_17x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007610_images_1536_initial_plant_aloe_aloe_17x19.png",
+      "sha256": "e19b8e48189a7f7f93d575ea01ca858e837d81fbc2e667e54bcb424b840f41f2",
+      "logical_size": [
+        17,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007610_images_1536_initial_plant_aloe_aloe_17x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_17x19",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_17X19",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "22",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_49x74|IMAGE_PLANT_ALOE_ALOE_49X74",
+      "file": "aloe_49x74.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007621_images_1536_initial_plant_aloe_aloe_49x74.png",
+      "sha256": "ea1edd501e0274fdfbf2a5a6daa98b093c0e9e2e5e043a41c24a791bdd12ce29",
+      "logical_size": [
+        49,
+        74
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007621_images_1536_initial_plant_aloe_aloe_49x74.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_49x74",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_49X74",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "63",
+          "height": "95"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_43x39|IMAGE_PLANT_ALOE_ALOE_43X39",
+      "file": "aloe_43x39.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007618_images_1536_initial_plant_aloe_aloe_43x39.png",
+      "sha256": "3895ba993ae0c57ff7d26250539a70d54eadffc2c5361f4b996432d60b957db4",
+      "logical_size": [
+        43,
+        39
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007618_images_1536_initial_plant_aloe_aloe_43x39.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_43x39",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_43X39",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "55",
+          "height": "50"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_16x17|IMAGE_PLANT_ALOE_ALOE_16X17",
+      "file": "aloe_16x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007609_images_1536_initial_plant_aloe_aloe_16x17.png",
+      "sha256": "79ea34f26ed8cc218068ccb64ed5972d57373408ec277cc35f12eb7553e9c65a",
+      "logical_size": [
+        16,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007609_images_1536_initial_plant_aloe_aloe_16x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_16x17",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_16X17",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "21",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_22x27|IMAGE_PLANT_ALOE_ALOE_22X27",
+      "file": "aloe_22x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007615_images_1536_initial_plant_aloe_aloe_22x27.png",
+      "sha256": "40b4e736907f594202c2e2dd7408a3b4c3454697a043ee66c85321e1fdce112b",
+      "logical_size": [
+        22,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007615_images_1536_initial_plant_aloe_aloe_22x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_22x27",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_22X27",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "28",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_15x10|IMAGE_PLANT_ALOE_ALOE_15X10",
+      "file": "aloe_15x10.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007605_images_1536_initial_plant_aloe_aloe_15x10.png",
+      "sha256": "97ffe33ac140c4a48250d9a327d60140589dfd2198b28ed3bdd89d518270d9bf",
+      "logical_size": [
+        15,
+        10
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007605_images_1536_initial_plant_aloe_aloe_15x10.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_15x10",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_15X10",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "19",
+          "height": "13"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_18x9|IMAGE_PLANT_ALOE_ALOE_18X9",
+      "file": "aloe_18x9.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007612_images_1536_initial_plant_aloe_aloe_18x9.png",
+      "sha256": "46fe02d9088872ed0356f6fb79d2c2b8bef878c85822c4ff7b9eade85099b38c",
+      "logical_size": [
+        18,
+        9
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007612_images_1536_initial_plant_aloe_aloe_18x9.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_18x9",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_18X9",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "23",
+          "height": "12"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_22x24|IMAGE_PLANT_ALOE_ALOE_22X24",
+      "file": "aloe_22x24.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007614_images_1536_initial_plant_aloe_aloe_22x24.png",
+      "sha256": "c99a230dc81e5b9607a1962be606afa1e11a9abe981c9b9a4ffc76bd7735dfce",
+      "logical_size": [
+        22,
+        24
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007614_images_1536_initial_plant_aloe_aloe_22x24.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_22x24",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_22X24",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "28",
+          "height": "31"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_64x94|IMAGE_PLANT_ALOE_ALOE_64X94",
+      "file": "aloe_64x94.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007626_images_1536_initial_plant_aloe_aloe_64x94.png",
+      "sha256": "2b21a9e2c907ee2c66ab1dcba6cec07beae9f4379abc5d5dc796d42771e8514d",
+      "logical_size": [
+        64,
+        94
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007626_images_1536_initial_plant_aloe_aloe_64x94.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_64x94",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_64X94",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "82",
+          "height": "121"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_58x104|IMAGE_PLANT_ALOE_ALOE_58X104",
+      "file": "aloe_58x104.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007624_images_1536_initial_plant_aloe_aloe_58x104.png",
+      "sha256": "16383ebfbb930aac50830249de04aca6b6a06d8a1562973d7a270aae2895640f",
+      "logical_size": [
+        58,
+        104
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007624_images_1536_initial_plant_aloe_aloe_58x104.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_58x104",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_58X104",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "74",
+          "height": "133"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_49x53|IMAGE_PLANT_ALOE_ALOE_49X53",
+      "file": "aloe_49x53.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007620_images_1536_initial_plant_aloe_aloe_49x53.png",
+      "sha256": "1738dc997e2b591565883066e1c552f514ed24e7cc6226e14a0ad71af76ee81b",
+      "logical_size": [
+        49,
+        53
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007620_images_1536_initial_plant_aloe_aloe_49x53.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_49x53",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_49X53",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "63",
+          "height": "68"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_85x73|IMAGE_PLANT_ALOE_ALOE_85X73",
+      "file": "aloe_85x73.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007634_images_1536_initial_plant_aloe_aloe_85x73.png",
+      "sha256": "a7070ef1576478de65ff85d2292b30f12c9dc3ca6fc20bb1a113fced8806b300",
+      "logical_size": [
+        85,
+        73
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007634_images_1536_initial_plant_aloe_aloe_85x73.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_85x73",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_85X73",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "109",
+          "height": "94"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_12x18|IMAGE_PLANT_ALOE_ALOE_12X18",
+      "file": "aloe_12x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007603_images_1536_initial_plant_aloe_aloe_12x18.png",
+      "sha256": "5104acc0da9c1662c1bfa57153a5cdd374dd7a90a3c14db287e1aaff7f09a204",
+      "logical_size": [
+        12,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007603_images_1536_initial_plant_aloe_aloe_12x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_12x18",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_12X18",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "16",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_15x15|IMAGE_PLANT_ALOE_ALOE_15X15",
+      "file": "aloe_15x15.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007606_images_1536_initial_plant_aloe_aloe_15x15.png",
+      "sha256": "ddcfc8fe9b2566b9e06a1d984e7a9616ea9f8aa588d0a821c8642b79a1c81f75",
+      "logical_size": [
+        15,
+        15
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007606_images_1536_initial_plant_aloe_aloe_15x15.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_15x15",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_15X15",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "19",
+          "height": "19"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_34x34|IMAGE_PLANT_ALOE_ALOE_34X34",
+      "file": "aloe_34x34.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007617_images_1536_initial_plant_aloe_aloe_34x34.png",
+      "sha256": "426806070cba89e2ac61749b067047e2d7929ca81c2bf32ee5109a49f4c091e3",
+      "logical_size": [
+        34,
+        34
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007617_images_1536_initial_plant_aloe_aloe_34x34.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_34x34",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_34X34",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "44",
+          "height": "44"
+        }
+      }
+    },
+    {
+      "pam_image": "aloe_66x59|IMAGE_PLANT_ALOE_ALOE_66X59",
+      "file": "aloe_66x59.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_007627_images_1536_initial_plant_aloe_aloe_66x59.png",
+      "sha256": "145e97806c67fc15d98b03b5d60cad779157386f6c7cadd6f096a54b74d01a44",
+      "logical_size": [
+        66,
+        59
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_007627_images_1536_initial_plant_aloe_aloe_66x59.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\aloe\\aloe_66x59",
+          "resource_id": "IMAGE_PLANT_ALOE_ALOE_66X59",
+          "atlas": "ATLASES/PLANTALOE_1536_00.PTX",
+          "width": "85",
+          "height": "76"
+        }
+      }
+    }
+  ]
+}

@@ -44,3 +44,14 @@
 
 - Mapping result: 70/70 PAM image references matched indexed project images, with zero fallback files. The copied mapped PNGs and `mapped-images/image_map.json` record exact resource IDs, source paths, logical sizes, source atlas, and SHA-256 values. The indexed atlas path for all matches is `ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX`; extracted source path prefix is `images\\1536\\full\\zombie\\zombie_iceage_weasel\\`.
 - Generated decoder files are in `decoded/`; mapped images are in `mapped-images/`.
+
+## Additional sample: Spore-shroom projectile
+
+- Repository: https://github.com/jiangnangame/Gekota
+- Commit: `e567741bac1524256a3817e6ee3b002ccbe92226`
+- Repository license: GPL-3.0; this does not establish a license for the included PvZ2 asset.
+- Original PAM: `fail_example/SPORESHROOM_PROJECTILE.PAM`
+- Companion files from the same directory: `SPORESHROOM_PROJECTILE.PNG` and `SPORESHROOM_PROJECTILE.ImageConfig.json`.
+- SHA-256: PAM `A4D4EC1C7266867C83646841B80D5669086DF4E2FA504DBDC13A21E247D24A08`; PNG `79D83FF0B6438F076BBA39C2C34E0EB826E3BFC034F4E23C4269E353DD742A27`; ImageConfig `7C25A78AB0FE3925B6A1027D5B69E0D0580AE918A7034A2E30D45891F8C5EF99`.
+- Direct PAM URL: https://raw.githubusercontent.com/jiangnangame/Gekota/e567741bac1524256a3817e6ee3b002ccbe92226/fail_example/SPORESHROOM_PROJECTILE.PAM
+- This is a projectile animation rather than a full plant rig. The PAM and atlas were saved; detailed reference matching awaits the main agent's format-tool pass.

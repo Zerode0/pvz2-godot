@@ -1,0 +1,2283 @@
+[
+  {
+    "sha256": "00a1357718d916f6d657722ffc9e21a44312836a32795792303fb6bbb85b9efe",
+    "pam_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_ICEAGE_WEASELHOARDER.PAM",
+    "images": 70,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_103x125.png",
+        "sha256": "25f988e25cddfea4fe82c188713c621fec6ca877e3d31c2d37df400ac64297d4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_120x141.png",
+        "sha256": "38f02173368c65d97a26ca2e07d62c25e7d89a0ccb3bb199937073a07c5c53dc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_12x13.png",
+        "sha256": "801e52dd9d3e02d523c0334d1b131809abeb52a7d864bc14e6149232fa6cb863"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_12x13_2.png",
+        "sha256": "3b5baecffc71b2f6b2fd448909f686a4a2c60957ff6d68fa5302f487e0271288"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_13x13.png",
+        "sha256": "7f1b477857269b621490868798368e8a76c6133855451653f0dc5e0bc5e62b96"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_13x13_2.png",
+        "sha256": "f956a06e636eff3ff30447ebbc927627d2e50b35b85c9fac2d00fe70ae6fcb45"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_13x14.png",
+        "sha256": "fbc50186290257ec86901028a0ea0361412c89933fb68a04f2adf7e691063cd9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_14x10.png",
+        "sha256": "08e31a044baa3282a4f03a5b2f5a84dd1d331723d8084ee458ccaec38554cafb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_14x16.png",
+        "sha256": "160a838360140721a3d93002bcbb142be3da9366a267196d1710e9522facec9b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_15x15.png",
+        "sha256": "51ad19f54bd629101f3a498e3e2c5d426a1e7b430aa39f7fd3e926f2656ebcc1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_15x21.png",
+        "sha256": "eb2471675c5bda2b9e9c42857043fa008331335538954a2471bf93220cdb6edd"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_15x26.png",
+        "sha256": "751cf7d41fb37460be333961f63db2ab1bd4dc0f64474973f7e0ddb741f04c2e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_17x10.png",
+        "sha256": "c8a7174073bc9379f0188b8d2dc688c2b86d360a2e529a3d1a264723373ea9eb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_17x13.png",
+        "sha256": "0d6b9d7ea750e7d6da6bde2f5ca5bd6946587c673840e8c1291ff7f6dd25c3e9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_17x25.png",
+        "sha256": "b754c1f31fc2005518534539caf7e999c63fcbf91a72cc3961d07c7faec376ea"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_18x13.png",
+        "sha256": "f83e79aebd72130bcb9f50b6392a3156cf1bf2cdb3fb9ba68ba579dfc39c915a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_18x14.png",
+        "sha256": "ea64848b37110e3a8db07991a2d731f499d2a9411c1998f1cd700732b41eb972"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_18x20.png",
+        "sha256": "55e1d3f0ca5210acc7d366523c4fb13e04327205b83ec25db2cfce762555940c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_19x17.png",
+        "sha256": "cfc6cf7862e51d06e718f95d2b84b2c716d32e6d44395badea5a4fa08165b307"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_19x17_2.png",
+        "sha256": "3bf02d24172ff8fe3d098ea03b792fbc34decca5b8a38521e8008c4b102c5ad0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_19x21.png",
+        "sha256": "94d7837525ee677e7d58549c0f46827de1c3365f46a7b8cf607cf71de6c42adc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_1x1.png",
+        "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_21x10.png",
+        "sha256": "3f1239de4ef26c6bac210298e0a68cfd75215c468a2654ed5f622f8a0b32f671"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_22x11.png",
+        "sha256": "6e9c4389e60e129235fef1c92c240731b1b9ae0a1b4bfdefe0d0f17c3d5be014"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_24x17.png",
+        "sha256": "82e1fbe861bff2408b39638425ad303a60697637785a0695c82b4be9f25894d9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_25x17.png",
+        "sha256": "c1d8f38697c9f6a3a6fe1f25e7bdc0d342d6c20be7f9f0bae6b86817a3eff501"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_25x40.png",
+        "sha256": "913c4b8dc5735e652306ae3411b0ccd6ea0844cc1e19975a11aa019f8646b959"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_26x19.png",
+        "sha256": "bf77a01d1ddebe12a864521e778a92efcfe69bd4df231f035fe431ebdc508388"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_27x16.png",
+        "sha256": "05379dc9b3b4c38fb77a9b677c1babf08f3845c1025bfe75dbce4b96715a5e3c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_28x17.png",
+        "sha256": "97b3de96f4199317c6a64847b5c7b54be0788a66673175f4f9c3caaacc68086e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_293x263.png",
+        "sha256": "0078ddbebab98236c8e3a937b2440fa11db286a1424b70fd366eabe4fd9cfb99"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_29x25.png",
+        "sha256": "63204d910ba53458581be1f5998af2b4f8ce50027f3db73f40568dd8f148821f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_32x22.png",
+        "sha256": "c22c55418d96d44ad4a8b8446fdde9bc7efc4bcf22ad45721d1663a5475715f0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_32x31.png",
+        "sha256": "5e17af677e5e9d71165f3b8a00283e746a4fd16fb52c8cc1dae8586ca52d0820"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_32x41.png",
+        "sha256": "d5373f0dc9e38575c05593ccda8605ccd9d6fe7d36b71e65355b7833ecadfa6d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_33x28.png",
+        "sha256": "39c1cb125456be43a6e5590f6cdbcf0180978312fae65eb0829871746b8451c1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_34x25.png",
+        "sha256": "738cd9b75b65663ccc2c5c020fa464c6fe99b287e0f7002366bb96c7473ab164"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_36x41.png",
+        "sha256": "c4a30ff9635abf78cf57ceaca0b8eca73ad5f44bb77ffb26460e219dda0e012b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_37x18.png",
+        "sha256": "3bcc9b958fabc0105ccfccfc479df3152cfca80972a343602603f5d2ac2cd36b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_39x26.png",
+        "sha256": "a0f1b941f07bf4c5ab019ce0efc9b73248bb7970839d4aab00034c0cd81130f9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_39x38.png",
+        "sha256": "dfb027d262a026f70fd6dc2de23e87ad38ed98a606fe5a8220d0eb97caa172df"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_40x17.png",
+        "sha256": "a2fe6d36838c7d147e4fbd68c6cb2e0ef206346f63ddb2c59bd018fe176a5ee2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_40x30.png",
+        "sha256": "a44a47028486493d2d74202c5b49e0456697f1df478bb96d5d535b3eeeea5d34"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_41x34.png",
+        "sha256": "f0e934f7f9eaa01d46bbee4ab6fbbbdd328e9b4206b3b5ae27085848d8207805"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_42x25.png",
+        "sha256": "6cfd60c26759d33a7889acb90eaaf12d82aaa8b74e1336b20b0245b65d2a612a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_42x57.png",
+        "sha256": "79d573acea93c102802d6a3c5c2a9b42bb712a29591808e7c693e12c06e5b89b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_43x47.png",
+        "sha256": "0f230ca03f390db7ab9327ca0dc1a3cf130c37888c1c02f59e09fef5f216efb2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_44x16.png",
+        "sha256": "16be428ee5cb8ab94b7084eeb173e561e9f025327be72532d11a3faa94264c0d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_48x30.png",
+        "sha256": "41ce04538650ffbf64d843374a583d887054d86a96ca2070146466126720325c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_54x18.png",
+        "sha256": "6ecbda304f145cfa6ab5c7df4e53530e4ef28346f92398684aca4979110ce0e2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_56x43.png",
+        "sha256": "ef05e8f1b717de9f7f6fd7c56b610c9d3c9149ffc1bc608ca565d8b038b35f84"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_58x31.png",
+        "sha256": "f4bca129469b4c6c17afcffe00335cb1023e449c134ea54c996cd1c0a6acd0de"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_58x44.png",
+        "sha256": "c283d52b3b2ad7667541396193e1f2b1dfbaca686676fd9b5f6e008c6ff8041e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_65x40.png",
+        "sha256": "5dc7374cd9e0077ed83f66bdc7e54c2160b6ba512587e681e066df65372bf970"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_65x45.png",
+        "sha256": "84a20d9c642b80f738928ef6a3bbd17e9be4b0fb72264edcfbf8e268efe36417"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_66x35.png",
+        "sha256": "1f638430bf3575b3209c6c03f5b3f8499cbd0afb1360c1108e975d48501fe6d9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_67x32.png",
+        "sha256": "e075fd7c1ebca98acab319500951a35ddab68546c1ef19ad2829874fb25ac263"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_67x33.png",
+        "sha256": "4ccacfeac1b9afa5f8764956689cf159cc3f833c5d9f85940780a132014a9f12"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_67x33_2.png",
+        "sha256": "9cbb065fe8ecae77600306926f55869e2c8e674d70d257d8184b7fcb1d1050b1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_68x32.png",
+        "sha256": "edb26f8be71e3a31d6fa1cf39e8649dc6595c6a6476e3ce3e5a7277bc7b44a29"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_68x36.png",
+        "sha256": "cd79fdcf15587290877aa8d086c8429a62c650c31c1ddd04a474e3a05fc43716"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_68x44.png",
+        "sha256": "5ee0dd6b05551038868ea1d275417b9fab984a8790ed681c1cc9cc32f1627778"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_69x28.png",
+        "sha256": "77869bf1d21bae621acd7038ed2b652b19a3977c934454681777e82c57e14406"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_69x30.png",
+        "sha256": "54995a4790fa0982b9874594b0ad6f925b4b87056d4e087187143dadca3227b6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_6x6.png",
+        "sha256": "824c86cc643a1395c87665bdbb03eb3a351954c48bbf59aee98112450db80e98"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_73x27.png",
+        "sha256": "f221df87a3ec976d453c68b8032e3449b2aaca68ef332f10470a63d13fc852fb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_80x38.png",
+        "sha256": "214c7bb8f62c78c0c455b036314ce22b54461cc7a3fff23877e8156e2e8bdc78"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_85x81.png",
+        "sha256": "eaef3da24b04f1eab677a7e8e26c4a4246288e3f332ff7012645a72bbfa539e3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_92x66.png",
+        "sha256": "fc5a08d4745070baf968a987f81b32dfc6c48145b33db982700f7883fada7396"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_iceage_weaselhoarder/zombie_iceage_weasel_9x9.png",
+        "sha256": "a75783581ed532d6d0a30f892ae2fe055f2982fb476d8215e9cfb45377a9c0c7"
+      }
+    ]
+  },
+  {
+    "sha256": "2bdfb1a5052121c65e0f01837d02dd026e465bc99ed9a5e7e3f8d0494ce5f521",
+    "pam_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/ZOMBIE_SNOWPEA.PAM",
+    "images": 50,
+    "method": "paired ImageConfig atlas",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/zombie_snowpea",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_11x11.png",
+        "sha256": "c4677f8203932b59821b4dad039354360e33371d3bf17b74e054c2671e832d7e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_12x15.png",
+        "sha256": "791178bf5cfc1ed28091bcc39b14b5622a47b179a7797bad3dd98465cf5ce53d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_135x8.png",
+        "sha256": "551946aaac903347994527312dd80359120aff0225bade5b1d26f81d9ac94a33"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_13x15.png",
+        "sha256": "39d309ef547688487625391a3f5736f0d4b2f44dbd1cdf56f60553f8ad8fa9f5"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_14x35.png",
+        "sha256": "3a37e6f1f76a5851eb94557b2ae1c0e1b7629e3878edcc696d1f03e3289b9e68"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_15x15.png",
+        "sha256": "457d8805cc9d26086e222b6b18895fa9dfc796386d0c96f2155be4fca67ade85"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_15x16.png",
+        "sha256": "9f3555be74a0bda5cd3f3ba9d9e81a2413ee88de4ebce58cbd67eba537672d1b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_15x29.png",
+        "sha256": "68cdf2c2293df08d7b6e3b601360e8bbddb85cf50a02d9a496cd4982837eff46"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_16x13.png",
+        "sha256": "f856dc9ae36468fecebeff260b10d6f143a9f836587a5d467d730010836e704a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_17x7.png",
+        "sha256": "9e9f6bdc861f507d80c6df96c1f2c5fe73ec61f1d68d72dac63182d2b2afe1f7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_18x20.png",
+        "sha256": "8c5f086dd3e0a682646a114ea2029cb6d5d2b5332672a0fc34bb0a4a01ded1fc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_18x24.png",
+        "sha256": "84c22f6f81f7ea6675d3ba8222292d10778bfb97e40a3b9004d1f4b8b66dac77"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_20x15.png",
+        "sha256": "c29f526ae4d8e481bc57b54ae63c4340f9cb5e042a6078f91d6574283e17852b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_20x40.png",
+        "sha256": "98827eddb0cc202f46f300fc913c5faaada6b7e034a2b60df61814811845f7c3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_21x20.png",
+        "sha256": "c62b6e3c2942264fdc87b15c36a61ecd947fa26d357c48682369829eb3f4b2f6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_21x23.png",
+        "sha256": "85d7fc0fc5a3637b093d76c0ac6c0b4304d86b484db3cb36a4f4c0512e2acf82"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_21x48.png",
+        "sha256": "6bbe09e362f7d2170fabc2dd00bd3e239ab9214b7f8c56d0836327930fdf5607"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_22x40.png",
+        "sha256": "eb984661acff0e151ebaf7211fa3fab46cc5830b2dde1840e2220e28f4cced17"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_22x49.png",
+        "sha256": "10dbb5181596fe227a7d86045df255599a5f061b18f2a6775a2b456acb418e0c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_23x17.png",
+        "sha256": "f44b8a975b70c237da5b885c8f9ee99e2e4207db2c2026c8a306350a536cf789"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_23x17_2.png",
+        "sha256": "16d5e15d82db0adf096dfaa764b0212c99b1bf14be752d9eb1b10a8f7a0b8f85"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_23x40.png",
+        "sha256": "b8b80f40e70793d3835d825b2a79db3ef0918ee45f63355c3ea579f566ac120e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_24x58.png",
+        "sha256": "22b0ac4cb81363dc7fdb7c21c6295eccfb276fc59f9a1f98222a3175edb4d7ac"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_26x27.png",
+        "sha256": "e8e75d919427f13d5af1544957a04ad84573c04baa9ebacca9658fae8b370854"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_26x36.png",
+        "sha256": "10d0fcde3004777bf63c4b06d678f9f4b6a57a9e2bb0a3f0afbe535d84838acf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_28x33.png",
+        "sha256": "de49be9f069656ae0a657c9ab50aa4dbaf65266797d72edbd217eafe0731548a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_28x46.png",
+        "sha256": "c41116f5f16a379c467d6222b473e6c0db46a0317d450a2d9549e2a2f735d5dc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_30x21.png",
+        "sha256": "3ecf719dbc08ce6af249dce0c0a9576627d0a34cbe8e5d8b0130126884ca55e5"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_30x22.png",
+        "sha256": "fd2bd1acec66a1599fcd95eefa8ad17ce9b3ee7a4cbffdf6d46a4728a7101e73"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_30x37.png",
+        "sha256": "3310651c16c2d0ee1b5bb8dc1b6d137ea8a4b1d707bd0ff272f7dec14d9cfe6c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_35x39.png",
+        "sha256": "bc7d9cda3b4d06b23bf47ebd84bf885cfbd470043d6e85eb3484090ec77b3156"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_36x23.png",
+        "sha256": "8cfe867c7510d063aad78573671b1750e232995f750a3d3c0d0340daaf87864b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_36x36.png",
+        "sha256": "8a04a4161bef27916d43670832e4db1db2164a2a90be34a5db2bd41dc3d06634"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_36x45.png",
+        "sha256": "6a48ce951319fc91beed912d43b1e08a46182f16c7836ca316ce4501e4e53240"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_36x45_2.png",
+        "sha256": "09925fb8f67a75a986144c0c40cd8141b2852f1b3746d27154ba17af7140ea01"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_36x47.png",
+        "sha256": "7b4342c7c7c1cd0fa7ae42dc25d2c0ea02f544cca4c10bfbb6e1b42de46aa2b3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_37x32.png",
+        "sha256": "a83d4a8b9b8a9718dccb0663856994d8e574f81abfe26b6423584574d629f2b9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_37x45.png",
+        "sha256": "2e78b95c44d86f26e844153d8f40c289bf6c6064caeb80d5ba64b323ff90f267"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_40x25.png",
+        "sha256": "0de11dfa8f96491a2aa923648f326b75eefeb2d4e57d6982f3a3a044a2b4b1e7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_43x25.png",
+        "sha256": "2cbbdd9277c66b4e6f5e73db5428b55abad23220e0206d9e350a0c7b4a273f70"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_51x27.png",
+        "sha256": "20869159d4c02931f0d25e2b37902cf42b51224bb170e1ee58aad0ce5b4cd1bf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_58x57.png",
+        "sha256": "dbddc3aa4efc8ffa7f9421ba798031cb02eb5c8bade751ceabe0a9958ca713f3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_5x8.png",
+        "sha256": "6ab41f6d54285f055c16bf7d4604789143c4c10c72476559c60ac5842e56d3b4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_60x86.png",
+        "sha256": "f330db547fe8598a275d1b4eb620cd60236ce4091be79d228293a2237c8be0bd"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_69x63.png",
+        "sha256": "7aa1d52364f89607e119d6c34987b29d91b6de901fc2ee1f80c6f1be473b0455"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_6x6.png",
+        "sha256": "bf11b760e5a4eadaee7b1841dd4070cb8ca37b69fd4e2f1c971ac1654ccb2dcf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_70x71.png",
+        "sha256": "69f3e099637b2eaf58585c6461a54d558e503d091d0831f3d724778a9adb5f9a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_7x12.png",
+        "sha256": "02915a3370387d119f7fbdce1a58d9968cbd7b1716492db8d7b77db72d5818cd"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_8x15.png",
+        "sha256": "b27eacc16152c0e72d35f4f2f20c5d498c42546dc81f758053a032b312367579"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/zombie_snowpea/zombie_snowpea_9x12.png",
+        "sha256": "294b9deeae92d7b9a28a341a9976c94022da1b27e69eea08fd1f1d6d4b8b77f6"
+      }
+    ]
+  },
+  {
+    "sha256": "a4d4ec1c7266867c83646841b80d5669086df4e2fa504dbdc13a21e247d24a08",
+    "pam_path": "reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/SPORESHROOM_PROJECTILE.PAM",
+    "images": 16,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/sporeshroom_projectile",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_110x85.png",
+        "sha256": "f9b28c2d597fb7adad741d95e8b777428ad3a9ad9e6394bc2a6c5b7dd145e125"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_13x18.png",
+        "sha256": "2e7aeb60f439fa2f82a81287b43b92b55ed5644cb4b24e06ee6951f81641521e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_13x18_2.png",
+        "sha256": "bcc7e53bb5cda99b900a311913b6826ae43e4930e497b0f51fe586f4d6ba8cf2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_14x19.png",
+        "sha256": "e031a1a57c4e5ad999412627c605d60798975b05f75a1c40a2cac0ae8e8427f0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_15x18.png",
+        "sha256": "9afdb5749680b7d89b13a057f8c49437c8b6126b83a3ac1c1b8c42b995930533"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_17x17.png",
+        "sha256": "f9449e74ea8decbd095fd5e3cb2932dbc81236c09840d83e486e0329db0a40fe"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_17x7.png",
+        "sha256": "13a9e78307d992c3fbd4b669b62175ab625c8edec7b0079c9ba33840b4d2c4c4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_31x38.png",
+        "sha256": "e561341c323c7164e672a126db2b1371844e46e7b401d394367420299977821b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_40x40.png",
+        "sha256": "d971a0f92f262b2cb1349eaf0b497d8f4176744f1aeac0cbea40ec975ac00cb3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_46x44.png",
+        "sha256": "0a102fd8ee1f4ed7ca98dab8d0f81a135320a02b8da57c24e573852be506ba77"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_56x37.png",
+        "sha256": "378d79c718f22892a2de6e47282ee74acbededf97850ce8d100938edd17dbf19"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_61x80.png",
+        "sha256": "8a502f82231a5e06115a2acc0e1cdb8d7f2411d17283b9fb84b8cf28213f9c3f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_89x88.png",
+        "sha256": "8efc1aa6d42713bfd9300c30ddf800c68041e85986bc3f158f5eda09eedebe56"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_89x92.png",
+        "sha256": "ebd8fdfe04f0d5d96154915adc3e65380d3e7fe372c6abadec8e4dd3311c91e2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_93x56.png",
+        "sha256": "6f42a425835f9f02abfa9c8a4b37490e9a9f21aea57926acf2962b9fb925bf95"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/sporeshroom_projectile/sporeshroom_98x94.png",
+        "sha256": "3873744b13a61d1cfbd4b283b1fcaedbb904f9b42d3dc8f3ee593785729d969a"
+      }
+    ]
+  },
+  {
+    "sha256": "b8a189e8cba533617a8a3e2c9b935affefc82f1325c8af8d5002b9f54b38f17a",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/ALOE_HEAL_EFFECT.PAM",
+    "images": 34,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/aloe_heal_effect",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_107x96.png",
+        "sha256": "69950ed9e5d5aa7040b3b057b7902673b00878a66a208dc492c64677608fecae"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_108x96.png",
+        "sha256": "8d2cb8bdac97feb1432ee8a9d3b01719ed8513c7a396717170bd0affe9fc1345"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_12x18.png",
+        "sha256": "5104acc0da9c1662c1bfa57153a5cdd374dd7a90a3c14db287e1aaff7f09a204"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_13x14.png",
+        "sha256": "a8bcfd055c0b002430b93e04049e9d5582fae3ee5dde3c23a55329212a7804d3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_15x10.png",
+        "sha256": "97ffe33ac140c4a48250d9a327d60140589dfd2198b28ed3bdd89d518270d9bf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_15x15.png",
+        "sha256": "ddcfc8fe9b2566b9e06a1d984e7a9616ea9f8aa588d0a821c8642b79a1c81f75"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_15x25.png",
+        "sha256": "6a00960b5927a3ad283c519a0946f9e5172b158e19923f128ba81f673e3887e2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_15x99.png",
+        "sha256": "4cbb41009026694ad4f16e3b2c823d2211cff7ffef61b8c35863c5d3e6d1d5dd"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_16x17.png",
+        "sha256": "79ea34f26ed8cc218068ccb64ed5972d57373408ec277cc35f12eb7553e9c65a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_17x19.png",
+        "sha256": "e19b8e48189a7f7f93d575ea01ca858e837d81fbc2e667e54bcb424b840f41f2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_17x27.png",
+        "sha256": "0898f34d511db80f485f235d6db95015d84c5151d93b706076ba2ad1fc4f2233"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_18x9.png",
+        "sha256": "46fe02d9088872ed0356f6fb79d2c2b8bef878c85822c4ff7b9eade85099b38c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_19x16.png",
+        "sha256": "24d2576fe349f2827310aa5ef3d56db78727692700afab32ed913899d5a5ba02"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_22x24.png",
+        "sha256": "c99a230dc81e5b9607a1962be606afa1e11a9abe981c9b9a4ffc76bd7735dfce"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_22x27.png",
+        "sha256": "40b4e736907f594202c2e2dd7408a3b4c3454697a043ee66c85321e1fdce112b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_23x72.png",
+        "sha256": "b84c34b99c6c11ddf584ee087a7409d0db61bcf9723149d914942d36969a018c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_34x34.png",
+        "sha256": "426806070cba89e2ac61749b067047e2d7929ca81c2bf32ee5109a49f4c091e3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_43x39.png",
+        "sha256": "3895ba993ae0c57ff7d26250539a70d54eadffc2c5361f4b996432d60b957db4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_46x89.png",
+        "sha256": "461a886278a1d5913fd3217b04420a4ed7fab89560c4d04b42b42db8d8388032"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_49x53.png",
+        "sha256": "1738dc997e2b591565883066e1c552f514ed24e7cc6226e14a0ad71af76ee81b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_49x74.png",
+        "sha256": "ea1edd501e0274fdfbf2a5a6daa98b093c0e9e2e5e043a41c24a791bdd12ce29"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_53x52.png",
+        "sha256": "9f250973296d5747f68f5d55b68d259f5c4e28fa0d25b79e159a387c1dddf6ee"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_58x104.png",
+        "sha256": "16383ebfbb930aac50830249de04aca6b6a06d8a1562973d7a270aae2895640f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_58x97.png",
+        "sha256": "8bd04210acca0e73a4fad150ffd08096bc3659d53561892f56fbc317d32f3fb9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_64x64.png",
+        "sha256": "1105f375ab7ee595d1d1752272b0006620bd3411321f95c35f4329d7bc003990"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_64x94.png",
+        "sha256": "2b21a9e2c907ee2c66ab1dcba6cec07beae9f4379abc5d5dc796d42771e8514d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_66x59.png",
+        "sha256": "145e97806c67fc15d98b03b5d60cad779157386f6c7cadd6f096a54b74d01a44"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_67x117.png",
+        "sha256": "ba0d05ba2c18b0bed17930c97f9a5c1976adaf77078593c5af537ed3aa85baab"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_70x81.png",
+        "sha256": "fb3835c8838994ec6732f8d4b4c1ab34419379a24ee2d169606f756a73df292b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_7x8.png",
+        "sha256": "51e939c28bdb55d8022c285afb5ecc5e28ecb168caf160f71aad80c7e6e22eb2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_7x8_2.png",
+        "sha256": "27163027403025dcceae7f436c8285c930762ec40cf55976007e0dba5a6c5361"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_82x87.png",
+        "sha256": "525d52e76aada937572ba9a81550651a4a8093f0f7e2d26b4a9bb9494550a418"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_83x48.png",
+        "sha256": "c690a9b6111715f9231253f3138af731cf3634abba7f3b4f436c0ea610b1db21"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/aloe_heal_effect/aloe_85x73.png",
+        "sha256": "a7070ef1576478de65ff85d2292b30f12c9dc3ca6fc20bb1a113fced8806b300"
+      }
+    ]
+  },
+  {
+    "sha256": "389621af186fa7112f0030eb8ddc30a809832d273634225a0173dee90dacc81c",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/CHOMPER.PAM",
+    "images": 72,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/chomper",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_102x116.png",
+        "sha256": "6db90ba030927f6a163fcbdadeb1e09802e1e929def0e01e63a34c220230d1cf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_104x192.png",
+        "sha256": "185bb0484c94cc54d978f6b2313e2dc2042395d9d2c4085264e4bea467d8a029"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_105x9.png",
+        "sha256": "48eacbe18968bf578a7af22b3d565d7773f229063146c7228981f796426193bd"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_110x47.png",
+        "sha256": "e93d8e0f875aa46770d99b7529447e79d232a88c6bd8e3a47febcfee6941c123"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_110x94.png",
+        "sha256": "0fd07db0cbb1b24b2351dc0be58a1b0bb543d4d9a6d85fff4d073ef0d8e4a3d0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_111x56.png",
+        "sha256": "f127289b1b95cbdbf32de491c505d29dd6befee9235b568f7ed0ea53569ee996"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_115x81.png",
+        "sha256": "6cd74a212b691bed42b97179f243c2e553877479fca2a7141686736db09c8004"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_116x196.png",
+        "sha256": "2681da413ef3792b552b7ebf0d78fa30e50d6f1c205f2d72e9ceac7dee874158"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_116x80.png",
+        "sha256": "292486cbb484f063b4bcb90a5df0a7fb821c1caf84d215480a455c1298dc1a5c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_117x67.png",
+        "sha256": "6d56a9e8a3bf845cf57ddb9dcb708e0b430e6deacc1d47f5077694499df8cb9a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_117x68.png",
+        "sha256": "77a69fa205ba2d7868990ee8c008ea4fdd8b744e7e3e79ca214ec81a2000a57d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_118x53.png",
+        "sha256": "ca92108ad4dce698e435a84a4eb9d0add20b9ff4deb6ae90fe9bbf745fdc2699"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_119x118.png",
+        "sha256": "d3a1e1ea2d426d3d807b6ac865553506f644f71acd9e49c52447bfa18aeb1f92"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_11x9.png",
+        "sha256": "5759b6752e7f5254df8a94442336b62da86ffe8bc5e07a777aba0774b4d00c9d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_121x26.png",
+        "sha256": "d06b23ba53c70d80d7e46c98cd555afb7dde4a612c23a6a33c264dd0cc0c5d30"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_121x95.png",
+        "sha256": "4d689d5cbf816a4f925c396ffe051517d102f74a8c650b37f2748495efe92a86"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_142x41.png",
+        "sha256": "16a5d7aeebecceb43173837f284bf0749a1ea94405797aa7870483a6384e22b3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_146x232.png",
+        "sha256": "c58ce3b0739b543f99fb8d79c463a6cc25f43742ee49fdb28c235188b4465499"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_14x14.png",
+        "sha256": "32209c262e3e5ab5d8f62ceac93ab5a739954aed0ec2fff5144f449ba6ee165a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_16x28.png",
+        "sha256": "90eeca38a81a8fd3a8b78c149f3026673d8660216195085060d209597b22d9a8"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_16x37.png",
+        "sha256": "4c77242d6dfd908b4afb3fd1761fed414ba80442b4924d42a485dda495633fd4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_19x15.png",
+        "sha256": "2a086fb0db0f3b0bc897cb25fe8f82a54e66ad5ed1c58cbfca0fc327415afd3c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_19x31.png",
+        "sha256": "1d00ac4708fdf1ef9d5064e82e4fb1840cf52f907efc6a0aa30bfecf8e9b3221"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_20x35.png",
+        "sha256": "cc602585c30ac6abcb56c9d591203b5ce9b76ba2b9f3ebdfec12bd3e67fe006e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_22x26.png",
+        "sha256": "7c20e5d044dc818b4f52b887bdceda055ee2938f727aea1e42fc4885a8c8787d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_22x29.png",
+        "sha256": "73cfcb6bb97754cb5e1eafac4e3a26e3cf214a5f08ad9788c87b7b9a390f24e9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_22x38.png",
+        "sha256": "a4000525444bee3eebf51ad26e111b6ae2546d608979d4a642a7a756289712ef"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_22x48.png",
+        "sha256": "e66b03524e8818813785a2334094c9a91538b41e1be68c13e2476931f46a8230"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_24x38.png",
+        "sha256": "091d14d92793cda8bbb5a568d476eba8886733a3b906298147fbc3dab9fc46c7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_25x33.png",
+        "sha256": "c4d57d2dba81e61655cfd075fca7d05cedf30ad892d0c4d8acc91a522244c7c4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_25x41.png",
+        "sha256": "6bbb583238278394076215f47d53f3736093d774f619c6fd8c7ec974109a245e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_26x33.png",
+        "sha256": "4335024fa85ac6c4bee97aed707b2cad8ee857ac85b04bd3f0b6ed1d5f3b2c44"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_27x46.png",
+        "sha256": "9baf8ef84870438e62adcdb6d31351f0cf3518b8905d86ec7ed0977a4816ca9e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_29x19.png",
+        "sha256": "bc505076d094abfe3a0e8619f4219224545bba9d630ffd7f2b7d40ba7072a5d3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_29x37.png",
+        "sha256": "be0ee2167aef51c0149ec1832cf9e15d822e2b7dcad87e7d4d140e49459ef26d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_30x32.png",
+        "sha256": "b4c2a6128abcb90024fc35caf590f19a3c35a8f480c12da4950bd92f56ec39b0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_30x39.png",
+        "sha256": "08449882cdec54bb2c3350c586255f57c2224b5878ee2c11e967f3b60b16abd0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_31x31.png",
+        "sha256": "7b21046ef62b33e347baec19901aaf273fc1e5c7d1e8bf62d40b8c946d1704d6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_32x38.png",
+        "sha256": "15d260e6b010dab23af9531883a6196a2159a780dfbc5b90cafd6996010625f9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_32x44.png",
+        "sha256": "f1721c6b6f6a2649c7e6fc89567a39733797eb52eedf3b5391e4d59a0efbaca1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_32x7.png",
+        "sha256": "27bf9438f59bcb191e09996e9569b0c979ba6d35eb317912f01b3085e6c4f2c0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_33x32.png",
+        "sha256": "e58823d6f59febd38fe38789064ca692ccbf8aa3a9aa663321142ee252f3fb38"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_34x48.png",
+        "sha256": "92063727bf5f930c923fb1cbd3c02e6f8de493c272fc39481a329a588ec67bba"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_36x27.png",
+        "sha256": "df55982909200500e46cd1c80a6746d69b89ee7e7ea3f0baa2036e01c2739164"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_36x39.png",
+        "sha256": "231398ab543aa5a9e9d8934e39a623ec5296451d0bd4b550dae0ef9ad08dd912"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_38x32.png",
+        "sha256": "b6ae2c8c52c9ff7c1a7af3d9806115ab9692e5acaba9713fc542b78be8b4f00c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_39x44.png",
+        "sha256": "b012b0e85b961e78cad57cf01d07434533b7d5b506b0d06deb08ca6431b62dee"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_39x44_2.png",
+        "sha256": "0df8eeb565dc0d258c7293e772279a079996d89c5eaf6beb45c8c2df15da97ea"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_40x40.png",
+        "sha256": "e75ac5976697073ce0081fd3d90b780e6450b93c352866bf0baa701958c20299"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_42x44.png",
+        "sha256": "27b27d373713381cec793df698eb105a41a562b849f9e4d9509aae454f111c8c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_45x26.png",
+        "sha256": "6325c72f8aee48a2209d149d4aa81e32bd304468a67c614c14fb518e2391e3e4"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_45x30.png",
+        "sha256": "c14c4f573cc5a2eb1451b52d0177e9827c71a7268ced5e2e45b46316da138e74"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_47x36.png",
+        "sha256": "4ed317354662ff9442d7d25b494e7d2407619849cca69e3efb78f80c9270bcc6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_48x29.png",
+        "sha256": "d111c3833a67ecb8ffd6b2d0d1038a8300d4850835ea405648ab19a5190fe103"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_48x29_2.png",
+        "sha256": "85ea3f8455563dc322fe92f5673177765957ca57371b6a9832c5b66d34658b54"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_48x30.png",
+        "sha256": "83b044e5d1fed19cc664820c6c7f99d5c892ac03e494d52f181c22cc827986d5"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_50x27.png",
+        "sha256": "fa42f01069a7057393c02058cb5c93a8658c442f62d0830c4e1044c389bb4d40"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_53x33.png",
+        "sha256": "e0089bbab5d01b8c4a0c99526f322ec87099e732d13007be01967bd46da9876e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_54x26.png",
+        "sha256": "efb774255136828e5e441eaefeab1c2c00c7b7743670b45aba9e58ceb522b4d1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_54x39.png",
+        "sha256": "62fdc0469ad3ad6c36762d2ae5b40952178f8298a737db9963d23cc285df0de7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_58x114.png",
+        "sha256": "38473acf3a6bcf35387d8c25979b6b389fba6505b8493392a682d335eb90b155"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_7x7.png",
+        "sha256": "f176d2da6a50c128a7056fc447d436e65b9db4014f024b59d616edab7aa73808"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_82x111.png",
+        "sha256": "6eb1184cb0f2e53b5430906d2d64ab3497a41c97b2f17f375ca3452f46a53c6b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_82x111_2.png",
+        "sha256": "e0b25edb6e057e447d4911648e67a67a0efba98fbcf1f19b7af51bdeafa313fc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_83x109.png",
+        "sha256": "7031ed6dde61bb35bf0a2ded475f52391ed838601948a9ca090d26bd0fffe625"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_86x126.png",
+        "sha256": "95271e13c4f30e9b699981c7e0a4714a4f23a0345e9de1883e3cb5ab3fb7cce7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_87x131.png",
+        "sha256": "5148d4738440377bc737a7ec2561a8442d637a29f19835be44d672e2588f8bdc"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_88x132.png",
+        "sha256": "292cb91d1d90dadee232ec0858d6506d3c2b7dad0b62c1b432610548bf50720c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_89x130.png",
+        "sha256": "1a6d6dd554dcef4eb19db7e5b48cfd4cc276ca5dca7cc8de872050c4ccdc29e8"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_91x86.png",
+        "sha256": "57964577178f7086dadd2da3de628dc6d9320314e2482ce1809080d27505a5c1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_94x74.png",
+        "sha256": "b7e56978ec324961d17ed8b1e049ac108918ae20f0f72372614a72eff2f81e34"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/chomper/chomper_99x76.png",
+        "sha256": "fe11056be03f60caa3081db3cb0677a659241649a9b6febb82fe24b14b37e8bf"
+      }
+    ]
+  },
+  {
+    "sha256": "e541d0b7f6dff4aa6c88baff9bb4ced812bc0d79023cfbb43a37b1ddccc7aef1",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/CRAZYDAVE.PAM",
+    "images": 79,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/crazydave",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_114x51.png",
+        "sha256": "452dccfff34ed4d1bb9ee92e67394ebb88e011010047279f408b59ca9d2f5d4f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_114x98.png",
+        "sha256": "c62ac1cf638ace473b6a4cbf26d0da0928f5150d7f091e9b4b0679b5d0dd5988"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_117x64.png",
+        "sha256": "14f934b947393c41605ed694ab29ee617883bef723f18adc9a65b65d3b541ee9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_118x66.png",
+        "sha256": "bed56ddace36548f85ad003c383dc52d6f561ad8c392659c31b9eef077de37b7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_120x121.png",
+        "sha256": "3bd557f556ca1d4326c73931b9bbba26e87f8c100d99e3a6812964aa373e975b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_128x88.png",
+        "sha256": "495703995eb7510f876592ae892f258fe86221ba17b18fa65dd939415e5fe5b2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_129x246.png",
+        "sha256": "db0eb8f2c5bc5bc6016f8227184c8a4d62809ae5ebbadcee60daa192f25c8036"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_136x312.png",
+        "sha256": "74f44106a9f46c59266689aa83546af9860a6d823665ceb50bc00c74e2fe2af7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_13x13.png",
+        "sha256": "c6f0fa359226c2b615f2ae16c45eacafe442a731daa99d35c435fe4c58217c37"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_141x70.png",
+        "sha256": "24857ffcd5ddd5a4c740b5680cb3c46d72595572dac5c89ebeb69efb2b16245c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_142x165.png",
+        "sha256": "bf19270c7d8e1e0b59cfc608c60ceccedfb76d225a6b5dddfc6ff1b0140c5f99"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_145x36.png",
+        "sha256": "2764194a2677f9bdbf2d2a5b617f66f237410fa96fa73550946c1bd77546e54d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_153x163.png",
+        "sha256": "3791dfa72fbbb57568add9cbcfc06a7b3286e823f118d066b44bce6c96ae78d3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_153x220.png",
+        "sha256": "c9d256bf96cde21ac522f010de4124f43a23bc0c4b14292741dd8713a2521893"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_168x103.png",
+        "sha256": "cec1889cb738d3d5296706b90f7d5742f32f4250d1cbccabc39fd010446e1065"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_184x327.png",
+        "sha256": "12fce84b96fcc60383279b799f682121e4f49fc9b016b663c585e18e12dcf319"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_187x238.png",
+        "sha256": "4b2e2c98b9ee924fce2008b1260572cfc54fbadbdfaa86ecd7e3757cfdfed1af"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_191x82.png",
+        "sha256": "4a91ab6fdb03ce81fd376074c8659c9ff3b1a890aa0b7e6e1f4133bc77e77334"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_193x135.png",
+        "sha256": "d92f2c931c50ee8ae1b7a62ad55d0314ade94d688e538dbc1864c7fffb750ed7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_208x149.png",
+        "sha256": "ce66788180a20161a9415b62ac37d227a07d4a217c890d14bc4a60e1b8c594ec"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_20x19.png",
+        "sha256": "a232027d039c8c21f32421e00d0affcfb67ea2dfe7b3b1cbeb52f21cbc3f5e91"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_222x139.png",
+        "sha256": "2fe3f3dbab204363e9337d658b262a5aa770abcdca5e59fed5fafac42ec445e9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_245x304.png",
+        "sha256": "f7b0915503a5c17db445edaae96448b898be31dcf85f8afea6622bf84700d90e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_259x108.png",
+        "sha256": "fbbd3f61089e347c106f9061f003054ae6836dbeff286912b5bf621c15a424d8"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_262x127.png",
+        "sha256": "ce0d3f41591a11acf9fb0abd286bab27f68811543527068cbbc05a05c8051f45"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_27x21.png",
+        "sha256": "ebc81557863ad93edab8129452d876c204b250e4a4d64f21d228c095ae82079e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_280x269.png",
+        "sha256": "643048f0f260701fe87f4fddeb2b07abd5bb2cdfc82afffdf998011a3856a8ad"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_28x23.png",
+        "sha256": "fba3df5503a380b1c0a28a2a62483e52a83e78f1219ab84b89765aab4e7e0f4a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_28x25.png",
+        "sha256": "63c806211c9ed7c0e0d124891e6ba992f6c932fb41fb08b51ce10c5633086aff"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_293x254.png",
+        "sha256": "a46d92bcd62882ccd0e1b2c275b1d395e9d5758f9c45b351302e4825fdc1db96"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_33x19.png",
+        "sha256": "6ed260c21c119b5c7141b71bae54a85b12ed13dc7dda2f35cf34716171ab8a46"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_33x31.png",
+        "sha256": "6b61172d5fddde6aa61c8fb0347f71eae4593b598755e92be4582a8ee0d5fc08"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_33x32.png",
+        "sha256": "d31d7d07b9e7ca0fbb498dd11436d1d002ca6b482202e7c91b6718872439564c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_34x24.png",
+        "sha256": "3832142593ddbb4f9c6b7971f0b9c15ee7f59839651e505567a651c5885e04b6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_370x186.png",
+        "sha256": "ccec34cdfebad4315a12019645c8f14b80287830f90950402af7cc36c2d0b23a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_37x13.png",
+        "sha256": "0fac1ee0d815c84fb16a57e4430ab520afaf5cea78c935bbbcba61ed3b04db8f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_37x18.png",
+        "sha256": "582b0ff876256fcd783a0825dd69c39ac5941f911e107a5265698b2d32683ffb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_38x38.png",
+        "sha256": "095e76d0bee8415495bc9881c7701344fdc4595ca9eeede65881e3665bc18202"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_40x53.png",
+        "sha256": "c6b33e5c8e09b50957d20c98c4a095352346d7e379e5526fa5ee70b26e88aefb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_41x31.png",
+        "sha256": "eda9fd55363a8ce0f2234a9e3698ea9281483a9b9bb1e856f9f6ba4afe5ee6e0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_41x46.png",
+        "sha256": "b7e9e389a6fdf00f710f009e3e57482f078c88c79297f68bf6febca89c73608d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_425x564.png",
+        "sha256": "13fcf4234eb630a81a14b723123eec3085cfe74c05a80769571389222c47a453"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_46x56.png",
+        "sha256": "3b73fbd6bef4bc1c739e30747256606f97ec51764a940ade0610779b40ffcee6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_49x35.png",
+        "sha256": "e2e05601583f8091c361b0865076c955f419f70f9b43666663dbb5651ce182f7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_49x45.png",
+        "sha256": "a17356b071a770cdce74ea92153b3785473083d162790d40035081133450e4f3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_49x68.png",
+        "sha256": "bd7274a1f9b2b4718e651e3c29688ca0368862ffa2bbf39bab5941197b7fa7f9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_51x107.png",
+        "sha256": "8a5bde1be90ed00240b0703c118cab77b024c9ab03f6a2de940f4adbe1069a47"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_51x54.png",
+        "sha256": "a72f1e9c4f446256ba3349a3060806f7db5773e05248ddccb42053c5670a1998"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_52x51.png",
+        "sha256": "84b01a84fd17e2c92223b73218fe3e973f3ace67baf935f1de088e649d7144f2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_53x96.png",
+        "sha256": "f04dd8813724f54f95a287f836e91aab7bd2b88c92a48c4ddd4bfc3a12d75e82"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_54x61.png",
+        "sha256": "8bea017016a17640f04095633486da9501912cfb1df9157e0b7ee70a203984d7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_55x42.png",
+        "sha256": "d89bfd02005e9b14a88de659bbb115255be9f36c04ba6a54462f8ce3d17f6b9d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_59x43.png",
+        "sha256": "73e16ad1efa981b43c3473caf4e2e0f1391e968c854579f96fb75659e0671b0b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_59x98.png",
+        "sha256": "041f7ad4b67c59a23c7d24f3a3b23de2c288bbe9b22a18b384eb906bca8e7c09"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_60x103.png",
+        "sha256": "9c01bfe9e3292775dfba71ba84f84c84880d86a6f734f868b2f3e2359c6a6ba6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_61x31.png",
+        "sha256": "f2d8fc15156f97dd6ade87700adf3c0b14d83debc4ebc7e09b38b74574b4cc9b"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_61x53.png",
+        "sha256": "443f1cfa619fe7a5b01578899bba451cf4ee2322f7df60c5453a487d982e4952"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_61x54.png",
+        "sha256": "0877d5314bcc8019f62d1d00d8e6f0d2068e35a342246e25eb49c992d4317ac1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_62x47.png",
+        "sha256": "cb072fb94f7c7f06fd83b01903d3689d179f54e8b86177301c0c3e61cf7bc6c1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_63x41.png",
+        "sha256": "145ec9608172c26a9c2db32d438313297503837b86812f2cc8dfe666f1dc5afe"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_63x53.png",
+        "sha256": "649de2e6ae90d082c5929dac7bae80a9dbd0690ee2328d1ab7ab472383080146"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_64x62.png",
+        "sha256": "ac997402d15eb2df4f1508abf4826febf2806d2cbd8aeef62edcd8ab19bd1e5f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_65x44.png",
+        "sha256": "1b12b16bf56f53e2f62780bd67a3f18a111b3fd7e6f4e5e70829b486940fcd49"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_65x54.png",
+        "sha256": "683ff49739ec371f8b9d9e14b0b6d1433796b71163c4a83cbe90c4c2663bbcd6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_66x41.png",
+        "sha256": "aa5c699b32da1df149c4a5155c0647848b223fdf55ceec6c19986c8fdef34daf"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_66x47.png",
+        "sha256": "dc013634ba37e5798dbfeb1e2bda24a9f23937fe4a65014fd117805893f32fae"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_66x52.png",
+        "sha256": "1a357c209ad6caa427bae4954a1842f016aa2f84d567b0ebafdc996300d4c2de"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_66x76.png",
+        "sha256": "74a4bb662824ce4c5aa6f0cf60b85a0ca407d75b730791f845011595450b412c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_67x46.png",
+        "sha256": "a7168810a7863f4cf61414daa58c1454406de9db440195577a0ac86b484d2470"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_69x46.png",
+        "sha256": "3e482013f9f22fd28e226666807ffdf9d33b7c5fc8d92dd9563d2fd046a36c92"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_69x49.png",
+        "sha256": "1afbcd7ca488c2c4da1539be8fb28485f941445312a69993273b0c3a047b0814"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_70x84.png",
+        "sha256": "50fb5f2be23689f30a065d5abbbce4fcbd98c52c2ce4517e905b6efcbcbd8b21"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_71x45.png",
+        "sha256": "f3e10ac2f1794258de62601fbc1c2a682585c54f21e2f858e39438d09e50cf45"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_72x42.png",
+        "sha256": "9394999f60e623db3e120d7861134cd39d4c7629c8c98c95dd26f4de047f495c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_75x48.png",
+        "sha256": "5cfca6a905e8eee41f2cdb26c25548039e21eb58fc13269b14ebdebc7e3a6668"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_79x83.png",
+        "sha256": "f536e4244c47a9e7a66581554e7bc7628e31c37b3bea599222d8435a380fef7c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_93x132.png",
+        "sha256": "9262b636133368a6cda7574c68b141e7fe9fc79aea7d7882d1a9ed72e2068dde"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_95x111.png",
+        "sha256": "8539f43d8db05f543c8db9f28ca8ca0b75db13e5632ab4b41b0efbfe0c092726"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/crazydave/CrazyDave_99x95.png",
+        "sha256": "ededee68d605a9b254f56a85371219e57cc7a1d11f26c775216ae1887f14ba6b"
+      }
+    ]
+  },
+  {
+    "sha256": "10f1cf57a1a1b1fb36a318d4e89f0f548a72ff7f0c289d8fc9990da27fc12614",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/PEASHOOTER.PAM",
+    "images": 37,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/peashooter",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_101x76.png",
+        "sha256": "1f54ba34e4bb956477ac3ac270ef17701ea22f30d1435ccc3dcbaf2bd7636002"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_102x80.png",
+        "sha256": "cc7c39b743e80c8f0cf0c25dc3d9d7c6ba3ad00b4444bf34ad0a6248d0603df2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_11x11.png",
+        "sha256": "9ffa6f7a1d8ec61a27e029df26345e23ff693f0c84f4247e1714eaca28d5687c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_17x7.png",
+        "sha256": "0e1762fb0aeb4d1bc34c54c559af13054bab15b3cc601ef26873786b940a1fa7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_18x20.png",
+        "sha256": "bcb10d9a9107b6744b017702791068dc3a2febec6de1c8aa9542dc3103d7dea7"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_18x30.png",
+        "sha256": "fee45f8c6049df49f76fcb7dcbe24448591cd08a1fd5fda50db0d4fe6ef0f746"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x17.png",
+        "sha256": "45771dafbb9806ceeed45281fd4f9d2dda6604fc238464b4586a6683b921d620"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x17_2.png",
+        "sha256": "7cdbd98811194c1bc34398f597e180465b052e9b92d1f95871b339a733464bfe"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x20.png",
+        "sha256": "d447d15359dd6197d07ec3258787789558602961f56f8eb552ab88a61f0af0fb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x23.png",
+        "sha256": "c9933dda7c9f990a95ad11d8034e25309d34c8932cbca312e49359f4c975f84c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x24.png",
+        "sha256": "8ff02c702bfe2f80d89ca3816e21925bb5042b7c2a518e60965f40a5acdb006e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_21x27.png",
+        "sha256": "8131734c5fe8117ebb89db8ac0cec434bd8f68dd3c12a1e4cd4b7aecaedb9da9"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_22x27.png",
+        "sha256": "18d362edb0161ac9849f175e850dfe8fc9db8f319c4cb0ff8a2115b8acce907a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_23x17.png",
+        "sha256": "4014dc829c451440806db5436482d646f1b51328bfaa1c45bdd5dfe64492672a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_23x21.png",
+        "sha256": "237e330288c5a4124672aca021f70a812081c630fe035d9fdb4ea8df022d2cf0"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_23x23.png",
+        "sha256": "77f73fa59ddbdbeb0bf759f9586b089760397dc27c29e64a39967dd77392e8cb"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_23x43.png",
+        "sha256": "638c2f07d5e8a9ffbd12c778843dd724aa4e68992fd5d79430d2e02f5631651e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_24x19.png",
+        "sha256": "cbf0e797a96efceb737440f4bd065f0aab4592ea9ebb49df0c01cc375868ea29"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_24x33.png",
+        "sha256": "98ca87b99ffa38fc51c8d267378c81968c4d998f06873e67bc40ebc7f20c5dc1"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_26x36.png",
+        "sha256": "458f669700a57f392890ca90c0c1482ceba84c2cf048f44db4f26fc8b6f233a5"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_33x35.png",
+        "sha256": "fb9f8a4eec6ee17b33701ff6057e03c9443298523d27a8fea0eca39b9167d387"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_36x45.png",
+        "sha256": "2e67e62803bac742f687512e93c1f7c56ffcf54f94c2d3eaf78c7aabc0e8c481"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_38x24.png",
+        "sha256": "5c231c51c66a8d3c2ff0dbd18251797f971d0376c56a50ce7729ce6a6334a17a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_46x35.png",
+        "sha256": "c0049925ed24862b12300d2b907d3f22abac1fb80cd73862c47bdfc20b19efac"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_47x41.png",
+        "sha256": "65a2a0c3ae4392ecabf4be5232118ef4c79efc61a1eb2c61d86032b7311eb267"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_49x38.png",
+        "sha256": "2ba3602f0072673b7e7d774fd3cb5f35fa0626aebff3aff63982ecc1e83e163d"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_55x38.png",
+        "sha256": "056c93b906abf8fdfc966bf391ba657af79b3edf27e7e4352dc331f262d20e1c"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_60x44.png",
+        "sha256": "7d73ce50d7b06ce19c36ff210319fce0954d398a32814828b429d0298de05b7a"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_64x39.png",
+        "sha256": "170bac8d32bb412a4ce5e65f0a59eda0f17597c4fa85ba74b3c4979497f45c40"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_69x63.png",
+        "sha256": "496466a40b44d73b01dcda85008c785782bee02f185787c979190e7c0e2f0d32"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_81x36.png",
+        "sha256": "4d10aeab8d3e777f49ef0a0cad4bf5a5beeeb0fdce23e8224f17cf1aef34c443"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_8x16.png",
+        "sha256": "68f81b7e5c444e6a2ea4cc2a5d3cbde9ae17e3b7bffc6332e55cd91b33a8ff6f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_8x8.png",
+        "sha256": "d67a3573f8d5edd4c0cee146d6a8598b1a3568915f724df230b7057759c5f5c6"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_93x68.png",
+        "sha256": "ce511c3a125b711d5d3b5212de856351cb2a9ebbf9ba421f2176f086a1f6e527"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_94x71.png",
+        "sha256": "4f4d15effe715646cfbec3bdff92434217b4a7280e7b9f883d49b3ddd93976e2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_99x74.png",
+        "sha256": "300b169467db5d776d193bdd26d455bafe0df3dea6a84339f8717b2a460a8335"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/peashooter/peashooter_99x88.png",
+        "sha256": "f585fb601f5ed49abcf268fbecd69b80eca264ef2bbfcd4ed0a03040e5ec1cc4"
+      }
+    ]
+  },
+  {
+    "sha256": "95fb6012cdebfe64b7655e6e2f514f19d3a2a2fe1e4a0b6ac538b13e429b3202",
+    "pam_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/SUNFLOWER.PAM",
+    "images": 31,
+    "method": "same-source PNG parts",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_107x90.png",
+        "sha256": "71b5b7cf7cfc91299becad9d44a7a37287bc3268d22c01be0a6ad7204229442c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_10x9.png",
+        "sha256": "8b77a9f5850de01b3c35eca955b204fa467855fd4a747a53b3fad7b5a312f8c5"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_11x10.png",
+        "sha256": "2dc2fb84a0a380463105e950a43e2d78ccf8a101f6373fad9a09c4cf698cba78"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_11x11.png",
+        "sha256": "e1423f221c5e588ae07bd722787fbf8847d33450e55a4f2bc1de985b5d585fdf"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_12x16.png",
+        "sha256": "20f8f8e1404f476d4a058bc07def67c83393bba5fe1e720df50752dea7655448"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_132x115.png",
+        "sha256": "3acaf1b1a4cc15d3f7fd1a6bd4783b227581a45eb9a804ca9f94cb6b48db8f42"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_14x10.png",
+        "sha256": "0068bfdb0a6f454d0d344560ae467245b920f9fef83f9dababc650d423ed76f5"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_15x15.png",
+        "sha256": "c4ab0bbe59628289c3fb5f57f4e16d8ff4231e1c9d5b2200e84b4184bdd1ae7c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_15x8.png",
+        "sha256": "c531aa0c6b48d38ab7080a92583beae82a9a86197b294009e88b586b0955c90b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_17x15.png",
+        "sha256": "f43a90f509b6be1d668ebf9808f5c4ba018d72a94d8b216773a5b68cff916f1f"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_17x17.png",
+        "sha256": "e51b1d10c89758bd5a7c254409b9107364605a24111f3380455582f2d24efc38"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_19x47.png",
+        "sha256": "1ee9109a5e316b9686f9c37ad58edd4e8ab06ec15124f060d1665449b933b20b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_20x16.png",
+        "sha256": "6fa4c154be3160231c44d8b43834861c3d1c1389b14501857b086d46b2ca27bd"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_20x17.png",
+        "sha256": "f49072509f019222cb270b1bfb973ba4d66f70b7682e1b0e651407c45b39e3af"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_20x20.png",
+        "sha256": "c7186782242c1f7d787d58311886c4a606311b03f5bfcfd4b714874a9c7093e2"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_20x7.png",
+        "sha256": "a4cc3738ba7a3d89757fe91a25a535baefd7c52264f5bab27b31b865259fd41e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_26x12.png",
+        "sha256": "06e3a9092eaf13696e0037b378e4c390ceacc65155d6979ed29b7a95946ca376"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_26x15.png",
+        "sha256": "7c19346a49ceff513ee9d09c507fb5868cfef0a34b96a9ba5d108b81a5cb3e76"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_28x15.png",
+        "sha256": "2d8902edbcb355a09fac1e7797f11b80dcc06d36b54cd6a74a7f2daab8c1e9d3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_31x18.png",
+        "sha256": "7e16c8b2b01efd017a045c3f38f82debe35a0d939eef5f785fa028eca7d88da6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_34x19.png",
+        "sha256": "16b6a967ae16d8bb135a85c2505becda491fb5dc6dc8e873d0396cad3e8aa1f0"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_39x35.png",
+        "sha256": "35e01db332159e811de58551b956aaa7f64eb5966e83a15510d650e2025d7de0"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_40x35.png",
+        "sha256": "a43846f7cc8ff6d5dba3e478157f81ac725cebf0e5c230fb5ede38e90b6eaaab"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_46x15.png",
+        "sha256": "3c17b27239283dd9dea54238d0e1bd34b2daae5fe882af03c03ce7bf22716fbc"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_54x13.png",
+        "sha256": "d7a4f595b12adf12f7340ee51b56e018b75c55940a86f1885ba128bdb8476378"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_55x41.png",
+        "sha256": "659a1b14dddcaaac7a782b89d807c3da029d43cbfdafcfc056bcb2b4ffae6c2d"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_6x8.png",
+        "sha256": "4891cab20f8d10e15c30fde00f61609f8372aacac649afb1b315d812881d30d8"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_74x61.png",
+        "sha256": "39b3196a04c231759ac6ea43405a9080894fc3be15d9084f1ddcb2ede0064dc3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_74x61_2.png",
+        "sha256": "4693201cb142b362b6d039121147181139c02f5f090b7e731fb18adfe820c7e1"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_85x36.png",
+        "sha256": "6c7e3e7a6965a0d654931af6c3a610e1a54afec184c2e267bcfc2aa3a2ac8336"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/sunflower/image_plant_sunflower_sunflower_8x11.png",
+        "sha256": "eea94eb04b6ea1ee28acb52ca7f9fabc2f1f26c6fef3bc858860bfbe95c172f6"
+      }
+    ]
+  },
+  {
+    "sha256": "a79536f4e29026d5c799b89db6abe0089b0fccc5fcdf384bf6bd1badbd714f3a",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/SUNSHROOM.PAM",
+    "images": 70,
+    "status": "incomplete",
+    "missing_images": [
+      "sunshroom_27x28|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_27X28",
+      "sunshroom_7x12|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_7X12",
+      "sunshroom_5x6|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_5X6",
+      "sunshroom_10x7|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_10X7",
+      "sunshroom_27x29|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_27X29",
+      "sunshroom_15x25|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_15X25",
+      "sunshroom_22x24|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_22X24",
+      "sunshroom_45x31|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_45X31",
+      "sunshroom_17x15|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_17X15",
+      "sunshroom_8x9|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_8X9",
+      "sunshroom_16x16|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_16X16",
+      "sunshroom_12x10|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_12X10",
+      "sunshroom_8x8|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_8X8",
+      "sunshroom_10x10|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_10X10",
+      "sunshroom_11x16|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_11X16",
+      "sunshroom_19x16|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_19X16",
+      "sunshroom_45x32|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_45X32",
+      "sunshroom_10x8|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_10X8",
+      "sunshroom_13x9|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_13X9",
+      "sunshroom_60x45|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_60X45",
+      "sunshroom_12x8|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_12X8",
+      "sunshroom_9x9|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_9X9",
+      "sunshroom_15x12|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_15X12",
+      "sunshroom_8x6|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_8X6",
+      "sunshroom_21x22|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_21X22",
+      "sunshroom_12x19|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_12X19",
+      "sunshroom_17x19|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_17X19",
+      "sunshroom_7x6|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_7X6",
+      "sunshroom_8x6_2|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_8X6_2",
+      "sunshroom_13x12|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_13X12",
+      "sunshroom_35x36|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_35X36",
+      "sunshroom_17x11|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_17X11",
+      "sunshroom_47x49|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_47X49",
+      "sunshroom_37x39|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_37X39",
+      "sunshroom_20x34|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_20X34",
+      "sunshroom_31x33|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_31X33",
+      "sunshroom_69x47|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_69X47",
+      "sunshroom_24x22|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_24X22",
+      "sunshroom_11x12|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_11X12",
+      "sunshroom_24x23|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_24X23",
+      "sunshroom_13x14|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_13X14",
+      "sunshroom_15x23|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_15X23",
+      "sunshroom_27x23|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_27X23",
+      "sunshroom_69x48|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_69X48",
+      "sunshroom_10x16|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_10X16",
+      "sunshroom_6x8|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_6X8",
+      "sunshroom_20x15|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_20X15",
+      "sunshroom_12x11|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_12X11",
+      "sunshroom_103x76|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_103X76",
+      "sunshroom_51x53|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_51X53",
+      "sunshroom_26x46|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_26X46",
+      "sunshroom_41x45|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_41X45",
+      "sunshroom_18x20|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_18X20",
+      "sunshroom_20x31|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_20X31",
+      "sunshroom_34x33|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_34X33",
+      "sunshroom_26x19|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_26X19",
+      "sunshroom_94x64|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_94X64",
+      "sunshroom_32x29|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_32X29",
+      "sunshroom_36x31|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_36X31",
+      "sunshroom_95x65|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_95X65",
+      "sunshroom_12x21|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_12X21",
+      "sunshroom_7x10|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_7X10",
+      "sunshroom_62x65|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_62X65",
+      "sunshroom_14x16_2|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_14X16_2"
+    ],
+    "reason": "Image mapping incomplete"
+  },
+  {
+    "sha256": "3a1998de7deab8adaacdbca5ec22c9356e0c2c963b1653e3416fd95a3c28ffb3",
+    "pam_path": "reference/pam-resources/jiangnangame-ReadPam-4963af4/example/VASE_BROWN.PAM",
+    "images": 12,
+    "method": "project image resource ID index",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/native-pam-images/vase_brown",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_115x150.png",
+        "sha256": "b170eb5c82bb2d1a6bbcc044c0c0cbe6a87b9b5aa5a87a8233ce23a34af45715"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_115x150_2.png",
+        "sha256": "e623ae22b6181e98f524e0cf5ee8a046f01f9b74d6935f1003445faf9506f108"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_18x20.png",
+        "sha256": "62cb5774b0b7c7042a402c42db4a175a74b85ce770919c5bded9ee00302b680e"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_1x1.png",
+        "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_22x27.png",
+        "sha256": "a916e62da9d1b748ecb1396092b40bbbd0d7b1a27ecc5354ebf62fc1888cfece"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_293x263.png",
+        "sha256": "d152fc6ee61742a3ecf1fda48af00d3d9ddc178051d26faabc5d8c539866c9e2"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_33x41.png",
+        "sha256": "e21491cbd5d971d783c0eb166c6f49e43acf91243e74710019d7d15b829e7898"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_36x48.png",
+        "sha256": "aa0885128106d4157c9239cc851a484117c01f84c26413a846e0636608038942"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_41x57.png",
+        "sha256": "4f0b3f0fcdbb0cd9b6e0c7a84fb9334dc269e5385a96c144207dadc789acea60"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_58x70.png",
+        "sha256": "1626b677fd8cd70c95b85496403328d2cd1a427d208b1917e5cb1e0482dfcc7f"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_68x51.png",
+        "sha256": "f4e9c004545efe686bc76d2f555cddcd61a48c26eeb3798d4cbfd8be4cd587a5"
+      },
+      {
+        "local_path": "reference/pam-resources/native-pam-images/vase_brown/Vase_brown_76x59.png",
+        "sha256": "6b1335d427b7b6fb8733f307e27b222b2a5be091f78d34de33a5389c379ed723"
+      }
+    ]
+  },
+  {
+    "sha256": "b57d7684bc6184af9dec961959f4312aa9d69e77d7fed3fbaa8470de0b388e16",
+    "pam_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe.pam",
+    "images": 34,
+    "method": "same-source PNG parts",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_107x96.png",
+        "sha256": "739b230532e6571b5fe4628c17b8fda023d97559df0611e5004cb0489f67c08c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_108x96.png",
+        "sha256": "8def77cf22bb7042ccec15c4989f25dfd5322e24c021ade1ec093eb931d79119"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_12x18.png",
+        "sha256": "63395611d86a1e1441fdf09b75a8d58e8007633528027696642bcacc8ce6bd20"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_13x14.png",
+        "sha256": "9ef39d976e2118f2ff0979a250ee80d2bb626f9db9b87b46f9efe932c4189dd6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_15x10.png",
+        "sha256": "5264094b4fdf918949db93dc4b3b2fa2d0ac1043356179f669a9aee6f9102e6c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_15x15.png",
+        "sha256": "48bab49a363e4f471aafaa6ddf003814b66b9b7233f041ca6f3ae3d1dd29f871"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_15x25.png",
+        "sha256": "65bcec1482c3d79654fa27b1d1c79b6b1e547e72416692c2ab2d1c389a3a0149"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_15x99.png",
+        "sha256": "bcb2a1e80a33c913e37ca2ea039ea134834bdb3d2a142d711c669a62afc1f1fb"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_16x17.png",
+        "sha256": "fa28cda0cee6f63bdefc46bddbc5e0aa77e805acf0230c1549a7429a06226ecf"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_17x19.png",
+        "sha256": "3425f93611e696914929ad18a0fb3c2ad7e4dea156343e26477f9651202567f7"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_17x27.png",
+        "sha256": "940440d1440402399fcc5b0dbac090e2595ddf7b91154df4a73f11dc1f7c90a5"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_18x9.png",
+        "sha256": "8b996a59f93cc79dc278c8f79c365b884cffb9909f3ac00b7b39b59b0029b88f"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_19x16.png",
+        "sha256": "19254ab551cc9d4d58480fd658febf642f991e4f8924e1dbfba129c43b8ccb58"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_22x24.png",
+        "sha256": "9208c2d70897b7f6a18e3ff9881383b828c6e7b91503f7a2e02f85e48e1417f6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_22x27.png",
+        "sha256": "7d055f6557aeacfe38b6cdf677bfe937b179469434b9c1e5f691b4a8d224b6f3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_23x72.png",
+        "sha256": "e0bc8f0790695b12888c3717ed9984ef4e24945eecc5af68453b29d839b5a2fc"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_34x34.png",
+        "sha256": "45f36fe7467ad47998cd97f316b63ffe114d0dcbe88c3a499a4bc6d0efaf79b5"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_43x39.png",
+        "sha256": "463899897bf9105e6de5b0d21b8ab353a0daef107cccc07be6dc1c64bd75fa4a"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_46x89.png",
+        "sha256": "5f72254072d58dceca296e76f2da2d88e55a60b386200e07b96428065fdc3253"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_49x53.png",
+        "sha256": "319a69835d416a6651b23c42e521174e37e9d8a4892052df3cfcd51acc9d169c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_49x74.png",
+        "sha256": "3432cc9f3c41a05294982af890421083bb59d56143e16a47273b959f0f3bed06"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_53x52.png",
+        "sha256": "0ed72c870e48ceccce6d673d2c59502e272400a898a67df5acf7a83a89363cb9"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_58x104.png",
+        "sha256": "8a6729b71ee48aaba2cc3174ce120fc5b6b1024fc0c3126c8dfc141d1806eab3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_58x97.png",
+        "sha256": "1fe1881fad2fdeb3074da3976b5a07770ca3b775ea95570437e0f58d3475aa60"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_64x64.png",
+        "sha256": "892f06c6d7a758dd70fcec8a064563ede61729b1f8be000ab4133cfbcf130f6b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_64x94.png",
+        "sha256": "f5793d5f1798eb38e327d36558c7ee8a342e3fbdc7968bc553707ccaee58e657"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_66x59.png",
+        "sha256": "c0c9ae0077b55725df6761b4e9089c597c7275948f2b4c6c9dd2ce3f5105d359"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_67x117.png",
+        "sha256": "63620df53e37448419888c2b228ef5b4152eaccca83c568d03f68dbae012e65c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_70x81.png",
+        "sha256": "ce5b9f850db5072d07e9b656f529fcd3fc47ddb445adbf7e5f41a5f9ce7e81a6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_7x8.png",
+        "sha256": "7d91128a8285660ae08f5222e0a3fb4d1b7eaefedda221fa084cc5fdcd7242cd"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_7x8_2.png",
+        "sha256": "29df8d6fbc7ebfaa974f340f12421f9e7d8762a3b9be3453069cca813d35d287"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_82x87.png",
+        "sha256": "1b79da1af2a0e8ed159b978bcb3e3e793519af98688f8c51777bea4ef1d1c08c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_83x48.png",
+        "sha256": "5ff8ab658a97401a60a49729afbcfeabc794a79cf425d4bd0232c7bb521287d7"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/aloe/aloe_85x73.png",
+        "sha256": "e63ca174a22619b337cba8af0802be9b29735b87e01262e4dc8f72b5f3b04eb2"
+      }
+    ]
+  },
+  {
+    "sha256": "9d4b69f1688af70ec430fc7a781f9c99f38363b29ece1d87ebfa436e114ad06a",
+    "pam_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade.pam",
+    "images": 52,
+    "method": "same-source PNG parts",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_11x18.png",
+        "sha256": "dbfb5ead495b72d5475708c08a2f0c0a1f19d3ad9f797855e3cca27c32bef9fe"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_11x9.png",
+        "sha256": "a0391bde8a6b268c72f4900ca97d12c9217bd1ec607fb2075101d8ca78cd021b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_12x19.png",
+        "sha256": "5834edb923c2f43dbc23712d70440b883f3a51c6ee58677a012bd6964c9bd787"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_13x9.png",
+        "sha256": "fa6639e8f4ca7513a47595b71a3dc1814eb8fc9ccde54baca2e01c02bb6d61f0"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_14x12.png",
+        "sha256": "d8f0096a0a58580962606b9f4727772101dfabbde6718f73483d4b3ea2bce668"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_154x48.png",
+        "sha256": "6f2214dfb265c31da7847a1e7a6cf788c88ccaae6b5d02848a469f3b4af07f6a"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_154x48_2.png",
+        "sha256": "4e20878a0707dc1c8e2b593b28135a75b5fbbb776f24b44212d957934b39b99e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_154x55.png",
+        "sha256": "c70aa2072f2085e5ed25ac25f27cf4881f6586d8a1bc457390db2a64a911370f"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_154x55_2.png",
+        "sha256": "bc96f02a1e610bc8c60952cf01ec96845ce076ec23205b8368a6dbcfc58a0a45"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_157x54.png",
+        "sha256": "df634ad3a37924a59bbfb0e2b6e4b87dea40d1d25e0c92e38e673774804c3eeb"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_157x54_2.png",
+        "sha256": "644acfa46b1b04e6b1190b65af266671a6fdd5ca309ca482324020120c1a8576"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_157x60.png",
+        "sha256": "5362055330c91a4048a9291ac8ded1597927bd4d8ebdf8ea4cd5365f95dacd59"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_157x60_2.png",
+        "sha256": "cc420a2266733be8a7e28dffba4f806c46784a34af23f036abeee0534938d87e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_15x7.png",
+        "sha256": "676b855389c3056f78b3b9eb8346f80d9154cc85b0aa3123367ba3f0674ed49f"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_16x15.png",
+        "sha256": "4d48a390cf8441d3fe266572715bdcc2a6b7bedeba79028d0dd3cb3da186b18b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_16x18.png",
+        "sha256": "e342fc6c3c2632ac804375868e4c92d1a218688fb6ac823a0474b0b98fde1511"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_16x19.png",
+        "sha256": "ed853e0c603b3862ce48d022d708c01290e5145a0e92ed5b74996cf572c342c6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_26x21.png",
+        "sha256": "9ba338f5a34ef2e9e9c086c6e2a024e2ee271f61098b13db405ffe9aac783065"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_26x21_2.png",
+        "sha256": "08d6a89a09b4f69009f0c05dd6078c438bbc1221531c79365c5fef9318f6f0c8"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_28x26.png",
+        "sha256": "43031c804aeec3b169de3d08f02b18a21dcdc61c787fb7bff107d4c917111844"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_28x26_2.png",
+        "sha256": "f60ef09f63a27290ae94274611a0154a0aa72f9fcb4448f9cbe48a9cd1ae4011"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_28x27.png",
+        "sha256": "fe426c00fdf0b1cae050ebd929c201db0fbd03ee013189ef32c2853d386efb1e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_28x27_2.png",
+        "sha256": "4457ac2d2ce51a50b87c3443f0bbc94b4796bdb2c6116fec01f146a968859e90"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_31x40.png",
+        "sha256": "eb039e5eeb9743ca30a58b31a3407de283e0ade03aadb8375c577e75fa50dcc4"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_31x40_2.png",
+        "sha256": "0c3df5cd1bb3480cef0dc3cdbb71255f964dcf37cff092d6030d7e36017b4e04"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_35x20.png",
+        "sha256": "e8bc360298934496af2e685471aeca6d9295b3f1d801f526f5428a031d7bfea0"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_35x20_2.png",
+        "sha256": "317373dd637658a12bfa020751f7b1a49c7132c7fa618435d2ac28f85270105b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_38x35.png",
+        "sha256": "01cfccdede6c93c938dd90fc8f9dea3aaec50f2311bea615fd662c6edaa56483"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_38x35_2.png",
+        "sha256": "fe1997e85f008171718e675965eda8eadcea4327a24b81a09076fc2167491f35"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_39x32.png",
+        "sha256": "211eb0773b540930fd2d894288bc2587cd47d5c4fca6becf39040fe1dd0a935c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_39x32_2.png",
+        "sha256": "cfc92f74fecbbe557d7cd142d6979b06639ccf79c9e53c1004fbde88145a7f16"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_40x18.png",
+        "sha256": "1d52972c2625dab9af06dcb7269a23dc4b6dca11ffa9d84a2da5f99b2ba3e702"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_40x18_2.png",
+        "sha256": "1d708ccdeed35c0398dcb2001e2341503317aebc315d570953e20896c696e33e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_40x44.png",
+        "sha256": "5a10ea789699e3403586aa5d3abaf4897566d2ebed71171c04c717e4f4a8a224"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_40x44_2.png",
+        "sha256": "bbced4974192ae3b529752c47f25dcda4b8966c6eec98f7ce91dee12b4373501"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_41x102.png",
+        "sha256": "42f5a20ed0b7d8804b2ee796db8890497dc9c057a150ad5b05dbee1be99b8c7e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_41x102_2.png",
+        "sha256": "d025cbe6d75f6461fcaa99474462b0e1d841967fd8fe709e8d5e4a1cf6961357"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_46x16.png",
+        "sha256": "8e45e60625eb1f90e39a69914224900cfb9ed51cab2ce9c9067e7b56b5782e1a"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_46x16_2.png",
+        "sha256": "867224c20ad831e7b1826fb038753183961ee0dc20754b60222c5c5cee54a8b3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_46x44.png",
+        "sha256": "f633b1791294b406bc639e3b984d0abf4173f26ebac81aa9b18614271367aeef"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_46x44_2.png",
+        "sha256": "9e0127dc2112bd2d3f50af752d01844d4a9b1820ff771a92d8ac729f5aa25035"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_57x73.png",
+        "sha256": "7a250a5cc97f68f9a4b628896c0446b6f89a67821a2fdde20e038ae2f2fbdc90"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_57x73_2.png",
+        "sha256": "514dd7374076196868a03f58d469f6ad8363fb94e189afb7598559c0cac686dc"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_58x32.png",
+        "sha256": "312e9386d2aaea2717dfd2751d6556a6732e534740ead4743748f7c60292e65b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_67x45.png",
+        "sha256": "429773693e0b9c34ad5add4f984a33f67c4921d5546995905b695d01b9fe34d4"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_67x45_2.png",
+        "sha256": "9648e87467f730663c165eadaaaf010238d740d6684972c35208c33a6b60713b"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_67x49.png",
+        "sha256": "f89de2cf1301293e8215867086a4acfe839d3c5c61829b1745d7dcea81b60f8f"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_67x49_2.png",
+        "sha256": "c97f0ae6e2f37020f4231362ea433dd506434f6d2195379e4e00c2f9ba5efeac"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_77x58.png",
+        "sha256": "fbd1cb73db107da0b2b5033580fa8fd56ce7e12207a4b50cf35fe47d2821c5ca"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_77x58_2.png",
+        "sha256": "f67adbfe33b11873cb2dd00a112c7f136997d5a59d8b2358d7653b538b49b8ac"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_93x26.png",
+        "sha256": "fbd86f6203ec4a8f328c8a938d92c709d100cb548f384eea4b86eda9eedb94c4"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/nightshade/nightshade_93x26_2.png",
+        "sha256": "cb129e3fd74f7f0a082512ecd0789026ba13012bb09ef4424fcfe3d403f7e16c"
+      }
+    ]
+  },
+  {
+    "sha256": "0ef2a61e023225f198d9849b4dfb9aea9608a49ea8cd5cfd500b31db3b6d035b",
+    "pam_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut.pam",
+    "images": 35,
+    "method": "same-source PNG parts",
+    "status": "complete",
+    "image_directory": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut",
+    "files": [
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_100x106.png",
+        "sha256": "0eb7620932b2fcc8dd59be45a295d111074ec5646b2e68ce520e1bdc5d9d8f39"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_108x92.png",
+        "sha256": "45222ba06517b1a38b3ba41d908339a69281e64a2b772e827fcc24e9800050bc"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_110x51.png",
+        "sha256": "404442efa76434b67a40bcee0d862f6a0781bc19970d62291bde01da8f2497fc"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_114x134.png",
+        "sha256": "59c616849c10695eb7315580ea02dd225563a379c9c1fcf3433ab40484bfcbce"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_115x75.png",
+        "sha256": "db27584f9fc4ea85838c7c597c22723f3e94f94d7b3b08978ee428a2cda58c24"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_118x61.png",
+        "sha256": "aa7df74d3bc43767fa4e81d53ccb1656ffce01807226f9f2421db6b9a60bf644"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_120x100.png",
+        "sha256": "b26e9fe026e4a4cb8148042b7eb7adb8b64d987ae1a734df520ef11779072bbb"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_120x139.png",
+        "sha256": "4a501f9e807d508160170d33643dfdfad0d72a31046433d3fbbb158fff7cb173"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_13x13.png",
+        "sha256": "34b5795350374bdd8db456a2149e06d155469d0bb469e25c1352237891755c06"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_140x159.png",
+        "sha256": "9bbbc0f9b2c673cb9f2b51310d769972dea05cbe8ec841b7d226bfee45c867cf"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_14x13.png",
+        "sha256": "5f69ed258ecdd9c9c287a2a0bc72b7ea5c050cdbf258db45cb5990567736a0b3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_14x17.png",
+        "sha256": "097a58f99f9023155d5d673421482dbab9a3554d9d330cda4e68d58f8fa5f89e"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_14x18.png",
+        "sha256": "ae3356698d5e06651fdde120149988b31f72eba8a5474094d2d49f7e9526ba81"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_169x187.png",
+        "sha256": "2ed0245a5778bfa3e630e3b8f5244b5741d84e39919ab5bd5275adaace0eecb9"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_17x15.png",
+        "sha256": "2fc24b4c89bf80c7c1cac4731acb33bdb9b9c8a1d8f0b34c273021809c859e7a"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_1x1.png",
+        "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_20x14.png",
+        "sha256": "7f2c618833b85a597c7fd504033d4b5006941ac309261800b715144bf03cd1e6"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_21x13.png",
+        "sha256": "ebdc7b43d9fbcf689f6d474ce6338a3ee2ac652afdb82db9df52a45ae9f0ef57"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_21x17.png",
+        "sha256": "1b254dd3853be22910d923cc7fe58841c06a32a38e6eaf0177263b3c418a0dd7"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_22x19.png",
+        "sha256": "3ab01b337e2b529f9bd822e83c511247ff1e39ab6d5e474d401f486dbd2bee13"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_31x35.png",
+        "sha256": "35b68297f30d118341d42d0fd3e9cee76a4f1813d9279e5af15c41ba71fc204c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_33x20.png",
+        "sha256": "c9a21b405e4fac5249db391317b6e566cde2decb50000f9fbe2f9119aeb25913"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_34x33.png",
+        "sha256": "99b287bec4daf4c1fd66065ab70676c0059826f11b0fbe42b553812726d04446"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_34x33_2.png",
+        "sha256": "2330ea82adf0ef2bbd807a832d75245ffb4ad411d3db3fe18fe821bdf161f2c5"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_35x33.png",
+        "sha256": "7b9637074b50058832374fee49c81a640efba57354912b37fd8d6ce21c970bb9"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_40x111.png",
+        "sha256": "93d30a2f31a6cc7cc957894c5dde82ce011bf2008c76d4435ae95123b5298747"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_50x33.png",
+        "sha256": "fb952f6ce8dbf12b70bd3d32ceaa5f4ce5a654b4de11da35e1d67cc9c2ce837d"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_54x33.png",
+        "sha256": "8361f73f974b20665b5de50005d570ac23b53b00c629f281c3aad964891b98e2"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_55x60.png",
+        "sha256": "bc0e4c839cc7a03a6e5064f7fe7881ae37f6f90357a5a2f1b0ebee57da492cfd"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_56x38.png",
+        "sha256": "0063197939919d7e9644b02cd7ded51f6f857ddbb7836222ca60d65f5a572472"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_70x137.png",
+        "sha256": "ee2a5e0c9da3228cf259df34832a095a6b7de9557c4f613137521034476c2dc3"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_93x127.png",
+        "sha256": "f658295a7e08ab495b2353f9e13fb0d613bfecf3dfd54a0291f65bc00876c04c"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_93x135.png",
+        "sha256": "c86b09fdca9e23d6dbba810cf61285bf04fa6c8ae84d8246a9a7c4d234bba1db"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_93x135_2.png",
+        "sha256": "d1baa4fe898863b54c8ace958c80c7dbbb7980f1dbae29937b9f452eabe3ef53"
+      },
+      {
+        "local_path": "reference/pam-resources/lambdaed1th-pam-codec-2badec2/sample/wallnut/wallnut_93x135_3.png",
+        "sha256": "15ae0be0610b929c87756fc7b6c5548c5dc7393a7ef33024bf5be89713e4a26e"
+      }
+    ]
+  }
+]

@@ -16,4 +16,6 @@ node scripts/convert_pam.mjs --worker-dir TOOL_CACHE/worker --input INPUT.pam --
 
 输出 `*.pam.json`、`*.compiled.json`、`*.conversion.json`。WASM 的 `load` 已完成二进制解码和增量时间轴编译，Godot 使用 compiled 数据。
 
+批量只做资源盘点：`node Tools/inspect_pam_library.mjs --input-list reference/pam-resources/native-pam-paths.json --output reference/pam-resources/native-pam-inspection.json`。输入是仓库相对 PAM 路径的 JSON 数组，输出哈希、图片引用、帧数、动作标签和命令；仍使用同一 WASM，不写出全部 compiled。现有文件与配图状态可用 `python -X utf8 Tools/animation_library.py --query 名字 --format pam` 查找。
+
 实际遇阻：WASM 返回的 BigInt 使 JSON.stringify 报错；转换脚本已在安全整数范围内转为 Number。

@@ -39,6 +39,7 @@ reference/dragonbones-tooling/compiler/node_modules/
 !/reference/pam-tooling/
 !/reference/dragonbones-tooling/
 !/reference/world-map/
+!/reference/image-library/
 /reference/**/*.zip
 /reference/**/*.tgz
 /reference/**/.cache/

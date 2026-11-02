@@ -1,0 +1,821 @@
+{
+  "mapped": 37,
+  "indexed": 37,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "peashooter_38x24|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_38X24",
+      "file": "peashooter_38x24.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029777_images_1536_initial_plant_peashooter_peashooter_38x24.png",
+      "sha256": "5c231c51c66a8d3c2ff0dbd18251797f971d0376c56a50ce7729ce6a6334a17a",
+      "logical_size": [
+        38,
+        24
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029777_images_1536_initial_plant_peashooter_peashooter_38x24.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_38x24",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_38X24",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "49",
+          "height": "31"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_23x43|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X43",
+      "file": "peashooter_23x43.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029771_images_1536_initial_plant_peashooter_peashooter_23x43.png",
+      "sha256": "638c2f07d5e8a9ffbd12c778843dd724aa4e68992fd5d79430d2e02f5631651e",
+      "logical_size": [
+        23,
+        43
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029771_images_1536_initial_plant_peashooter_peashooter_23x43.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_23x43",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X43",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "30",
+          "height": "55"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_24x19|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_24X19",
+      "file": "peashooter_24x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029772_images_1536_initial_plant_peashooter_peashooter_24x19.png",
+      "sha256": "cbf0e797a96efceb737440f4bd065f0aab4592ea9ebb49df0c01cc375868ea29",
+      "logical_size": [
+        24,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029772_images_1536_initial_plant_peashooter_peashooter_24x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_24x19",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_24X19",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "31",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_24x33|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_24X33",
+      "file": "peashooter_24x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029773_images_1536_initial_plant_peashooter_peashooter_24x33.png",
+      "sha256": "98ca87b99ffa38fc51c8d267378c81968c4d998f06873e67bc40ebc7f20c5dc1",
+      "logical_size": [
+        24,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029773_images_1536_initial_plant_peashooter_peashooter_24x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_24x33",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_24X33",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "31",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x17|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X17",
+      "file": "peashooter_21x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029761_images_1536_initial_plant_peashooter_peashooter_21x17.png",
+      "sha256": "45771dafbb9806ceeed45281fd4f9d2dda6604fc238464b4586a6683b921d620",
+      "logical_size": [
+        21,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029761_images_1536_initial_plant_peashooter_peashooter_21x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x17",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X17",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_69x63|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_69X63",
+      "file": "peashooter_69x63.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029784_images_1536_initial_plant_peashooter_peashooter_69x63.png",
+      "sha256": "496466a40b44d73b01dcda85008c785782bee02f185787c979190e7c0e2f0d32",
+      "logical_size": [
+        69,
+        63
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029784_images_1536_initial_plant_peashooter_peashooter_69x63.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_69x63",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_69X63",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "89",
+          "height": "81"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_93x68|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_93X68",
+      "file": "peashooter_93x68.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029788_images_1536_initial_plant_peashooter_peashooter_93x68.png",
+      "sha256": "ce511c3a125b711d5d3b5212de856351cb2a9ebbf9ba421f2176f086a1f6e527",
+      "logical_size": [
+        93,
+        68
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029788_images_1536_initial_plant_peashooter_peashooter_93x68.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_93x68",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_93X68",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "119",
+          "height": "87"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_49x38|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_49X38",
+      "file": "peashooter_49x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029780_images_1536_initial_plant_peashooter_peashooter_49x38.png",
+      "sha256": "2ba3602f0072673b7e7d774fd3cb5f35fa0626aebff3aff63982ecc1e83e163d",
+      "logical_size": [
+        49,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029780_images_1536_initial_plant_peashooter_peashooter_49x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_49x38",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_49X38",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "63",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_64x39|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_64X39",
+      "file": "peashooter_64x39.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029783_images_1536_initial_plant_peashooter_peashooter_64x39.png",
+      "sha256": "170bac8d32bb412a4ce5e65f0a59eda0f17597c4fa85ba74b3c4979497f45c40",
+      "logical_size": [
+        64,
+        39
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029783_images_1536_initial_plant_peashooter_peashooter_64x39.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_64x39",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_64X39",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "82",
+          "height": "50"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_47x41|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_47X41",
+      "file": "peashooter_47x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029779_images_1536_initial_plant_peashooter_peashooter_47x41.png",
+      "sha256": "65a2a0c3ae4392ecabf4be5232118ef4c79efc61a1eb2c61d86032b7311eb267",
+      "logical_size": [
+        47,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029779_images_1536_initial_plant_peashooter_peashooter_47x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_47x41",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_47X41",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "60",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_46x35|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_46X35",
+      "file": "peashooter_46x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029778_images_1536_initial_plant_peashooter_peashooter_46x35.png",
+      "sha256": "c0049925ed24862b12300d2b907d3f22abac1fb80cd73862c47bdfc20b19efac",
+      "logical_size": [
+        46,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029778_images_1536_initial_plant_peashooter_peashooter_46x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_46x35",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_46X35",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "59",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_94x71|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_94X71",
+      "file": "peashooter_94x71.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029789_images_1536_initial_plant_peashooter_peashooter_94x71.png",
+      "sha256": "4f4d15effe715646cfbec3bdff92434217b4a7280e7b9f883d49b3ddd93976e2",
+      "logical_size": [
+        94,
+        71
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029789_images_1536_initial_plant_peashooter_peashooter_94x71.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_94x71",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_94X71",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "121",
+          "height": "91"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_102x80|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_102X80",
+      "file": "peashooter_102x80.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029756_images_1536_initial_plant_peashooter_peashooter_102x80.png",
+      "sha256": "cc7c39b743e80c8f0cf0c25dc3d9d7c6ba3ad00b4444bf34ad0a6248d0603df2",
+      "logical_size": [
+        102,
+        80
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029756_images_1536_initial_plant_peashooter_peashooter_102x80.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_102x80",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_102X80",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "131",
+          "height": "103"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_99x88|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_99X88",
+      "file": "peashooter_99x88.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029791_images_1536_initial_plant_peashooter_peashooter_99x88.png",
+      "sha256": "f585fb601f5ed49abcf268fbecd69b80eca264ef2bbfcd4ed0a03040e5ec1cc4",
+      "logical_size": [
+        99,
+        88
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029791_images_1536_initial_plant_peashooter_peashooter_99x88.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_99x88",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_99X88",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "127",
+          "height": "113"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_18x20|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_18X20",
+      "file": "peashooter_18x20.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029759_images_1536_initial_plant_peashooter_peashooter_18x20.png",
+      "sha256": "bcb10d9a9107b6744b017702791068dc3a2febec6de1c8aa9542dc3103d7dea7",
+      "logical_size": [
+        18,
+        20
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029759_images_1536_initial_plant_peashooter_peashooter_18x20.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_18x20",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_18X20",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "23",
+          "height": "26"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_36x45|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_36X45",
+      "file": "peashooter_36x45.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029776_images_1536_initial_plant_peashooter_peashooter_36x45.png",
+      "sha256": "2e67e62803bac742f687512e93c1f7c56ffcf54f94c2d3eaf78c7aabc0e8c481",
+      "logical_size": [
+        36,
+        45
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029776_images_1536_initial_plant_peashooter_peashooter_36x45.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_36x45",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_36X45",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "46",
+          "height": "58"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_26x36|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_26X36",
+      "file": "peashooter_26x36.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029774_images_1536_initial_plant_peashooter_peashooter_26x36.png",
+      "sha256": "458f669700a57f392890ca90c0c1482ceba84c2cf048f44db4f26fc8b6f233a5",
+      "logical_size": [
+        26,
+        36
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029774_images_1536_initial_plant_peashooter_peashooter_26x36.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_26x36",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_26X36",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "34",
+          "height": "46"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_8x8|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_8X8",
+      "file": "peashooter_8x8.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029786_images_1536_initial_plant_peashooter_peashooter_8x8.png",
+      "sha256": "d67a3573f8d5edd4c0cee146d6a8598b1a3568915f724df230b7057759c5f5c6",
+      "logical_size": [
+        8,
+        8
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029786_images_1536_initial_plant_peashooter_peashooter_8x8.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_8x8",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_8X8",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "10",
+          "height": "10"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_23x23|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X23",
+      "file": "peashooter_23x23.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029770_images_1536_initial_plant_peashooter_peashooter_23x23.png",
+      "sha256": "77f73fa59ddbdbeb0bf759f9586b089760397dc27c29e64a39967dd77392e8cb",
+      "logical_size": [
+        23,
+        23
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029770_images_1536_initial_plant_peashooter_peashooter_23x23.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_23x23",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X23",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "30",
+          "height": "30"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_8x16|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_8X16",
+      "file": "peashooter_8x16.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029787_images_1536_initial_plant_peashooter_peashooter_8x16.png",
+      "sha256": "68f81b7e5c444e6a2ea4cc2a5d3cbde9ae17e3b7bffc6332e55cd91b33a8ff6f",
+      "logical_size": [
+        8,
+        16
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029787_images_1536_initial_plant_peashooter_peashooter_8x16.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_8x16",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_8X16",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "10",
+          "height": "21"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x23|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X23",
+      "file": "peashooter_21x23.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029764_images_1536_initial_plant_peashooter_peashooter_21x23.png",
+      "sha256": "c9933dda7c9f990a95ad11d8034e25309d34c8932cbca312e49359f4c975f84c",
+      "logical_size": [
+        21,
+        23
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029764_images_1536_initial_plant_peashooter_peashooter_21x23.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x23",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X23",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "30"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_11x11|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_11X11",
+      "file": "peashooter_11x11.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029757_images_1536_initial_plant_peashooter_peashooter_11x11.png",
+      "sha256": "9ffa6f7a1d8ec61a27e029df26345e23ff693f0c84f4247e1714eaca28d5687c",
+      "logical_size": [
+        11,
+        11
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029757_images_1536_initial_plant_peashooter_peashooter_11x11.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_11x11",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_11X11",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "14",
+          "height": "14"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_33x35|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_33X35",
+      "file": "peashooter_33x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029775_images_1536_initial_plant_peashooter_peashooter_33x35.png",
+      "sha256": "fb9f8a4eec6ee17b33701ff6057e03c9443298523d27a8fea0eca39b9167d387",
+      "logical_size": [
+        33,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029775_images_1536_initial_plant_peashooter_peashooter_33x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_33x35",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_33X35",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "42",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x20|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X20",
+      "file": "peashooter_21x20.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029763_images_1536_initial_plant_peashooter_peashooter_21x20.png",
+      "sha256": "d447d15359dd6197d07ec3258787789558602961f56f8eb552ab88a61f0af0fb",
+      "logical_size": [
+        21,
+        20
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029763_images_1536_initial_plant_peashooter_peashooter_21x20.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x20",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X20",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "26"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_23x17|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X17",
+      "file": "peashooter_23x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029768_images_1536_initial_plant_peashooter_peashooter_23x17.png",
+      "sha256": "4014dc829c451440806db5436482d646f1b51328bfaa1c45bdd5dfe64492672a",
+      "logical_size": [
+        23,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029768_images_1536_initial_plant_peashooter_peashooter_23x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_23x17",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X17",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "30",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x17_2|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X17_2",
+      "file": "peashooter_21x17_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029762_images_1536_initial_plant_peashooter_peashooter_21x17_2.png",
+      "sha256": "7cdbd98811194c1bc34398f597e180465b052e9b92d1f95871b339a733464bfe",
+      "logical_size": [
+        21,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029762_images_1536_initial_plant_peashooter_peashooter_21x17_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x17_2",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X17_2",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_17x7|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_17X7",
+      "file": "peashooter_17x7.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029758_images_1536_initial_plant_peashooter_peashooter_17x7.png",
+      "sha256": "0e1762fb0aeb4d1bc34c54c559af13054bab15b3cc601ef26873786b940a1fa7",
+      "logical_size": [
+        17,
+        7
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029758_images_1536_initial_plant_peashooter_peashooter_17x7.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_17x7",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_17X7",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "22",
+          "height": "9"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_81x36|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_81X36",
+      "file": "peashooter_81x36.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029785_images_1536_initial_plant_peashooter_peashooter_81x36.png",
+      "sha256": "4d10aeab8d3e777f49ef0a0cad4bf5a5beeeb0fdce23e8224f17cf1aef34c443",
+      "logical_size": [
+        81,
+        36
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029785_images_1536_initial_plant_peashooter_peashooter_81x36.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_81x36",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_81X36",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "104",
+          "height": "46"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_23x21|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X21",
+      "file": "peashooter_23x21.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029769_images_1536_initial_plant_peashooter_peashooter_23x21.png",
+      "sha256": "237e330288c5a4124672aca021f70a812081c630fe035d9fdb4ea8df022d2cf0",
+      "logical_size": [
+        23,
+        21
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029769_images_1536_initial_plant_peashooter_peashooter_23x21.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_23x21",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_23X21",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "30",
+          "height": "27"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_60x44|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_60X44",
+      "file": "peashooter_60x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029782_images_1536_initial_plant_peashooter_peashooter_60x44.png",
+      "sha256": "7d73ce50d7b06ce19c36ff210319fce0954d398a32814828b429d0298de05b7a",
+      "logical_size": [
+        60,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029782_images_1536_initial_plant_peashooter_peashooter_60x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_60x44",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_60X44",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "77",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_18x30|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_18X30",
+      "file": "peashooter_18x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029760_images_1536_initial_plant_peashooter_peashooter_18x30.png",
+      "sha256": "fee45f8c6049df49f76fcb7dcbe24448591cd08a1fd5fda50db0d4fe6ef0f746",
+      "logical_size": [
+        18,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029760_images_1536_initial_plant_peashooter_peashooter_18x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_18x30",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_18X30",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "23",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_99x74|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_99X74",
+      "file": "peashooter_99x74.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029790_images_1536_initial_plant_peashooter_peashooter_99x74.png",
+      "sha256": "300b169467db5d776d193bdd26d455bafe0df3dea6a84339f8717b2a460a8335",
+      "logical_size": [
+        99,
+        74
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029790_images_1536_initial_plant_peashooter_peashooter_99x74.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_99x74",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_99X74",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "127",
+          "height": "95"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_55x38|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_55X38",
+      "file": "peashooter_55x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029781_images_1536_initial_plant_peashooter_peashooter_55x38.png",
+      "sha256": "056c93b906abf8fdfc966bf391ba657af79b3edf27e7e4352dc331f262d20e1c",
+      "logical_size": [
+        55,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029781_images_1536_initial_plant_peashooter_peashooter_55x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_55x38",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_55X38",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "71",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_101x76|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_101X76",
+      "file": "peashooter_101x76.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029755_images_1536_initial_plant_peashooter_peashooter_101x76.png",
+      "sha256": "1f54ba34e4bb956477ac3ac270ef17701ea22f30d1435ccc3dcbaf2bd7636002",
+      "logical_size": [
+        101,
+        76
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029755_images_1536_initial_plant_peashooter_peashooter_101x76.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_101x76",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_101X76",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "130",
+          "height": "98"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x27|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X27",
+      "file": "peashooter_21x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029766_images_1536_initial_plant_peashooter_peashooter_21x27.png",
+      "sha256": "8131734c5fe8117ebb89db8ac0cec434bd8f68dd3c12a1e4cd4b7aecaedb9da9",
+      "logical_size": [
+        21,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029766_images_1536_initial_plant_peashooter_peashooter_21x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x27",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X27",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_22x27|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_22X27",
+      "file": "peashooter_22x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029767_images_1536_initial_plant_peashooter_peashooter_22x27.png",
+      "sha256": "18d362edb0161ac9849f175e850dfe8fc9db8f319c4cb0ff8a2115b8acce907a",
+      "logical_size": [
+        22,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029767_images_1536_initial_plant_peashooter_peashooter_22x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_22x27",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_22X27",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "28",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "peashooter_21x24|IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X24",
+      "file": "peashooter_21x24.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_029765_images_1536_initial_plant_peashooter_peashooter_21x24.png",
+      "sha256": "8ff02c702bfe2f80d89ca3816e21925bb5042b7c2a518e60965f40a5acdb006e",
+      "logical_size": [
+        21,
+        24
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_029765_images_1536_initial_plant_peashooter_peashooter_21x24.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\peashooter\\peashooter_21x24",
+          "resource_id": "IMAGE_PLANT_PEASHOOTER_PEASHOOTER_21X24",
+          "atlas": "ATLASES/PLANTPEASHOOTER_1536_00.PTX",
+          "width": "27",
+          "height": "31"
+        }
+      }
+    }
+  ]
+}
