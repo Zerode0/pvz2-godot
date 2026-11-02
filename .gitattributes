@@ -21,3 +21,9 @@
 *.PAM binary
 *.pam binary
 *.wasm binary
+*.gz binary
+
+# Preserve upstream animation bytes for recorded source SHA-256 values.
+reference/pam-resources/pvzge-actors-462f116/skeletons/*.json -text
+reference/pam-resources/pvzge-actors-462f116/atlases/*.json -text
+reference/pam-resources/jiangnangame-Gekota-e567741/fail_example/*.ImageConfig.json -text
