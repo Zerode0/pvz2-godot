@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "records": 87653,
+  "categories": {
+    "界面": 7170,
+    "特效": 19620,
+    "道具与NPC": 3265,
+    "地图与场景": 4966,
+    "僵尸": 26884,
+    "植物": 25748
+  },
+  "catalog_sha256": "1875121bce2b09f60ec1bb8902ca09f2708ed3c5492c04b586a5563c4ff72b7e",
+  "catalog_compressed_sha256": "f001613d73c445eefac7f749971f96ea2a45709225fd75bc3827e4270c7eceb6",
+  "original_images_included": false,
+  "original_path_base": "repository root"
+}

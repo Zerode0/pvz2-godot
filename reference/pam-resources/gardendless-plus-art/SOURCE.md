@@ -1,17 +1,16 @@
-# PvZ2 animation JSON reference files
+# PvZ2 DragonBones animation reference files
 
-Source: [MacksPVZ2-Again — Art](https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/tree/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c)
+Source: [PVZ2 Gardendless Plus Art](https://github.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art)
 Pinned revision: `ecbcf8bf50d7a72fe47d744958b66ace1144ad0c`
-Retrieved: 2026-10-31
+Retrieved: 2026-11-01
 
-This is extracted art from the PvZ2 Gardendless build, not original `.PAM` files. Its `skeleton.json` files are DragonBones 5.5 animation data converted from the PVZGE build, and are a directly inspectable JSON alternative. They are useful for examining bone/slot structure and animation timing, but require conversion/adaptation to the project's rig pipeline. The repository README says the artwork belongs to PopCap/EA and is included for development reference; see its `COPYRIGHT.md` before redistribution.
+These are DragonBones 5.5 JSON skeletons converted from the Gardendless build, not original PopCap `.PAM` files. The repository contains hundreds of character rigs. This local selection contains 18 common characters; see [selection.json](selection.json) for per-file source URLs, SHA-256 hashes and animation names. The broader, correctly texture-linked runtime export is in [../pvzge-actors-462f116/SOURCE.md](../pvzge-actors-462f116/SOURCE.md).
 
-| Entity | Files | Listed animations | Atlas texture |
-|---|---|---|---|
-| Basic zombie | `zombies_BasicZOMBIE/skeleton.json`, `atlas.json` | Idle, Eat, Death, Walk | `_textures/e5e6e663-06a3-4ff8-a2ae-b5a35e821ed5.png` (1024x512) |
+| Group | Selected rigs |
+|---|---|
+| Plants (11) | Peashooter, Sunflower, Wall-nut, Potato Mine, Cherry Bomb, Repeater, Snow Pea, Torchwood, Cabbage-pult, Chomper, Bonk Choy |
+| Zombies (7) | Basic, Basic Flag, Imp, Gargantuar, Ancient Egypt Basic, Pirate Basic, Modern Newspaper |
 
-Direct source paths at the pinned revision:
+Each selected rig has `skeleton.json` and `atlas.json`. The atlas JSON gives region coordinates but does not identify the correct PNG reliably. The repository snapshot's existing `_textures/` includes the documented Basic zombie texture (`e5e6e663-06a3-4ff8-a2ae-b5a35e821ed5.png`, 1024x512). This selection preserves the Art snapshot; use the runtime export catalog for verified texture links and prefab assembly. The full research summary is in [../../../docs/动画资源库.md](../../../docs/动画资源库.md).
 
-- [Basic zombie skeleton JSON](https://raw.githubusercontent.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicZOMBIE/skeleton.json)
-- [Basic zombie atlas JSON](https://raw.githubusercontent.com/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/zombies_BasicZOMBIE/atlas.json)
-- [Basic zombie texture atlas](https://media.githubusercontent.com/media/PVZ2-Gardendless-Plus-Team/PlantsVsZombies2GardendlessPlus.Art/ecbcf8bf50d7a72fe47d744958b66ace1144ad0c/_textures/e5e6e663-06a3-4ff8-a2ae-b5a35e821ed5.png)
+The repository README attributes the artwork to PopCap/EA and includes it as development reference. The repository's code license does not establish permission to redistribute game artwork; review its `COPYRIGHT.md` before any redistribution.

@@ -1,0 +1,1745 @@
+{
+  "mapped": 79,
+  "indexed": 79,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "CrazyDave_259x108|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_259X108",
+      "file": "CrazyDave_259x108.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005617_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_259x108.png",
+      "sha256": "fbbd3f61089e347c106f9061f003054ae6836dbeff286912b5bf621c15a424d8",
+      "logical_size": [
+        259,
+        108
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005617_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_259x108.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_259x108",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_259X108",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "332",
+          "height": "138"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_153x220|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_153X220",
+      "file": "CrazyDave_153x220.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005607_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_153x220.png",
+      "sha256": "c9d256bf96cde21ac522f010de4124f43a23bc0c4b14292741dd8713a2521893",
+      "logical_size": [
+        153,
+        220
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005607_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_153x220.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_153x220",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_153X220",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "196",
+          "height": "282"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_293x254|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_293X254",
+      "file": "CrazyDave_293x254.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005623_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_293x254.png",
+      "sha256": "a46d92bcd62882ccd0e1b2c275b1d395e9d5758f9c45b351302e4825fdc1db96",
+      "logical_size": [
+        293,
+        254
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005623_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_293x254.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_293x254",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_293X254",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "375",
+          "height": "325"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_370x186|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_370X186",
+      "file": "CrazyDave_370x186.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005628_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_370x186.png",
+      "sha256": "ccec34cdfebad4315a12019645c8f14b80287830f90950402af7cc36c2d0b23a",
+      "logical_size": [
+        370,
+        186
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005628_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_370x186.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_370x186",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_370X186",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "474",
+          "height": "238"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_262x127|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_262X127",
+      "file": "CrazyDave_262x127.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005618_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_262x127.png",
+      "sha256": "ce0d3f41591a11acf9fb0abd286bab27f68811543527068cbbc05a05c8051f45",
+      "logical_size": [
+        262,
+        127
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005618_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_262x127.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_262x127",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_262X127",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "336",
+          "height": "163"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_187x238|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_187X238",
+      "file": "CrazyDave_187x238.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005610_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_187x238.png",
+      "sha256": "4b2e2c98b9ee924fce2008b1260572cfc54fbadbdfaa86ecd7e3757cfdfed1af",
+      "logical_size": [
+        187,
+        238
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005610_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_187x238.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_187x238",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_187X238",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "240",
+          "height": "305"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_280x269|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_280X269",
+      "file": "CrazyDave_280x269.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005620_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_280x269.png",
+      "sha256": "643048f0f260701fe87f4fddeb2b07abd5bb2cdfc82afffdf998011a3856a8ad",
+      "logical_size": [
+        280,
+        269
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005620_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_280x269.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_280x269",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_280X269",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "359",
+          "height": "345"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_136x312|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_136X312",
+      "file": "CrazyDave_136x312.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005601_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_136x312.png",
+      "sha256": "74f44106a9f46c59266689aa83546af9860a6d823665ceb50bc00c74e2fe2af7",
+      "logical_size": [
+        136,
+        312
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005601_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_136x312.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_136x312",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_136X312",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "174",
+          "height": "400"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_425x564|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_425X564",
+      "file": "CrazyDave_425x564.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005635_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_425x564.png",
+      "sha256": "13fcf4234eb630a81a14b723123eec3085cfe74c05a80769571389222c47a453",
+      "logical_size": [
+        425,
+        564
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005635_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_425x564.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_425x564",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_425X564",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "544",
+          "height": "722"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_120x121|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_120X121",
+      "file": "CrazyDave_120x121.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005598_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_120x121.png",
+      "sha256": "3bd557f556ca1d4326c73931b9bbba26e87f8c100d99e3a6812964aa373e975b",
+      "logical_size": [
+        120,
+        121
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005598_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_120x121.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_120x121",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_120X121",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "154",
+          "height": "155"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_51x107|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_51X107",
+      "file": "CrazyDave_51x107.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005641_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_51x107.png",
+      "sha256": "8a5bde1be90ed00240b0703c118cab77b024c9ab03f6a2de940f4adbe1069a47",
+      "logical_size": [
+        51,
+        107
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005641_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_51x107.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_51x107",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_51X107",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "66",
+          "height": "137"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_60x103|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_60X103",
+      "file": "CrazyDave_60x103.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005648_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_60x103.png",
+      "sha256": "9c01bfe9e3292775dfba71ba84f84c84880d86a6f734f868b2f3e2359c6a6ba6",
+      "logical_size": [
+        60,
+        103
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005648_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_60x103.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_60x103",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_60X103",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "77",
+          "height": "132"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_59x98|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_59X98",
+      "file": "CrazyDave_59x98.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005647_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_59x98.png",
+      "sha256": "041f7ad4b67c59a23c7d24f3a3b23de2c288bbe9b22a18b384eb906bca8e7c09",
+      "logical_size": [
+        59,
+        98
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005647_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_59x98.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_59x98",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_59X98",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "76",
+          "height": "126"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_53x96|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_53X96",
+      "file": "CrazyDave_53x96.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005643_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_53x96.png",
+      "sha256": "f04dd8813724f54f95a287f836e91aab7bd2b88c92a48c4ddd4bfc3a12d75e82",
+      "logical_size": [
+        53,
+        96
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005643_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_53x96.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_53x96",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_53X96",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "68",
+          "height": "123"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_79x83|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_79X83",
+      "file": "CrazyDave_79x83.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005669_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_79x83.png",
+      "sha256": "f536e4244c47a9e7a66581554e7bc7628e31c37b3bea599222d8435a380fef7c",
+      "logical_size": [
+        79,
+        83
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005669_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_79x83.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_79x83",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_79X83",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "101",
+          "height": "106"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_99x95|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_99X95",
+      "file": "CrazyDave_99x95.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005672_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_99x95.png",
+      "sha256": "ededee68d605a9b254f56a85371219e57cc7a1d11f26c775216ae1887f14ba6b",
+      "logical_size": [
+        99,
+        95
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005672_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_99x95.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_99x95",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_99X95",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "127",
+          "height": "122"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_184x327|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_184X327",
+      "file": "CrazyDave_184x327.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005609_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_184x327.png",
+      "sha256": "12fce84b96fcc60383279b799f682121e4f49fc9b016b663c585e18e12dcf319",
+      "logical_size": [
+        184,
+        327
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005609_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_184x327.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_184x327",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_184X327",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "236",
+          "height": "419"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_208x149|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_208X149",
+      "file": "CrazyDave_208x149.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005613_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_208x149.png",
+      "sha256": "ce66788180a20161a9415b62ac37d227a07d4a217c890d14bc4a60e1b8c594ec",
+      "logical_size": [
+        208,
+        149
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005613_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_208x149.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_208x149",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_208X149",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "266",
+          "height": "191"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_93x132|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_93X132",
+      "file": "CrazyDave_93x132.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005670_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_93x132.png",
+      "sha256": "9262b636133368a6cda7574c68b141e7fe9fc79aea7d7882d1a9ed72e2068dde",
+      "logical_size": [
+        93,
+        132
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005670_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_93x132.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_93x132",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_93X132",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "119",
+          "height": "169"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_61x54|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X54",
+      "file": "CrazyDave_61x54.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005651_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x54.png",
+      "sha256": "0877d5314bcc8019f62d1d00d8e6f0d2068e35a342246e25eb49c992d4317ac1",
+      "logical_size": [
+        61,
+        54
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005651_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x54.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_61x54",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X54",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "78",
+          "height": "69"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_40x53|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_40X53",
+      "file": "CrazyDave_40x53.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005632_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_40x53.png",
+      "sha256": "c6b33e5c8e09b50957d20c98c4a095352346d7e379e5526fa5ee70b26e88aefb",
+      "logical_size": [
+        40,
+        53
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005632_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_40x53.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_40x53",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_40X53",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "51",
+          "height": "68"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_63x41|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_63X41",
+      "file": "CrazyDave_63x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005653_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_63x41.png",
+      "sha256": "145ec9608172c26a9c2db32d438313297503837b86812f2cc8dfe666f1dc5afe",
+      "logical_size": [
+        63,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005653_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_63x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_63x41",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_63X41",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "81",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_65x54|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_65X54",
+      "file": "CrazyDave_65x54.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005657_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_65x54.png",
+      "sha256": "683ff49739ec371f8b9d9e14b0b6d1433796b71163c4a83cbe90c4c2663bbcd6",
+      "logical_size": [
+        65,
+        54
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005657_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_65x54.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_65x54",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_65X54",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "83",
+          "height": "69"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_66x41|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X41",
+      "file": "CrazyDave_66x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005658_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x41.png",
+      "sha256": "aa5c699b32da1df149c4a5155c0647848b223fdf55ceec6c19986c8fdef34daf",
+      "logical_size": [
+        66,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005658_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_66x41",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X41",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "85",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_61x53|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X53",
+      "file": "CrazyDave_61x53.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005650_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x53.png",
+      "sha256": "443f1cfa619fe7a5b01578899bba451cf4ee2322f7df60c5453a487d982e4952",
+      "logical_size": [
+        61,
+        53
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005650_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x53.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_61x53",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X53",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "78",
+          "height": "68"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_52x51|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_52X51",
+      "file": "CrazyDave_52x51.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005642_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_52x51.png",
+      "sha256": "84b01a84fd17e2c92223b73218fe3e973f3ace67baf935f1de088e649d7144f2",
+      "logical_size": [
+        52,
+        51
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005642_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_52x51.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_52x51",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_52X51",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "67",
+          "height": "66"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_59x43|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_59X43",
+      "file": "CrazyDave_59x43.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005646_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_59x43.png",
+      "sha256": "73e16ad1efa981b43c3473caf4e2e0f1391e968c854579f96fb75659e0671b0b",
+      "logical_size": [
+        59,
+        43
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005646_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_59x43.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_59x43",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_59X43",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "76",
+          "height": "55"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_191x82|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_191X82",
+      "file": "CrazyDave_191x82.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005611_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_191x82.png",
+      "sha256": "4a91ab6fdb03ce81fd376074c8659c9ff3b1a890aa0b7e6e1f4133bc77e77334",
+      "logical_size": [
+        191,
+        82
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005611_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_191x82.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_191x82",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_191X82",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "245",
+          "height": "105"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_245x304|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_245X304",
+      "file": "CrazyDave_245x304.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005616_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_245x304.png",
+      "sha256": "f7b0915503a5c17db445edaae96448b898be31dcf85f8afea6622bf84700d90e",
+      "logical_size": [
+        245,
+        304
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005616_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_245x304.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_245x304",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_245X304",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "314",
+          "height": "389"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_46x56|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_46X56",
+      "file": "CrazyDave_46x56.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005636_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_46x56.png",
+      "sha256": "3b73fbd6bef4bc1c739e30747256606f97ec51764a940ade0610779b40ffcee6",
+      "logical_size": [
+        46,
+        56
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005636_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_46x56.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_46x56",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_46X56",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "59",
+          "height": "72"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_193x135|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_193X135",
+      "file": "CrazyDave_193x135.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005612_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_193x135.png",
+      "sha256": "d92f2c931c50ee8ae1b7a62ad55d0314ade94d688e538dbc1864c7fffb750ed7",
+      "logical_size": [
+        193,
+        135
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005612_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_193x135.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_193x135",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_193X135",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "247",
+          "height": "173"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_114x51|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_114X51",
+      "file": "CrazyDave_114x51.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005594_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_114x51.png",
+      "sha256": "452dccfff34ed4d1bb9ee92e67394ebb88e011010047279f408b59ca9d2f5d4f",
+      "logical_size": [
+        114,
+        51
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005594_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_114x51.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_114x51",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_114X51",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "146",
+          "height": "66"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_28x23|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_28X23",
+      "file": "CrazyDave_28x23.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005621_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_28x23.png",
+      "sha256": "fba3df5503a380b1c0a28a2a62483e52a83e78f1219ab84b89765aab4e7e0f4a",
+      "logical_size": [
+        28,
+        23
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005621_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_28x23.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_28x23",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_28X23",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "36",
+          "height": "30"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_49x68|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X68",
+      "file": "CrazyDave_49x68.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005639_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x68.png",
+      "sha256": "bd7274a1f9b2b4718e651e3c29688ca0368862ffa2bbf39bab5941197b7fa7f9",
+      "logical_size": [
+        49,
+        68
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005639_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x68.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_49x68",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X68",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "63",
+          "height": "87"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_41x31|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_41X31",
+      "file": "CrazyDave_41x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005633_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_41x31.png",
+      "sha256": "eda9fd55363a8ce0f2234a9e3698ea9281483a9b9bb1e856f9f6ba4afe5ee6e0",
+      "logical_size": [
+        41,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005633_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_41x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_41x31",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_41X31",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "53",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_55x42|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_55X42",
+      "file": "CrazyDave_55x42.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005645_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_55x42.png",
+      "sha256": "d89bfd02005e9b14a88de659bbb115255be9f36c04ba6a54462f8ce3d17f6b9d",
+      "logical_size": [
+        55,
+        42
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005645_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_55x42.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_55x42",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_55X42",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "71",
+          "height": "54"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_13x13|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_13X13",
+      "file": "CrazyDave_13x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005602_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_13x13.png",
+      "sha256": "c6f0fa359226c2b615f2ae16c45eacafe442a731daa99d35c435fe4c58217c37",
+      "logical_size": [
+        13,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005602_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_13x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_13x13",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_13X13",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "17",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_66x76|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X76",
+      "file": "CrazyDave_66x76.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005661_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x76.png",
+      "sha256": "74a4bb662824ce4c5aa6f0cf60b85a0ca407d75b730791f845011595450b412c",
+      "logical_size": [
+        66,
+        76
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005661_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x76.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_66x76",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X76",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "85",
+          "height": "98"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_61x31|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X31",
+      "file": "CrazyDave_61x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005649_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x31.png",
+      "sha256": "f2d8fc15156f97dd6ade87700adf3c0b14d83debc4ebc7e09b38b74574b4cc9b",
+      "logical_size": [
+        61,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005649_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_61x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_61x31",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_61X31",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "78",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_33x32|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X32",
+      "file": "CrazyDave_33x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005626_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x32.png",
+      "sha256": "d31d7d07b9e7ca0fbb498dd11436d1d002ca6b482202e7c91b6718872439564c",
+      "logical_size": [
+        33,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005626_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_33x32",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X32",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "42",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_38x38|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_38X38",
+      "file": "CrazyDave_38x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005631_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_38x38.png",
+      "sha256": "095e76d0bee8415495bc9881c7701344fdc4595ca9eeede65881e3665bc18202",
+      "logical_size": [
+        38,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005631_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_38x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_38x38",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_38X38",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "49",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_70x84|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_70X84",
+      "file": "CrazyDave_70x84.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005665_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_70x84.png",
+      "sha256": "50fb5f2be23689f30a065d5abbbce4fcbd98c52c2ce4517e905b6efcbcbd8b21",
+      "logical_size": [
+        70,
+        84
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005665_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_70x84.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_70x84",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_70X84",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "90",
+          "height": "108"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_128x88|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_128X88",
+      "file": "CrazyDave_128x88.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005599_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_128x88.png",
+      "sha256": "495703995eb7510f876592ae892f258fe86221ba17b18fa65dd939415e5fe5b2",
+      "logical_size": [
+        128,
+        88
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005599_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_128x88.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_128x88",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_128X88",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "164",
+          "height": "113"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_28x25|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_28X25",
+      "file": "CrazyDave_28x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005622_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_28x25.png",
+      "sha256": "63c806211c9ed7c0e0d124891e6ba992f6c932fb41fb08b51ce10c5633086aff",
+      "logical_size": [
+        28,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005622_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_28x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_28x25",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_28X25",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "36",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_168x103|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_168X103",
+      "file": "CrazyDave_168x103.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005608_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_168x103.png",
+      "sha256": "cec1889cb738d3d5296706b90f7d5742f32f4250d1cbccabc39fd010446e1065",
+      "logical_size": [
+        168,
+        103
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005608_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_168x103.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_168x103",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_168X103",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "215",
+          "height": "132"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_145x36|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_145X36",
+      "file": "CrazyDave_145x36.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005605_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_145x36.png",
+      "sha256": "2764194a2677f9bdbf2d2a5b617f66f237410fa96fa73550946c1bd77546e54d",
+      "logical_size": [
+        145,
+        36
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005605_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_145x36.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_145x36",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_145X36",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "186",
+          "height": "46"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_37x18|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_37X18",
+      "file": "CrazyDave_37x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005630_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_37x18.png",
+      "sha256": "582b0ff876256fcd783a0825dd69c39ac5941f911e107a5265698b2d32683ffb",
+      "logical_size": [
+        37,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005630_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_37x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_37x18",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_37X18",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "48",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_95x111|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_95X111",
+      "file": "CrazyDave_95x111.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005671_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_95x111.png",
+      "sha256": "8539f43d8db05f543c8db9f28ca8ca0b75db13e5632ab4b41b0efbfe0c092726",
+      "logical_size": [
+        95,
+        111
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005671_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_95x111.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_95x111",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_95X111",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "122",
+          "height": "142"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_51x54|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_51X54",
+      "file": "CrazyDave_51x54.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005640_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_51x54.png",
+      "sha256": "a72f1e9c4f446256ba3349a3060806f7db5773e05248ddccb42053c5670a1998",
+      "logical_size": [
+        51,
+        54
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005640_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_51x54.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_51x54",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_51X54",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "66",
+          "height": "69"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_65x44|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_65X44",
+      "file": "CrazyDave_65x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005656_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_65x44.png",
+      "sha256": "1b12b16bf56f53e2f62780bd67a3f18a111b3fd7e6f4e5e70829b486940fcd49",
+      "logical_size": [
+        65,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005656_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_65x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_65x44",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_65X44",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "83",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_62x47|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_62X47",
+      "file": "CrazyDave_62x47.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005652_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_62x47.png",
+      "sha256": "cb072fb94f7c7f06fd83b01903d3689d179f54e8b86177301c0c3e61cf7bc6c1",
+      "logical_size": [
+        62,
+        47
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005652_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_62x47.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_62x47",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_62X47",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "80",
+          "height": "60"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_67x46|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_67X46",
+      "file": "CrazyDave_67x46.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005662_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_67x46.png",
+      "sha256": "a7168810a7863f4cf61414daa58c1454406de9db440195577a0ac86b484d2470",
+      "logical_size": [
+        67,
+        46
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005662_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_67x46.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_67x46",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_67X46",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "86",
+          "height": "59"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_66x47|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X47",
+      "file": "CrazyDave_66x47.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005659_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x47.png",
+      "sha256": "dc013634ba37e5798dbfeb1e2bda24a9f23937fe4a65014fd117805893f32fae",
+      "logical_size": [
+        66,
+        47
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005659_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x47.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_66x47",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X47",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "85",
+          "height": "60"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_69x49|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_69X49",
+      "file": "CrazyDave_69x49.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005664_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_69x49.png",
+      "sha256": "1afbcd7ca488c2c4da1539be8fb28485f941445312a69993273b0c3a047b0814",
+      "logical_size": [
+        69,
+        49
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005664_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_69x49.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_69x49",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_69X49",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "89",
+          "height": "63"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_71x45|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_71X45",
+      "file": "CrazyDave_71x45.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005666_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_71x45.png",
+      "sha256": "f3e10ac2f1794258de62601fbc1c2a682585c54f21e2f858e39438d09e50cf45",
+      "logical_size": [
+        71,
+        45
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005666_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_71x45.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_71x45",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_71X45",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "91",
+          "height": "58"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_66x52|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X52",
+      "file": "CrazyDave_66x52.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005660_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x52.png",
+      "sha256": "1a357c209ad6caa427bae4954a1842f016aa2f84d567b0ebafdc996300d4c2de",
+      "logical_size": [
+        66,
+        52
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005660_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_66x52.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_66x52",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_66X52",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "85",
+          "height": "67"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_33x31|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X31",
+      "file": "CrazyDave_33x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005625_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x31.png",
+      "sha256": "6b61172d5fddde6aa61c8fb0347f71eae4593b598755e92be4582a8ee0d5fc08",
+      "logical_size": [
+        33,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005625_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_33x31",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X31",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "42",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_20x19|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_20X19",
+      "file": "CrazyDave_20x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005614_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_20x19.png",
+      "sha256": "a232027d039c8c21f32421e00d0affcfb67ea2dfe7b3b1cbeb52f21cbc3f5e91",
+      "logical_size": [
+        20,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005614_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_20x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_20x19",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_20X19",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "26",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_34x24|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_34X24",
+      "file": "CrazyDave_34x24.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005627_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_34x24.png",
+      "sha256": "3832142593ddbb4f9c6b7971f0b9c15ee7f59839651e505567a651c5885e04b6",
+      "logical_size": [
+        34,
+        24
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005627_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_34x24.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_34x24",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_34X24",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "44",
+          "height": "31"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_33x19|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X19",
+      "file": "CrazyDave_33x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005624_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x19.png",
+      "sha256": "6ed260c21c119b5c7141b71bae54a85b12ed13dc7dda2f35cf34716171ab8a46",
+      "logical_size": [
+        33,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005624_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_33x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_33x19",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_33X19",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "42",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_37x13|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_37X13",
+      "file": "CrazyDave_37x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005629_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_37x13.png",
+      "sha256": "0fac1ee0d815c84fb16a57e4430ab520afaf5cea78c935bbbcba61ed3b04db8f",
+      "logical_size": [
+        37,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005629_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_37x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_37x13",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_37X13",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "48",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_69x46|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_69X46",
+      "file": "CrazyDave_69x46.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005663_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_69x46.png",
+      "sha256": "3e482013f9f22fd28e226666807ffdf9d33b7c5fc8d92dd9563d2fd046a36c92",
+      "logical_size": [
+        69,
+        46
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005663_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_69x46.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_69x46",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_69X46",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "89",
+          "height": "59"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_41x46|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_41X46",
+      "file": "CrazyDave_41x46.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005634_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_41x46.png",
+      "sha256": "b7e9e389a6fdf00f710f009e3e57482f078c88c79297f68bf6febca89c73608d",
+      "logical_size": [
+        41,
+        46
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005634_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_41x46.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_41x46",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_41X46",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "53",
+          "height": "59"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_72x42|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_72X42",
+      "file": "CrazyDave_72x42.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005667_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_72x42.png",
+      "sha256": "9394999f60e623db3e120d7861134cd39d4c7629c8c98c95dd26f4de047f495c",
+      "logical_size": [
+        72,
+        42
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005667_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_72x42.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_72x42",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_72X42",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "92",
+          "height": "54"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_75x48|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_75X48",
+      "file": "CrazyDave_75x48.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005668_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_75x48.png",
+      "sha256": "5cfca6a905e8eee41f2cdb26c25548039e21eb58fc13269b14ebdebc7e3a6668",
+      "logical_size": [
+        75,
+        48
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005668_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_75x48.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_75x48",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_75X48",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "96",
+          "height": "62"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_118x66|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_118X66",
+      "file": "CrazyDave_118x66.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005597_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_118x66.png",
+      "sha256": "bed56ddace36548f85ad003c383dc52d6f561ad8c392659c31b9eef077de37b7",
+      "logical_size": [
+        118,
+        66
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005597_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_118x66.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_118x66",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_118X66",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "151",
+          "height": "85"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_153x163|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_153X163",
+      "file": "CrazyDave_153x163.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005606_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_153x163.png",
+      "sha256": "3791dfa72fbbb57568add9cbcfc06a7b3286e823f118d066b44bce6c96ae78d3",
+      "logical_size": [
+        153,
+        163
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005606_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_153x163.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_153x163",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_153X163",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "196",
+          "height": "209"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_142x165|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_142X165",
+      "file": "CrazyDave_142x165.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005604_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_142x165.png",
+      "sha256": "bf19270c7d8e1e0b59cfc608c60ceccedfb76d225a6b5dddfc6ff1b0140c5f99",
+      "logical_size": [
+        142,
+        165
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005604_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_142x165.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_142x165",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_142X165",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "182",
+          "height": "211"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_141x70|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_141X70",
+      "file": "CrazyDave_141x70.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005603_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_141x70.png",
+      "sha256": "24857ffcd5ddd5a4c740b5680cb3c46d72595572dac5c89ebeb69efb2b16245c",
+      "logical_size": [
+        141,
+        70
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005603_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_141x70.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_141x70",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_141X70",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "181",
+          "height": "90"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_222x139|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_222X139",
+      "file": "CrazyDave_222x139.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005615_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_222x139.png",
+      "sha256": "2fe3f3dbab204363e9337d658b262a5aa770abcdca5e59fed5fafac42ec445e9",
+      "logical_size": [
+        222,
+        139
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005615_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_222x139.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_222x139",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_222X139",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "284",
+          "height": "178"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_129x246|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_129X246",
+      "file": "CrazyDave_129x246.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005600_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_129x246.png",
+      "sha256": "db0eb8f2c5bc5bc6016f8227184c8a4d62809ae5ebbadcee60daa192f25c8036",
+      "logical_size": [
+        129,
+        246
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005600_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_129x246.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_129x246",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_129X246",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "165",
+          "height": "315"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_114x98|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_114X98",
+      "file": "CrazyDave_114x98.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005595_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_114x98.png",
+      "sha256": "c62ac1cf638ace473b6a4cbf26d0da0928f5150d7f091e9b4b0679b5d0dd5988",
+      "logical_size": [
+        114,
+        98
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005595_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_114x98.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_114x98",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_114X98",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "146",
+          "height": "126"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_64x62|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_64X62",
+      "file": "CrazyDave_64x62.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005655_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_64x62.png",
+      "sha256": "ac997402d15eb2df4f1508abf4826febf2806d2cbd8aeef62edcd8ab19bd1e5f",
+      "logical_size": [
+        64,
+        62
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005655_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_64x62.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_64x62",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_64X62",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "82",
+          "height": "80"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_63x53|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_63X53",
+      "file": "CrazyDave_63x53.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005654_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_63x53.png",
+      "sha256": "649de2e6ae90d082c5929dac7bae80a9dbd0690ee2328d1ab7ab472383080146",
+      "logical_size": [
+        63,
+        53
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005654_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_63x53.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_63x53",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_63X53",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "81",
+          "height": "68"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_49x35|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X35",
+      "file": "CrazyDave_49x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005637_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x35.png",
+      "sha256": "e2e05601583f8091c361b0865076c955f419f70f9b43666663dbb5651ce182f7",
+      "logical_size": [
+        49,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005637_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_49x35",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X35",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "63",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_49x45|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X45",
+      "file": "CrazyDave_49x45.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005638_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x45.png",
+      "sha256": "a17356b071a770cdce74ea92153b3785473083d162790d40035081133450e4f3",
+      "logical_size": [
+        49,
+        45
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005638_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_49x45.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_49x45",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_49X45",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "63",
+          "height": "58"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_27x21|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_27X21",
+      "file": "CrazyDave_27x21.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005619_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_27x21.png",
+      "sha256": "ebc81557863ad93edab8129452d876c204b250e4a4d64f21d228c095ae82079e",
+      "logical_size": [
+        27,
+        21
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005619_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_27x21.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_27x21",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_27X21",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "35",
+          "height": "27"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_54x61|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_54X61",
+      "file": "CrazyDave_54x61.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005644_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_54x61.png",
+      "sha256": "8bea017016a17640f04095633486da9501912cfb1df9157e0b7ee70a203984d7",
+      "logical_size": [
+        54,
+        61
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005644_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_54x61.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_54x61",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_54X61",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "69",
+          "height": "78"
+        }
+      }
+    },
+    {
+      "pam_image": "CrazyDave_117x64|IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_117X64",
+      "file": "CrazyDave_117x64.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_005596_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_117x64.png",
+      "sha256": "14f934b947393c41605ed694ab29ee617883bef723f18adc9a65b65d3b541ee9",
+      "logical_size": [
+        117,
+        64
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_005596_images_1536_initial_CrazyDave_CrazyDave_CrazyDave_117x64.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\CrazyDave\\CrazyDave\\CrazyDave_117x64",
+          "resource_id": "IMAGE_CRAZYDAVE_CRAZYDAVE_CRAZYDAVE_117X64",
+          "atlas": "ATLASES/NPC_CRAZYDAVE_1536_00.PTX",
+          "width": "150",
+          "height": "82"
+        }
+      }
+    }
+  ]
+}

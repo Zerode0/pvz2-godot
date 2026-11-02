@@ -1,0 +1,1591 @@
+{
+  "mapped": 72,
+  "indexed": 72,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "chomper_45x26|IMAGE_PLANT_CHOMPER_CHOMPER_45X26",
+      "file": "chomper_45x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014215_images_1536_initial_plant_chomper_chomper_45x26.png",
+      "sha256": "6325c72f8aee48a2209d149d4aa81e32bd304468a67c614c14fb518e2391e3e4",
+      "logical_size": [
+        45,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014215_images_1536_initial_plant_chomper_chomper_45x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_45x26",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_45X26",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "58",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_58x114|IMAGE_PLANT_CHOMPER_CHOMPER_58X114",
+      "file": "chomper_58x114.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014225_images_1536_initial_plant_chomper_chomper_58x114.png",
+      "sha256": "38473acf3a6bcf35387d8c25979b6b389fba6505b8493392a682d335eb90b155",
+      "logical_size": [
+        58,
+        114
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014225_images_1536_initial_plant_chomper_chomper_58x114.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_58x114",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_58X114",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "74",
+          "height": "146"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_48x30|IMAGE_PLANT_CHOMPER_CHOMPER_48X30",
+      "file": "chomper_48x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014220_images_1536_initial_plant_chomper_chomper_48x30.png",
+      "sha256": "83b044e5d1fed19cc664820c6c7f99d5c892ac03e494d52f181c22cc827986d5",
+      "logical_size": [
+        48,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014220_images_1536_initial_plant_chomper_chomper_48x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_48x30",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_48X30",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "62",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_53x33|IMAGE_PLANT_CHOMPER_CHOMPER_53X33",
+      "file": "chomper_53x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014222_images_1536_initial_plant_chomper_chomper_53x33.png",
+      "sha256": "e0089bbab5d01b8c4a0c99526f322ec87099e732d13007be01967bd46da9876e",
+      "logical_size": [
+        53,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014222_images_1536_initial_plant_chomper_chomper_53x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_53x33",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_53X33",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "68",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_19x31|IMAGE_PLANT_CHOMPER_CHOMPER_19X31",
+      "file": "chomper_19x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014187_images_1536_initial_plant_chomper_chomper_19x31.png",
+      "sha256": "1d00ac4708fdf1ef9d5064e82e4fb1840cf52f907efc6a0aa30bfecf8e9b3221",
+      "logical_size": [
+        19,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014187_images_1536_initial_plant_chomper_chomper_19x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_19x31",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_19X31",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "25",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_20x35|IMAGE_PLANT_CHOMPER_CHOMPER_20X35",
+      "file": "chomper_20x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014188_images_1536_initial_plant_chomper_chomper_20x35.png",
+      "sha256": "cc602585c30ac6abcb56c9d591203b5ce9b76ba2b9f3ebdfec12bd3e67fe006e",
+      "logical_size": [
+        20,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014188_images_1536_initial_plant_chomper_chomper_20x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_20x35",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_20X35",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "26",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_30x39|IMAGE_PLANT_CHOMPER_CHOMPER_30X39",
+      "file": "chomper_30x39.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014201_images_1536_initial_plant_chomper_chomper_30x39.png",
+      "sha256": "08449882cdec54bb2c3350c586255f57c2224b5878ee2c11e967f3b60b16abd0",
+      "logical_size": [
+        30,
+        39
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014201_images_1536_initial_plant_chomper_chomper_30x39.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_30x39",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_30X39",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "39",
+          "height": "50"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_36x27|IMAGE_PLANT_CHOMPER_CHOMPER_36X27",
+      "file": "chomper_36x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014208_images_1536_initial_plant_chomper_chomper_36x27.png",
+      "sha256": "df55982909200500e46cd1c80a6746d69b89ee7e7ea3f0baa2036e01c2739164",
+      "logical_size": [
+        36,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014208_images_1536_initial_plant_chomper_chomper_36x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_36x27",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_36X27",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "46",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_121x95|IMAGE_PLANT_CHOMPER_CHOMPER_121X95",
+      "file": "chomper_121x95.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014180_images_1536_initial_plant_chomper_chomper_121x95.png",
+      "sha256": "4d689d5cbf816a4f925c396ffe051517d102f74a8c650b37f2748495efe92a86",
+      "logical_size": [
+        121,
+        95
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014180_images_1536_initial_plant_chomper_chomper_121x95.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_121x95",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_121X95",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "155",
+          "height": "122"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_45x30|IMAGE_PLANT_CHOMPER_CHOMPER_45X30",
+      "file": "chomper_45x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014216_images_1536_initial_plant_chomper_chomper_45x30.png",
+      "sha256": "c14c4f573cc5a2eb1451b52d0177e9827c71a7268ced5e2e45b46316da138e74",
+      "logical_size": [
+        45,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014216_images_1536_initial_plant_chomper_chomper_45x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_45x30",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_45X30",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "58",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_116x80|IMAGE_PLANT_CHOMPER_CHOMPER_116X80",
+      "file": "chomper_116x80.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014172_images_1536_initial_plant_chomper_chomper_116x80.png",
+      "sha256": "292486cbb484f063b4bcb90a5df0a7fb821c1caf84d215480a455c1298dc1a5c",
+      "logical_size": [
+        116,
+        80
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014172_images_1536_initial_plant_chomper_chomper_116x80.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_116x80",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_116X80",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "149",
+          "height": "103"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_11x9|IMAGE_PLANT_CHOMPER_CHOMPER_11X9",
+      "file": "chomper_11x9.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014178_images_1536_initial_plant_chomper_chomper_11x9.png",
+      "sha256": "5759b6752e7f5254df8a94442336b62da86ffe8bc5e07a777aba0774b4d00c9d",
+      "logical_size": [
+        11,
+        9
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014178_images_1536_initial_plant_chomper_chomper_11x9.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_11x9",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_11X9",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "14",
+          "height": "12"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_19x15|IMAGE_PLANT_CHOMPER_CHOMPER_19X15",
+      "file": "chomper_19x15.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014186_images_1536_initial_plant_chomper_chomper_19x15.png",
+      "sha256": "2a086fb0db0f3b0bc897cb25fe8f82a54e66ad5ed1c58cbfca0fc327415afd3c",
+      "logical_size": [
+        19,
+        15
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014186_images_1536_initial_plant_chomper_chomper_19x15.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_19x15",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_19X15",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "25",
+          "height": "19"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_117x68|IMAGE_PLANT_CHOMPER_CHOMPER_117X68",
+      "file": "chomper_117x68.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014175_images_1536_initial_plant_chomper_chomper_117x68.png",
+      "sha256": "77a69fa205ba2d7868990ee8c008ea4fdd8b744e7e3e79ca214ec81a2000a57d",
+      "logical_size": [
+        117,
+        68
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014175_images_1536_initial_plant_chomper_chomper_117x68.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_117x68",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_117X68",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "150",
+          "height": "87"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_22x29|IMAGE_PLANT_CHOMPER_CHOMPER_22X29",
+      "file": "chomper_22x29.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014190_images_1536_initial_plant_chomper_chomper_22x29.png",
+      "sha256": "73cfcb6bb97754cb5e1eafac4e3a26e3cf214a5f08ad9788c87b7b9a390f24e9",
+      "logical_size": [
+        22,
+        29
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014190_images_1536_initial_plant_chomper_chomper_22x29.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_22x29",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_22X29",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "28",
+          "height": "37"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_25x41|IMAGE_PLANT_CHOMPER_CHOMPER_25X41",
+      "file": "chomper_25x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014195_images_1536_initial_plant_chomper_chomper_25x41.png",
+      "sha256": "6bbb583238278394076215f47d53f3736093d774f619c6fd8c7ec974109a245e",
+      "logical_size": [
+        25,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014195_images_1536_initial_plant_chomper_chomper_25x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_25x41",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_25X41",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "32",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_54x39|IMAGE_PLANT_CHOMPER_CHOMPER_54X39",
+      "file": "chomper_54x39.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014224_images_1536_initial_plant_chomper_chomper_54x39.png",
+      "sha256": "62fdc0469ad3ad6c36762d2ae5b40952178f8298a737db9963d23cc285df0de7",
+      "logical_size": [
+        54,
+        39
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014224_images_1536_initial_plant_chomper_chomper_54x39.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_54x39",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_54X39",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "69",
+          "height": "50"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_118x53|IMAGE_PLANT_CHOMPER_CHOMPER_118X53",
+      "file": "chomper_118x53.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014176_images_1536_initial_plant_chomper_chomper_118x53.png",
+      "sha256": "ca92108ad4dce698e435a84a4eb9d0add20b9ff4deb6ae90fe9bbf745fdc2699",
+      "logical_size": [
+        118,
+        53
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014176_images_1536_initial_plant_chomper_chomper_118x53.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_118x53",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_118X53",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "151",
+          "height": "68"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_111x56|IMAGE_PLANT_CHOMPER_CHOMPER_111X56",
+      "file": "chomper_111x56.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014170_images_1536_initial_plant_chomper_chomper_111x56.png",
+      "sha256": "f127289b1b95cbdbf32de491c505d29dd6befee9235b568f7ed0ea53569ee996",
+      "logical_size": [
+        111,
+        56
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014170_images_1536_initial_plant_chomper_chomper_111x56.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_111x56",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_111X56",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "142",
+          "height": "72"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_54x26|IMAGE_PLANT_CHOMPER_CHOMPER_54X26",
+      "file": "chomper_54x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014223_images_1536_initial_plant_chomper_chomper_54x26.png",
+      "sha256": "efb774255136828e5e441eaefeab1c2c00c7b7743670b45aba9e58ceb522b4d1",
+      "logical_size": [
+        54,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014223_images_1536_initial_plant_chomper_chomper_54x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_54x26",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_54X26",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "69",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_50x27|IMAGE_PLANT_CHOMPER_CHOMPER_50X27",
+      "file": "chomper_50x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014221_images_1536_initial_plant_chomper_chomper_50x27.png",
+      "sha256": "fa42f01069a7057393c02058cb5c93a8658c442f62d0830c4e1044c389bb4d40",
+      "logical_size": [
+        50,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014221_images_1536_initial_plant_chomper_chomper_50x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_50x27",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_50X27",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "64",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_48x29|IMAGE_PLANT_CHOMPER_CHOMPER_48X29",
+      "file": "chomper_48x29.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014218_images_1536_initial_plant_chomper_chomper_48x29.png",
+      "sha256": "d111c3833a67ecb8ffd6b2d0d1038a8300d4850835ea405648ab19a5190fe103",
+      "logical_size": [
+        48,
+        29
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014218_images_1536_initial_plant_chomper_chomper_48x29.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_48x29",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_48X29",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "62",
+          "height": "37"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_38x32|IMAGE_PLANT_CHOMPER_CHOMPER_38X32",
+      "file": "chomper_38x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014210_images_1536_initial_plant_chomper_chomper_38x32.png",
+      "sha256": "b6ae2c8c52c9ff7c1a7af3d9806115ab9692e5acaba9713fc542b78be8b4f00c",
+      "logical_size": [
+        38,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014210_images_1536_initial_plant_chomper_chomper_38x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_38x32",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_38X32",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "49",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_48x29_2|IMAGE_PLANT_CHOMPER_CHOMPER_48X29_2",
+      "file": "chomper_48x29_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014219_images_1536_initial_plant_chomper_chomper_48x29_2.png",
+      "sha256": "85ea3f8455563dc322fe92f5673177765957ca57371b6a9832c5b66d34658b54",
+      "logical_size": [
+        48,
+        29
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014219_images_1536_initial_plant_chomper_chomper_48x29_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_48x29_2",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_48X29_2",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "62",
+          "height": "37"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_39x44|IMAGE_PLANT_CHOMPER_CHOMPER_39X44",
+      "file": "chomper_39x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014211_images_1536_initial_plant_chomper_chomper_39x44.png",
+      "sha256": "b012b0e85b961e78cad57cf01d07434533b7d5b506b0d06deb08ca6431b62dee",
+      "logical_size": [
+        39,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014211_images_1536_initial_plant_chomper_chomper_39x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_39x44",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_39X44",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "50",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_32x38|IMAGE_PLANT_CHOMPER_CHOMPER_32X38",
+      "file": "chomper_32x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014204_images_1536_initial_plant_chomper_chomper_32x38.png",
+      "sha256": "15d260e6b010dab23af9531883a6196a2159a780dfbc5b90cafd6996010625f9",
+      "logical_size": [
+        32,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014204_images_1536_initial_plant_chomper_chomper_32x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_32x38",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_32X38",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "41",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_115x81|IMAGE_PLANT_CHOMPER_CHOMPER_115X81",
+      "file": "chomper_115x81.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014171_images_1536_initial_plant_chomper_chomper_115x81.png",
+      "sha256": "6cd74a212b691bed42b97179f243c2e553877479fca2a7141686736db09c8004",
+      "logical_size": [
+        115,
+        81
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014171_images_1536_initial_plant_chomper_chomper_115x81.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_115x81",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_115X81",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "147",
+          "height": "104"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_110x47|IMAGE_PLANT_CHOMPER_CHOMPER_110X47",
+      "file": "chomper_110x47.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014168_images_1536_initial_plant_chomper_chomper_110x47.png",
+      "sha256": "e93d8e0f875aa46770d99b7529447e79d232a88c6bd8e3a47febcfee6941c123",
+      "logical_size": [
+        110,
+        47
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014168_images_1536_initial_plant_chomper_chomper_110x47.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_110x47",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_110X47",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "141",
+          "height": "60"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_34x48|IMAGE_PLANT_CHOMPER_CHOMPER_34X48",
+      "file": "chomper_34x48.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014207_images_1536_initial_plant_chomper_chomper_34x48.png",
+      "sha256": "92063727bf5f930c923fb1cbd3c02e6f8de493c272fc39481a329a588ec67bba",
+      "logical_size": [
+        34,
+        48
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014207_images_1536_initial_plant_chomper_chomper_34x48.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_34x48",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_34X48",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "44",
+          "height": "62"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_47x36|IMAGE_PLANT_CHOMPER_CHOMPER_47X36",
+      "file": "chomper_47x36.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014217_images_1536_initial_plant_chomper_chomper_47x36.png",
+      "sha256": "4ed317354662ff9442d7d25b494e7d2407619849cca69e3efb78f80c9270bcc6",
+      "logical_size": [
+        47,
+        36
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014217_images_1536_initial_plant_chomper_chomper_47x36.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_47x36",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_47X36",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "60",
+          "height": "46"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_40x40|IMAGE_PLANT_CHOMPER_CHOMPER_40X40",
+      "file": "chomper_40x40.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014213_images_1536_initial_plant_chomper_chomper_40x40.png",
+      "sha256": "e75ac5976697073ce0081fd3d90b780e6450b93c352866bf0baa701958c20299",
+      "logical_size": [
+        40,
+        40
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014213_images_1536_initial_plant_chomper_chomper_40x40.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_40x40",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_40X40",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "51",
+          "height": "51"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_25x33|IMAGE_PLANT_CHOMPER_CHOMPER_25X33",
+      "file": "chomper_25x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014194_images_1536_initial_plant_chomper_chomper_25x33.png",
+      "sha256": "c4d57d2dba81e61655cfd075fca7d05cedf30ad892d0c4d8acc91a522244c7c4",
+      "logical_size": [
+        25,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014194_images_1536_initial_plant_chomper_chomper_25x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_25x33",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_25X33",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "32",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_24x38|IMAGE_PLANT_CHOMPER_CHOMPER_24X38",
+      "file": "chomper_24x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014193_images_1536_initial_plant_chomper_chomper_24x38.png",
+      "sha256": "091d14d92793cda8bbb5a568d476eba8886733a3b906298147fbc3dab9fc46c7",
+      "logical_size": [
+        24,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014193_images_1536_initial_plant_chomper_chomper_24x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_24x38",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_24X38",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "31",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_26x33|IMAGE_PLANT_CHOMPER_CHOMPER_26X33",
+      "file": "chomper_26x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014196_images_1536_initial_plant_chomper_chomper_26x33.png",
+      "sha256": "4335024fa85ac6c4bee97aed707b2cad8ee857ac85b04bd3f0b6ed1d5f3b2c44",
+      "logical_size": [
+        26,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014196_images_1536_initial_plant_chomper_chomper_26x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_26x33",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_26X33",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "34",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_16x28|IMAGE_PLANT_CHOMPER_CHOMPER_16X28",
+      "file": "chomper_16x28.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014184_images_1536_initial_plant_chomper_chomper_16x28.png",
+      "sha256": "90eeca38a81a8fd3a8b78c149f3026673d8660216195085060d209597b22d9a8",
+      "logical_size": [
+        16,
+        28
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014184_images_1536_initial_plant_chomper_chomper_16x28.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_16x28",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_16X28",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "21",
+          "height": "36"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_30x32|IMAGE_PLANT_CHOMPER_CHOMPER_30X32",
+      "file": "chomper_30x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014200_images_1536_initial_plant_chomper_chomper_30x32.png",
+      "sha256": "b4c2a6128abcb90024fc35caf590f19a3c35a8f480c12da4950bd92f56ec39b0",
+      "logical_size": [
+        30,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014200_images_1536_initial_plant_chomper_chomper_30x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_30x32",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_30X32",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "39",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_39x44_2|IMAGE_PLANT_CHOMPER_CHOMPER_39X44_2",
+      "file": "chomper_39x44_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014212_images_1536_initial_plant_chomper_chomper_39x44_2.png",
+      "sha256": "0df8eeb565dc0d258c7293e772279a079996d89c5eaf6beb45c8c2df15da97ea",
+      "logical_size": [
+        39,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014212_images_1536_initial_plant_chomper_chomper_39x44_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_39x44_2",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_39X44_2",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "50",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_33x32|IMAGE_PLANT_CHOMPER_CHOMPER_33X32",
+      "file": "chomper_33x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014206_images_1536_initial_plant_chomper_chomper_33x32.png",
+      "sha256": "e58823d6f59febd38fe38789064ca692ccbf8aa3a9aa663321142ee252f3fb38",
+      "logical_size": [
+        33,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014206_images_1536_initial_plant_chomper_chomper_33x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_33x32",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_33X32",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "42",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_22x26|IMAGE_PLANT_CHOMPER_CHOMPER_22X26",
+      "file": "chomper_22x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014189_images_1536_initial_plant_chomper_chomper_22x26.png",
+      "sha256": "7c20e5d044dc818b4f52b887bdceda055ee2938f727aea1e42fc4885a8c8787d",
+      "logical_size": [
+        22,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014189_images_1536_initial_plant_chomper_chomper_22x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_22x26",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_22X26",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "28",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_32x44|IMAGE_PLANT_CHOMPER_CHOMPER_32X44",
+      "file": "chomper_32x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014205_images_1536_initial_plant_chomper_chomper_32x44.png",
+      "sha256": "f1721c6b6f6a2649c7e6fc89567a39733797eb52eedf3b5391e4d59a0efbaca1",
+      "logical_size": [
+        32,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014205_images_1536_initial_plant_chomper_chomper_32x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_32x44",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_32X44",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "41",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_29x37|IMAGE_PLANT_CHOMPER_CHOMPER_29X37",
+      "file": "chomper_29x37.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014199_images_1536_initial_plant_chomper_chomper_29x37.png",
+      "sha256": "be0ee2167aef51c0149ec1832cf9e15d822e2b7dcad87e7d4d140e49459ef26d",
+      "logical_size": [
+        29,
+        37
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014199_images_1536_initial_plant_chomper_chomper_29x37.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_29x37",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_29X37",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "37",
+          "height": "48"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_27x46|IMAGE_PLANT_CHOMPER_CHOMPER_27X46",
+      "file": "chomper_27x46.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014197_images_1536_initial_plant_chomper_chomper_27x46.png",
+      "sha256": "9baf8ef84870438e62adcdb6d31351f0cf3518b8905d86ec7ed0977a4816ca9e",
+      "logical_size": [
+        27,
+        46
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014197_images_1536_initial_plant_chomper_chomper_27x46.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_27x46",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_27X46",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "35",
+          "height": "59"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_22x38|IMAGE_PLANT_CHOMPER_CHOMPER_22X38",
+      "file": "chomper_22x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014191_images_1536_initial_plant_chomper_chomper_22x38.png",
+      "sha256": "a4000525444bee3eebf51ad26e111b6ae2546d608979d4a642a7a756289712ef",
+      "logical_size": [
+        22,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014191_images_1536_initial_plant_chomper_chomper_22x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_22x38",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_22X38",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "28",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_29x19|IMAGE_PLANT_CHOMPER_CHOMPER_29X19",
+      "file": "chomper_29x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014198_images_1536_initial_plant_chomper_chomper_29x19.png",
+      "sha256": "bc505076d094abfe3a0e8619f4219224545bba9d630ffd7f2b7d40ba7072a5d3",
+      "logical_size": [
+        29,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014198_images_1536_initial_plant_chomper_chomper_29x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_29x19",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_29X19",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "37",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_119x118|IMAGE_PLANT_CHOMPER_CHOMPER_119X118",
+      "file": "chomper_119x118.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014177_images_1536_initial_plant_chomper_chomper_119x118.png",
+      "sha256": "d3a1e1ea2d426d3d807b6ac865553506f644f71acd9e49c52447bfa18aeb1f92",
+      "logical_size": [
+        119,
+        118
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014177_images_1536_initial_plant_chomper_chomper_119x118.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_119x118",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_119X118",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "153",
+          "height": "151"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_102x116|IMAGE_PLANT_CHOMPER_CHOMPER_102X116",
+      "file": "chomper_102x116.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014165_images_1536_initial_plant_chomper_chomper_102x116.png",
+      "sha256": "6db90ba030927f6a163fcbdadeb1e09802e1e929def0e01e63a34c220230d1cf",
+      "logical_size": [
+        102,
+        116
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014165_images_1536_initial_plant_chomper_chomper_102x116.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_102x116",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_102X116",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "131",
+          "height": "149"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_36x39|IMAGE_PLANT_CHOMPER_CHOMPER_36X39",
+      "file": "chomper_36x39.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014209_images_1536_initial_plant_chomper_chomper_36x39.png",
+      "sha256": "231398ab543aa5a9e9d8934e39a623ec5296451d0bd4b550dae0ef9ad08dd912",
+      "logical_size": [
+        36,
+        39
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014209_images_1536_initial_plant_chomper_chomper_36x39.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_36x39",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_36X39",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "46",
+          "height": "50"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_16x37|IMAGE_PLANT_CHOMPER_CHOMPER_16X37",
+      "file": "chomper_16x37.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014185_images_1536_initial_plant_chomper_chomper_16x37.png",
+      "sha256": "4c77242d6dfd908b4afb3fd1761fed414ba80442b4924d42a485dda495633fd4",
+      "logical_size": [
+        16,
+        37
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014185_images_1536_initial_plant_chomper_chomper_16x37.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_16x37",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_16X37",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "21",
+          "height": "48"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_94x74|IMAGE_PLANT_CHOMPER_CHOMPER_94X74",
+      "file": "chomper_94x74.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014235_images_1536_initial_plant_chomper_chomper_94x74.png",
+      "sha256": "b7e56978ec324961d17ed8b1e049ac108918ae20f0f72372614a72eff2f81e34",
+      "logical_size": [
+        94,
+        74
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014235_images_1536_initial_plant_chomper_chomper_94x74.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_94x74",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_94X74",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "121",
+          "height": "95"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_91x86|IMAGE_PLANT_CHOMPER_CHOMPER_91X86",
+      "file": "chomper_91x86.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014234_images_1536_initial_plant_chomper_chomper_91x86.png",
+      "sha256": "57964577178f7086dadd2da3de628dc6d9320314e2482ce1809080d27505a5c1",
+      "logical_size": [
+        91,
+        86
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014234_images_1536_initial_plant_chomper_chomper_91x86.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_91x86",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_91X86",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "117",
+          "height": "110"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_110x94|IMAGE_PLANT_CHOMPER_CHOMPER_110X94",
+      "file": "chomper_110x94.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014169_images_1536_initial_plant_chomper_chomper_110x94.png",
+      "sha256": "0fd07db0cbb1b24b2351dc0be58a1b0bb543d4d9a6d85fff4d073ef0d8e4a3d0",
+      "logical_size": [
+        110,
+        94
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014169_images_1536_initial_plant_chomper_chomper_110x94.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_110x94",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_110X94",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "141",
+          "height": "121"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_117x67|IMAGE_PLANT_CHOMPER_CHOMPER_117X67",
+      "file": "chomper_117x67.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014174_images_1536_initial_plant_chomper_chomper_117x67.png",
+      "sha256": "6d56a9e8a3bf845cf57ddb9dcb708e0b430e6deacc1d47f5077694499df8cb9a",
+      "logical_size": [
+        117,
+        67
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014174_images_1536_initial_plant_chomper_chomper_117x67.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_117x67",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_117X67",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "150",
+          "height": "86"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_82x111|IMAGE_PLANT_CHOMPER_CHOMPER_82X111",
+      "file": "chomper_82x111.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014227_images_1536_initial_plant_chomper_chomper_82x111.png",
+      "sha256": "6eb1184cb0f2e53b5430906d2d64ab3497a41c97b2f17f375ca3452f46a53c6b",
+      "logical_size": [
+        82,
+        111
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014227_images_1536_initial_plant_chomper_chomper_82x111.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_82x111",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_82X111",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "105",
+          "height": "142"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_88x132|IMAGE_PLANT_CHOMPER_CHOMPER_88X132",
+      "file": "chomper_88x132.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014232_images_1536_initial_plant_chomper_chomper_88x132.png",
+      "sha256": "292cb91d1d90dadee232ec0858d6506d3c2b7dad0b62c1b432610548bf50720c",
+      "logical_size": [
+        88,
+        132
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014232_images_1536_initial_plant_chomper_chomper_88x132.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_88x132",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_88X132",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "113",
+          "height": "169"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_14x14|IMAGE_PLANT_CHOMPER_CHOMPER_14X14",
+      "file": "chomper_14x14.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014183_images_1536_initial_plant_chomper_chomper_14x14.png",
+      "sha256": "32209c262e3e5ab5d8f62ceac93ab5a739954aed0ec2fff5144f449ba6ee165a",
+      "logical_size": [
+        14,
+        14
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014183_images_1536_initial_plant_chomper_chomper_14x14.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_14x14",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_14X14",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "18",
+          "height": "18"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_32x7|IMAGE_PLANT_CHOMPER_CHOMPER_32X7",
+      "file": "chomper_32x7.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014203_images_1536_initial_plant_chomper_chomper_32x7.png",
+      "sha256": "27bf9438f59bcb191e09996e9569b0c979ba6d35eb317912f01b3085e6c4f2c0",
+      "logical_size": [
+        32,
+        7
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014203_images_1536_initial_plant_chomper_chomper_32x7.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_32x7",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_32X7",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "41",
+          "height": "9"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_87x131|IMAGE_PLANT_CHOMPER_CHOMPER_87X131",
+      "file": "chomper_87x131.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014231_images_1536_initial_plant_chomper_chomper_87x131.png",
+      "sha256": "5148d4738440377bc737a7ec2561a8442d637a29f19835be44d672e2588f8bdc",
+      "logical_size": [
+        87,
+        131
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014231_images_1536_initial_plant_chomper_chomper_87x131.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_87x131",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_87X131",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "112",
+          "height": "168"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_82x111_2|IMAGE_PLANT_CHOMPER_CHOMPER_82X111_2",
+      "file": "chomper_82x111_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014228_images_1536_initial_plant_chomper_chomper_82x111_2.png",
+      "sha256": "e0b25edb6e057e447d4911648e67a67a0efba98fbcf1f19b7af51bdeafa313fc",
+      "logical_size": [
+        82,
+        111
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014228_images_1536_initial_plant_chomper_chomper_82x111_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_82x111_2",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_82X111_2",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "105",
+          "height": "142"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_89x130|IMAGE_PLANT_CHOMPER_CHOMPER_89X130",
+      "file": "chomper_89x130.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014233_images_1536_initial_plant_chomper_chomper_89x130.png",
+      "sha256": "1a6d6dd554dcef4eb19db7e5b48cfd4cc276ca5dca7cc8de872050c4ccdc29e8",
+      "logical_size": [
+        89,
+        130
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014233_images_1536_initial_plant_chomper_chomper_89x130.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_89x130",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_89X130",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "114",
+          "height": "167"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_31x31|IMAGE_PLANT_CHOMPER_CHOMPER_31X31",
+      "file": "chomper_31x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014202_images_1536_initial_plant_chomper_chomper_31x31.png",
+      "sha256": "7b21046ef62b33e347baec19901aaf273fc1e5c7d1e8bf62d40b8c946d1704d6",
+      "logical_size": [
+        31,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014202_images_1536_initial_plant_chomper_chomper_31x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_31x31",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_31X31",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "40",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_7x7|IMAGE_PLANT_CHOMPER_CHOMPER_7X7",
+      "file": "chomper_7x7.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014226_images_1536_initial_plant_chomper_chomper_7x7.png",
+      "sha256": "f176d2da6a50c128a7056fc447d436e65b9db4014f024b59d616edab7aa73808",
+      "logical_size": [
+        7,
+        7
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014226_images_1536_initial_plant_chomper_chomper_7x7.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_7x7",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_7X7",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "9",
+          "height": "9"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_83x109|IMAGE_PLANT_CHOMPER_CHOMPER_83X109",
+      "file": "chomper_83x109.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014229_images_1536_initial_plant_chomper_chomper_83x109.png",
+      "sha256": "7031ed6dde61bb35bf0a2ded475f52391ed838601948a9ca090d26bd0fffe625",
+      "logical_size": [
+        83,
+        109
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014229_images_1536_initial_plant_chomper_chomper_83x109.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_83x109",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_83X109",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "106",
+          "height": "140"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_86x126|IMAGE_PLANT_CHOMPER_CHOMPER_86X126",
+      "file": "chomper_86x126.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014230_images_1536_initial_plant_chomper_chomper_86x126.png",
+      "sha256": "95271e13c4f30e9b699981c7e0a4714a4f23a0345e9de1883e3cb5ab3fb7cce7",
+      "logical_size": [
+        86,
+        126
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014230_images_1536_initial_plant_chomper_chomper_86x126.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_86x126",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_86X126",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "110",
+          "height": "162"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_22x48|IMAGE_PLANT_CHOMPER_CHOMPER_22X48",
+      "file": "chomper_22x48.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014192_images_1536_initial_plant_chomper_chomper_22x48.png",
+      "sha256": "e66b03524e8818813785a2334094c9a91538b41e1be68c13e2476931f46a8230",
+      "logical_size": [
+        22,
+        48
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014192_images_1536_initial_plant_chomper_chomper_22x48.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_22x48",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_22X48",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "28",
+          "height": "62"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_104x192|IMAGE_PLANT_CHOMPER_CHOMPER_104X192",
+      "file": "chomper_104x192.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014166_images_1536_initial_plant_chomper_chomper_104x192.png",
+      "sha256": "185bb0484c94cc54d978f6b2313e2dc2042395d9d2c4085264e4bea467d8a029",
+      "logical_size": [
+        104,
+        192
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014166_images_1536_initial_plant_chomper_chomper_104x192.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_104x192",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_104X192",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "133",
+          "height": "246"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_116x196|IMAGE_PLANT_CHOMPER_CHOMPER_116X196",
+      "file": "chomper_116x196.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014173_images_1536_initial_plant_chomper_chomper_116x196.png",
+      "sha256": "2681da413ef3792b552b7ebf0d78fa30e50d6f1c205f2d72e9ceac7dee874158",
+      "logical_size": [
+        116,
+        196
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014173_images_1536_initial_plant_chomper_chomper_116x196.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_116x196",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_116X196",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "149",
+          "height": "251"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_146x232|IMAGE_PLANT_CHOMPER_CHOMPER_146X232",
+      "file": "chomper_146x232.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014182_images_1536_initial_plant_chomper_chomper_146x232.png",
+      "sha256": "c58ce3b0739b543f99fb8d79c463a6cc25f43742ee49fdb28c235188b4465499",
+      "logical_size": [
+        146,
+        232
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014182_images_1536_initial_plant_chomper_chomper_146x232.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_146x232",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_146X232",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "187",
+          "height": "297"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_42x44|IMAGE_PLANT_CHOMPER_CHOMPER_42X44",
+      "file": "chomper_42x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014214_images_1536_initial_plant_chomper_chomper_42x44.png",
+      "sha256": "27b27d373713381cec793df698eb105a41a562b849f9e4d9509aae454f111c8c",
+      "logical_size": [
+        42,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014214_images_1536_initial_plant_chomper_chomper_42x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_42x44",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_42X44",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "54",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_105x9|IMAGE_PLANT_CHOMPER_CHOMPER_105X9",
+      "file": "chomper_105x9.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014167_images_1536_initial_plant_chomper_chomper_105x9.png",
+      "sha256": "48eacbe18968bf578a7af22b3d565d7773f229063146c7228981f796426193bd",
+      "logical_size": [
+        105,
+        9
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014167_images_1536_initial_plant_chomper_chomper_105x9.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_105x9",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_105X9",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "135",
+          "height": "12"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_142x41|IMAGE_PLANT_CHOMPER_CHOMPER_142X41",
+      "file": "chomper_142x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014181_images_1536_initial_plant_chomper_chomper_142x41.png",
+      "sha256": "16a5d7aeebecceb43173837f284bf0749a1ea94405797aa7870483a6384e22b3",
+      "logical_size": [
+        142,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014181_images_1536_initial_plant_chomper_chomper_142x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_142x41",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_142X41",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "182",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_121x26|IMAGE_PLANT_CHOMPER_CHOMPER_121X26",
+      "file": "chomper_121x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014179_images_1536_initial_plant_chomper_chomper_121x26.png",
+      "sha256": "d06b23ba53c70d80d7e46c98cd555afb7dde4a612c23a6a33c264dd0cc0c5d30",
+      "logical_size": [
+        121,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014179_images_1536_initial_plant_chomper_chomper_121x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_121x26",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_121X26",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "155",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "chomper_99x76|IMAGE_PLANT_CHOMPER_CHOMPER_99X76",
+      "file": "chomper_99x76.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_014236_images_1536_initial_plant_chomper_chomper_99x76.png",
+      "sha256": "fe11056be03f60caa3081db3cb0677a659241649a9b6febb82fe24b14b37e8bf",
+      "logical_size": [
+        99,
+        76
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_014236_images_1536_initial_plant_chomper_chomper_99x76.png",
+          "type": "sprite",
+          "source": "images\\1536\\initial\\plant\\chomper\\chomper_99x76",
+          "resource_id": "IMAGE_PLANT_CHOMPER_CHOMPER_99X76",
+          "atlas": "ATLASES/PLANTCHOMPER_1536_00.PTX",
+          "width": "127",
+          "height": "98"
+        }
+      }
+    }
+  ]
+}

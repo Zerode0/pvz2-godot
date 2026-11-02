@@ -1,0 +1,1547 @@
+{
+  "mapped": 70,
+  "indexed": 70,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "zombie_iceage_weasel_15x15|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X15",
+      "file": "zombie_iceage_weasel_15x15.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074622_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x15.png",
+      "sha256": "51ad19f54bd629101f3a498e3e2c5d426a1e7b430aa39f7fd3e926f2656ebcc1",
+      "logical_size": [
+        15,
+        15
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074622_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x15.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_15x15",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X15",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "19",
+          "height": "19"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_39x38|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X38",
+      "file": "zombie_iceage_weasel_39x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074653_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_39x38.png",
+      "sha256": "dfb027d262a026f70fd6dc2de23e87ad38ed98a606fe5a8220d0eb97caa172df",
+      "logical_size": [
+        39,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074653_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_39x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_39x38",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X38",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "50",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_25x40|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X40",
+      "file": "zombie_iceage_weasel_25x40.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074639_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_25x40.png",
+      "sha256": "913c4b8dc5735e652306ae3411b0ccd6ea0844cc1e19975a11aa019f8646b959",
+      "logical_size": [
+        25,
+        40
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074639_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_25x40.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_25x40",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X40",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "32",
+          "height": "51"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_21x10|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_21X10",
+      "file": "zombie_iceage_weasel_21x10.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074635_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_21x10.png",
+      "sha256": "3f1239de4ef26c6bac210298e0a68cfd75215c468a2654ed5f622f8a0b32f671",
+      "logical_size": [
+        21,
+        10
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074635_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_21x10.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_21x10",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_21X10",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "27",
+          "height": "13"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_17x10|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X10",
+      "file": "zombie_iceage_weasel_17x10.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074625_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x10.png",
+      "sha256": "c8a7174073bc9379f0188b8d2dc688c2b86d360a2e529a3d1a264723373ea9eb",
+      "logical_size": [
+        17,
+        10
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074625_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x10.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_17x10",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X10",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "22",
+          "height": "13"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_24x17|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_24X17",
+      "file": "zombie_iceage_weasel_24x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074637_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_24x17.png",
+      "sha256": "82e1fbe861bff2408b39638425ad303a60697637785a0695c82b4be9f25894d9",
+      "logical_size": [
+        24,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074637_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_24x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_24x17",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_24X17",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "31",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_22x11|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_22X11",
+      "file": "zombie_iceage_weasel_22x11.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074636_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_22x11.png",
+      "sha256": "6e9c4389e60e129235fef1c92c240731b1b9ae0a1b4bfdefe0d0f17c3d5be014",
+      "logical_size": [
+        22,
+        11
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074636_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_22x11.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_22x11",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_22X11",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "28",
+          "height": "14"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_15x21|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X21",
+      "file": "zombie_iceage_weasel_15x21.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074623_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x21.png",
+      "sha256": "eb2471675c5bda2b9e9c42857043fa008331335538954a2471bf93220cdb6edd",
+      "logical_size": [
+        15,
+        21
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074623_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x21.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_15x21",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X21",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "19",
+          "height": "27"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_18x13|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X13",
+      "file": "zombie_iceage_weasel_18x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074628_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x13.png",
+      "sha256": "f83e79aebd72130bcb9f50b6392a3156cf1bf2cdb3fb9ba68ba579dfc39c915a",
+      "logical_size": [
+        18,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074628_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_18x13",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X13",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "23",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_19x21|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X21",
+      "file": "zombie_iceage_weasel_19x21.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074633_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x21.png",
+      "sha256": "94d7837525ee677e7d58549c0f46827de1c3365f46a7b8cf607cf71de6c42adc",
+      "logical_size": [
+        19,
+        21
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074633_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x21.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_19x21",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X21",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "25",
+          "height": "27"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_32x41|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X41",
+      "file": "zombie_iceage_weasel_32x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074647_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x41.png",
+      "sha256": "d5373f0dc9e38575c05593ccda8605ccd9d6fe7d36b71e65355b7833ecadfa6d",
+      "logical_size": [
+        32,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074647_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_32x41",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X41",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "41",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_18x20|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X20",
+      "file": "zombie_iceage_weasel_18x20.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074630_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x20.png",
+      "sha256": "55e1d3f0ca5210acc7d366523c4fb13e04327205b83ec25db2cfce762555940c",
+      "logical_size": [
+        18,
+        20
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074630_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x20.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_18x20",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X20",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "23",
+          "height": "26"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_26x19|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_26X19",
+      "file": "zombie_iceage_weasel_26x19.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074640_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_26x19.png",
+      "sha256": "bf77a01d1ddebe12a864521e778a92efcfe69bd4df231f035fe431ebdc508388",
+      "logical_size": [
+        26,
+        19
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074640_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_26x19.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_26x19",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_26X19",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "34",
+          "height": "25"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_12x13|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13",
+      "file": "zombie_iceage_weasel_12x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074615_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_12x13.png",
+      "sha256": "801e52dd9d3e02d523c0334d1b131809abeb52a7d864bc14e6149232fa6cb863",
+      "logical_size": [
+        12,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074615_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_12x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_12x13",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "16",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_6x6|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_6X6",
+      "file": "zombie_iceage_weasel_6x6.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074677_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_6x6.png",
+      "sha256": "824c86cc643a1395c87665bdbb03eb3a351954c48bbf59aee98112450db80e98",
+      "logical_size": [
+        6,
+        6
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074677_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_6x6.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_6x6",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_6X6",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "8",
+          "height": "8"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_56x43|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_56X43",
+      "file": "zombie_iceage_weasel_56x43.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074663_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_56x43.png",
+      "sha256": "ef05e8f1b717de9f7f6fd7c56b610c9d3c9149ffc1bc608ca565d8b038b35f84",
+      "logical_size": [
+        56,
+        43
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074663_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_56x43.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_56x43",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_56X43",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "72",
+          "height": "55"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_14x16|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X16",
+      "file": "zombie_iceage_weasel_14x16.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074621_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_14x16.png",
+      "sha256": "160a838360140721a3d93002bcbb142be3da9366a267196d1710e9522facec9b",
+      "logical_size": [
+        14,
+        16
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074621_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_14x16.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_14x16",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X16",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "18",
+          "height": "21"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_19x17|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17",
+      "file": "zombie_iceage_weasel_19x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074631_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x17.png",
+      "sha256": "cfc6cf7862e51d06e718f95d2b84b2c716d32e6d44395badea5a4fa08165b307",
+      "logical_size": [
+        19,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074631_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_19x17",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "25",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_19x17_2|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17_2",
+      "file": "zombie_iceage_weasel_19x17_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074632_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x17_2.png",
+      "sha256": "3bf02d24172ff8fe3d098ea03b792fbc34decca5b8a38521e8008c4b102c5ad0",
+      "logical_size": [
+        19,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074632_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_19x17_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_19x17_2",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_19X17_2",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "25",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_14x10|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X10",
+      "file": "zombie_iceage_weasel_14x10.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074620_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_14x10.png",
+      "sha256": "08e31a044baa3282a4f03a5b2f5a84dd1d331723d8084ee458ccaec38554cafb",
+      "logical_size": [
+        14,
+        10
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074620_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_14x10.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_14x10",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_14X10",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "18",
+          "height": "13"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_12x13_2|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13_2",
+      "file": "zombie_iceage_weasel_12x13_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074616_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_12x13_2.png",
+      "sha256": "3b5baecffc71b2f6b2fd448909f686a4a2c60957ff6d68fa5302f487e0271288",
+      "logical_size": [
+        12,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074616_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_12x13_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_12x13_2",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_12X13_2",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "16",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_9x9|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_9X9",
+      "file": "zombie_iceage_weasel_9x9.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074682_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_9x9.png",
+      "sha256": "a75783581ed532d6d0a30f892ae2fe055f2982fb476d8215e9cfb45377a9c0c7",
+      "logical_size": [
+        9,
+        9
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074682_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_9x9.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_9x9",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_9X9",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "12",
+          "height": "12"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_27x16|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_27X16",
+      "file": "zombie_iceage_weasel_27x16.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074641_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_27x16.png",
+      "sha256": "05379dc9b3b4c38fb77a9b677c1babf08f3845c1025bfe75dbce4b96715a5e3c",
+      "logical_size": [
+        27,
+        16
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074641_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_27x16.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_27x16",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_27X16",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "35",
+          "height": "21"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_29x25|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_29X25",
+      "file": "zombie_iceage_weasel_29x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074644_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_29x25.png",
+      "sha256": "63204d910ba53458581be1f5998af2b4f8ce50027f3db73f40568dd8f148821f",
+      "logical_size": [
+        29,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074644_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_29x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_29x25",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_29X25",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "37",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_33x28|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_33X28",
+      "file": "zombie_iceage_weasel_33x28.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074648_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_33x28.png",
+      "sha256": "39c1cb125456be43a6e5590f6cdbcf0180978312fae65eb0829871746b8451c1",
+      "logical_size": [
+        33,
+        28
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074648_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_33x28.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_33x28",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_33X28",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "42",
+          "height": "36"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_25x17|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X17",
+      "file": "zombie_iceage_weasel_25x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074638_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_25x17.png",
+      "sha256": "c1d8f38697c9f6a3a6fe1f25e7bdc0d342d6c20be7f9f0bae6b86817a3eff501",
+      "logical_size": [
+        25,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074638_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_25x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_25x17",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_25X17",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "32",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_40x17|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X17",
+      "file": "zombie_iceage_weasel_40x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074654_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_40x17.png",
+      "sha256": "a2fe6d36838c7d147e4fbd68c6cb2e0ef206346f63ddb2c59bd018fe176a5ee2",
+      "logical_size": [
+        40,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074654_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_40x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_40x17",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X17",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "51",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_42x25|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X25",
+      "file": "zombie_iceage_weasel_42x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074657_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_42x25.png",
+      "sha256": "6cfd60c26759d33a7889acb90eaaf12d82aaa8b74e1336b20b0245b65d2a612a",
+      "logical_size": [
+        42,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074657_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_42x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_42x25",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X25",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "54",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_17x25|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X25",
+      "file": "zombie_iceage_weasel_17x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074627_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x25.png",
+      "sha256": "b754c1f31fc2005518534539caf7e999c63fcbf91a72cc3961d07c7faec376ea",
+      "logical_size": [
+        17,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074627_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_17x25",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X25",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "22",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_67x33|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33",
+      "file": "zombie_iceage_weasel_67x33.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074670_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x33.png",
+      "sha256": "4ccacfeac1b9afa5f8764956689cf159cc3f833c5d9f85940780a132014a9f12",
+      "logical_size": [
+        67,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074670_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x33.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_67x33",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "86",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_58x31|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X31",
+      "file": "zombie_iceage_weasel_58x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074664_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_58x31.png",
+      "sha256": "f4bca129469b4c6c17afcffe00335cb1023e449c134ea54c996cd1c0a6acd0de",
+      "logical_size": [
+        58,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074664_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_58x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_58x31",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X31",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "74",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_13x13|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13",
+      "file": "zombie_iceage_weasel_13x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074617_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x13.png",
+      "sha256": "7f1b477857269b621490868798368e8a76c6133855451653f0dc5e0bc5e62b96",
+      "logical_size": [
+        13,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074617_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_13x13",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "17",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_13x13_2|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13_2",
+      "file": "zombie_iceage_weasel_13x13_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074618_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x13_2.png",
+      "sha256": "f956a06e636eff3ff30447ebbc927627d2e50b35b85c9fac2d00fe70ae6fcb45",
+      "logical_size": [
+        13,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074618_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x13_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_13x13_2",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X13_2",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "17",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_41x34|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_41X34",
+      "file": "zombie_iceage_weasel_41x34.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074656_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_41x34.png",
+      "sha256": "f0e934f7f9eaa01d46bbee4ab6fbbbdd328e9b4206b3b5ae27085848d8207805",
+      "logical_size": [
+        41,
+        34
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074656_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_41x34.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_41x34",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_41X34",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "53",
+          "height": "44"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_17x13|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X13",
+      "file": "zombie_iceage_weasel_17x13.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074626_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x13.png",
+      "sha256": "0d6b9d7ea750e7d6da6bde2f5ca5bd6946587c673840e8c1291ff7f6dd25c3e9",
+      "logical_size": [
+        17,
+        13
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074626_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_17x13.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_17x13",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_17X13",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "22",
+          "height": "17"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_32x22|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X22",
+      "file": "zombie_iceage_weasel_32x22.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074645_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x22.png",
+      "sha256": "c22c55418d96d44ad4a8b8446fdde9bc7efc4bcf22ad45721d1663a5475715f0",
+      "logical_size": [
+        32,
+        22
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074645_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x22.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_32x22",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X22",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "41",
+          "height": "28"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_39x26|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X26",
+      "file": "zombie_iceage_weasel_39x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074652_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_39x26.png",
+      "sha256": "a0f1b941f07bf4c5ab019ce0efc9b73248bb7970839d4aab00034c0cd81130f9",
+      "logical_size": [
+        39,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074652_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_39x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_39x26",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_39X26",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "50",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_67x32|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X32",
+      "file": "zombie_iceage_weasel_67x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074669_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x32.png",
+      "sha256": "e075fd7c1ebca98acab319500951a35ddab68546c1ef19ad2829874fb25ac263",
+      "logical_size": [
+        67,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074669_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_67x32",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X32",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "86",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_69x28|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X28",
+      "file": "zombie_iceage_weasel_69x28.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074675_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_69x28.png",
+      "sha256": "77869bf1d21bae621acd7038ed2b652b19a3977c934454681777e82c57e14406",
+      "logical_size": [
+        69,
+        28
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074675_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_69x28.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_69x28",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X28",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "89",
+          "height": "36"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_68x32|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X32",
+      "file": "zombie_iceage_weasel_68x32.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074672_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x32.png",
+      "sha256": "edb26f8be71e3a31d6fa1cf39e8649dc6595c6a6476e3ce3e5a7277bc7b44a29",
+      "logical_size": [
+        68,
+        32
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074672_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x32.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_68x32",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X32",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "87",
+          "height": "41"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_68x36|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X36",
+      "file": "zombie_iceage_weasel_68x36.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074673_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x36.png",
+      "sha256": "cd79fdcf15587290877aa8d086c8429a62c650c31c1ddd04a474e3a05fc43716",
+      "logical_size": [
+        68,
+        36
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074673_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x36.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_68x36",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X36",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "87",
+          "height": "46"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_65x40|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X40",
+      "file": "zombie_iceage_weasel_65x40.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074666_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_65x40.png",
+      "sha256": "5dc7374cd9e0077ed83f66bdc7e54c2160b6ba512587e681e066df65372bf970",
+      "logical_size": [
+        65,
+        40
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074666_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_65x40.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_65x40",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X40",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "83",
+          "height": "51"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_65x45|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X45",
+      "file": "zombie_iceage_weasel_65x45.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074667_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_65x45.png",
+      "sha256": "84a20d9c642b80f738928ef6a3bbd17e9be4b0fb72264edcfbf8e268efe36417",
+      "logical_size": [
+        65,
+        45
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074667_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_65x45.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_65x45",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_65X45",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "83",
+          "height": "58"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_66x35|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_66X35",
+      "file": "zombie_iceage_weasel_66x35.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074668_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_66x35.png",
+      "sha256": "1f638430bf3575b3209c6c03f5b3f8499cbd0afb1360c1108e975d48501fe6d9",
+      "logical_size": [
+        66,
+        35
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074668_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_66x35.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_66x35",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_66X35",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "85",
+          "height": "45"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_69x30|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X30",
+      "file": "zombie_iceage_weasel_69x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074676_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_69x30.png",
+      "sha256": "54995a4790fa0982b9874594b0ad6f925b4b87056d4e087187143dadca3227b6",
+      "logical_size": [
+        69,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074676_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_69x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_69x30",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_69X30",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "89",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_67x33_2|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33_2",
+      "file": "zombie_iceage_weasel_67x33_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074671_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x33_2.png",
+      "sha256": "9cbb065fe8ecae77600306926f55869e2c8e674d70d257d8184b7fcb1d1050b1",
+      "logical_size": [
+        67,
+        33
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074671_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_67x33_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_67x33_2",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_67X33_2",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "86",
+          "height": "42"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_43x47|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_43X47",
+      "file": "zombie_iceage_weasel_43x47.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074659_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_43x47.png",
+      "sha256": "0f230ca03f390db7ab9327ca0dc1a3cf130c37888c1c02f59e09fef5f216efb2",
+      "logical_size": [
+        43,
+        47
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074659_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_43x47.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_43x47",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_43X47",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "55",
+          "height": "60"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_68x44|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X44",
+      "file": "zombie_iceage_weasel_68x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074674_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x44.png",
+      "sha256": "5ee0dd6b05551038868ea1d275417b9fab984a8790ed681c1cc9cc32f1627778",
+      "logical_size": [
+        68,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074674_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_68x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_68x44",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_68X44",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "87",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_92x66|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_92X66",
+      "file": "zombie_iceage_weasel_92x66.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074681_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_92x66.png",
+      "sha256": "fc5a08d4745070baf968a987f81b32dfc6c48145b33db982700f7883fada7396",
+      "logical_size": [
+        92,
+        66
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074681_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_92x66.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_92x66",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_92X66",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "118",
+          "height": "85"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_1x1|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_1X1",
+      "file": "zombie_iceage_weasel_1x1.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074634_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_1x1.png",
+      "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3",
+      "logical_size": [
+        1,
+        1
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074634_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_1x1.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_1x1",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_1X1",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "2",
+          "height": "2"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_293x263|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_293X263",
+      "file": "zombie_iceage_weasel_293x263.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074643_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_293x263.png",
+      "sha256": "0078ddbebab98236c8e3a937b2440fa11db286a1424b70fd366eabe4fd9cfb99",
+      "logical_size": [
+        293,
+        263
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074643_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_293x263.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_293x263",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_293X263",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "375",
+          "height": "337"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_42x57|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X57",
+      "file": "zombie_iceage_weasel_42x57.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074658_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_42x57.png",
+      "sha256": "79d573acea93c102802d6a3c5c2a9b42bb712a29591808e7c693e12c06e5b89b",
+      "logical_size": [
+        42,
+        57
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074658_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_42x57.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_42x57",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_42X57",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "54",
+          "height": "73"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_32x31|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X31",
+      "file": "zombie_iceage_weasel_32x31.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074646_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x31.png",
+      "sha256": "5e17af677e5e9d71165f3b8a00283e746a4fd16fb52c8cc1dae8586ca52d0820",
+      "logical_size": [
+        32,
+        31
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074646_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_32x31.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_32x31",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_32X31",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "41",
+          "height": "40"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_36x41|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_36X41",
+      "file": "zombie_iceage_weasel_36x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074650_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_36x41.png",
+      "sha256": "c4a30ff9635abf78cf57ceaca0b8eca73ad5f44bb77ffb26460e219dda0e012b",
+      "logical_size": [
+        36,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074650_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_36x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_36x41",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_36X41",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "46",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_85x81|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_85X81",
+      "file": "zombie_iceage_weasel_85x81.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074680_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_85x81.png",
+      "sha256": "eaef3da24b04f1eab677a7e8e26c4a4246288e3f332ff7012645a72bbfa539e3",
+      "logical_size": [
+        85,
+        81
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074680_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_85x81.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_85x81",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_85X81",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "109",
+          "height": "104"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_120x141|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_120X141",
+      "file": "zombie_iceage_weasel_120x141.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074614_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_120x141.png",
+      "sha256": "38f02173368c65d97a26ca2e07d62c25e7d89a0ccb3bb199937073a07c5c53dc",
+      "logical_size": [
+        120,
+        141
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074614_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_120x141.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_120x141",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_120X141",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "154",
+          "height": "181"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_103x125|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_103X125",
+      "file": "zombie_iceage_weasel_103x125.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074613_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_103x125.png",
+      "sha256": "25f988e25cddfea4fe82c188713c621fec6ca877e3d31c2d37df400ac64297d4",
+      "logical_size": [
+        103,
+        125
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074613_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_103x125.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_103x125",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_103X125",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "132",
+          "height": "160"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_40x30|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X30",
+      "file": "zombie_iceage_weasel_40x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074655_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_40x30.png",
+      "sha256": "a44a47028486493d2d74202c5b49e0456697f1df478bb96d5d535b3eeeea5d34",
+      "logical_size": [
+        40,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074655_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_40x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_40x30",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_40X30",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "51",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_80x38|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_80X38",
+      "file": "zombie_iceage_weasel_80x38.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074679_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_80x38.png",
+      "sha256": "214c7bb8f62c78c0c455b036314ce22b54461cc7a3fff23877e8156e2e8bdc78",
+      "logical_size": [
+        80,
+        38
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074679_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_80x38.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_80x38",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_80X38",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "103",
+          "height": "49"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_73x27|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_73X27",
+      "file": "zombie_iceage_weasel_73x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074678_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_73x27.png",
+      "sha256": "f221df87a3ec976d453c68b8032e3449b2aaca68ef332f10470a63d13fc852fb",
+      "logical_size": [
+        73,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074678_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_73x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_73x27",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_73X27",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "94",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_54x18|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_54X18",
+      "file": "zombie_iceage_weasel_54x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074662_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_54x18.png",
+      "sha256": "6ecbda304f145cfa6ab5c7df4e53530e4ef28346f92398684aca4979110ce0e2",
+      "logical_size": [
+        54,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074662_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_54x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_54x18",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_54X18",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "69",
+          "height": "23"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_44x16|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_44X16",
+      "file": "zombie_iceage_weasel_44x16.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074660_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_44x16.png",
+      "sha256": "16be428ee5cb8ab94b7084eeb173e561e9f025327be72532d11a3faa94264c0d",
+      "logical_size": [
+        44,
+        16
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074660_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_44x16.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_44x16",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_44X16",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "57",
+          "height": "21"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_34x25|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_34X25",
+      "file": "zombie_iceage_weasel_34x25.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074649_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_34x25.png",
+      "sha256": "738cd9b75b65663ccc2c5c020fa464c6fe99b287e0f7002366bb96c7473ab164",
+      "logical_size": [
+        34,
+        25
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074649_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_34x25.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_34x25",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_34X25",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "44",
+          "height": "32"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_58x44|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X44",
+      "file": "zombie_iceage_weasel_58x44.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074665_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_58x44.png",
+      "sha256": "c283d52b3b2ad7667541396193e1f2b1dfbaca686676fd9b5f6e008c6ff8041e",
+      "logical_size": [
+        58,
+        44
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074665_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_58x44.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_58x44",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_58X44",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "74",
+          "height": "57"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_13x14|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X14",
+      "file": "zombie_iceage_weasel_13x14.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074619_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x14.png",
+      "sha256": "fbc50186290257ec86901028a0ea0361412c89933fb68a04f2adf7e691063cd9",
+      "logical_size": [
+        13,
+        14
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074619_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_13x14.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_13x14",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_13X14",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "17",
+          "height": "18"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_28x17|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_28X17",
+      "file": "zombie_iceage_weasel_28x17.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074642_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_28x17.png",
+      "sha256": "97b3de96f4199317c6a64847b5c7b54be0788a66673175f4f9c3caaacc68086e",
+      "logical_size": [
+        28,
+        17
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074642_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_28x17.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_28x17",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_28X17",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "36",
+          "height": "22"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_48x30|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_48X30",
+      "file": "zombie_iceage_weasel_48x30.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074661_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_48x30.png",
+      "sha256": "41ce04538650ffbf64d843374a583d887054d86a96ca2070146466126720325c",
+      "logical_size": [
+        48,
+        30
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074661_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_48x30.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_48x30",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_48X30",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "62",
+          "height": "39"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_15x26|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X26",
+      "file": "zombie_iceage_weasel_15x26.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074624_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x26.png",
+      "sha256": "751cf7d41fb37460be333961f63db2ab1bd4dc0f64474973f7e0ddb741f04c2e",
+      "logical_size": [
+        15,
+        26
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074624_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_15x26.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_15x26",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_15X26",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "19",
+          "height": "34"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_18x14|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X14",
+      "file": "zombie_iceage_weasel_18x14.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074629_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x14.png",
+      "sha256": "ea64848b37110e3a8db07991a2d731f499d2a9411c1998f1cd700732b41eb972",
+      "logical_size": [
+        18,
+        14
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074629_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_18x14.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_18x14",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_18X14",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "23",
+          "height": "18"
+        }
+      }
+    },
+    {
+      "pam_image": "zombie_iceage_weasel_37x18|IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_37X18",
+      "file": "zombie_iceage_weasel_37x18.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_074651_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_37x18.png",
+      "sha256": "3bcc9b958fabc0105ccfccfc479df3152cfca80972a343602603f5d2ac2cd36b",
+      "logical_size": [
+        37,
+        18
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_074651_images_1536_full_zombie_zombie_iceage_weasel_zombie_iceage_weasel_37x18.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\zombie\\zombie_iceage_weasel\\zombie_iceage_weasel_37x18",
+          "resource_id": "IMAGE_ZOMBIE_ZOMBIE_ICEAGE_WEASEL_ZOMBIE_ICEAGE_WEASEL_37X18",
+          "atlas": "ATLASES/ZOMBIEICEAGEWEASELHOARDERGROUP_1536_00.PTX",
+          "width": "48",
+          "height": "23"
+        }
+      }
+    }
+  ]
+}

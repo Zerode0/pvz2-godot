@@ -1,0 +1,271 @@
+{
+  "mapped": 12,
+  "indexed": 12,
+  "paired_fallback": 0,
+  "images": [
+    {
+      "pam_image": "Vase_brown_115x150|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150",
+      "file": "Vase_brown_115x150.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054381_images_1536_full_vasebreaker_Vase_brown_Vase_brown_115x150.png",
+      "sha256": "b170eb5c82bb2d1a6bbcc044c0c0cbe6a87b9b5aa5a87a8233ce23a34af45715",
+      "logical_size": [
+        115,
+        150
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054381_images_1536_full_vasebreaker_Vase_brown_Vase_brown_115x150.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_115x150",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "147",
+          "height": "192"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_115x150_2|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150_2",
+      "file": "Vase_brown_115x150_2.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054382_images_1536_full_vasebreaker_Vase_brown_Vase_brown_115x150_2.png",
+      "sha256": "e623ae22b6181e98f524e0cf5ee8a046f01f9b74d6935f1003445faf9506f108",
+      "logical_size": [
+        115,
+        150
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054382_images_1536_full_vasebreaker_Vase_brown_Vase_brown_115x150_2.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_115x150_2",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150_2",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "147",
+          "height": "192"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_76x59|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_76X59",
+      "file": "Vase_brown_76x59.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054392_images_1536_full_vasebreaker_Vase_brown_Vase_brown_76x59.png",
+      "sha256": "6b1335d427b7b6fb8733f307e27b222b2a5be091f78d34de33a5389c379ed723",
+      "logical_size": [
+        76,
+        59
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054392_images_1536_full_vasebreaker_Vase_brown_Vase_brown_76x59.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_76x59",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_76X59",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "98",
+          "height": "76"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_58x70|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_58X70",
+      "file": "Vase_brown_58x70.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054390_images_1536_full_vasebreaker_Vase_brown_Vase_brown_58x70.png",
+      "sha256": "1626b677fd8cd70c95b85496403328d2cd1a427d208b1917e5cb1e0482dfcc7f",
+      "logical_size": [
+        58,
+        70
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054390_images_1536_full_vasebreaker_Vase_brown_Vase_brown_58x70.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_58x70",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_58X70",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "74",
+          "height": "90"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_36x48|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_36X48",
+      "file": "Vase_brown_36x48.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054388_images_1536_full_vasebreaker_Vase_brown_Vase_brown_36x48.png",
+      "sha256": "aa0885128106d4157c9239cc851a484117c01f84c26413a846e0636608038942",
+      "logical_size": [
+        36,
+        48
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054388_images_1536_full_vasebreaker_Vase_brown_Vase_brown_36x48.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_36x48",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_36X48",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "46",
+          "height": "62"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_22x27|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_22X27",
+      "file": "Vase_brown_22x27.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054385_images_1536_full_vasebreaker_Vase_brown_Vase_brown_22x27.png",
+      "sha256": "a916e62da9d1b748ecb1396092b40bbbd0d7b1a27ecc5354ebf62fc1888cfece",
+      "logical_size": [
+        22,
+        27
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054385_images_1536_full_vasebreaker_Vase_brown_Vase_brown_22x27.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_22x27",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_22X27",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "28",
+          "height": "35"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_18x20|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_18X20",
+      "file": "Vase_brown_18x20.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054383_images_1536_full_vasebreaker_Vase_brown_Vase_brown_18x20.png",
+      "sha256": "62cb5774b0b7c7042a402c42db4a175a74b85ce770919c5bded9ee00302b680e",
+      "logical_size": [
+        18,
+        20
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054383_images_1536_full_vasebreaker_Vase_brown_Vase_brown_18x20.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_18x20",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_18X20",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "23",
+          "height": "26"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_41x57|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_41X57",
+      "file": "Vase_brown_41x57.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054389_images_1536_full_vasebreaker_Vase_brown_Vase_brown_41x57.png",
+      "sha256": "4f0b3f0fcdbb0cd9b6e0c7a84fb9334dc269e5385a96c144207dadc789acea60",
+      "logical_size": [
+        41,
+        57
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054389_images_1536_full_vasebreaker_Vase_brown_Vase_brown_41x57.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_41x57",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_41X57",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "53",
+          "height": "73"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_33x41|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_33X41",
+      "file": "Vase_brown_33x41.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054387_images_1536_full_vasebreaker_Vase_brown_Vase_brown_33x41.png",
+      "sha256": "e21491cbd5d971d783c0eb166c6f49e43acf91243e74710019d7d15b829e7898",
+      "logical_size": [
+        33,
+        41
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054387_images_1536_full_vasebreaker_Vase_brown_Vase_brown_33x41.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_33x41",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_33X41",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "42",
+          "height": "53"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_68x51|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_68X51",
+      "file": "Vase_brown_68x51.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054391_images_1536_full_vasebreaker_Vase_brown_Vase_brown_68x51.png",
+      "sha256": "f4e9c004545efe686bc76d2f555cddcd61a48c26eeb3798d4cbfd8be4cd587a5",
+      "logical_size": [
+        68,
+        51
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054391_images_1536_full_vasebreaker_Vase_brown_Vase_brown_68x51.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_68x51",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_68X51",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "87",
+          "height": "66"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_1x1|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_1X1",
+      "file": "Vase_brown_1x1.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054384_images_1536_full_vasebreaker_Vase_brown_Vase_brown_1x1.png",
+      "sha256": "96e0364dc1144aae90f0ceb0c4d00135461dad0186c908166853257936dfb7a3",
+      "logical_size": [
+        1,
+        1
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054384_images_1536_full_vasebreaker_Vase_brown_Vase_brown_1x1.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_1x1",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_1X1",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "2",
+          "height": "2"
+        }
+      }
+    },
+    {
+      "pam_image": "Vase_brown_293x263|IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_293X263",
+      "file": "Vase_brown_293x263.png",
+      "source_path": "C:\\Users\\wujiayu\\Documents\\ChatGPT\\pvz2\\SourceAssets\\pvz2\\images\\sprite_054386_images_1536_full_vasebreaker_Vase_brown_Vase_brown_293x263.png",
+      "sha256": "d152fc6ee61742a3ecf1fda48af00d3d9ddc178051d26faabc5d8c539866c9e2",
+      "logical_size": [
+        293,
+        263
+      ],
+      "origin": {
+        "kind": "indexed",
+        "row": {
+          "filename": "sprite_054386_images_1536_full_vasebreaker_Vase_brown_Vase_brown_293x263.png",
+          "type": "sprite",
+          "source": "images\\1536\\full\\vasebreaker\\Vase_brown\\Vase_brown_293x263",
+          "resource_id": "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_293X263",
+          "atlas": "ATLASES/VASEBREAKERGROUP_1536_00.PTX",
+          "width": "375",
+          "height": "337"
+        }
+      }
+    }
+  ]
+}

@@ -1,5 +1,10 @@
 # Upstream tools and data
 
+## Collected actor animation library
+
+- `../reference/pam-resources/animation-library.json` catalogs original PAM samples and the separate DragonBones export from the fixed PVZGE commit below. The latter retains 793 plant/zombie/armor prefab descriptions, 369 skeleton files and their real atlas/texture references. It includes Gardendless variants and additions, and is preparation input rather than additional playable game content.
+- Exact scope, format distinctions, sources, hashes and remaining gaps: `../docs/动画资源库.md` and each source directory SOURCE.md. New PAM samples come from pam-codec, ReadPam and Gekota; their repository code licenses and the included game assets remain distinct. No source-repository implementation code was added to the game runtime.
+
 ## Plant preview
 
 - Almanac display background and glass frame from the same pinned Gardendless reference below, exported through its native Cocos scene/SpriteFrame API. Exact node paths, texture regions and SHA-256 are recorded in `assets/ui/plant_preview/sources.json`; reproduction and scope in SOURCE.md.
